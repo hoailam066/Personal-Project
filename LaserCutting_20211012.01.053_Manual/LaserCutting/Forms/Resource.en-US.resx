@@ -1,0 +1,759 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="&lt;取料汽缸後移&gt;上升時間過久異常!!請調整上感應器位置!!" xml:space="preserve">
+    <value>&lt;Retrieving cylinder moves backward&gt; The rise time is too long, abnormal!! Please adjust the position of the upper sensor!!</value>
+  </data>
+  <data name="&lt;平台前移&gt;動作時間過久異常!!" xml:space="preserve">
+    <value>&lt;Platform forward&gt; The action takes too long to be abnormal!!</value>
+  </data>
+  <data name="&lt;平台支架&gt;動作時間過久異常!!" xml:space="preserve">
+    <value>&lt;Platform Bracket&gt; The action takes too long to be abnormal!!</value>
+  </data>
+  <data name="&lt;平台收回&gt;動作時間過久異常!!" xml:space="preserve">
+    <value>&lt;Platform Retraction&gt; The action takes too long to be abnormal!!</value>
+  </data>
+  <data name="&lt;平台汽缸前進&gt;動作時間過久異常!!" xml:space="preserve">
+    <value>&lt;Platform Cylinder Forward&gt; The action time is too long, abnormal!!</value>
+  </data>
+  <data name="&lt;平台縮回&gt;動作時間過久異常!!" xml:space="preserve">
+    <value>&lt;Platform Retraction&gt; The action takes too long to be abnormal!!</value>
+  </data>
+  <data name="&lt;平台解真空&gt;動作時間過久異常!!" xml:space="preserve">
+    <value>&lt;Platform Unvacuum&gt; The action time is too long, abnormal!!</value>
+  </data>
+  <data name="&lt;收料Z升降汽缸&gt;動作時間過久異常!!" xml:space="preserve">
+    <value>&lt;Receiving Z Lifting Cylinder&gt; The action time is too long, abnormal!!</value>
+  </data>
+  <data name="&lt;收料Z軸下降&gt;動作時間過久異常!!" xml:space="preserve">
+    <value>&lt;Receiving Z axis down&gt; The action time is too long, abnormal!!</value>
+  </data>
+  <data name="&lt;收料Z軸汽缸上升&gt;動作時間過久異常!!" xml:space="preserve">
+    <value>&lt;Receiving Z-axis cylinder rises&gt; The action time is too long, abnormal!!</value>
+  </data>
+  <data name="&lt;收料Z軸汽缸上移&gt;動作時間過久異常!!" xml:space="preserve">
+    <value>&lt;Receiving Z-axis cylinder moves up&gt; The action time is too long, abnormal!!</value>
+  </data>
+  <data name="&lt;收料上下汽缸&gt;動作時間過久異常!!" xml:space="preserve">
+    <value>&lt;Receiving upper and lower cylinders&gt; The action time is too long, abnormal!!</value>
+  </data>
+  <data name="&lt;收料升降汽缸&gt;動作時間過久異常!!" xml:space="preserve">
+    <value>&lt;Receiving Lifting Cylinder&gt; The action time is too long, abnormal!!</value>
+  </data>
+  <data name="&lt;收料手臂伸出&gt;動作時間過久異常!!" xml:space="preserve">
+    <value>&lt;Receiving arm stretched out&gt; The action takes too long to be abnormal!!</value>
+  </data>
+  <data name="&lt;收料汽缸上升&gt;上升時間過久異常!!請調整上感應器位置!!" xml:space="preserve">
+    <value>&lt;Receiving cylinder rises&gt; The rise time is too long and abnormal!! Please adjust the position of the upper sensor!!</value>
+  </data>
+  <data name="&lt;收料汽缸上升&gt;動作時間過久異常!!" xml:space="preserve">
+    <value>&lt;Receiving cylinder rises&gt; The action time is too long, abnormal!!</value>
+  </data>
+  <data name="&lt;收料汽缸上移&gt;動作時間過久異常!!" xml:space="preserve">
+    <value>&lt;Receiving cylinder moves up&gt; The action time is too long, abnormal!!</value>
+  </data>
+  <data name="&lt;收料汽缸下降&gt;下降時間過久異常!!請調整下感應器位置!!" xml:space="preserve">
+    <value>&lt;Receiving cylinder falling&gt; The falling time is too long and abnormal!! Please adjust the position of the lower sensor!!</value>
+  </data>
+  <data name="&lt;收料汽缸下降&gt;動作時間過久異常!!" xml:space="preserve">
+    <value>&lt;Receiving cylinder drops&gt; The action time is too long, abnormal!!</value>
+  </data>
+  <data name="&lt;收料汽缸前移&gt;動作時間過久異常!!" xml:space="preserve">
+    <value>&lt;Receiving cylinder moves forward&gt; The action time is too long, abnormal!!</value>
+  </data>
+  <data name="&lt;收料汽缸後移&gt;動作時間過久異常!!" xml:space="preserve">
+    <value>&lt;Receiving cylinder moves backward&gt; The action time is too long, abnormal!!</value>
+  </data>
+  <data name="&lt;收料選轉汽缸&gt;動作時間過久異常!!" xml:space="preserve">
+    <value>&lt;Receiving Rotary Cylinder&gt; The action time is too long, abnormal!!</value>
+  </data>
+  <data name="&lt;收料電磁鐵&gt;動作時間過久異常!!" xml:space="preserve">
+    <value>&lt;Receiving electromagnet&gt; The action time is too long, abnormal!!</value>
+  </data>
+  <data name="&lt;收料電磁鐵關閉&gt;動作時間過久異常!!" xml:space="preserve">
+    <value>&lt;Receiving solenoid is turned off&gt; The action time is too long, abnormal!!</value>
+  </data>
+  <data name="&lt;電磁鐵&gt;動作時間過久異常!!" xml:space="preserve">
+    <value>&lt;Electromagnet&gt; The action time is too long, abnormal!!</value>
+  </data>
+  <data name="不知道" xml:space="preserve">
+    <value>Unknow</value>
+  </data>
+  <data name="你確定刪除這條切割線嗎？" xml:space="preserve">
+    <value>Are you sure delete this line?</value>
+  </data>
+  <data name="保存項目時出錯" xml:space="preserve">
+    <value>There was an error saving the project.</value>
+  </data>
+  <data name="保存項目消息" xml:space="preserve">
+    <value>Save project message</value>
+  </data>
+  <data name="信息" xml:space="preserve">
+    <value>Message</value>
+  </data>
+  <data name="值必須在範圍內" xml:space="preserve">
+    <value>Value must in the range </value>
+  </data>
+  <data name="偏移" xml:space="preserve">
+    <value>Offset</value>
+  </data>
+  <data name="偏移 X (mm)" xml:space="preserve">
+    <value>Offset X (mm)</value>
+  </data>
+  <data name="偏移 Y (mm)" xml:space="preserve">
+    <value>Offset Y (mm)</value>
+  </data>
+  <data name="停止" xml:space="preserve">
+    <value>Stop</value>
+  </data>
+  <data name="停止相機以使用原始圖像進行編輯" xml:space="preserve">
+    <value>Stop camera for edit with original image</value>
+  </data>
+  <data name="停止自動運行" xml:space="preserve">
+    <value>Stop Auto Run</value>
+  </data>
+  <data name="停止自動運行測試" xml:space="preserve">
+    <value>Stop Auto Run Test</value>
+  </data>
+  <data name="其他程序使用的串行端口。" xml:space="preserve">
+    <value>Serial port using by an other program.</value>
+  </data>
+  <data name="内容" xml:space="preserve">
+    <value>Message</value>
+  </data>
+  <data name="分數" xml:space="preserve">
+    <value>Accept score</value>
+  </data>
+  <data name="切:" xml:space="preserve">
+    <value>Cut line: </value>
+  </data>
+  <data name="刪除項目" xml:space="preserve">
+    <value>Delete project</value>
+  </data>
+  <data name="刪除項目時發生錯誤。 請再試一次。" xml:space="preserve">
+    <value>An error occurred while delete the project. Please try again.</value>
+  </data>
+  <data name="刪除項目消息" xml:space="preserve">
+    <value>Delete project message</value>
+  </data>
+  <data name="剪切選擇" xml:space="preserve">
+    <value>Cut selecting</value>
+  </data>
+  <data name="剪切選擇線錯誤。" xml:space="preserve">
+    <value>Cut Selecting Line Error.</value>
+  </data>
+  <data name="創建新項目時出錯" xml:space="preserve">
+    <value>There was an error creating a new project</value>
+  </data>
+  <data name="功率" xml:space="preserve">
+    <value>Laser Power</value>
+  </data>
+  <data name="加載中..." xml:space="preserve">
+    <value>Loading...</value>
+  </data>
+  <data name="加載項目時出錯。" xml:space="preserve">
+    <value>There was an error loading the project.</value>
+  </data>
+  <data name="加載項目：" xml:space="preserve">
+    <value>Load project:</value>
+  </data>
+  <data name="升億服務員" xml:space="preserve">
+    <value>Sen-Ei service</value>
+  </data>
+  <data name="參數名稱" xml:space="preserve">
+    <value>Parameter name</value>
+  </data>
+  <data name="參數異常" xml:space="preserve">
+    <value>Argument Exception</value>
+  </data>
+  <data name="取消" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="可用的項目名稱。" xml:space="preserve">
+    <value>Usable project names.</value>
+  </data>
+  <data name="向上移動錯誤" xml:space="preserve">
+    <value>Move up error</value>
+  </data>
+  <data name="向下移動錯誤" xml:space="preserve">
+    <value>Move down error</value>
+  </data>
+  <data name="否" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="啟動相機. 結束更改" xml:space="preserve">
+    <value>Start camera. End Edit</value>
+  </data>
+  <data name="啟動程式" xml:space="preserve">
+    <value>Start program</value>
+  </data>
+  <data name="密碼更改成功。" xml:space="preserve">
+    <value>Password changed successfully.</value>
+  </data>
+  <data name="密碼重新成功。" xml:space="preserve">
+    <value>Password reset successfully.</value>
+  </data>
+  <data name="對位失敗" xml:space="preserve">
+    <value>Location not found.</value>
+  </data>
+  <data name="對位失敗 !!!" xml:space="preserve">
+    <value>Not matching !!!</value>
+  </data>
+  <data name="對位異常，是否PASS??" xml:space="preserve">
+    <value>Abnormal alignment, is it PASS??</value>
+  </data>
+  <data name="已保存 !" xml:space="preserve">
+    <value>Saved !!!</value>
+  </data>
+  <data name="帳戶不允許更改" xml:space="preserve">
+    <value>The account is not allowed to change.</value>
+  </data>
+  <data name="平台水平軸復歸逾時,請檢查驅動器報警或軟體設定值錯誤!!" xml:space="preserve">
+    <value>The platform's horizontal axis reset timeout, please check the driver alarm or the software setting value is wrong!!</value>
+  </data>
+  <data name="度" xml:space="preserve">
+    <value>Degree</value>
+  </data>
+  <data name="復歸位置" xml:space="preserve">
+    <value>Return home position</value>
+  </data>
+  <data name="復歸完成!!" xml:space="preserve">
+    <value>The return is complete!</value>
+  </data>
+  <data name="您是否複製並重新加載更正文件？" xml:space="preserve">
+    <value>Are you copy and reload correction file?</value>
+  </data>
+  <data name="您確定要刪除數據嗎？" xml:space="preserve">
+    <value>Are you sure you want to delete the data?</value>
+  </data>
+  <data name="您確定要刪除項目嗎？" xml:space="preserve">
+    <value>Are you sure you want to remove project?</value>
+  </data>
+  <data name="您確定要更改&quot;操作員&quot;密碼嗎？" xml:space="preserve">
+    <value>Are you sure you want to change the "Operator" password?</value>
+  </data>
+  <data name="您確定要更改&quot;管理員&quot;密碼嗎？" xml:space="preserve">
+    <value>Are you sure you want to change the "Administrator" password?</value>
+  </data>
+  <data name="您確定要退出程式嗎?" xml:space="preserve">
+    <value>Are you sure you want to exit the program?</value>
+  </data>
+  <data name="您確定要重命名項目嗎？" xml:space="preserve">
+    <value>Are you sure you want to rename the project?</value>
+  </data>
+  <data name="您確定要重置&quot;操作員&quot;密碼嗎？" xml:space="preserve">
+    <value>Are you sure you want to reset the "Operator" password?</value>
+  </data>
+  <data name="您確定要重置&quot;管理員&quot;密碼嗎？" xml:space="preserve">
+    <value>Are you sure you want to reset the "Administrator" password?</value>
+  </data>
+  <data name="您要繼續切割嗎？" xml:space="preserve">
+    <value>Do you want to continue cutting?</value>
+  </data>
+  <data name="手動雷射切割機" xml:space="preserve">
+    <value>Manual Laser Cutting Machine</value>
+  </data>
+  <data name="手臂校正檔異常!!" xml:space="preserve">
+    <value>The arm correction file is abnormal!</value>
+  </data>
+  <data name="打開升億服務員畫面" xml:space="preserve">
+    <value>Open Sen-Ei service UI</value>
+  </data>
+  <data name="打開操作員畫面" xml:space="preserve">
+    <value>Open Operator UI</value>
+  </data>
+  <data name="打開此文件時出錯。" xml:space="preserve">
+    <value>Have an error when open this file.</value>
+  </data>
+  <data name="打開管理員畫面" xml:space="preserve">
+    <value>Open Administrator UI</value>
+  </data>
+  <data name="打開紅光" xml:space="preserve">
+    <value>Turn on the red light</value>
+  </data>
+  <data name="打開項目時出錯" xml:space="preserve">
+    <value>Error while open project.</value>
+  </data>
+  <data name="打開項目時發生錯誤。 請再試一次。" xml:space="preserve">
+    <value>An error occurred while opening the project. Please try again.</value>
+  </data>
+  <data name="打開項目消息" xml:space="preserve">
+    <value>Open project message</value>
+  </data>
+  <data name="操作員" xml:space="preserve">
+    <value>Operator</value>
+  </data>
+  <data name="文件 C:\RTC4 Files\Correction Files\correXion.exe 不存在" xml:space="preserve">
+    <value>The file C:\RTC4 Files\Correction Files\correXion.exe not exist</value>
+  </data>
+  <data name="文件夾 C:\RTC4 Files\Correction Files 不存在" xml:space="preserve">
+    <value>The folder C:\RTC4 Files\Correction Files not exist</value>
+  </data>
+  <data name="文件夾 C:\RTC4 文件不存在" xml:space="preserve">
+    <value>The folder C:\RTC4 Files not exist</value>
+  </data>
+  <data name="新價值" xml:space="preserve">
+    <value>New value</value>
+  </data>
+  <data name="新密碼不匹配。" xml:space="preserve">
+    <value>The new password doesn't match.</value>
+  </data>
+  <data name="新項目消息" xml:space="preserve">
+    <value>New project message</value>
+  </data>
+  <data name="旋轉錯誤" xml:space="preserve">
+    <value>Rotate error</value>
+  </data>
+  <data name="是" xml:space="preserve">
+    <value>Yes</value>
+  </data>
+  <data name="時間" xml:space="preserve">
+    <value>Time</value>
+  </data>
+  <data name="更改 DIDelay" xml:space="preserve">
+    <value>Change DIDelay</value>
+  </data>
+  <data name="更改 DODelay" xml:space="preserve">
+    <value>Change DODelay</value>
+  </data>
+  <data name="更改 GalvoAngle" xml:space="preserve">
+    <value>Change GalvoAngle</value>
+  </data>
+  <data name="更改 GalvoOffsetX" xml:space="preserve">
+    <value>Change GalvoOffsetX</value>
+  </data>
+  <data name="更改 GalvoOffsetY" xml:space="preserve">
+    <value>Change GalvoOffsetY</value>
+  </data>
+  <data name="更改 Param.Pos.Workholder.SubstrateInX1" xml:space="preserve">
+    <value>Change Param.Pos.Workholder.SubstrateInX1</value>
+  </data>
+  <data name="更改 Param.Pos.Workholder.SubstrateOutX1" xml:space="preserve">
+    <value>Change Param.Pos.Workholder.SubstrateOutX1</value>
+  </data>
+  <data name="更改 Param.Pos.Workholder.WorkHolderCutX1" xml:space="preserve">
+    <value>Change Param.Pos.Workholder.WorkHolderCutX1</value>
+  </data>
+  <data name="更改 Param.Pos.Workholder.WorkHolderCutX2" xml:space="preserve">
+    <value>Change Param.Pos.Workholder.WorkHolderCutX2</value>
+  </data>
+  <data name="更改 Scale Pixel to mm" xml:space="preserve">
+    <value>Change Scale Pixel to mm:</value>
+  </data>
+  <data name="更改GalvoAngle" xml:space="preserve">
+    <value>Change GalvoAngle</value>
+  </data>
+  <data name="更改Scale Pixel to mm" xml:space="preserve">
+    <value>Change Scale Pixel to mm</value>
+  </data>
+  <data name="更改功率" xml:space="preserve">
+    <value>Change Power</value>
+  </data>
+  <data name="更改密碼信息" xml:space="preserve">
+    <value>Change password message</value>
+  </data>
+  <data name="更改密碼結果" xml:space="preserve">
+    <value>Change password result</value>
+  </data>
+  <data name="更改操作員密碼" xml:space="preserve">
+    <value>Changed the Operator password</value>
+  </data>
+  <data name="更改管理員密碼" xml:space="preserve">
+    <value>Changed the Administrator password</value>
+  </data>
+  <data name="更改項目消息" xml:space="preserve">
+    <value>Change project message</value>
+  </data>
+  <data name="更改頻率" xml:space="preserve">
+    <value>Change PRR</value>
+  </data>
+  <data name="未保存任何更改。 您要保存項目嗎?" xml:space="preserve">
+    <value>Any changes unsaved. Do you want to save the project?</value>
+  </data>
+  <data name="查看日誌消息" xml:space="preserve">
+    <value>View log message</value>
+  </data>
+  <data name="校正完成！" xml:space="preserve">
+    <value>Correction complete !</value>
+  </data>
+  <data name="橫向偏差量" xml:space="preserve">
+    <value>X offset</value>
+  </data>
+  <data name="正在加載程式..." xml:space="preserve">
+    <value>Loading program...</value>
+  </data>
+  <data name="正在加載項目..." xml:space="preserve">
+    <value>Loading project...</value>
+  </data>
+  <data name="添加新項目" xml:space="preserve">
+    <value>Add new project</value>
+  </data>
+  <data name="添加新項目：" xml:space="preserve">
+    <value>Add new project: </value>
+  </data>
+  <data name="測試" xml:space="preserve">
+    <value>Test</value>
+  </data>
+  <data name="無效值" xml:space="preserve">
+    <value>Invalid value</value>
+  </data>
+  <data name="當前無法重命名項目。" xml:space="preserve">
+    <value>Currently unable to rename project.</value>
+  </data>
+  <data name="當前項目不會被刪除。" xml:space="preserve">
+    <value>The current project is not removed.</value>
+  </data>
+  <data name="登出" xml:space="preserve">
+    <value>Logout</value>
+  </data>
+  <data name="登錄" xml:space="preserve">
+    <value>Login</value>
+  </data>
+  <data name="登錄失敗" xml:space="preserve">
+    <value>Login faild</value>
+  </data>
+  <data name="登錄失敗。 密碼錯誤。" xml:space="preserve">
+    <value>Login failed. Wrong password.</value>
+  </data>
+  <data name="登錄結果" xml:space="preserve">
+    <value>Login result</value>
+  </data>
+  <data name="確認" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="移動錯誤" xml:space="preserve">
+    <value>Move error</value>
+  </data>
+  <data name="程式關閉" xml:space="preserve">
+    <value>Program closed</value>
+  </data>
+  <data name="第{0}步" xml:space="preserve">
+    <value>Step {0}</value>
+  </data>
+  <data name="第{0}線" xml:space="preserve">
+    <value>LINE{0}</value>
+  </data>
+  <data name="管理員" xml:space="preserve">
+    <value>Administrator</value>
+  </data>
+  <data name="結束" xml:space="preserve">
+    <value>Set End</value>
+  </data>
+  <data name="結束 X" xml:space="preserve">
+    <value>End X</value>
+  </data>
+  <data name="結束 X (mm)" xml:space="preserve">
+    <value>End X (mm)</value>
+  </data>
+  <data name="結束 X (px)" xml:space="preserve">
+    <value>End X (px)</value>
+  </data>
+  <data name="結束 Y" xml:space="preserve">
+    <value>End Y</value>
+  </data>
+  <data name="結束 Y (mm)" xml:space="preserve">
+    <value>End Y (mm)</value>
+  </data>
+  <data name="結束 Y (px)" xml:space="preserve">
+    <value>End Y (px)</value>
+  </data>
+  <data name="線" xml:space="preserve">
+    <value>LINE</value>
+  </data>
+  <data name="縱向偏差量" xml:space="preserve">
+    <value>Y offset</value>
+  </data>
+  <data name="繪製校正時出錯" xml:space="preserve">
+    <value>Error while draw correction</value>
+  </data>
+  <data name="自動運行前排序作業時出錯" xml:space="preserve">
+    <value>Error when sort job before auto run.</value>
+  </data>
+  <data name="自動運行錯誤" xml:space="preserve">
+    <value>Auto run error</value>
+  </data>
+  <data name="舊價值" xml:space="preserve">
+    <value>Old value</value>
+  </data>
+  <data name="舊密碼不正確。" xml:space="preserve">
+    <value>Old password is incorrect.</value>
+  </data>
+  <data name="行程超過軟體極限" xml:space="preserve">
+    <value>The stroke exceeds the software limit</value>
+  </data>
+  <data name="複製並重新加載" xml:space="preserve">
+    <value>Copy and reload</value>
+  </data>
+  <data name="複製錯誤" xml:space="preserve">
+    <value>Copy error</value>
+  </data>
+  <data name="角度" xml:space="preserve">
+    <value>Angle</value>
+  </data>
+  <data name="角度(度)" xml:space="preserve">
+    <value>Angle (degree)</value>
+  </data>
+  <data name="訓練中...." xml:space="preserve">
+    <value>Training....</value>
+  </data>
+  <data name="詳情" xml:space="preserve">
+    <value>Detail</value>
+  </data>
+  <data name="請停止相機進行編輯" xml:space="preserve">
+    <value>Please Stop camera for edit.</value>
+  </data>
+  <data name="請先復歸位置!" xml:space="preserve">
+    <value>Please Return home position first !</value>
+  </data>
+  <data name="請先打開項目" xml:space="preserve">
+    <value>Please open project first.</value>
+  </data>
+  <data name="請先指定生產檔案..!!" xml:space="preserve">
+    <value>Please specify the production file first..!!</value>
+  </data>
+  <data name="請先添加剪切線" xml:space="preserve">
+    <value>Please add cut line first.</value>
+  </data>
+  <data name="請先選擇工作步驟" xml:space="preserve">
+    <value>Please select work step first.</value>
+  </data>
+  <data name="請添加新的視覺" xml:space="preserve">
+    <value>Please add new alignment.</value>
+  </data>
+  <data name="請輸入項目名稱。" xml:space="preserve">
+    <value>Please input project name.</value>
+  </data>
+  <data name="請選擇切割線" xml:space="preserve">
+    <value>Please select a cut line.</value>
+  </data>
+  <data name="請選擇切割線或步驟進行切割" xml:space="preserve">
+    <value>Please select cut line or workstep to cut.</value>
+  </data>
+  <data name="請選擇工作步驟" xml:space="preserve">
+    <value>Please select work step.</value>
+  </data>
+  <data name="請選擇項目" xml:space="preserve">
+    <value>Please select project</value>
+  </data>
+  <data name="請重啟電腦和雷射" xml:space="preserve">
+    <value>Please restart the computer and the laser</value>
+  </data>
+  <data name="請重新啟動程式。" xml:space="preserve">
+    <value>Please Restart program.</value>
+  </data>
+  <data name="警告" xml:space="preserve">
+    <value>Warning</value>
+  </data>
+  <data name="距離 (mm)" xml:space="preserve">
+    <value>Distance (mm)</value>
+  </data>
+  <data name="軸卡啟動異常" xml:space="preserve">
+    <value>The axis card starts abnormally</value>
+  </data>
+  <data name="輸出範圍" xml:space="preserve">
+    <value>Out range</value>
+  </data>
+  <data name="運行對齊功能時出錯" xml:space="preserve">
+    <value>Error when run alignment function.</value>
+  </data>
+  <data name="重置密碼結果" xml:space="preserve">
+    <value>Reset password result</value>
+  </data>
+  <data name="重置操作員密碼" xml:space="preserve">
+    <value>Reset the Operator password</value>
+  </data>
+  <data name="重置管理員密碼" xml:space="preserve">
+    <value>Reset the Administrator password</value>
+  </data>
+  <data name="重複次數" xml:space="preserve">
+    <value>Repeat Count</value>
+  </data>
+  <data name="重複計數必須大於 1。" xml:space="preserve">
+    <value>Repeat count must greater than 1.</value>
+  </data>
+  <data name="錯誤" xml:space="preserve">
+    <value>Error</value>
+  </data>
+  <data name="錯誤：無法擬合（計算 CTB）" xml:space="preserve">
+    <value>Error: No fit possible (Calculate CTB)</value>
+  </data>
+  <data name="開始" xml:space="preserve">
+    <value>Set Start</value>
+  </data>
+  <data name="開始 X" xml:space="preserve">
+    <value>Start X</value>
+  </data>
+  <data name="開始 X (mm)" xml:space="preserve">
+    <value>Start X (mm)</value>
+  </data>
+  <data name="開始 X (px)" xml:space="preserve">
+    <value>Start X (px)</value>
+  </data>
+  <data name="開始 Y" xml:space="preserve">
+    <value>Start Y</value>
+  </data>
+  <data name="開始 Y (mm)" xml:space="preserve">
+    <value>Start Y (mm)</value>
+  </data>
+  <data name="開始 Y (px)" xml:space="preserve">
+    <value>Start Y (px)</value>
+  </data>
+  <data name="開始自動運行" xml:space="preserve">
+    <value>Start Auto Run</value>
+  </data>
+  <data name="開始自動運行測試" xml:space="preserve">
+    <value>Start Auto Run Test</value>
+  </data>
+  <data name="關閉消息" xml:space="preserve">
+    <value>Form closing message</value>
+  </data>
+  <data name="關閉程式" xml:space="preserve">
+    <value>Close program</value>
+  </data>
+  <data name="關閉程式中..." xml:space="preserve">
+    <value>Closing program...</value>
+  </data>
+  <data name="關閉程式時出錯。" xml:space="preserve">
+    <value>Error while closing program.</value>
+  </data>
+  <data name="關閉紅光" xml:space="preserve">
+    <value>Turn off the red light</value>
+  </data>
+  <data name="雷射參數異常，是否PASS??" xml:space="preserve">
+    <value>Laser parameters are abnormal, is it PASS??</value>
+  </data>
+  <data name="雷射開啟延遲" xml:space="preserve">
+    <value>Laser On Delay</value>
+  </data>
+  <data name="雷射關閉延遲" xml:space="preserve">
+    <value>Laser Off Delay</value>
+  </data>
+  <data name="項目名稱已存在，請輸入其他項目名稱。" xml:space="preserve">
+    <value>Project name already exists, please enter another project name.</value>
+  </data>
+  <data name="項目名稱更改" xml:space="preserve">
+    <value>Project name change</value>
+  </data>
+  <data name="項目已保存" xml:space="preserve">
+    <value>The project has been saved.</value>
+  </data>
+  <data name="頻率" xml:space="preserve">
+    <value>PPR</value>
+  </data>
+</root>

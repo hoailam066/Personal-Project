@@ -1,0 +1,538 @@
+﻿body {
+    font-size:14pt;
+
+}
+
+@media (min-width: 1200px) {
+    .divLon {
+        width: 100%;
+        float: left;
+    }
+
+    .divCon1 {
+        width: 49%;
+        float: left;
+        margin-right: 5px;
+    }
+
+    .divCon2 {
+        width: 49%;
+        float: left;
+        margin-left: 5px;
+    }
+
+    .divDong {
+        width: 100%;
+        float: left;
+        margin-top: 20px;
+    }
+
+    .divLabel {
+        width: 43%;
+        float: left;
+        margin-left: 10px;
+    }
+
+    .divControl {
+        width: 52%;
+        float: left;
+    }
+
+    .divLabelNho {
+        width: 28%;
+        float: left;
+        margin-left: 10px;
+    }
+
+    .divControlNho {
+        width: 65%;
+        float: left;
+    }
+
+    .divThongtin1 {
+        width: 50%;
+        float: left;
+    }
+
+    .divThongtin2 {
+        width: 50%;
+        float: left;
+    }
+
+    .droplist {
+        width: 100%;
+        float: left;
+        font-size:12pt;
+  
+    }
+
+    .divHinh {
+        width: 14%;
+        float: left;
+        text-align: center;
+        padding-top: 5px;
+        margin-right: 2%;
+        height: 100px;
+        margin-left: 3%;
+        margin-top: 0.5%;
+    }
+
+    .divTrong {
+        width: 16%;
+        float: left;
+        height: 50px;
+        margin: 10px;
+    }
+    .title{
+        font-size:16pt !important;
+        background-size:70px !important;
+    }
+    .txt{
+        font-size:14pt;
+    }
+
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+     .divLon {
+        width: 100%;
+        float: left;
+            font-size:16pt;
+    }
+
+    .divCon1 {
+        width: 49%;
+        float: left;
+        margin-right: 5px;
+    }
+
+    .divCon2 {
+        width: 49%;
+        float: left;
+        margin-left: 5px;
+    }
+
+    .divDong {
+        width: 100%;
+        float: left;
+        margin-top: 20px;
+    }
+
+    .divLabel {
+        width: 40%;
+        float: left;
+        margin-left: 10px;
+
+    }
+
+    .divControl {
+        width: 55%;
+        float: left;
+    }
+
+    .divLabelNho {
+        width: 32%;
+        float: left;
+        margin-left: 10px;
+          
+    }
+
+    .divControlNho {
+        width: 61%;
+        float: left;
+    }
+
+    .divThongtin1 {
+        width: 50%;
+        float: left;
+            
+    }
+
+    .divThongtin2 {
+        width: 50%;
+        float: left;
+    }
+
+    .droplist {
+        width: 100%;
+        float: left;
+        font-size:13pt;
+    }
+
+    .divHinh {
+        width: 14%;
+        float: left;
+        text-align: center;
+        padding-top: 5px;
+        margin-right: 2%;
+        height: 90px;
+        margin-left: 3%;
+        margin-top: 0%;
+    }
+
+    .divTrong {
+        width: 15%;
+        float: left;
+        height: 50px;
+        margin: 10px;
+    }
+    .txt{
+            font-size:15pt;
+    }
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+      .divLon {
+        width: 100%;
+        float: left;
+    }
+
+    .divCon1 {
+        width: 49%;
+        float: left;
+        margin-right: 5px;
+    }
+
+    .divCon2 {
+        width: 49%;
+        float: left;
+        margin-left: 5px;
+    }
+
+    .divDong {
+        width: 100%;
+        float: left;
+        margin-top: 20px;
+    }
+
+    .divLabel {
+        width: 42%;
+        float: left;
+        margin-left: 10px;
+        font-size:17pt;
+    }
+
+    .divControl {
+        width: 51%;
+        float: left;
+    }
+
+    .divLabelNho {
+        width: 30%;
+        float: left;
+        margin-left: 10px;
+        font-size:17pt;
+    }
+
+    .divControlNho {
+        width: 63%;
+        float: left;
+    }
+
+    .divThongtin1 {
+        width: 100%;
+        float: left;
+    }
+
+    .divThongtin2 {
+        width: 100%;
+        float: left;
+    }
+
+    .droplist {
+        width: 100%;
+        float: left;
+        font-size:14pt;
+    }
+
+    .divHinh {
+        width: 13%;
+        float: left;
+        text-align: center;
+        padding-top: 5px;
+        margin-right: 1%;
+        height: 82px;
+        margin-left: 5%;
+        margin-top: 2%;
+        font-size:14pt;
+    }
+
+    .divTrong {
+        width: 9%;
+        float: left;
+        height: 50px;
+        margin: 20px;
+    }
+    .txt{font-size:15pt;
+         width:90%;
+    }
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+      .divLon {
+        width: 100%;
+        float: left;
+    }
+
+    .divCon1 {
+        width: 100%;
+        float: left;
+        margin-right: 5px;
+    }
+
+    .divCon2 {
+        width: 100%;
+        float: left;
+        margin-left: 5px;
+    }
+
+    .divDong {
+        width: 100%;
+        float: left;
+        margin-top: 10px;
+    }
+
+    .divLabel {
+        width: 30%;
+        float: left;
+        margin-left: 10px;
+    }
+
+    .divControl {
+        width: 60%;
+        float: left;
+    }
+
+    .divLabelNho {
+        width: 30%;
+        float: left;
+        margin-left: 10px;
+    }
+
+    .divControlNho {
+        width: 60%;
+        float: left;
+    }
+    .txt{
+        width:100%;
+        font-size:15pt;
+    }
+    .title{
+        font-size:11pt;
+        background-size:50px;
+    }
+    .divThongtin1 {
+        width: 100%;
+        float: left;
+    }
+
+    .divThongtin2 {
+        width: 100%;
+        float: left;
+    }
+
+    .droplist {
+        width: 100%;
+        float: left;
+        font-size:14pt;
+    }
+
+    .divHinh {
+        width: 14%;
+        float: left;
+        text-align: center;
+        padding-top: 5px;
+        margin-right: 2%;
+        height: 75px;
+        margin-left: 3%;
+        margin-top: 3%;
+        font-size:14pt;
+    }
+
+    .divTrong {
+        width: 15%;
+        float: left;
+        height: 50px;
+        margin: 11px;
+    }
+}
+
+@media (min-width: 321px) and (max-width: 480px) {
+     .divLon {
+        width: 100%;
+        float: left;
+    }
+
+    .divCon1 {
+        width: 100%;
+        float: left;
+        margin-right: 5px;
+    }
+
+    .divCon2 {
+        width: 100%;
+        float: left;
+        margin-left: 5px;
+    }
+
+    .divDong {
+        width: 100%;
+        float: left;
+        margin-top: 10px;
+    }
+
+    .divLabel {
+        width: 42%;
+        float: left;
+        margin-left: 10px;
+    }
+
+    .divControl {
+        width: 52%;
+        float: left;
+    }
+
+    .divLabelNho {
+        width: 31%;
+        float: left;
+        margin-left: 10px;
+    }
+
+    .divControlNho {
+        width: 63%;
+        float: left;
+    }
+    .txt{
+        width:100%;
+        font-size:13pt;
+    }
+    .title{
+        font-size:11pt;
+        background-size:50px;
+    }
+    .divThongtin1 {
+        width: 100%;
+        float: left;
+    }
+
+    .divThongtin2 {
+        width: 100%;
+        float: left;
+    }
+
+    .droplist {
+        width: 100%;
+        float: left;
+        font-size:13pt;
+    }
+
+    .divHinh {
+        width: 14%;
+        float: left;
+        text-align: center;
+        padding-top: 5px;
+        margin-right: 2%;
+        height: 70px;
+        margin-left: 3%;
+        margin-top: 3%;
+        font-size:10pt;
+    }
+
+    .divTrong {
+        width: 12%;
+        float: left;
+        height: 50px;
+        margin: 11px;
+    }
+}
+
+@media (max-width: 320px) {
+    .divLon {
+        width: 100%;
+        float: left;
+        font-size:14pt;
+    }
+
+    .divCon1 {
+        width: 100%;
+        float: left;
+
+    }
+
+    .divCon2 {
+        width: 100%;
+        float: left;
+
+    }
+
+    .divDong {
+        width: 100%;
+        float: left;
+        margin-top: 10px;
+    }
+
+    .divLabel {
+        width: 47%;
+        float: left;
+        margin-left: 10px;
+    }
+
+    .divControl {
+        width: 47%;
+        float: left;
+    }
+
+    .divLabelNho {
+        width: 32%;
+        float: left;
+        margin-left: 10px;
+    }
+
+    .divControlNho {
+        width: 60%;
+        float: left;
+    }
+    .txt{
+        width:100%;
+        font-size:13pt;
+    }
+    .title{
+        font-size:11pt;
+        background-size:50px;
+    }
+    .divThongtin1 {
+        width: 100%;
+        float: left;
+    }
+
+    .divThongtin2 {
+        width: 100%;
+        float: left;
+    }
+
+    .droplist {
+        width: 100%;
+        float: left;
+         font-size:13pt;
+    }
+
+    .divHinh {
+        width: 14%;
+        float: left;
+        text-align: center;
+        padding-top: 5px;
+        margin-right: 2%;
+        height: 70px;
+        margin-left: 3%;
+        margin-top: 3%;
+        font-size:10pt;
+    }
+
+    .divTrong {
+        width: 11%;
+        float: left;
+        height: 50px;
+        margin: 11px;
+    }
+}

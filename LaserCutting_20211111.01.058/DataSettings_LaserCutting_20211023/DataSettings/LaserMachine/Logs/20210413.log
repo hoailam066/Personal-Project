@@ -1,0 +1,227 @@
+10:10:02.674|Start program
+10:10:02.684|Open Administrator UI
+10:28:03.209|Start program
+10:28:03.219|Open Administrator UI
+10:28:31.905|Start program
+10:28:31.915|Open Administrator UI
+10:29:09.628|Start program
+10:29:09.638|Open Administrator UI
+10:30:03.807|Start program
+10:30:03.817|Open Administrator UI
+10:30:55.866|Start program
+10:30:55.876|Open Administrator UI
+10:32:54.539|Start program
+10:32:54.549|Open Administrator UI
+10:33:49.918|Close program
+10:33:58.299|Start program
+10:33:58.309|Open Administrator UI
+10:35:19.763|Close program
+10:35:26.727|Start program
+10:35:26.737|Open Operator UI
+10:36:03.776|Close program
+10:38:33.864|Start program
+10:38:33.874|Open Operator UI
+10:38:47.952|Close program
+10:38:55.005|Start program
+10:38:55.015|Open Administrator UI
+10:43:50.567|Start program
+10:43:50.567|Open Administrator UI
+10:48:27.723|Close program
+10:50:35.275|Start program
+10:50:35.275|Open Administrator UI
+11:11:47.867|Close program
+11:12:36.267|Start program
+11:12:36.277|Open Administrator UI
+11:13:24.736|Close program
+11:14:02.566|Start program
+11:14:02.576|Open Administrator UI
+11:16:51.277|Close program
+11:17:23.806|Start program
+11:17:23.816|Open Administrator UI
+11:23:05.591|Start program
+11:23:05.601|Open Administrator UI
+11:24:37.280|Start program
+11:24:37.290|Open Administrator UI
+11:51:13.077|Close program
+11:55:43.509|Start program
+11:55:43.519|Open Administrator UI
+11:56:00.689|Load project: ABCd
+11:57:56.837|Close program
+11:58:03.590|Start program
+11:58:03.600|Open Administrator UI
+11:58:10.670|Load project: ABCd
+11:58:34.918|Close program
+11:58:42.323|Start program
+11:58:42.333|Open Administrator UI
+11:58:50.423|Load project: ABCd
+13:05:10.925|Close program
+13:05:20.912|Start program
+13:05:20.912|Open Administrator UI
+13:05:29.032|Start program
+13:05:29.042|Open Operator UI
+13:05:41.262|Close program
+13:06:19.479|Start program
+13:06:37.369|Open Operator UI
+13:07:59.243|Start program
+13:07:59.273|Open Operator UI
+13:08:29.583|Close program
+13:10:59.006|Start program
+13:10:59.016|Open Operator UI
+13:11:12.146|Close program
+13:11:18.581|Start program
+13:11:18.591|Open Administrator UI
+13:12:07.071|Start program
+13:12:07.081|Open Administrator UI
+13:12:16.181|Load project: ABCd
+13:13:03.180|Close program
+13:16:22.080|Start program
+13:16:22.080|Open Administrator UI
+13:16:40.200|Load project: fdffdff
+13:16:44.240|Load project: ABCd
+[2021-04-13] 13:16:53.400|Delete project: fdffdff
+13:29:45.696|Start program
+13:29:45.706|Open Administrator UI
+13:29:58.836|Load project: ABCd
+13:54:52.817|Close program
+14:05:31.183|Start program
+14:05:31.183|Open Administrator UI
+14:05:40.283|Load project: ABCd
+14:34:22.957|Start program
+14:34:22.961|Open Administrator UI
+14:35:32.646|Load project: ABCd
+14:36:47.075|Start program
+14:36:47.085|Open Administrator UI
+14:36:58.315|Load project: ABCd
+14:44:31.810|Start program
+14:44:31.820|Open Administrator UI
+14:44:38.920|Load project: ABCd
+14:48:06.243|Start program
+14:48:06.253|Open Administrator UI
+14:48:19.383|Load project: ABCd
+14:49:42.706|Start program
+14:49:42.716|Open Administrator UI
+14:49:55.846|Load project: ABCd
+14:54:05.662|Start program
+14:54:05.672|Open Administrator UI
+14:54:15.772|Load project: ABCd
+14:54:26.882|Close program
+14:54:43.422|Start program
+14:54:43.432|Open Administrator UI
+14:54:54.551|Load project: ABCd
+14:57:20.850|Start program
+14:57:20.860|Open Administrator UI
+14:57:31.970|Load project: ABCd
+15:11:50.539|Close program
+15:15:26.784|Start program
+15:15:26.784|Open Administrator UI
+15:15:53.808|Load project: ABCd
+15:24:36.286|Close program
+15:24:54.634|Start program
+15:24:54.644|Open Administrator UI
+15:25:01.658|Load project: ABCd
+15:26:08.704|Load project: ABCd
+15:27:28.826|Load project: ABCd
+15:28:22.865|Close program
+15:28:29.529|Start program
+15:28:29.539|Open Administrator UI
+15:28:44.256|Start program
+15:28:44.266|Open Administrator UI
+15:28:52.280|Load project: ABCd
+15:30:48.412|Load project: ABCd
+15:36:22.838|Start program
+15:36:22.848|Open Administrator UI
+15:36:29.862|Load project: ABCd
+15:37:30.778|Start program
+15:37:30.788|Open Administrator UI
+15:37:44.805|Load project: ABCd
+15:38:51.931|Close program
+15:38:58.657|Start program
+15:38:58.667|Open Administrator UI
+15:39:10.713|Load project: ABCd
+15:40:41.772|Close program
+15:40:59.639|Start program
+15:40:59.639|Open Administrator UI
+15:41:08.674|Load project: ABCd
+15:41:16.688|Close program
+15:41:23.318|Start program
+15:41:23.328|Open Administrator UI
+15:41:33.353|Load project: ABCd
+15:42:55.407|Close program
+15:43:02.481|Start program
+15:43:02.491|Open Administrator UI
+15:43:12.506|Load project: ABCd
+15:51:28.972|Close program
+15:53:10.250|Start program
+15:53:10.250|Open Administrator UI
+15:53:22.313|Load project: ABCd
+15:56:30.453|Load project: ABCd
+16:03:51.823|Close program
+16:03:58.427|Start program
+16:03:58.437|Open Administrator UI
+16:04:06.451|Load project: ABCd
+16:19:51.076|Close program
+16:20:19.749|Start program
+16:20:19.759|Open Administrator UI
+16:28:18.910|Start program
+16:28:18.920|Open Administrator UI
+16:47:41.935|Close program
+16:47:48.655|Start program
+16:47:48.665|Open Administrator UI
+17:03:15.479|Start program
+17:03:15.489|Open Administrator UI
+17:19:26.121|Close program
+17:19:33.455|Start program
+17:19:33.465|Open Administrator UI
+17:23:53.613|Load project: ABCd
+17:25:38.679|Load project: ABCd
+18:06:12.041|Close program
+18:06:54.320|Start program
+18:06:54.330|Open Administrator UI
+18:23:29.950|Close program
+18:23:37.758|Start program
+18:23:37.768|Open Administrator UI
+18:44:03.522|Load project: ABCd
+18:46:15.633|Load project: ABCd
+18:48:10.791|Load project: ABCd
+19:01:51.284|Start program
+19:01:51.284|Open Administrator UI
+19:01:59.308|Load project: ABCd
+19:03:43.265|Start program
+19:03:43.265|Open Administrator UI
+19:03:51.289|Load project: ABCd
+19:11:56.295|Start program
+19:11:56.305|Open Administrator UI
+19:12:03.319|Load project: ABCd
+19:13:00.409|Close program
+19:14:05.983|Start program
+19:14:05.993|Open Administrator UI
+19:14:13.016|Load project: ABCd
+19:19:33.944|Start program
+19:19:33.954|Open Administrator UI
+19:20:05.981|Load project: ABCd
+19:42:22.167|Start program
+19:42:22.167|Open Administrator UI
+19:43:40.419|Start program
+19:43:40.419|Open Administrator UI
+20:00:38.490|Close program
+20:02:01.183|Start program
+20:02:01.183|Open Administrator UI
+20:02:39.213|Close program
+20:02:48.208|Start program
+20:02:48.208|Open Administrator UI
+20:04:02.124|Start program
+20:04:02.124|Open Administrator UI
+20:20:50.673|Close program
+20:31:39.891|Start program
+20:31:39.891|Open Administrator UI
+20:34:20.613|Start program
+20:34:20.623|Open Administrator UI
+20:42:23.275|Start program
+20:42:23.285|Open Administrator UI
+20:42:36.352|Load project: ABCd
+20:42:58.414|Close program
+20:54:54.766|Start program
+20:54:54.776|Open Administrator UI
+20:55:05.792|Close program
+20:55:43.732|Start program
+20:55:43.742|Open Administrator UI

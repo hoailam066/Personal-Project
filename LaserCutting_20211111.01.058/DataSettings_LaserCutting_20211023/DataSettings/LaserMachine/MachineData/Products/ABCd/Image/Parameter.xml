@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<RootNode Document_Version_="1.00" SDK_Enviroment_="Visual Basic 2008 SP1" BuildDate="2021/4/19 下午 01:53:55">
+  <Parameter Index="0" Attributes="">
+    <VariableAlign_OrginalXLeft Index="0" NodeType="Double">-135.486962340871</VariableAlign_OrginalXLeft>
+    <VariableAlign_OrginalYLeft Index="0" NodeType="Double">32.5015330889822</VariableAlign_OrginalYLeft>
+    <VariableAlign_OrginalAngleLeft Index="0" NodeType="Double">0.000961409587756249</VariableAlign_OrginalAngleLeft>
+    <VariableAlign_OrginalXRight Index="0" NodeType="Double">-137.493177731579</VariableAlign_OrginalXRight>
+    <VariableAlign_OrginalYRight Index="0" NodeType="Double">-88.974438017148</VariableAlign_OrginalYRight>
+    <VariableAlign_OrginalAngleRight Index="0" NodeType="Double">0.162121248911248</VariableAlign_OrginalAngleRight>
+    <VariableAlign_CenterXLeft Index="0" NodeType="Double">193.660456730769</VariableAlign_CenterXLeft>
+    <VariableAlign_CenterYLeft Index="0" NodeType="Double">214.479166666667</VariableAlign_CenterYLeft>
+    <VariableAlign_CenterXRight Index="0" NodeType="Double">192.472355769231</VariableAlign_CenterXRight>
+    <VariableAlign_CenterYRight Index="0" NodeType="Double">335.666666666667</VariableAlign_CenterYRight>
+  </Parameter>
+</RootNode>

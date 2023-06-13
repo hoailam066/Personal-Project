@@ -1,0 +1,136 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CameraViewer
+</name>
+</assembly>
+<members>
+<member name="F:CameraViewer.CRuler.m_Radius">
+	<summary>
+ Mode 2 use
+ </summary>
+	<remarks></remarks>
+</member><member name="F:CameraViewer.CRuler.m_Mode2ResizeLocation">
+	<summary>
+ Mode 2 use
+ </summary>
+	<remarks></remarks>
+</member><member name="F:CameraViewer.CRuler.m_Width">
+	<summary>
+ Mode 3 use
+ </summary>
+	<remarks></remarks>
+</member><member name="F:CameraViewer.CRuler.m_Height">
+	<summary>
+ Mode 3 use
+ </summary>
+	<remarks></remarks>
+</member><member name="F:CameraViewer.CRuler.m_Mode3ResizeLocationLeft">
+	<summary>
+ Mode 3 use
+ </summary>
+	<remarks></remarks>
+</member><member name="F:CameraViewer.CRuler.m_Mode3ResizeLocationRight">
+	<summary>
+ Mode 3 use
+ </summary>
+	<remarks></remarks>
+</member><member name="P:CameraViewer.CRuler.Radius">
+	<summary>
+ Mode 2 use. Radius of circle
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:CameraViewer.CRuler.Mode2ResizeLocation">
+	<summary>
+ Mode 2 use. Location of circle resize
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:CameraViewer.CRuler.Width">
+	<summary>
+ Mode 3 use. Width of center rectangle
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:CameraViewer.CRuler.Height">
+	<summary>
+ Mode 3 use. Height of center rectangle
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:CameraViewer.CRuler.Mode3ResizeLocationLeft">
+	<summary>
+ Mode 3 use. Location of circle resize left
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:CameraViewer.CRuler.Mode3ResizeLocationRight">
+	<summary>
+ Mode 3 use. Location of circle resize right
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:CameraViewer.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:CameraViewer.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:CameraViewer.My.Resources.Resources.camera1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CameraViewer.My.Resources.Resources.camera2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CameraViewer.My.Resources.Resources.capture">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CameraViewer.My.Resources.Resources.mode1_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CameraViewer.My.Resources.Resources.mode1_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CameraViewer.My.Resources.Resources.mode2_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CameraViewer.My.Resources.Resources.mode2_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CameraViewer.My.Resources.Resources.mode3_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CameraViewer.My.Resources.Resources.mode3_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CameraViewer.My.Resources.Resources.pickcolor">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:CameraViewer.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

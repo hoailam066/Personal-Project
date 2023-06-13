@@ -1,0 +1,75 @@
+{
+  "JumpSpeed": 100,
+  "MarkSpeed": 50,
+  "JumpDelay": 10,
+  "MarkDelay": 10,
+  "PolygonDelay": 10,
+  "LaserOnDelay": 10,
+  "LaserOffDelay": 10,
+  "Range": 3,
+  "Size": 1000,
+  "Radius": 0,
+  "KFactor": 1000,
+  "GalvoAngle": -2.0,
+  "GalvoOffsetX": -150,
+  "GalvoOffsetY": 100,
+  "LaserOn": false,
+  "PRR": 100.0,
+  "Power": 50.0,
+  "CorrectionData": [
+    {
+      "RTC_X": -1000,
+      "RTC_Y": -1000,
+      "REAL_X": 0.0,
+      "REAL_Y": 0.0
+    },
+    {
+      "RTC_X": -1000,
+      "RTC_Y": 0,
+      "REAL_X": 0.0,
+      "REAL_Y": 0.0
+    },
+    {
+      "RTC_X": -1000,
+      "RTC_Y": 1000,
+      "REAL_X": 0.0,
+      "REAL_Y": 0.0
+    },
+    {
+      "RTC_X": 0,
+      "RTC_Y": -1000,
+      "REAL_X": 0.0,
+      "REAL_Y": 0.0
+    },
+    {
+      "RTC_X": 0,
+      "RTC_Y": 0,
+      "REAL_X": 0.0,
+      "REAL_Y": 0.0
+    },
+    {
+      "RTC_X": 0,
+      "RTC_Y": 1000,
+      "REAL_X": 0.0,
+      "REAL_Y": 0.0
+    },
+    {
+      "RTC_X": 1000,
+      "RTC_Y": -1000,
+      "REAL_X": 0.0,
+      "REAL_Y": 0.0
+    },
+    {
+      "RTC_X": 1000,
+      "RTC_Y": 0,
+      "REAL_X": 0.0,
+      "REAL_Y": 0.0
+    },
+    {
+      "RTC_X": 1000,
+      "RTC_Y": 1000,
+      "REAL_X": 0.0,
+      "REAL_Y": 0.0
+    }
+  ]
+}

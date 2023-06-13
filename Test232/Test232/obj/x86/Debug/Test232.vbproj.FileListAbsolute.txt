@@ -1,0 +1,18 @@
+C:\Users\ALin\AppData\Local\Temporary Projects\Test232\bin\Debug\Test232.exe
+C:\Users\ALin\AppData\Local\Temporary Projects\Test232\bin\Debug\Test232.pdb
+C:\Users\ALin\AppData\Local\Temporary Projects\Test232\bin\Debug\Test232.xml
+C:\Users\ALin\AppData\Local\Temporary Projects\Test232\obj\x86\Debug\Test232.Form1.resources
+C:\Users\ALin\AppData\Local\Temporary Projects\Test232\obj\x86\Debug\Test232.Resources.resources
+C:\Users\ALin\AppData\Local\Temporary Projects\Test232\obj\x86\Debug\Test232.vbproj.GenerateResource.Cache
+C:\Users\ALin\AppData\Local\Temporary Projects\Test232\obj\x86\Debug\Test232.exe
+C:\Users\ALin\AppData\Local\Temporary Projects\Test232\obj\x86\Debug\Test232.xml
+C:\Users\ALin\AppData\Local\Temporary Projects\Test232\obj\x86\Debug\Test232.pdb
+D:\Projects\Test232\Test232\obj\x86\Debug\Test232.exe
+D:\Projects\Test232\Test232\obj\x86\Debug\Test232.xml
+D:\Projects\Test232\Test232\obj\x86\Debug\Test232.pdb
+D:\Projects\Test232\Test232\bin\Debug\Test232.exe
+D:\Projects\Test232\Test232\bin\Debug\Test232.pdb
+D:\Projects\Test232\Test232\bin\Debug\Test232.xml
+D:\Projects\Test232\Test232\obj\x86\Debug\Test232.Resources.resources
+D:\Projects\Test232\Test232\obj\x86\Debug\Test232.vbproj.GenerateResource.Cache
+D:\Projects\Test232\Test232\obj\x86\Debug\Test232.FMain.resources

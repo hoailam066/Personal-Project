@@ -1,0 +1,1439 @@
+﻿body {
+    font-size:16pt;
+}
+
+@media (min-width: 1200px) {
+    .divLon {
+        width: 100%;
+        float: left;
+    }
+
+    .divThongTinTuyenXe {
+        width: 72%;
+        float: left;
+    }
+
+    .divThongTinKH {
+        width: 27%;
+        float: right;
+    }
+
+    .divDong {
+        width: 99%;
+        float: left;
+        margin-top: 2%;
+    }
+
+    .divCon {
+        width: 26%;
+        float: left;
+        margin-top: 1%;
+    }
+    .divCon2 {
+        width: 20%;
+        float: left;
+        margin-top: 1%;
+    }
+
+    .divCon1 {
+        width: 27%;
+        float: left;
+        margin-top: 1%;
+    }
+
+    .divLabel {
+        width:26%;
+        float: left;
+        font-size:16pt;
+    }
+
+    .divControl {
+        width: 70%;
+        float: left;
+    }
+     .divLabelLXe {
+        width:28%;
+        float: left;
+        font-size:16pt;
+    }
+
+    .divControlLXe {
+        width: 65%;
+        float: left;
+    }
+      .divLabelNgay {
+        width: 35%;
+        float: left;
+        font-size:16pt;
+    }
+
+    .divControlNgay {
+        width: 55%;
+        float: left;
+      
+    }
+
+    .divLabelTX {
+        width: 40%;
+        float: left;
+        font-size:16pt;
+    }
+    .txt{
+        font-size:14pt !important;
+        
+    }
+
+    .divControlTX {
+        width: 53%;
+        float: left;
+    }
+
+    .droplist {
+        width: 100%;
+        float: left;
+        font-size:13pt;
+    }
+
+    .buttonthuong {
+        margin-left: 14px;
+        font-size:14pt;
+    }
+
+    .buttonSelect {
+        margin-left: 15px;
+        font-size:14pt;
+    }
+
+    .lbl {
+        margin-left: 15px;
+        font-size:16pt;
+    }
+
+    .divDong1 {
+        margin: 2%;
+        float: left;
+        width: 98%;
+        margin-left: 10px;
+    }
+
+
+    .divCha {
+        width: 100%;
+        float: left;
+    }
+
+    .divradio {
+        width: 32%;
+        float: left;
+        font-size:16pt;
+    }
+
+    .divradio1 {
+        width: 35%;
+        float: left;
+        font-size:16pt;
+    }
+
+    .txtTienVe {
+        width: 33%;
+    }
+
+    .divTien {
+        width: 97%;
+        background: #a3ce4e;
+        padding: 5px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    .divbt {
+        width: 20%;
+        float: left;
+        margin: 5px;
+        
+    }
+
+    .hrDen {
+        width: 93%;
+        margin: 3px;
+        font-size: 1px;
+        color: #232121;
+        border: 1px solid #232121;
+        text-align: center;
+    }
+
+    .divKiHieu1 {
+        width: 13%;
+        float: left;
+        margin-left:10px;
+    }
+
+    /*.divKiHieu2 {
+        width: 50%;
+        float: left;
+        margin-top: 20px;
+    }*/
+
+    .LabelKH {
+        width: 68%;
+        float: left;
+        margin-top: 5px;
+        font-size: 16pt;
+    }
+
+    .ControlKH {
+        width: 32%;
+        float: left;
+    }
+
+    .LabelLoaiDon {
+        width: 85%;
+        float: left;
+        font-size: 16pt;
+    }
+
+    .ControlLoaiDon {
+        width: 15%;
+        float: left;
+    }
+
+
+    .divLabelGiaVe {
+        width: 30%;
+        float: left;
+        font-size:16pt;
+    }
+
+    .divConTrolGiaVe {
+        width: 20%;
+        float: left;
+    }
+
+    .divGhe {
+        width: 10%;
+        float: left;
+        font-size:16pt;
+    }
+
+    .divLabelThanhTien {
+        width: 35%;
+        float: left;
+        font-size:16pt;
+    }
+
+    .divConTrolThanhtien {
+        width: 50%;
+        float: left;
+    }
+
+    .divVND {
+        width: 10%;
+        float: left;
+    }
+    .divLabelTKTien{
+        width:63%;
+        float:left;
+        font-size:16pt;
+    }
+      .divControlTKTien{
+        width:20%;
+        float:left;
+    }
+        .divLabelTKGhe{
+        width:15%;
+        float:left;
+        font-size:16pt;
+    }
+        .LabelTien{
+            width:44%;
+            float:left;
+        }
+        .ControlTien{
+            width:48%;
+            float:left;
+        }
+        .LabelD{
+             width:5%;
+            float:left;
+            font-size:16pt;
+        }
+        .title{
+            font-size:17px !important;
+            background-size:55px !important;
+        }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .divLon {
+        width: 100%;
+        float: left;
+    }
+
+    .divThongTinTuyenXe {
+        width: 72%;
+        float: left;
+    }
+
+    .divThongTinKH {
+        width: 27%;
+        float: right;
+    }
+
+    .divDong {
+        width: 99%;
+        float: left;
+        margin-top: 2%;
+    }
+
+    .divCon {
+        width: 25%;
+        float: left;
+        margin-top: 1%;
+    }
+    .divCon2 {
+        width: 23%;
+        float: left;
+        margin-top: 1%;
+    }
+
+    .divCon1 {
+        width: 26%;
+        float: left;
+        margin-top: 1%;
+    }
+
+    .divLabel {
+        width:31%;
+        float: left;
+    }
+
+    .divControl {
+        width: 64%;
+        float: left;
+    }
+     .divLabelLXe {
+        width:34%;
+        float: left;
+    }
+
+    .divControlLXe {
+        width: 60%;
+        float: left;
+    }
+      .divLabelNgay {
+        width: 35%;
+        float: left;
+    }
+
+    .divControlNgay {
+        width: 50%;
+        float: left;
+    }
+    .txt{
+        font-size:15pt !important;
+    }
+    .divLabelTX {
+        width: 50%;
+        float: left;
+    }
+
+    .divControlTX {
+        width: 44%;
+        float: left;
+    }
+
+    .droplist {
+        width: 105%;
+        float: left;
+        font-size:13pt;
+    }
+
+    .buttonthuong {
+        margin-left: 15px;
+        font-size:15pt;
+        padding:5px;
+    }
+
+    .buttonSelect {
+        margin-left: 15px;
+        font-size:15pt;
+        padding:5px;
+    }
+
+    .lbl {
+        margin-left: 10px;
+    }
+
+    .divDong1 {
+        margin: 2%;
+        float: left;
+        width: 98%;
+        margin-left: 10px;
+    }
+
+
+    .divCha {
+        width: 100%;
+        float: left;
+    }
+
+    .divradio {
+        width: 32%;
+        float: left;
+    }
+
+    .divradio1 {
+        width: 35%;
+        float: left;
+    }
+
+    .txtTienVe {
+        width: 80%;
+    }
+
+    .divTien {
+        width: 96%;
+        background: #a3ce4e;
+        padding: 5px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    .divbt {
+        width: 20%;
+        float: left;
+        margin: 5px;
+    }
+
+    .hrDen {
+        width: 93%;
+        margin: 3px;
+        font-size: 1px;
+        color: #232121;
+        border: 1px solid #232121;
+        text-align: center;
+    }
+
+    .divKiHieu1 {
+        width: 13%;
+        float: left;
+        margin-left:10px;
+        
+    }
+
+    /*.divKiHieu2 {
+        width: 50%;
+        float: left;
+        margin-top: 20px;
+    }*/
+
+    .LabelKH {
+        width: 100%;
+        float: left;
+        margin-top: 5px;
+        font-size: 16pt;
+    }
+
+    .ControlKH {
+        width: 35%;
+        float: left;
+    }
+
+    .LabelLoaiDon {
+        width: 100%;
+        float: left;
+        font-size: 16pt;
+    }
+
+
+    .ControlLoaiDon {
+        width: 20%;
+        float: left;
+    }
+
+    .divLabelGiaVe {
+        width: 35%;
+        float: left;
+    }
+
+    .divConTrolGiaVe {
+        width: 26%;
+        float: left;
+    }
+
+    .divGhe {
+        width: 10%;
+        float: left;
+    }
+
+    .divLabelThanhTien {
+        width: 43%;
+        float: left;
+    }
+
+    .divConTrolThanhtien {
+        width: 40%;
+        float: left;
+    }
+
+    .divVND {
+        width: 10%;
+        float: left;
+    }
+    .divLabelTKTien{
+        width:56%;
+        float:left;
+    }
+      .divControlTKTien{
+        width:28%;
+        float:left;
+    }
+        .divLabelTKGhe{
+        width:15%;
+        float:left;
+    }
+        .LabelTien{
+            width:39%;
+            float:left;
+        }
+        .ControlTien{
+            width:50%;
+            float:left;
+        }
+        .LabelD{
+             width:5%;
+            float:left;
+        }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+   .divLon {
+        width: 100%;
+        float: left;
+    }
+       .txt {
+        font-size:13pt !important;
+    }
+    .divThongTinTuyenXe {
+        width: 67%;
+        float: left;
+    }
+
+    .divThongTinKH {
+        width: 31%;
+        float: right;
+    }
+
+    .divDong {
+        width: 99%;
+        float: left;
+        margin-top: 2%;
+    }
+
+    .divCon {
+        width: 50%;
+        float: left;
+        margin-top: 1%;
+    }
+    .divCon2 {
+        width:50%;
+        float: left;
+        margin-top: 1%;
+    }
+
+    .divCon1 {
+        width:50%;
+        float: left;
+        margin-top: 1%;
+    }
+
+    .divLabel {
+        width:35%;
+        float: left;
+    }
+
+    .divControl {
+        width: 60%;
+        float: left;
+    }
+     .divLabelLXe {
+        width:40%;
+        float: left;
+    }
+
+    .divControlLXe {
+        width: 54%;
+        float: left;
+    }
+      .divLabelNgay {
+        width: 28%;
+        float: left;
+    }
+
+    .divControlNgay {
+        width: 60%;
+        float: left;
+    }
+
+    .divLabelTX {
+        width: 40%;
+        float: left;
+    }
+
+    .divControlTX {
+        width: 55%;
+        float: left;
+    }
+
+    .droplist {
+        width: 100%;
+        float: left;
+        font-size:13pt;
+    }
+
+    .buttonthuong {
+        font-size:14pt;
+        margin-left: 15px;
+        padding:5px;
+    }
+
+    .buttonSelect {
+        margin-left: 15px;
+        font-size:14pt;
+        padding:5px;
+    }
+
+    .lbl {
+        margin-left: 10px;
+    }
+
+    .divDong1 {
+        margin: 2%;
+        float: left;
+        width: 98%;
+        margin-left: 10px;
+    }
+
+
+    .divCha {
+        width: 100%;
+        float: left;
+    }
+
+    .divradio {
+        width: 30%;
+        float: left;
+    }
+
+    .divradio1 {
+        width: 35%;
+        float: left;
+    }
+
+
+
+    .divbt {
+        width: 20%;
+        float: left;
+        margin: 5px;
+    }
+
+    .hrDen {
+        width: 90%;
+        margin: 3px;
+        font-size: 1px;
+        color: #232121;
+        border: 1px solid #232121;
+        text-align: center;
+    }
+
+    .divKiHieu1 {
+        width: 12%;
+        float: left;
+        margin-left:10px;
+    }
+
+    .LabelKH {
+        width: 100%;
+        float: left;
+        margin-top: 5px;
+        font-size: 14pt;
+    }
+
+    .ControlKH {
+        width: 30%;
+        float: left;
+    }
+
+    .LabelLoaiDon {
+        width: 110%;
+        float: left;
+        font-size: 14pt;
+    }
+
+
+    .ControlLoaiDon {
+        width: 20%;
+        float: left;
+    }
+
+    .divLabelGiaVe {
+        width: 40%;
+        float: left;
+    }
+
+    .divConTrolGiaVe {
+        width: 18%;
+        float: left;
+    }
+
+    .divGhe {
+        width: 15%;
+        float: left;
+    }
+        .divTien {
+        width: 96%;
+        background: #a3ce4e;
+        padding: 5px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+            .txtTienVe {
+        width: 80%;
+    }
+
+    .divLabelThanhTien {
+        width: 48%;
+        float: left;
+    }
+
+    .divConTrolThanhtien {
+        width: 33%;
+        float: left;
+    }
+
+    .divVND {
+        width: 16%;
+        float: left;
+    }
+    .divLabelTKTien{
+        width:50%;
+        float:left;
+    }
+      .divControlTKTien{
+        width:30%;
+        float:left;
+    }
+        .divLabelTKGhe{
+        width:15%;
+        float:left;
+    }
+        .LabelTien{
+            width:45%;
+            float:left;
+        }
+        .ControlTien{
+            width:42%;
+            float:left;
+        }
+        .LabelD{
+             width:5%;
+            float:left;
+        }
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+   .divLon {
+        width: 100%;
+        float: left;
+    }
+
+    .divThongTinTuyenXe {
+        width: 100%;
+        float: left;
+    }
+
+    .divThongTinKH {
+        width: 100%;
+        float: right;
+    }
+
+    .divDong {
+        width: 100%;
+        float: left;
+        margin-top: 2%;
+    }
+
+    .divCon {
+        width: 100%;
+        float: left;
+        margin-top: 1%;
+    }
+    .divCon2 {
+        width:100%;
+        float: left;
+        margin-top: 1%;
+    }
+
+    .divCon1 {
+        width:100%;
+        float: left;
+        margin-top: 1%;
+    }
+
+    .divLabel {
+        width:20%;
+        float: left;
+        margin-left:10px;
+    }
+
+    .divControl {
+        width: 72%;
+        float: left;
+    }
+     .divLabelLXe {
+        width:25%;
+        float: left;
+    }
+
+    .divControlLXe {
+        width: 71%;
+        float: left;
+    }
+      .divLabelNgay {
+        width: 20%;
+        float: left;
+    }
+
+    .divControlNgay {
+        width: 60%;
+        float: left;
+    }
+
+    .divLabelTX {
+        width: 35%;
+        float: left;
+    }
+
+    .divControlTX {
+        width: 60%;
+        float: left;
+    }
+
+    .droplist {
+        width: 95%;
+        float: left;
+        font-size:13pt;
+    }
+
+    .buttonthuong {
+        margin: 15px;
+        font-size:14pt;
+        padding:5px;
+    }
+
+    .buttonSelect {
+        margin: 15px;
+        font-size:14pt;
+        padding:5px;
+    }
+
+    .lbl {
+        margin-left: 10px;
+    }
+
+    .title{
+   font-size: 13pt !important;
+        background-size: 60px !important;
+}
+
+    .divDong1 {
+        margin: 2%;
+        float: left;
+        width: 100%;
+        margin-left: 5px;
+    }
+
+
+    .divCha {
+        width: 100%;
+        float: left;
+    }
+
+    .divradio {
+        width: 30%;
+        float: left;
+    }
+
+    .divradio1 {
+        width: 35%;
+        float: left;
+    }
+
+
+
+    .divbt {
+        width: 20%;
+        float: left;
+        margin: 10px;
+    }
+
+    .hrDen {
+        width: 90%;
+        margin: 3px;
+        font-size: 1px;
+        color: #232121;
+        border: 1px solid #232121;
+        text-align: center;
+    }
+
+    .divKiHieu1 {
+        width: 12%;
+        float: left;
+        margin-left:10px;
+    }
+
+    .LabelKH {
+        width: 95%;
+        float: left;
+        margin-top: 5px;
+        font-size: 12pt;
+    }
+
+    .ControlKH {
+        width: 40%;
+        float: left;
+    }
+
+    .LabelLoaiDon {
+        width: 88%;
+        float: left;
+        font-size: 12pt;
+    }
+
+
+    .ControlLoaiDon {
+        width: 20%;
+        float: left;
+    }
+
+    .divLabelGiaVe {
+        width: 32%;
+        float: left;
+    }
+
+    .divConTrolGiaVe {
+        width: 26%;
+        float: left;
+    }
+
+    .divGhe {
+        width: 15%;
+        float: left;
+    }
+        .divTien {
+        width: 96%;
+        background: #a3ce4e;
+        padding: 5px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+   .txtTienVe {
+        width: 50%;
+    }
+   .txt{
+       font-size:15pt !important;
+   }
+    .divLabelThanhTien {
+        width: 42%;
+        float: left;
+    }
+
+    .divConTrolThanhtien {
+        width: 42%;
+        float: left;
+    }
+
+    .divVND {
+        width: 16%;
+        float: left;
+    }
+    .divLabelTKTien{
+        width:66%;
+        float:left;
+    }
+      .divControlTKTien{
+        width:18%;
+        float:left;
+    }
+        .divLabelTKGhe{
+        width:15%;
+        float:left;
+    }
+        .LabelTien{
+            width:46%;
+            float:left;
+        }
+        .ControlTien{
+            width:42%;
+            float:left;
+        }
+        .LabelD{
+             width:5%;
+            float:left;
+        }
+}
+
+@media (min-width: 321px) and (max-width: 480px) {
+ .divLon {
+        width: 100%;
+        float: left;
+    }
+
+    .divThongTinTuyenXe {
+        width: 100%;
+        float: left;
+    }
+
+    .divThongTinKH {
+        width: 100%;
+        float: right;
+    }
+
+    .divDong {
+        width: 99%;
+        float: left;
+        margin-top: 2%;
+    }
+        .divDong1 {
+        margin: 2%;
+        float: left;
+        width: 98%;
+        margin-left: 10px;
+    }
+    .divCon {
+        width: 100%;
+        float: left;
+        margin-top: 1%;
+    }
+    .divCon2 {
+        width:100%;
+        float: left;
+        margin-top: 1%;
+    }
+
+    .divCon1 {
+        width:100%;
+        float: left;
+        margin-top: 1%;
+    }
+
+    .divLabel {
+        width:25%;
+        float: left;
+    }
+
+    .divControl {
+        width: 63%;
+        float: left;
+    }
+     .divLabelLXe {
+        width:25%;
+        float: left;
+    }
+
+    .divControlLXe {
+        width: 71%;
+        float: left;
+    }
+      .divLabelNgay {
+        width: 25%;
+        float: left;
+    }
+
+    .divControlNgay {
+        width: 60%;
+        float: left;
+    }
+
+    .divLabelTX {
+        width: 37%;
+        float: left;
+    }
+
+    .divControlTX {
+        width: 58%;
+        float: left;
+    }
+
+    .droplist {
+        width: 90%;
+        float: left;
+    }
+
+    .buttonthuong {
+        margin: 6px;
+    }
+
+    .buttonSelect {
+        margin: 6px;
+    }
+
+    .lbl {
+        margin-left: 10px;
+    }
+
+    .title{
+   font-size: 11pt !important;
+        background-size: 50px !important;
+}
+    .divCha {
+        width: 100%;
+        float: left;
+    }
+
+    .divradio {
+        width: 30%;
+        float: left;
+    }
+
+    .divradio1 {
+        width: 35%;
+        float: left;
+    }
+    .divbt {
+        width: 20%;
+        float: left;
+        margin: 5px;
+    }
+
+    .hrDen {
+        width: 90%;
+        margin: 5px;
+        font-size: 1px;
+        color: #232121;
+        border: 1px solid #232121;
+        text-align: center;
+    }
+
+    .divKiHieu1 {
+        width:20%;
+        float: left;
+        margin-left:10px;
+    }
+
+    .LabelKH {
+        width: 95%;
+        float: left;
+        margin-top: 5px;
+        font-size: 12pt;
+    }
+
+    .ControlKH {
+        width: 20%;
+        float: left;
+    }
+
+    .LabelLoaiDon {
+        width: 88%;
+        float: left;
+        font-size: 12pt;
+    }
+
+
+    .ControlLoaiDon {
+        width: 20%;
+        float: left;
+    }
+
+    .divLabelGiaVe {
+        width: 32%;
+        float: left;
+    }
+
+    .divConTrolGiaVe {
+        width: 26%;
+        float: left;
+    }
+
+    .divGhe {
+        width: 15%;
+        float: left;
+    }
+        .divTien {
+        width: 97%;
+        background: #a3ce4e;
+        padding: 5px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+   .txtTienVe {
+        width: 40%;
+    }
+
+    .divLabelThanhTien {
+        width: 42%;
+        float: left;
+    }
+
+    .divConTrolThanhtien {
+        width: 42%;
+        float: left;
+    }
+
+    .divVND {
+        width: 16%;
+        float: left;
+    }
+    .divLabelTKTien{
+        width:66%;
+        float:left;
+    }
+      .divControlTKTien{
+        width:18%;
+        float:left;
+    }
+        .divLabelTKGhe{
+        width:15%;
+        float:left;
+    }
+        .LabelTien{
+            width:46%;
+            float:left;
+        }
+        .ControlTien{
+            width:42%;
+            float:left;
+        }
+        .LabelD{
+             width:5%;
+            float:left;
+        }
+}
+
+@media (max-width: 320px) {
+   .divLon {
+        width: 100%;
+        float: left;
+    }
+
+    .divThongTinTuyenXe {
+        width: 100%;
+        float: left;
+    }
+
+    .divThongTinKH {
+        width: 100%;
+        float: right;
+    }
+
+    .divDong {
+        width: 99%;
+        float: left;
+        margin-top: 2%;
+    }
+        .divDong1 {
+        margin: 2%;
+        float: left;
+        width: 94%;
+        margin-left: 10px;
+    }
+    .divCon {
+        width: 100%;
+        float: left;
+        margin-top: 1%;
+    }
+    .divCon2 {
+        width:100%;
+        float: left;
+        margin-top: 1%;
+    }
+
+    .divCon1 {
+        width:100%;
+        float: left;
+        margin-top: 1%;
+    }
+
+    .divLabel {
+        width:25%;
+        float: left;
+    }
+
+    .divControl {
+        width: 70%;
+        float: left;
+    }
+     .divLabelLXe {
+        width:25%;
+        float: left;
+    }
+
+    .divControlLXe {
+        width: 71%;
+        float: left;
+    }
+      .divLabelNgay {
+        width: 20%;
+        float: left;
+    }
+
+    .divControlNgay {
+        width: 67%;
+        float: left;
+    }
+
+    .divLabelTX {
+        width: 37%;
+        float: left;
+    }
+
+    .divControlTX {
+        width: 58%;
+        float: left;
+    }
+
+    .droplist {
+        width: 90%;
+        float: left;
+    }
+
+    .buttonthuong {
+        margin: 5px;
+    }
+
+    .buttonSelect {
+        margin: 5px;
+    }
+
+    .lbl {
+        margin-left: 10px;
+    }
+
+    .title{
+   font-size: 11pt !important;
+        background-size: 50px !important;
+}
+    .divCha {
+        width: 100%;
+        float: left;
+    }
+
+    .divradio {
+        width: 30%;
+        float: left;
+    }
+
+    .divradio1 {
+        width: 35%;
+        float: left;
+    }
+    .divbt {
+        width: 20%;
+        float: left;
+        margin: 5px;
+    }
+
+    .hrDen {
+        width: 90%;
+        margin: 5px;
+        font-size: 1px;
+        color: #232121;
+        border: 1px solid #232121;
+        text-align: center;
+    }
+
+    .divKiHieu1 {
+        width:20%;
+        float: left;
+        margin-left:10px;
+    }
+
+    .LabelKH {
+        width: 95%;
+        float: left;
+        margin-top: 5px;
+        font-size: 12pt;
+    }
+
+    .ControlKH {
+        width: 20%;
+        float: left;
+    }
+
+    .LabelLoaiDon {
+        width: 88%;
+        float: left;
+        font-size: 12pt;
+    }
+
+
+    .ControlLoaiDon {
+        width: 20%;
+        float: left;
+    }
+
+    .divLabelGiaVe {
+        width: 32%;
+        float: left;
+    }
+
+    .divConTrolGiaVe {
+        width: 26%;
+        float: left;
+    }
+
+    .divGhe {
+        width: 15%;
+        float: left;
+    }
+        .divTien {
+        width: 97%;
+        background: #a3ce4e;
+        padding: 5px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+   .txtTienVe {
+        width: 40%;
+    }
+
+    .divLabelThanhTien {
+        width: 42%;
+        float: left;
+    }
+
+    .divConTrolThanhtien {
+        width: 42%;
+        float: left;
+    }
+
+    .divVND {
+        width: 16%;
+        float: left;
+    }
+    .divLabelTKTien{
+        width:66%;
+        float:left;
+    }
+      .divControlTKTien{
+        width:18%;
+        float:left;
+    }
+        .divLabelTKGhe{
+        width:15%;
+        float:left;
+    }
+        .LabelTien{
+            width:46%;
+            float:left;
+        }
+        .ControlTien{
+            width:42%;
+            float:left;
+        }
+        .LabelD{
+             width:5%;
+            float:left;
+        }
+}

@@ -1,0 +1,355 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Angle" xml:space="preserve">
+    <value>Angle (degree)</value>
+  </data>
+  <data name="AngleDescription" xml:space="preserve">
+    <value>Angle (degree)   on glavo coordinate</value>
+  </data>
+  <data name="Distance" xml:space="preserve">
+    <value>Distance (mm)</value>
+  </data>
+  <data name="DistanceDescription" xml:space="preserve">
+    <value>Distance (mm)   on glavo coordinate</value>
+  </data>
+  <data name="EndX" xml:space="preserve">
+    <value>End X (mm)</value>
+  </data>
+  <data name="EndXDescription" xml:space="preserve">
+    <value>End X (mm)  on glavo coordinate</value>
+  </data>
+  <data name="EndXPX" xml:space="preserve">
+    <value>End X (px)</value>
+  </data>
+  <data name="EndXPXDescription" xml:space="preserve">
+    <value>End X (px)  on image coordinate</value>
+  </data>
+  <data name="EndY" xml:space="preserve">
+    <value>End Y (mm)</value>
+  </data>
+  <data name="EndYDescription" xml:space="preserve">
+    <value>End Y (mm)  on glavo coordinate</value>
+  </data>
+  <data name="EndYPX" xml:space="preserve">
+    <value>End Y (px)</value>
+  </data>
+  <data name="EndYPXDescription" xml:space="preserve">
+    <value>End Y (px)  on image coordinate</value>
+  </data>
+  <data name="ID" xml:space="preserve">
+    <value>ID</value>
+  </data>
+  <data name="IDDescription" xml:space="preserve">
+    <value>Line ID</value>
+  </data>
+  <data name="JumpDelay" xml:space="preserve">
+    <value>Jump Delay (us)</value>
+  </data>
+  <data name="JumpDelayDescription" xml:space="preserve">
+    <value>Value must in the range [0...327670]</value>
+  </data>
+  <data name="JumpSpeed" xml:space="preserve">
+    <value>Jump Speed (mm/s)</value>
+  </data>
+  <data name="JumpSpeedDescription" xml:space="preserve">
+    <value>Value must in the range [1...50000]</value>
+  </data>
+  <data name="LaserOffDelay" xml:space="preserve">
+    <value>Laser Off Delay (us)</value>
+  </data>
+  <data name="LaserOffDelayDescription" xml:space="preserve">
+    <value>Value must in the range [2...8000]</value>
+  </data>
+  <data name="LaserOnDelay" xml:space="preserve">
+    <value>Laser On Delay (us)</value>
+  </data>
+  <data name="LaserOnDelayDescription" xml:space="preserve">
+    <value>Value must in the range [-8000...8000]</value>
+  </data>
+  <data name="LaserPower" xml:space="preserve">
+    <value>Power (%)</value>
+  </data>
+  <data name="LaserPowerDescription" xml:space="preserve">
+    <value>Laser Power (%)</value>
+  </data>
+  <data name="LaserPRR" xml:space="preserve">
+    <value>PPR (kHz)</value>
+  </data>
+  <data name="LaserPRRDescription" xml:space="preserve">
+    <value>Laser Pulse Repentition Rate (kHz)</value>
+  </data>
+  <data name="MarkDelay" xml:space="preserve">
+    <value>Mark Delay (us)</value>
+  </data>
+  <data name="MarkDelayDescription" xml:space="preserve">
+    <value>Value must in the range [0...327670]</value>
+  </data>
+  <data name="MarkSpeed" xml:space="preserve">
+    <value>Mark Speed (mm/s)</value>
+  </data>
+  <data name="MarkSpeedDescription" xml:space="preserve">
+    <value>Value must in the range [1...50000]</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="NameDescription" xml:space="preserve">
+    <value>Line name</value>
+  </data>
+  <data name="OffsetX" xml:space="preserve">
+    <value>Offset X (mm)</value>
+  </data>
+  <data name="OffsetXDescription" xml:space="preserve">
+    <value>Offset X (mm) on glavo coordinate</value>
+  </data>
+  <data name="OffsetY" xml:space="preserve">
+    <value>Offset Y (mm)</value>
+  </data>
+  <data name="OffsetYDescription" xml:space="preserve">
+    <value>Offset Y (mm)  on glavo coordinate</value>
+  </data>
+  <data name="PolygonDelay" xml:space="preserve">
+    <value>Polygon Delay (us)</value>
+  </data>
+  <data name="PolygonDelayDescription" xml:space="preserve">
+    <value>Value must in the range [0...327670]</value>
+  </data>
+  <data name="RepeatCount" xml:space="preserve">
+    <value>Repeat Count</value>
+  </data>
+  <data name="RepeatCountDescription" xml:space="preserve">
+    <value>Repeat Count</value>
+  </data>
+  <data name="RepeatMode" xml:space="preserve">
+    <value>Repeat Mode</value>
+  </data>
+  <data name="RepeatModeDescription" xml:space="preserve">
+    <value>Mode 1: Start-&gt;End, Start-&gt;End...
+Mode 2: Start-&gt;End, End-&gt;Start,...</value>
+  </data>
+  <data name="StartX" xml:space="preserve">
+    <value>Start X (mm)</value>
+  </data>
+  <data name="StartXDescription" xml:space="preserve">
+    <value>Start X (mm)  on glavo coordinate</value>
+  </data>
+  <data name="StartXPX" xml:space="preserve">
+    <value>Start X (px)</value>
+  </data>
+  <data name="StartXPXDescription" xml:space="preserve">
+    <value>Start X (px)  on image coordinate</value>
+  </data>
+  <data name="StartY" xml:space="preserve">
+    <value>Start Y (mm)</value>
+  </data>
+  <data name="StartYDescription" xml:space="preserve">
+    <value>Start Y (mm)  on glavo coordinate</value>
+  </data>
+  <data name="StartYPX" xml:space="preserve">
+    <value>Start Y (px)</value>
+  </data>
+  <data name="StartYPXDescription" xml:space="preserve">
+    <value>Start Y (px)  on image coordinate</value>
+  </data>
+  <data name="StepDescription" xml:space="preserve">
+    <value>Work step</value>
+  </data>
+  <data name="[Step]" xml:space="preserve">
+    <value>Work step</value>
+  </data>
+  <data name="AngleCategory" xml:space="preserve">
+    <value>Common Parameters</value>
+  </data>
+  <data name="DistanceCategory" xml:space="preserve">
+    <value>Common Parameters</value>
+  </data>
+  <data name="EndXCategory" xml:space="preserve">
+    <value>Common Parameters</value>
+  </data>
+  <data name="EndXPXCategory" xml:space="preserve">
+    <value>Graphic Parameters</value>
+  </data>
+  <data name="EndYCategory" xml:space="preserve">
+    <value>Common Parameters</value>
+  </data>
+  <data name="EndYPXCategory" xml:space="preserve">
+    <value>Graphic Parameters</value>
+  </data>
+  <data name="IDCategory" xml:space="preserve">
+    <value>Common Parameters</value>
+  </data>
+  <data name="JumpDelayCategory" xml:space="preserve">
+    <value>Laser Parameters</value>
+  </data>
+  <data name="JumpSpeedCategory" xml:space="preserve">
+    <value>Laser Parameters</value>
+  </data>
+  <data name="LaserOffDelayCategory" xml:space="preserve">
+    <value>Laser Parameters</value>
+  </data>
+  <data name="LaserOnDelayCategory" xml:space="preserve">
+    <value>Laser Parameters</value>
+  </data>
+  <data name="LaserPowerCategory" xml:space="preserve">
+    <value>Laser Parameters</value>
+  </data>
+  <data name="LaserPRRCategory" xml:space="preserve">
+    <value>Laser Parameters</value>
+  </data>
+  <data name="MarkDelayCategory" xml:space="preserve">
+    <value>Laser Parameters</value>
+  </data>
+  <data name="MarkSpeedCategory" xml:space="preserve">
+    <value>Laser Parameters</value>
+  </data>
+  <data name="NameCategory" xml:space="preserve">
+    <value>Common Parameters</value>
+  </data>
+  <data name="OffsetXCategory" xml:space="preserve">
+    <value>Common Parameters</value>
+  </data>
+  <data name="OffsetYCategory" xml:space="preserve">
+    <value>Common Parameters</value>
+  </data>
+  <data name="PolygonDelayCategory" xml:space="preserve">
+    <value>Laser Parameters</value>
+  </data>
+  <data name="RepeatCountCategory" xml:space="preserve">
+    <value>Laser Parameters</value>
+  </data>
+  <data name="RepeatModeCategory" xml:space="preserve">
+    <value>Laser Parameters</value>
+  </data>
+  <data name="StartXCategory" xml:space="preserve">
+    <value>Common Parameters</value>
+  </data>
+  <data name="StartXPXCategory" xml:space="preserve">
+    <value>Graphic Parameters</value>
+  </data>
+  <data name="StartYCategory" xml:space="preserve">
+    <value>Common Parameters</value>
+  </data>
+  <data name="StartYPXCategory" xml:space="preserve">
+    <value>Graphic Parameters</value>
+  </data>
+  <data name="StepCategory" xml:space="preserve">
+    <value>Common Parameters</value>
+  </data>
+</root>

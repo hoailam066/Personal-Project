@@ -1,0 +1,154 @@
+﻿body {
+}
+
+@media (min-width: 1200px) {
+    .divLon{
+        width:100%;
+        float:left;
+    }
+    .divDong{
+        width:100%;
+        float:left;
+        margin-top:10px;
+    }
+    .divmargintop{
+        margin-top:20px;
+    }
+    .textboxtimkiem{
+        width:40%;
+        margin-top:1%;
+        font-size:15pt;
+        padding:10px;
+    }
+    .title{font-size:16pt;
+           background-size:70px;
+    }
+    .font{font-size:20pt;}
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+     .divLon{
+        width:100%;
+        float:left;
+    }
+    .divDong{
+        width:100%;
+        float:left;
+        margin-top:10px;
+    }
+    .divmargintop{
+        margin-top:20px;
+    }
+    .textboxtimkiem{
+        width:40%;
+        margin-top:1%;
+        font-size:14pt;
+        padding:10px;
+    }
+    .title{font-size:16pt;
+           background-size:70px;
+    }
+    .font{font-size:20pt;}
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+     .divLon{
+        width:100%;
+        float:left;
+    }
+    .divDong{
+        width:100%;
+        float:left;
+        margin-top:10px;
+    }
+    .divmargintop{
+        margin-top:20px;
+    }
+    .textboxtimkiem{
+        width:50%;
+        margin-top:1%;
+        font-size:14pt;
+        padding:10px;
+    }
+     .title{font-size:17pt;
+           background-size:70px;
+    }
+    .font{font-size:20pt;}
+
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+       .divLon{
+        width:100%;
+        float:left;
+    }
+    .divDong{
+        width:100%;
+        float:left;
+        margin-top:10px;
+    }
+    .divmargintop{
+        margin-top:20px;
+    }
+    .textboxtimkiem{
+        width:80%;
+        margin-top:1%;
+        font-size:15pt;
+        padding:10px;
+    }
+     .title{font-size:16pt;
+           background-size:70px;
+    }
+    .font{font-size:18pt;}
+}
+
+@media (min-width: 321px) and (max-width: 480px) {
+       .divLon{
+        width:100%;
+        float:left;
+    }
+    .divDong{
+        width:100%;
+        float:left;
+        margin-top:10px;
+    }
+    .divmargintop{
+        margin-top:20px;
+    }
+    .textboxtimkiem{
+        width:80%;
+     font-size:15pt;
+        padding:10px;
+    }
+     .title{font-size:14pt;
+           background-size:70px;
+    }
+    .font{font-size:16pt;}
+}
+
+@media (max-width: 320px) {
+       .divLon{
+        width:100%;
+        float:left;
+    }
+    .divDong{
+        width:100%;
+        float:left;
+        margin-top:10px;
+    }
+    .divmargintop{
+        margin-top:20px;
+    }
+    .textboxtimkiem{
+        width:80%;
+        margin-top:1%;
+    font-size:13pt;
+        padding:7px;
+    }
+     .title{font-size:13pt;
+           background-size:70px;
+    }
+    .font{font-size:16pt;}
+
+}

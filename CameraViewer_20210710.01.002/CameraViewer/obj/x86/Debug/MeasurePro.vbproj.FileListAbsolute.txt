@@ -1,0 +1,16 @@
+C:\Windows\SysWOW64\MeasurePro.exe
+C:\Windows\SysWOW64\MeasurePro.pdb
+C:\Windows\SysWOW64\MeasurePro.xml
+C:\Users\ALin\Desktop\MeasurePro_20210710.01.001\MeasurePro\bin\Debug\MeasurePro.exe
+C:\Users\ALin\Desktop\MeasurePro_20210710.01.001\MeasurePro\bin\Debug\MeasurePro.pdb
+C:\Users\ALin\Desktop\MeasurePro_20210710.01.001\MeasurePro\bin\Debug\MeasurePro.xml
+C:\Users\ALin\Desktop\MeasurePro_20210710.01.001\MeasurePro\bin\Debug\VisionSystem.dll
+C:\Users\ALin\Desktop\MeasurePro_20210710.01.001\MeasurePro\bin\Debug\VisionSystem.pdb
+C:\Users\ALin\Desktop\MeasurePro_20210710.01.001\MeasurePro\bin\Debug\VisionSystem.xml
+C:\Users\ALin\Desktop\MeasurePro_20210710.01.001\MeasurePro\obj\x86\Debug\MeasurePro.vbprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\MeasurePro_20210710.01.001\MeasurePro\obj\x86\Debug\MeasurePro.FMain.resources
+C:\Users\ALin\Desktop\MeasurePro_20210710.01.001\MeasurePro\obj\x86\Debug\MeasurePro.Resources.resources
+C:\Users\ALin\Desktop\MeasurePro_20210710.01.001\MeasurePro\obj\x86\Debug\MeasurePro.vbproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\MeasurePro_20210710.01.001\MeasurePro\obj\x86\Debug\MeasurePro.exe
+C:\Users\ALin\Desktop\MeasurePro_20210710.01.001\MeasurePro\obj\x86\Debug\MeasurePro.xml
+C:\Users\ALin\Desktop\MeasurePro_20210710.01.001\MeasurePro\obj\x86\Debug\MeasurePro.pdb

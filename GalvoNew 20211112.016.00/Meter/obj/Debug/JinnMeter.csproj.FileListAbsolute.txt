@@ -1,0 +1,692 @@
+C:\Users\Naoki\AppData\Local\Temporary Projects\JinnMeter\bin\Debug\JinnMeter.exe.config
+D:\升億\311.研發-程式-原始碼\晶創\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+D:\升億\311.研發-程式-原始碼\晶創\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csprojResolveAssemblyReference.cache
+D:\升億\311.研發-程式-原始碼\晶創\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form1.resources
+D:\升億\311.研發-程式-原始碼\晶創\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Properties.Resources.resources
+D:\升億\311.研發-程式-原始碼\晶創\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+D:\升億\311.研發-程式-原始碼\晶創\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe
+D:\升億\311.研發-程式-原始碼\晶創\JinnMeter\JinnMeter\bin\Debug\JinnMeter.pdb
+D:\升億\311.研發-程式-原始碼\晶創\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+D:\升億\311.研發-程式-原始碼\晶創\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+D:\升億\311.研發-程式-原始碼\晶創\JinnMeter\JinnMeter\obj\Debug\JinnMeter.MainProcess.Form2.resources
+C:\Users\User\Desktop\Galvo\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\User\Desktop\Galvo\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe
+C:\Users\User\Desktop\Galvo\JinnMeter\JinnMeter\bin\Debug\JinnMeter.pdb
+C:\Users\User\Desktop\Galvo\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\User\Desktop\Galvo\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\User\Desktop\Galvo\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\User\Desktop\Galvo\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Galvo\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\User\Desktop\Galvo\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form2.resources
+C:\Users\User\Desktop\Galvo\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\User\Desktop\Galvo\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Galvo\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\User\Desktop\Galvo\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\Naoki\Desktop\Galvo\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\Naoki\Desktop\Galvo\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\Naoki\Desktop\Galvo\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\User\Desktop\Galvo 20170328.00.001\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\User\Desktop\Galvo 20170328.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\User\Desktop\Galvo 20170328.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\User\Desktop\Galvo 20170328.00.001\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe
+C:\Users\User\Desktop\Galvo 20170328.00.001\JinnMeter\JinnMeter\bin\Debug\JinnMeter.pdb
+C:\Users\User\Desktop\Galvo 20170328.00.001\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\User\Desktop\Galvo 20170328.00.001\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\User\Desktop\Galvo 20170328.00.001\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\User\Desktop\Galvo 20170328.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Galvo 20170328.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\User\Desktop\Galvo 20170328.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form2.resources
+C:\Users\User\Desktop\Galvo 20170328.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\User\Desktop\Galvo 20170328.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Galvo 20170406.00.001\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\User\Desktop\Galvo 20170406.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\User\Desktop\Galvo 20170406.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\User\Desktop\Galvo 20170406.00.001\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe
+C:\Users\User\Desktop\Galvo 20170406.00.001\JinnMeter\JinnMeter\bin\Debug\JinnMeter.pdb
+C:\Users\User\Desktop\Galvo 20170406.00.001\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\User\Desktop\Galvo 20170406.00.001\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\User\Desktop\Galvo 20170406.00.001\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\User\Desktop\Galvo 20170406.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Galvo 20170406.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\User\Desktop\Galvo 20170406.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form2.resources
+C:\Users\User\Desktop\Galvo 20170406.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\User\Desktop\Galvo 20170406.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+C:\Users\NaotarouSo\Desktop\Galvo 20170406.00.001\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\NaotarouSo\Desktop\Galvo 20170406.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\NaotarouSo\Desktop\Galvo 20170406.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\NaotarouSo\Desktop\Galvo 20170406.00.001\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe
+C:\Users\NaotarouSo\Desktop\Galvo 20170406.00.001\JinnMeter\JinnMeter\bin\Debug\JinnMeter.pdb
+C:\Users\NaotarouSo\Desktop\Galvo 20170406.00.001\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\NaotarouSo\Desktop\Galvo 20170406.00.001\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\NaotarouSo\Desktop\Galvo 20170406.00.001\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\NaotarouSo\Desktop\Galvo 20170406.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csprojResolveAssemblyReference.cache
+C:\Users\NaotarouSo\Desktop\Galvo 20170406.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\NaotarouSo\Desktop\Galvo 20170406.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form2.resources
+C:\Users\NaotarouSo\Desktop\Galvo 20170406.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\NaotarouSo\Desktop\Galvo 20170406.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Galvo 20170411.00.001\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\User\Desktop\Galvo 20170411.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\User\Desktop\Galvo 20170411.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\User\Desktop\Galvo 20170411.00.001\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe
+C:\Users\User\Desktop\Galvo 20170411.00.001\JinnMeter\JinnMeter\bin\Debug\JinnMeter.pdb
+C:\Users\User\Desktop\Galvo 20170411.00.001\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\User\Desktop\Galvo 20170411.00.001\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\User\Desktop\Galvo 20170411.00.001\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\User\Desktop\Galvo 20170411.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Galvo 20170411.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\User\Desktop\Galvo 20170411.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form2.resources
+C:\Users\User\Desktop\Galvo 20170411.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\User\Desktop\Galvo 20170411.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+C:\Users\NaotarouSo\Desktop\Galvo 20170411.00.001\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\NaotarouSo\Desktop\Galvo 20170411.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\NaotarouSo\Desktop\Galvo 20170411.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\User\Desktop\Galvo 20170412.00.001\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\User\Desktop\Galvo 20170412.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\User\Desktop\Galvo 20170412.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\User\Desktop\Galvo 20170412.00.001\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe
+C:\Users\User\Desktop\Galvo 20170412.00.001\JinnMeter\JinnMeter\bin\Debug\JinnMeter.pdb
+C:\Users\User\Desktop\Galvo 20170412.00.001\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\User\Desktop\Galvo 20170412.00.001\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\User\Desktop\Galvo 20170412.00.001\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\User\Desktop\Galvo 20170412.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Galvo 20170412.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\User\Desktop\Galvo 20170412.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form2.resources
+C:\Users\User\Desktop\Galvo 20170412.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\User\Desktop\Galvo 20170412.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+C:\Users\NaotarouSo\Desktop\Galvo 20170412.00.001\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\NaotarouSo\Desktop\Galvo 20170412.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\NaotarouSo\Desktop\Galvo 20170412.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\User\Desktop\Galvo 20170413.00.001\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\User\Desktop\Galvo 20170413.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\User\Desktop\Galvo 20170413.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\User\Desktop\Galvo 20170413.00.001\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe
+C:\Users\User\Desktop\Galvo 20170413.00.001\JinnMeter\JinnMeter\bin\Debug\JinnMeter.pdb
+C:\Users\User\Desktop\Galvo 20170413.00.001\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\User\Desktop\Galvo 20170413.00.001\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\User\Desktop\Galvo 20170413.00.001\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\User\Desktop\Galvo 20170413.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Galvo 20170413.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\User\Desktop\Galvo 20170413.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form2.resources
+C:\Users\User\Desktop\Galvo 20170413.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\User\Desktop\Galvo 20170413.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+C:\Users\NaotarouSo\Desktop\Galvo 20170413.00.001\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\NaotarouSo\Desktop\Galvo 20170413.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\NaotarouSo\Desktop\Galvo 20170413.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\User\Desktop\Galvo 20170414.00.001\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\User\Desktop\Galvo 20170414.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\User\Desktop\Galvo 20170414.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\User\Desktop\Galvo 20170414.00.001\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe
+C:\Users\User\Desktop\Galvo 20170414.00.001\JinnMeter\JinnMeter\bin\Debug\JinnMeter.pdb
+C:\Users\User\Desktop\Galvo 20170414.00.001\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\User\Desktop\Galvo 20170414.00.001\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\User\Desktop\Galvo 20170414.00.001\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\User\Desktop\Galvo 20170414.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Galvo 20170414.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\User\Desktop\Galvo 20170414.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form2.resources
+C:\Users\User\Desktop\Galvo 20170414.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\User\Desktop\Galvo 20170414.00.001\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Galvo 20170414.00.002\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\User\Desktop\Galvo 20170414.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\User\Desktop\Galvo 20170414.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\User\Desktop\Galvo 20170414.00.002\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe
+C:\Users\User\Desktop\Galvo 20170414.00.002\JinnMeter\JinnMeter\bin\Debug\JinnMeter.pdb
+C:\Users\User\Desktop\Galvo 20170414.00.002\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\User\Desktop\Galvo 20170414.00.002\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\User\Desktop\Galvo 20170414.00.002\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\User\Desktop\Galvo 20170414.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Galvo 20170414.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\User\Desktop\Galvo 20170414.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form2.resources
+C:\Users\User\Desktop\Galvo 20170414.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\User\Desktop\Galvo 20170414.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Galvo 20170417.00.002\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\User\Desktop\Galvo 20170417.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\User\Desktop\Galvo 20170417.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\User\Desktop\Galvo 20170417.00.002\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe
+C:\Users\User\Desktop\Galvo 20170417.00.002\JinnMeter\JinnMeter\bin\Debug\JinnMeter.pdb
+C:\Users\User\Desktop\Galvo 20170417.00.002\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\User\Desktop\Galvo 20170417.00.002\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\User\Desktop\Galvo 20170417.00.002\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\User\Desktop\Galvo 20170417.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Galvo 20170417.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\User\Desktop\Galvo 20170417.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form2.resources
+C:\Users\User\Desktop\Galvo 20170417.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\User\Desktop\Galvo 20170417.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+C:\Users\Naoki\Desktop\Galvo 20170417.00.002\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\Naoki\Desktop\Galvo 20170417.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\Naoki\Desktop\Galvo 20170417.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\User\Desktop\Galvo 20170424.00.002\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\User\Desktop\Galvo 20170424.00.002\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe
+C:\Users\User\Desktop\Galvo 20170424.00.002\JinnMeter\JinnMeter\bin\Debug\JinnMeter.pdb
+C:\Users\User\Desktop\Galvo 20170424.00.002\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\User\Desktop\Galvo 20170424.00.002\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\User\Desktop\Galvo 20170424.00.002\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\User\Desktop\Galvo 20170424.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Galvo 20170424.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\User\Desktop\Galvo 20170424.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form2.resources
+C:\Users\User\Desktop\Galvo 20170424.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\User\Desktop\Galvo 20170424.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Galvo 20170424.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\User\Desktop\Galvo 20170424.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\SEN-EI\Desktop\Galvo 20170424.00.002\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\SEN-EI\Desktop\Galvo 20170424.00.002\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe
+C:\Users\SEN-EI\Desktop\Galvo 20170424.00.002\JinnMeter\JinnMeter\bin\Debug\JinnMeter.pdb
+C:\Users\SEN-EI\Desktop\Galvo 20170424.00.002\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\SEN-EI\Desktop\Galvo 20170424.00.002\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\SEN-EI\Desktop\Galvo 20170424.00.002\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\SEN-EI\Desktop\Galvo 20170424.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csprojResolveAssemblyReference.cache
+C:\Users\SEN-EI\Desktop\Galvo 20170424.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\SEN-EI\Desktop\Galvo 20170424.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form2.resources
+C:\Users\SEN-EI\Desktop\Galvo 20170424.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\SEN-EI\Desktop\Galvo 20170424.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+C:\Users\SEN-EI\Desktop\Galvo 20170424.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\SEN-EI\Desktop\Galvo 20170424.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\Naoki\Desktop\Galvo 20170821.00.002\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\Naoki\Desktop\Galvo 20170821.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\Naoki\Desktop\Galvo 20170821.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\Naoki\Desktop\Galvo 20170821.00.002\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe
+C:\Users\Naoki\Desktop\Galvo 20170821.00.002\JinnMeter\JinnMeter\bin\Debug\JinnMeter.pdb
+C:\Users\Naoki\Desktop\Galvo 20170821.00.002\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\Naoki\Desktop\Galvo 20170821.00.002\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\Naoki\Desktop\Galvo 20170821.00.002\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\Naoki\Desktop\Galvo 20170821.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csprojResolveAssemblyReference.cache
+C:\Users\Naoki\Desktop\Galvo 20170821.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\Naoki\Desktop\Galvo 20170821.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form2.resources
+C:\Users\Naoki\Desktop\Galvo 20170821.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\Naoki\Desktop\Galvo 20170821.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Galvo 20170821.00.002\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\User\Desktop\Galvo 20170821.00.002\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe
+C:\Users\User\Desktop\Galvo 20170821.00.002\JinnMeter\JinnMeter\bin\Debug\JinnMeter.pdb
+C:\Users\User\Desktop\Galvo 20170821.00.002\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\User\Desktop\Galvo 20170821.00.002\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\User\Desktop\Galvo 20170821.00.002\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\User\Desktop\Galvo 20170821.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Galvo 20170821.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\User\Desktop\Galvo 20170821.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form2.resources
+C:\Users\User\Desktop\Galvo 20170821.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\User\Desktop\Galvo 20170821.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Galvo 20170821.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\User\Desktop\Galvo 20170821.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\User\Desktop\Galvo 20170914.00.002\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\User\Desktop\Galvo 20170914.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\User\Desktop\Galvo 20170914.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\User\Desktop\Galvo 20170914.00.002\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe
+C:\Users\User\Desktop\Galvo 20170914.00.002\JinnMeter\JinnMeter\bin\Debug\JinnMeter.pdb
+C:\Users\User\Desktop\Galvo 20170914.00.002\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\User\Desktop\Galvo 20170914.00.002\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\User\Desktop\Galvo 20170914.00.002\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\User\Desktop\Galvo 20170914.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Galvo 20170914.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\User\Desktop\Galvo 20170914.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form2.resources
+C:\Users\User\Desktop\Galvo 20170914.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\User\Desktop\Galvo 20170914.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Galvo 20171012.00.002\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\User\Desktop\Galvo 20171012.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\User\Desktop\Galvo 20171012.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\User\Desktop\Galvo 20171012.00.002\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe
+C:\Users\User\Desktop\Galvo 20171012.00.002\JinnMeter\JinnMeter\bin\Debug\JinnMeter.pdb
+C:\Users\User\Desktop\Galvo 20171012.00.002\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\User\Desktop\Galvo 20171012.00.002\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\User\Desktop\Galvo 20171012.00.002\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\User\Desktop\Galvo 20171012.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Galvo 20171012.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\User\Desktop\Galvo 20171012.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form2.resources
+C:\Users\User\Desktop\Galvo 20171012.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\User\Desktop\Galvo 20171012.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Galvo 20171020.00.002\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\User\Desktop\Galvo 20171020.00.002\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe
+C:\Users\User\Desktop\Galvo 20171020.00.002\JinnMeter\JinnMeter\bin\Debug\JinnMeter.pdb
+C:\Users\User\Desktop\Galvo 20171020.00.002\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\User\Desktop\Galvo 20171020.00.002\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\User\Desktop\Galvo 20171020.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\User\Desktop\Galvo 20171020.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form2.resources
+C:\Users\User\Desktop\Galvo 20171020.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\User\Desktop\Galvo 20171020.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Galvo 20171020.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\User\Desktop\Galvo 20171020.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\User\Desktop\Galvo 20171020.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csprojResolveAssemblyReference.cache
+C:\Users\Naoki\Desktop\Galvo 20171031.00.002\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\Naoki\Desktop\Galvo 20171031.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\Naoki\Desktop\Galvo 20171031.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\Naoki\Desktop\Galvo 20171031.00.002\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe
+C:\Users\Naoki\Desktop\Galvo 20171031.00.002\JinnMeter\JinnMeter\bin\Debug\JinnMeter.pdb
+C:\Users\Naoki\Desktop\Galvo 20171031.00.002\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\Naoki\Desktop\Galvo 20171031.00.002\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\Naoki\Desktop\Galvo 20171031.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csprojResolveAssemblyReference.cache
+C:\Users\Naoki\Desktop\Galvo 20171031.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\Naoki\Desktop\Galvo 20171031.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form2.resources
+C:\Users\Naoki\Desktop\Galvo 20171031.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\Naoki\Desktop\Galvo 20171031.00.002\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Galvo 20171031.00.003\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\USER\Desktop\Galvo 20171031.00.003\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe
+C:\Users\USER\Desktop\Galvo 20171031.00.003\JinnMeter\JinnMeter\bin\Debug\JinnMeter.pdb
+C:\Users\USER\Desktop\Galvo 20171031.00.003\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\USER\Desktop\Galvo 20171031.00.003\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\USER\Desktop\Galvo 20171031.00.003\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Galvo 20171031.00.003\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\USER\Desktop\Galvo 20171031.00.003\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form2.resources
+C:\Users\USER\Desktop\Galvo 20171031.00.003\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\USER\Desktop\Galvo 20171031.00.003\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Galvo 20171031.00.003\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\USER\Desktop\Galvo 20171031.00.003\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\User\Desktop\Galvo 20171031.00.004\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\User\Desktop\Galvo 20171031.00.004\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\User\Desktop\Galvo 20171031.00.004\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\User\Desktop\Galvo 20171031.00.004\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe
+C:\Users\User\Desktop\Galvo 20171031.00.004\JinnMeter\JinnMeter\bin\Debug\JinnMeter.pdb
+C:\Users\User\Desktop\Galvo 20171031.00.004\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\User\Desktop\Galvo 20171031.00.004\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\User\Desktop\Galvo 20171031.00.004\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Galvo 20171031.00.004\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\User\Desktop\Galvo 20171031.00.004\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form2.resources
+C:\Users\User\Desktop\Galvo 20171031.00.004\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\User\Desktop\Galvo 20171031.00.004\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Galvo 20171031.00.005\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe
+C:\Users\User\Desktop\Galvo 20171031.00.005\JinnMeter\JinnMeter\bin\Debug\JinnMeter.pdb
+C:\Users\User\Desktop\Galvo 20171031.00.005\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\User\Desktop\Galvo 20171031.00.005\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\User\Desktop\Galvo 20171031.00.005\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\User\Desktop\Galvo 20171031.00.005\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\User\Desktop\Galvo 20171031.00.005\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form2.resources
+C:\Users\User\Desktop\Galvo 20171031.00.005\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\User\Desktop\Galvo 20171031.00.005\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Galvo 20171031.00.005\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\User\Desktop\Galvo 20171031.00.005\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\User\Desktop\Galvo 20171031.00.005\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Galvo 20171031.00.005(最終穩定版)\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\User\Desktop\Galvo 20171031.00.005(最終穩定版)\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\User\Desktop\Galvo 20171031.00.005(最終穩定版)\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\User\Desktop\Galvo 20171031.00.005(最終穩定版)\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe
+C:\Users\User\Desktop\Galvo 20171031.00.005(最終穩定版)\JinnMeter\JinnMeter\bin\Debug\JinnMeter.pdb
+C:\Users\User\Desktop\Galvo 20171031.00.005(最終穩定版)\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\User\Desktop\Galvo 20171031.00.005(最終穩定版)\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\User\Desktop\Galvo 20171031.00.005(最終穩定版)\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Galvo 20171031.00.005(最終穩定版)\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\User\Desktop\Galvo 20171031.00.005(最終穩定版)\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form2.resources
+C:\Users\User\Desktop\Galvo 20171031.00.005(最終穩定版)\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\User\Desktop\Galvo 20171031.00.005(最終穩定版)\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Galvo 20171031.00.005(最終穩定版) - 複製\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\User\Desktop\Galvo 20171031.00.005(最終穩定版) - 複製\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe
+C:\Users\User\Desktop\Galvo 20171031.00.005(最終穩定版) - 複製\JinnMeter\JinnMeter\bin\Debug\JinnMeter.pdb
+C:\Users\User\Desktop\Galvo 20171031.00.005(最終穩定版) - 複製\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\User\Desktop\Galvo 20171031.00.005(最終穩定版) - 複製\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\User\Desktop\Galvo 20171031.00.005(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Galvo 20171031.00.005(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\User\Desktop\Galvo 20171031.00.005(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form2.resources
+C:\Users\User\Desktop\Galvo 20171031.00.005(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\User\Desktop\Galvo 20171031.00.005(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Galvo 20171031.00.005(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\User\Desktop\Galvo 20171031.00.005(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+G:\Galvo 20171031.00.007(最終穩定版) - 複製\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+G:\Galvo 20171031.00.007(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+G:\Galvo 20171031.00.007(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+G:\Galvo 20171031.00.007(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csprojResolveAssemblyReference.cache
+G:\Galvo 20171031.00.007(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form1.resources
+G:\Galvo 20171031.00.007(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form2.resources
+G:\Galvo 20171031.00.007(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Properties.Resources.resources
+G:\Galvo 20171031.00.007(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+G:\Galvo 20171031.00.007(最終穩定版) - 複製\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe
+G:\Galvo 20171031.00.007(最終穩定版) - 複製\JinnMeter\JinnMeter\bin\Debug\JinnMeter.pdb
+G:\Galvo 20171031.00.007(最終穩定版) - 複製\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.dll
+G:\Galvo 20171031.00.007(最終穩定版) - 複製\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.pdb
+G:\Galvo 20171031.00.007(最終穩定版) - 複製\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\User\Desktop\Galvo 20171031.00.007(最終穩定版) - 複製\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\User\Desktop\Galvo 20171031.00.007(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\User\Desktop\Galvo 20171031.00.007(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\User\Desktop\Galvo 20171031.00.007(最終穩定版) - 複製\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe
+C:\Users\User\Desktop\Galvo 20171031.00.007(最終穩定版) - 複製\JinnMeter\JinnMeter\bin\Debug\JinnMeter.pdb
+C:\Users\User\Desktop\Galvo 20171031.00.007(最終穩定版) - 複製\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\User\Desktop\Galvo 20171031.00.007(最終穩定版) - 複製\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\User\Desktop\Galvo 20171031.00.007(最終穩定版) - 複製\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\User\Desktop\Galvo 20171031.00.007(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Galvo 20171031.00.007(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\User\Desktop\Galvo 20171031.00.007(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form2.resources
+C:\Users\User\Desktop\Galvo 20171031.00.007(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\User\Desktop\Galvo 20171031.00.007(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Galvo 20171031.00.008(最終穩定版) - 複製\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\User\Desktop\Galvo 20171031.00.008(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\User\Desktop\Galvo 20171031.00.008(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\User\Desktop\Galvo 20171031.00.008(最終穩定版) - 複製\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe
+C:\Users\User\Desktop\Galvo 20171031.00.008(最終穩定版) - 複製\JinnMeter\JinnMeter\bin\Debug\JinnMeter.pdb
+C:\Users\User\Desktop\Galvo 20171031.00.008(最終穩定版) - 複製\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\User\Desktop\Galvo 20171031.00.008(最終穩定版) - 複製\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\User\Desktop\Galvo 20171031.00.008(最終穩定版) - 複製\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\User\Desktop\Galvo 20171031.00.008(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Galvo 20171031.00.008(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\User\Desktop\Galvo 20171031.00.008(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form2.resources
+C:\Users\User\Desktop\Galvo 20171031.00.008(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\User\Desktop\Galvo 20171031.00.008(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Galvo 20171031.00.009(最終穩定版) - 複製\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\User\Documents\Galvo 20171031.00.009(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\User\Documents\Galvo 20171031.00.009(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\User\Documents\Galvo 20171031.00.009(最終穩定版) - 複製\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe
+C:\Users\User\Documents\Galvo 20171031.00.009(最終穩定版) - 複製\JinnMeter\JinnMeter\bin\Debug\JinnMeter.pdb
+C:\Users\User\Documents\Galvo 20171031.00.009(最終穩定版) - 複製\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\User\Documents\Galvo 20171031.00.009(最終穩定版) - 複製\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\User\Documents\Galvo 20171031.00.009(最終穩定版) - 複製\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\User\Documents\Galvo 20171031.00.009(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Galvo 20171031.00.009(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\User\Documents\Galvo 20171031.00.009(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form2.resources
+C:\Users\User\Documents\Galvo 20171031.00.009(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\User\Documents\Galvo 20171031.00.009(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Galvo 20171031.00.010(最終穩定版) - 複製\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\User\Documents\Galvo 20171031.00.010(最終穩定版) - 複製\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe
+C:\Users\User\Documents\Galvo 20171031.00.010(最終穩定版) - 複製\JinnMeter\JinnMeter\bin\Debug\JinnMeter.pdb
+C:\Users\User\Documents\Galvo 20171031.00.010(最終穩定版) - 複製\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\User\Documents\Galvo 20171031.00.010(最終穩定版) - 複製\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\User\Documents\Galvo 20171031.00.010(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Galvo 20171031.00.010(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\User\Documents\Galvo 20171031.00.010(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form2.resources
+C:\Users\User\Documents\Galvo 20171031.00.010(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\User\Documents\Galvo 20171031.00.010(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Galvo 20171031.00.010(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\User\Documents\Galvo 20171031.00.010(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\User\Documents\Galvo 20171031.00.010(最終穩定版) - 複製\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\User\Documents\Galvo 20180227.00.011(最終穩定版) - 複製\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\User\Documents\Galvo 20180227.00.011(最終穩定版) - 複製\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe
+C:\Users\User\Documents\Galvo 20180227.00.011(最終穩定版) - 複製\JinnMeter\JinnMeter\bin\Debug\JinnMeter.pdb
+C:\Users\User\Documents\Galvo 20180227.00.011(最終穩定版) - 複製\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\User\Documents\Galvo 20180227.00.011(最終穩定版) - 複製\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\User\Documents\Galvo 20180227.00.011(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Galvo 20180227.00.011(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\User\Documents\Galvo 20180227.00.011(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form2.resources
+C:\Users\User\Documents\Galvo 20180227.00.011(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\User\Documents\Galvo 20180227.00.011(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Galvo 20180227.00.011(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\User\Documents\Galvo 20180227.00.011(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\User\Documents\Galvo 20180227.00.011(最終穩定版) - 複製\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\User\Documents\Galvo 20180228.00.011(最終穩定版) - 複製\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\User\Documents\Galvo 20180228.00.011(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\User\Documents\Galvo 20180228.00.011(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\User\Documents\Galvo 20180228.00.011(最終穩定版) - 複製\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe
+C:\Users\User\Documents\Galvo 20180228.00.011(最終穩定版) - 複製\JinnMeter\JinnMeter\bin\Debug\JinnMeter.pdb
+C:\Users\User\Documents\Galvo 20180228.00.011(最終穩定版) - 複製\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\User\Documents\Galvo 20180228.00.011(最終穩定版) - 複製\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\User\Documents\Galvo 20180228.00.011(最終穩定版) - 複製\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\User\Documents\Galvo 20180228.00.011(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Galvo 20180228.00.011(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\User\Documents\Galvo 20180228.00.011(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form2.resources
+C:\Users\User\Documents\Galvo 20180228.00.011(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\User\Documents\Galvo 20180228.00.011(最終穩定版) - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Galvo 20180228.00.011(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\User\Desktop\Galvo 20180228.00.011(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\User\Desktop\Galvo 20180228.00.011(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\User\Desktop\Galvo 20180228.00.011(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe
+C:\Users\User\Desktop\Galvo 20180228.00.011(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\bin\Debug\JinnMeter.pdb
+C:\Users\User\Desktop\Galvo 20180228.00.011(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\User\Desktop\Galvo 20180228.00.011(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\User\Desktop\Galvo 20180228.00.011(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\User\Desktop\Galvo 20180228.00.011(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Galvo 20180228.00.011(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\User\Desktop\Galvo 20180228.00.011(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form2.resources
+C:\Users\User\Desktop\Galvo 20180228.00.011(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\User\Desktop\Galvo 20180228.00.011(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Galvo 20180403.00.011(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\User\Desktop\Galvo 20180403.00.011(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\User\Desktop\Galvo 20180403.00.011(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\User\Desktop\Galvo 20180403.00.011(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Galvo 20180403.00.011(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\User\Desktop\Galvo 20180403.00.011(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\User\Desktop\Galvo 20180403.00.011(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Galvo 20180403.00.011(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe
+C:\Users\User\Desktop\Galvo 20180403.00.011(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\bin\Debug\JinnMeter.pdb
+C:\Users\User\Desktop\Galvo 20180403.00.011(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\User\Desktop\Galvo 20180403.00.011(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\User\Desktop\Galvo 20180403.00.011(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\User\Documents\Galvo 20180403.00.011(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\User\Documents\Galvo 20180403.00.011(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe
+C:\Users\User\Documents\Galvo 20180403.00.011(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\bin\Debug\JinnMeter.pdb
+C:\Users\User\Documents\Galvo 20180403.00.011(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\User\Documents\Galvo 20180403.00.011(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\bin\Debug\ZedGraph.dll
+C:\Users\User\Documents\Galvo 20180403.00.011(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Galvo 20180403.00.011(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\User\Documents\Galvo 20180403.00.011(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\User\Documents\Galvo 20180403.00.011(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Galvo 20180403.00.011(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\User\Documents\Galvo 20180403.00.011(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\User\Documents\Galvo 20180403.00.015(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\User\Documents\Galvo 20180403.00.015(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\User\Documents\Galvo 20180403.00.015(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\User\Documents\Galvo 20180403.00.015(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe
+C:\Users\User\Documents\Galvo 20180403.00.015(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\bin\Debug\JinnMeter.pdb
+C:\Users\User\Documents\Galvo 20180403.00.015(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\User\Documents\Galvo 20180403.00.015(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\bin\Debug\ZedGraph.dll
+C:\Users\User\Documents\Galvo 20180403.00.015(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Galvo 20180403.00.015(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\User\Documents\Galvo 20180403.00.015(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\User\Documents\Galvo 20180403.00.015(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Galvo 20180426.00.016(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\User\Documents\Galvo 20180426.00.016(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe
+C:\Users\User\Documents\Galvo 20180426.00.016(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\bin\Debug\JinnMeter.pdb
+C:\Users\User\Documents\Galvo 20180426.00.016(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\User\Documents\Galvo 20180426.00.016(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\bin\Debug\ZedGraph.dll
+C:\Users\User\Documents\Galvo 20180426.00.016(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Galvo 20180426.00.016(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\User\Documents\Galvo 20180426.00.016(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\User\Documents\Galvo 20180426.00.016(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Galvo 20180426.00.016(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\User\Documents\Galvo 20180426.00.016(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\MyUser\Documents\Galvo 20180426.00.016(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\MyUser\Documents\Galvo 20180426.00.016(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\MyUser\Documents\Galvo 20180426.00.016(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\MyUser\Documents\Galvo 20180426.00.016(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csprojResolveAssemblyReference.cache
+C:\Users\MyUser\Documents\Galvo 20180426.00.016(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\MyUser\Documents\Galvo 20180426.00.016(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\MyUser\Documents\Galvo 20180426.00.016(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+C:\Users\MyUser\Documents\Galvo 20180426.00.016(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe
+C:\Users\MyUser\Documents\Galvo 20180426.00.016(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\bin\Debug\JinnMeter.pdb
+C:\Users\MyUser\Documents\Galvo 20180426.00.016(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\MyUser\Documents\Galvo 20180426.00.016(最終穩定版)16bit - 複製\JinnMeter\JinnMeter\bin\Debug\ZedGraph.dll
+D:\修組機程式需整合\Galvo 20180426.00.016(最終穩定版)16bit - 複製 1111\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+D:\修組機程式需整合\Galvo 20180426.00.016(最終穩定版)16bit - 複製 1111\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+D:\修組機程式需整合\Galvo 20180426.00.016(最終穩定版)16bit - 複製 1111\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+D:\修組機程式需整合\Galvo 20180426.00.016(最終穩定版)16bit - 複製 1111\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe
+D:\修組機程式需整合\Galvo 20180426.00.016(最終穩定版)16bit - 複製 1111\JinnMeter\JinnMeter\bin\Debug\JinnMeter.pdb
+D:\修組機程式需整合\Galvo 20180426.00.016(最終穩定版)16bit - 複製 1111\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csprojResolveAssemblyReference.cache
+D:\修組機程式需整合\Galvo 20180426.00.016(最終穩定版)16bit - 複製 1111\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form1.resources
+D:\修組機程式需整合\Galvo 20180426.00.016(最終穩定版)16bit - 複製 1111\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Properties.Resources.resources
+D:\修組機程式需整合\Galvo 20180426.00.016(最終穩定版)16bit - 複製 1111\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+D:\升億\311.研發-程式-原始碼\大毅~T1修阻機 for SenEi\Galvo 20180601.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+D:\升億\311.研發-程式-原始碼\大毅~T1修阻機 for SenEi\Galvo 20180601.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+D:\升億\311.研發-程式-原始碼\大毅~T1修阻機 for SenEi\Galvo 20180601.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\NaokiSo\Desktop\Galvo 20180601.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\NaokiSo\Desktop\Galvo 20180601.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe
+C:\Users\NaokiSo\Desktop\Galvo 20180601.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\bin\Debug\JinnMeter.pdb
+C:\Users\NaokiSo\Desktop\Galvo 20180601.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\bin\Debug\Automation.BDaq4.dll
+C:\Users\NaokiSo\Desktop\Galvo 20180601.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\NaokiSo\Desktop\Galvo 20180601.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\NaokiSo\Desktop\Galvo 20180601.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+C:\Users\NaokiSo\Desktop\Galvo 20180601.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\NaokiSo\Desktop\Galvo 20180601.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\KFACFA\Desktop\Galvo 20180601.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\KFACFA\Desktop\Galvo 20180601.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe
+C:\Users\KFACFA\Desktop\Galvo 20180601.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\bin\Debug\JinnMeter.pdb
+C:\Users\KFACFA\Desktop\Galvo 20180601.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\bin\Debug\Automation.BDaq4.dll
+C:\Users\KFACFA\Desktop\Galvo 20180601.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\KFACFA\Desktop\Galvo 20180601.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\KFACFA\Desktop\Galvo 20180601.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\KFACFA\Desktop\Galvo 20180601.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csprojResolveAssemblyReference.cache
+C:\Users\KFACFA\Desktop\Galvo 20180601.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\KFACFA\Desktop\Galvo 20180601.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\KFACFA\Desktop\Galvo 20180601.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+C:\Users\KFACFA\Desktop\Galvo 20180601.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\KFACFA\Desktop\Galvo 20180601.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\KFACFA\Desktop\Galvo 20180620.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe
+C:\Users\KFACFA\Desktop\Galvo 20180620.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.dll
+D:\升億\311.研發-程式-原始碼\大毅~T1修阻機\DTRM125-93\Galvo 20180620.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+D:\升億\311.研發-程式-原始碼\大毅~T1修阻機\DTRM125-93\Galvo 20180620.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+D:\升億\311.研發-程式-原始碼\大毅~T1修阻機\DTRM125-93\Galvo 20180620.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+D:\Galvo 20180620.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+D:\Galvo 20180620.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe
+D:\Galvo 20180620.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\bin\Debug\JinnMeter.pdb
+D:\Galvo 20180620.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.dll
+D:\Galvo 20180620.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.pdb
+D:\Galvo 20180620.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.xml
+D:\Galvo 20180620.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csprojResolveAssemblyReference.cache
+D:\Galvo 20180620.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form1.resources
+D:\Galvo 20180620.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Properties.Resources.resources
+D:\Galvo 20180620.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+D:\Galvo 20180620.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+D:\Galvo 20180620.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\KFACFA\Desktop\Galvo 20180620.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\bin\Debug\Automation.BDaq4.dll
+C:\Users\KFACFA\Desktop\Galvo 20180620.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\KFACFA\Desktop\Galvo 20180620.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\KFACFA\Desktop\Galvo 20180620.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csprojResolveAssemblyReference.cache
+C:\Users\KFACFA\Desktop\Galvo 20180620.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\KFACFA\Desktop\Galvo 20180620.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\KFACFA\Desktop\Galvo 20180620.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+C:\Users\KFACFA\Desktop\Galvo 20180620.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\KFACFA\Desktop\Galvo 20180620.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\KFACFA\Desktop\Galvo 20180620.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\KFACFA\Desktop\Galvo 20180620.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\bin\Debug\JinnMeter.pdb
+C:\Users\KFACFA\Desktop\Galvo 20180705.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\KFACFA\Desktop\Galvo 20180705.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\KFACFA\Desktop\Galvo 20180705.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\KFACFA\Desktop\Galvo 20180705.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe
+C:\Users\KFACFA\Desktop\Galvo 20180705.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\bin\Debug\JinnMeter.pdb
+C:\Users\KFACFA\Desktop\Galvo 20180705.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\bin\Debug\Automation.BDaq4.dll
+C:\Users\KFACFA\Desktop\Galvo 20180705.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\KFACFA\Desktop\Galvo 20180705.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\bin\Debug\ZedGraph.dll
+C:\Users\KFACFA\Desktop\Galvo 20180705.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csprojResolveAssemblyReference.cache
+C:\Users\KFACFA\Desktop\Galvo 20180705.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\KFACFA\Desktop\Galvo 20180705.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\KFACFA\Desktop\Galvo 20180705.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+C:\Users\KFACFA\Desktop\Galvo 20180711.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\KFACFA\Desktop\Galvo 20180711.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe
+C:\Users\KFACFA\Desktop\Galvo 20180711.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\bin\Debug\JinnMeter.pdb
+C:\Users\KFACFA\Desktop\Galvo 20180711.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\bin\Debug\Automation.BDaq4.dll
+C:\Users\KFACFA\Desktop\Galvo 20180711.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\KFACFA\Desktop\Galvo 20180711.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\KFACFA\Desktop\Galvo 20180711.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\KFACFA\Desktop\Galvo 20180711.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csprojResolveAssemblyReference.cache
+C:\Users\KFACFA\Desktop\Galvo 20180711.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\KFACFA\Desktop\Galvo 20180711.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\KFACFA\Desktop\Galvo 20180711.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+C:\Users\KFACFA\Desktop\Galvo 20180711.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\KFACFA\Desktop\Galvo 20180711.00.017(最終穩定版)16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\KFACFA\Desktop\Galvo 20180715穩定版)16bit\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\KFACFA\Desktop\Galvo 20180715穩定版)16bit\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe
+C:\Users\KFACFA\Desktop\Galvo 20180715穩定版)16bit\JinnMeter\JinnMeter\bin\Debug\JinnMeter.pdb
+C:\Users\KFACFA\Desktop\Galvo 20180715穩定版)16bit\JinnMeter\JinnMeter\bin\Debug\Automation.BDaq4.dll
+C:\Users\KFACFA\Desktop\Galvo 20180715穩定版)16bit\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\KFACFA\Desktop\Galvo 20180715穩定版)16bit\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\KFACFA\Desktop\Galvo 20180715穩定版)16bit\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\KFACFA\Desktop\Galvo 20180715穩定版)16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\KFACFA\Desktop\Galvo 20180715穩定版)16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\KFACFA\Desktop\Galvo 20180715穩定版)16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+C:\Users\KFACFA\Desktop\Galvo 20180715穩定版)16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\KFACFA\Desktop\Galvo 20180715穩定版)16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\KFACFA\Desktop\Galvo 20180717 16bit\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\KFACFA\Desktop\Galvo 20180717 16bit\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe
+C:\Users\KFACFA\Desktop\Galvo 20180717 16bit\JinnMeter\JinnMeter\bin\Debug\JinnMeter.pdb
+C:\Users\KFACFA\Desktop\Galvo 20180717 16bit\JinnMeter\JinnMeter\bin\Debug\Automation.BDaq4.dll
+C:\Users\KFACFA\Desktop\Galvo 20180717 16bit\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\KFACFA\Desktop\Galvo 20180717 16bit\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\KFACFA\Desktop\Galvo 20180717 16bit\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\KFACFA\Desktop\Galvo 20180717 16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\KFACFA\Desktop\Galvo 20180717 16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\KFACFA\Desktop\Galvo 20180717 16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+C:\Users\KFACFA\Desktop\Galvo 20180717 16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\KFACFA\Desktop\Galvo 20180717 16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\KFACFA\Desktop\Galvo 20180717 16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csprojResolveAssemblyReference.cache
+C:\Users\KFACFA\Desktop\Galvo 20180719 16bit\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\KFACFA\Desktop\Galvo 20180719 16bit\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe
+C:\Users\KFACFA\Desktop\Galvo 20180719 16bit\JinnMeter\JinnMeter\bin\Debug\JinnMeter.pdb
+C:\Users\KFACFA\Desktop\Galvo 20180719 16bit\JinnMeter\JinnMeter\bin\Debug\Automation.BDaq4.dll
+C:\Users\KFACFA\Desktop\Galvo 20180719 16bit\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\KFACFA\Desktop\Galvo 20180719 16bit\JinnMeter\JinnMeter\bin\Debug\ZedGraph.dll
+C:\Users\KFACFA\Desktop\Galvo 20180719 16bit\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\KFACFA\Desktop\Galvo 20180719 16bit\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\KFACFA\Desktop\Galvo 20180719 16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csprojResolveAssemblyReference.cache
+C:\Users\KFACFA\Desktop\Galvo 20180719 16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\KFACFA\Desktop\Galvo 20180719 16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\KFACFA\Desktop\Galvo 20180719 16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+C:\Users\KFACFA\Desktop\Galvo 20180719 16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\KFACFA\Desktop\Galvo 20180719 16bit\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+D:\升億\311.研發-程式-原始碼\大毅~T1修阻機 for SenEi\Galvo 20180721.000.00\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+D:\升億\311.研發-程式-原始碼\大毅~T1修阻機 for SenEi\Galvo 20180721.000.00\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+D:\升億\311.研發-程式-原始碼\大毅~T1修阻機 for SenEi\Galvo 20180721.000.00\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20180721.000.01\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\COMPUTER\Desktop\Galvo 20180721.000.01\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe
+C:\Users\COMPUTER\Desktop\Galvo 20180721.000.01\JinnMeter\JinnMeter\bin\Debug\JinnMeter.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20180721.000.01\JinnMeter\JinnMeter\bin\Debug\Automation.BDaq4.dll
+C:\Users\COMPUTER\Desktop\Galvo 20180721.000.01\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20180721.000.01\JinnMeter\JinnMeter\bin\Debug\ZedGraph.dll
+C:\Users\COMPUTER\Desktop\Galvo 20180721.000.01\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20180721.000.01\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\COMPUTER\Desktop\Galvo 20180721.000.01\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\Galvo 20180721.000.01\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\COMPUTER\Desktop\Galvo 20180721.000.01\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\COMPUTER\Desktop\Galvo 20180721.000.01\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+C:\Users\COMPUTER\Desktop\Galvo 20180721.000.01\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\COMPUTER\Desktop\Galvo 20180721.000.01\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20180831.000.01\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\COMPUTER\Desktop\Galvo 20180831.000.01\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\COMPUTER\Desktop\Galvo 20180831.000.01\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+D:\升億\311.研發-程式-原始碼\大毅~T1修阻機 for SenEi\Galvo 20180903.001.01\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+D:\升億\311.研發-程式-原始碼\大毅~T1修阻機 for SenEi\Galvo 20180903.001.01\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+D:\升億\311.研發-程式-原始碼\大毅~T1修阻機 for SenEi\Galvo 20180903.001.01\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+D:\升億\311.研發-程式-原始碼\大毅~T1修阻機 for SenEi\Galvo 20180903.001.02\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+D:\升億\311.研發-程式-原始碼\大毅~T1修阻機 for SenEi\Galvo 20180903.001.02\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+D:\升億\311.研發-程式-原始碼\大毅~T1修阻機 for SenEi\Galvo 20180903.001.02\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20180903.001.02\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\COMPUTER\Desktop\Galvo 20180903.001.02\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\COMPUTER\Desktop\Galvo 20180903.001.02\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20180903.001.02\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe
+C:\Users\COMPUTER\Desktop\Galvo 20180903.001.02\JinnMeter\JinnMeter\bin\Debug\JinnMeter.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20180903.001.02\JinnMeter\JinnMeter\bin\Debug\Automation.BDaq4.dll
+C:\Users\COMPUTER\Desktop\Galvo 20180903.001.02\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20180903.001.02\JinnMeter\JinnMeter\bin\Debug\ZedGraph.dll
+C:\Users\COMPUTER\Desktop\Galvo 20180903.001.02\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20180903.001.02\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\COMPUTER\Desktop\Galvo 20180903.001.02\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\Galvo 20180903.001.02\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\COMPUTER\Desktop\Galvo 20180903.001.02\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\COMPUTER\Desktop\Galvo 20180903.001.02\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+C:\Users\COMPUTER\Desktop\Galvo 20180907.001.02\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\COMPUTER\Desktop\Galvo 20180907.001.02\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe
+C:\Users\COMPUTER\Desktop\Galvo 20180907.001.02\JinnMeter\JinnMeter\bin\Debug\JinnMeter.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20180907.001.02\JinnMeter\JinnMeter\bin\Debug\Automation.BDaq4.dll
+C:\Users\COMPUTER\Desktop\Galvo 20180907.001.02\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20180907.001.02\JinnMeter\JinnMeter\bin\Debug\ZedGraph.dll
+C:\Users\COMPUTER\Desktop\Galvo 20180907.001.02\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20180907.001.02\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\COMPUTER\Desktop\Galvo 20180907.001.02\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\Galvo 20180907.001.02\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\COMPUTER\Desktop\Galvo 20180907.001.02\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\COMPUTER\Desktop\Galvo 20180907.001.02\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+C:\Users\COMPUTER\Desktop\Galvo 20180907.001.02\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\COMPUTER\Desktop\Galvo 20180907.001.02\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20180913.001.00\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\COMPUTER\Desktop\Galvo 20180913.001.00\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\COMPUTER\Desktop\Galvo 20180913.001.00\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20180913.001.00\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe
+C:\Users\COMPUTER\Desktop\Galvo 20180913.001.00\JinnMeter\JinnMeter\bin\Debug\JinnMeter.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20180913.001.00\JinnMeter\JinnMeter\bin\Debug\Automation.BDaq4.dll
+C:\Users\COMPUTER\Desktop\Galvo 20180913.001.00\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20180913.001.00\JinnMeter\JinnMeter\bin\Debug\ZedGraph.dll
+C:\Users\COMPUTER\Desktop\Galvo 20180913.001.00\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20180913.001.00\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\COMPUTER\Desktop\Galvo 20180913.001.00\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\Galvo 20180913.001.00\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\COMPUTER\Desktop\Galvo 20180913.001.00\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\COMPUTER\Desktop\Galvo 20180913.001.00\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+C:\Users\COMPUTER\Desktop\Galvo 20180913.001.00 - 複製\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe.config
+C:\Users\COMPUTER\Desktop\Galvo 20180913.001.00 - 複製\JinnMeter\JinnMeter\bin\Debug\JinnMeter.exe
+C:\Users\COMPUTER\Desktop\Galvo 20180913.001.00 - 複製\JinnMeter\JinnMeter\bin\Debug\JinnMeter.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20180913.001.00 - 複製\JinnMeter\JinnMeter\bin\Debug\Automation.BDaq4.dll
+C:\Users\COMPUTER\Desktop\Galvo 20180913.001.00 - 複製\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20180913.001.00 - 複製\JinnMeter\JinnMeter\bin\Debug\ZedGraph.dll
+C:\Users\COMPUTER\Desktop\Galvo 20180913.001.00 - 複製\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20180913.001.00 - 複製\JinnMeter\JinnMeter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\COMPUTER\Desktop\Galvo 20180913.001.00 - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\Galvo 20180913.001.00 - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\COMPUTER\Desktop\Galvo 20180913.001.00 - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\COMPUTER\Desktop\Galvo 20180913.001.00 - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+C:\Users\COMPUTER\Desktop\Galvo 20180913.001.00 - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.exe
+C:\Users\COMPUTER\Desktop\Galvo 20180913.001.00 - 複製\JinnMeter\JinnMeter\obj\Debug\JinnMeter.pdb
+C:\Users\NaokiSo\Desktop\Galvo 20181016.002.01\Meter\obj\Debug\JinnMeter.csprojResolveAssemblyReference.cache
+C:\Users\NaokiSo\Desktop\Galvo 20181016.002.01\Meter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\NaokiSo\Desktop\Galvo 20181016.002.01\Meter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\NaokiSo\Desktop\Galvo 20181016.002.01\Meter\obj\Debug\JinnMeter.csproj.GenerateResource.Cache
+C:\Users\NaokiSo\Desktop\Galvo 20181016.002.01\Meter\obj\Debug\JinnMeter.exe
+C:\Users\NaokiSo\Desktop\Galvo 20181016.002.01\Meter\obj\Debug\JinnMeter.pdb

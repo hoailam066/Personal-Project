@@ -1,0 +1,837 @@
+﻿body {
+}
+
+@media (min-width: 1200px) {
+    .divLon {
+        width: 99%;
+        float: left;
+        font-size:15pt;
+    }
+
+    .divCon1 {
+        width: 48%;
+        float: left;
+        margin-right: 1%;
+    }
+
+    .divCon2 {
+        width: 48%;
+        float: left;
+        margin-left: 1%;
+    }
+
+    .divDong {
+        width: 100%;
+        float: left;
+        margin-top: 10px;
+    }
+
+    .divLabel {
+        width: 33%;
+        float: left;
+        text-align: left;
+        margin-left:23px;
+    }
+
+    .divControl {
+        width: 62%;
+        float: left;
+    }
+
+    .divLabelChiTiet {
+        width: 25%;
+        float: left;
+        text-align: left;
+        margin-left: 30px;
+    }
+
+    .divControlChitiet {
+        width: 69%;
+        float: left;
+    }
+
+    .divLabeltg {
+        width: 20%;
+        text-align: left;
+        margin-left: 10px;
+    }
+
+    .divControltg {
+        width: 73%;
+        float: left;
+    }
+
+    .tdtextbox {
+        width: 100%;
+        font-size:15pt;
+    }
+
+    .divLabelKhoHang {
+        width: 32%;
+        float: left;
+        text-align: left;
+        margin-left: 5%;
+    }
+
+    .divControlKhoHang {
+        width: 63%;
+        float: left;
+    }
+
+    .divLabelBienBan {
+        width: 15%;
+        float: left;
+        text-align: left;
+        margin-left: 10px;
+    }
+
+    .divControlBienBan {
+        width: 83%;
+        float: left;
+    }
+
+    .divRadio1 {
+        width: 50%;
+        text-align: center;
+        float: left;
+    }
+
+    .divrdb2 {
+        width: 50%;
+        text-align: center;
+        float: left;
+    }
+        .divChiPhi1{
+        width:50%;
+        float:left;
+       margin-left:27px;
+    }
+      .divChiPhi2{
+        width:45%;
+        float:left;
+
+    }
+        .cplabel{
+        width:13%;
+        float:left;
+    }
+    .cpcontrol{
+       width:80%;
+       float:left;
+       
+    }
+    .txt{
+        font-size:14pt;
+    }
+    .textboxtimkiem{
+        font-size:14pt;
+    }
+    .titleNoiDung{
+        font-size:16pt;
+    }
+    .button{
+        font-size:13pt;
+    }
+    .font{
+        font-size:17pt;
+    }
+    .title{font-size:15pt;
+           background-size:65px;
+    }
+}
+/*-992 -> 1199-*/
+@media (min-width: 992px) and (max-width: 1199px) {
+    .divLon {
+        width: 98%;
+        float: left;
+        font-size:15pt;
+    }
+
+    .divCon1 {
+        width: 48%;
+        float: left;
+        margin-right: 1%;
+    }
+
+    .divCon2 {
+        width: 48%;
+        float: left;
+        margin-left: 1%;
+    }
+
+    .divDong {
+        width: 100%;
+        float: left;
+        margin-top: 15px;
+    }
+
+    .divLabel {
+        width: 39%;
+        float: left;
+        text-align: left;
+        margin-left:20px;
+    }
+
+    .divControl {
+        width: 55%;
+        float: left;
+    }
+
+    .divLabelChiTiet {
+        width: 30%;
+        float: left;
+        text-align: left;
+        margin-left: 30px;
+    }
+
+    .divControlChitiet {
+        width: 63%;
+        float: left;
+    }
+
+    .divLabeltg {
+        width: 20%;
+        text-align: left;
+        margin-left: 10px;
+    }
+
+    .divControltg {
+        width: 73%;
+        float: left;
+    }
+
+    .tdtextbox {
+        width: 100%;
+        font-size:15pt;
+    }
+
+    .divLabelKhoHang {
+        width: 36%;
+        float: left;
+        text-align: left;
+        margin-left: 8%;
+    }
+
+    .divControlKhoHang {
+        width: 55%;
+        float: left;
+    }
+
+    .divLabelBienBan {
+        width: 17%;
+        float: left;
+        text-align: left;
+        margin-left: 10px;
+    }
+
+    .divControlBienBan {
+        width: 80%;
+        float: left;
+      
+    }
+
+    .divRadio1 {
+        width: 50%;
+        text-align: center;
+        float: left;
+        margin-top:10px;
+    }
+
+    .divRadio2 {
+        width: 50%;
+        text-align: center;
+        float: left;
+            margin-top:10px;
+    }
+        .divChiPhi1{
+        width:55%;
+        float:left;
+        margin-left:20px;
+       margin-left:20px;
+           margin-top:10px;
+    }
+      .divChiPhi2{
+        width:40%;
+        float:left;
+    }
+        .cplabel{
+        width:15%;
+        float:left;
+    }
+    .cpcontrol{
+       width:66%;
+       float:left;
+    }
+     .txt{
+        font-size:15pt;
+    }
+    .textboxtimkiem{
+        font-size:14pt;
+    }
+    .titleNoiDung{
+        font-size:17pt;
+    }
+    .button{
+        font-size:13pt;
+    }
+    .font{
+        font-size:20pt;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .divLon {
+        width: 98%;
+        float: left;
+        font-size:15pt;
+    }
+
+    .divCon1 {
+        width: 48%;
+        float: left;
+        margin-right: 1%;
+    }
+
+    .divCon2 {
+        width: 48%;
+        float: left;
+        margin-left: 1%;
+    }
+
+    .divDong {
+        width: 100%;
+        float: left;
+        margin-top: 15px;
+    }
+
+    .divLabel {
+        width: 52%;
+        float: left;
+        text-align: left;
+        margin-left:10px;
+    }
+
+    .divControl {
+        width: 45%;
+        float: left;
+    }
+
+    .divLabelChiTiet {
+        width: 37%;
+        float: left;
+        text-align: left;
+        margin-left: 30px;
+    }
+
+    .divControlChitiet {
+        width: 52%;
+        float: left;
+    }
+
+    .hr {
+        margin-left: 15px;
+    }
+
+    .divLabeltg {
+        width: 20%;
+        text-align: left;
+        margin-left: 10px;
+    }
+
+    .divControltg {
+        width: 73%;
+        float: left;
+    }
+
+    .tdtextbox {
+        width: 100%;
+        font-size:15pt;
+    }
+
+    .divLabelKhoHang {
+        width: 47%;
+        float: left;
+        text-align: left;
+        margin-left: 10%;
+    }
+
+    .divControlKhoHang {
+        width: 43%;
+        float: left;
+    }
+
+    .divLabelBienBan {
+        width: 20%;
+        float: left;
+        text-align: left;
+        margin-left: 10px;
+    }
+
+    .divControlBienBan {
+        width: 78%;
+        float: left;
+    }
+
+    .divRadio1 {
+        width: 50%;
+        text-align: center;
+        float: left;
+    }
+
+    .divRadio2 {
+        width: 50%;
+        text-align: center;
+        float: left;
+    }
+        .divChiPhi1{
+        width:50%;
+        float:left;
+         margin-top:10px;
+         margin-left:20px;
+    }
+      .divChiPhi2{
+        width:46%;
+        float:left;
+        margin-top:10px;
+       
+    }
+        .cplabel{
+        width:20%;
+        float:left;
+    }
+    .cpcontrol{
+       width:66%;
+       float:left;
+    }
+      .txt{
+        font-size:14pt;
+    }
+    .textboxtimkiem{
+        font-size:14pt;
+    }
+    .titleNoiDung{
+        font-size:17pt;
+    }
+    .button{
+        font-size:13pt;
+    }
+    .font{
+        font-size:20pt;
+    }
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+    .divLon {
+        width: 98%;
+        float: left;
+        font-size:15pt;
+    }
+
+    .divCon1 {
+        width: 100%;
+        float: left;
+        margin-right: 1%;
+    }
+
+    .divCon2 {
+        width: 100%;
+        float: left;
+        margin-left: 1%;
+    }
+
+    .divDong {
+        width: 100%;
+        float: left;
+        margin-top: 10px;
+    }
+
+    .divLabel {
+        width: 40%;
+        float: left;
+        text-align: left;
+        margin-left:20px;
+    }
+
+    .divControl {
+        width: 53%;
+        float: left;
+    }
+
+    .divLabelChiTiet {
+        width: 30%;
+        float: left;
+        text-align: left;
+        margin-left: 30px;
+    }
+
+    .divControlChitiet {
+        width: 58%;
+        float: left;
+    }
+
+    .divLabeltg {
+        width: 20%;
+        text-align: left;
+        margin-left: 10px;
+        font-size:15pt;
+    }
+
+    .divControltg {
+        width: 73%;
+        float: left;
+        font-size:15pt;
+    }
+
+    .tdtextbox {
+        width: 100%;
+         font-size:15pt;
+    }
+
+    .divLabelKhoHang {
+        width: 36%;
+        float: left;
+        text-align: left;
+        margin-left: 7%;
+    }
+
+    .divControlKhoHang {
+        width: 52%;
+        float: left;
+        margin-left: 10px;
+    }
+
+    .divLabelBienBan {
+        width: 30%;
+        float: left;
+        text-align: left;
+        margin-left: 10px;
+    }
+
+    .divControlBienBan {
+        width: 67%;
+        float: left;
+    }
+
+    .divRadio1 {
+        width: 50%;
+        float: left;
+    }
+
+    .divRadio2 {
+        width: 50%;
+        float: left;
+    }
+    .divChiPhi1{
+        width:60%;
+        float:left;
+       margin-top:10px;
+       margin-left:28px;
+    }
+      .divChiPhi2{
+        width:22%;
+        float:left;
+          margin-top:10px;
+    }
+        .cplabel{
+        width:27%;
+        float:left;
+    }
+    .cpcontrol{
+       width:66%;
+       float:left;
+    }
+       .txt{
+        font-size:14pt;
+    }
+    .textboxtimkiem{
+        font-size:14pt;
+    }
+    .titleNoiDung{
+        font-size:17pt;
+    }
+    .button{
+        font-size:13pt;
+    }
+    .font{
+        font-size:20pt;
+    }
+
+}
+@media (min-width: 321px) and (max-width: 480px) {
+    .divLon {
+        width: 96%;
+        float: left;
+
+    }
+
+    .divCon1 {
+        width: 100%;
+        float: left;
+
+    }
+
+    .divCon2 {
+        width: 100%;
+        float: left;
+
+    }
+
+    .divDong {
+        width: 100%;
+        float: left;
+        margin-top: 15px;
+    }
+
+    .divLabel {
+        width: 40%;
+        float: left;
+        font-size:14pt;
+        margin-left:11px;
+      
+    }
+
+    .divControl {
+        width: 55%;
+        float: left;
+    }
+
+    .divLabelChiTiet {
+        width: 45%;
+        float: left;
+        text-align: left;
+        margin-left: 10px;
+       font-size:14pt;
+    }
+    .txt{ font-size:14pt;}
+
+    .divControlChitiet {
+        width: 50%;
+        float: left;
+    }
+
+    .divLabeltg {
+        width: 20%;
+        text-align: left;
+        margin-left: 10px;
+        font-size:14pt;
+    }
+    .lbl{
+        font-size:15pt;
+    }
+    .divControltg {
+        width: 73%;
+        float: left;
+    }
+
+    .tdtextbox {
+        width: 100%;
+        font-size:14pt;
+    }
+
+    .divLabelKhoHang {
+        width: 35%;
+        float: left;
+        text-align: left;
+        margin-left: 7%;
+        font-size:14pt;
+    }
+
+    .divControlKhoHang {
+        width: 57%;
+        float: left;
+    }
+
+    .divLabelBienBan {
+        width: 35%;
+        float: left;
+        text-align: left;
+        font-size:14pt;
+        margin-left:10px;
+    }
+
+    .divControlBienBan {
+        width: 60%;
+        float: left;
+
+    }
+
+    .divRadio1 {
+        width: 49%;
+        float: left;
+        font-size:14pt;
+        margin-left:5px;
+    }
+
+    .divRadio2 {
+        width: 49%;
+        float: left;
+        font-size:14pt;
+    }
+    .divChiPhi1{
+        width:65%;
+        float:left;
+       margin-top:10px;
+       font-size:14pt;
+       margin-left:10px;
+       
+    }
+    .cplabel{
+        width:40%;
+        float:left;
+    }
+    .cpcontrol{
+       width:50%;
+       float:left;
+    }
+      .divChiPhi2{
+        width:20%;
+        float:left;
+        margin-right:10px;
+          margin-top:10px;
+    }
+      .radio{
+          font-size:14pt;
+      }
+      .rdbbotron{
+          font-size:14pt;
+      }
+      .button{
+          font-size:12pt;
+      }
+      .font{
+          font-size:17pt;
+      }
+      .titleNoiDung{
+          font-size:17pt;
+      }
+
+}
+@media (max-width: 320px) {
+    .divLon {
+        width: 95%;
+        float: left;
+    }
+
+    .divCon1 {
+        width: 100%;
+        float: left;
+    }
+
+    .divCon2 {
+        width: 100%;
+        float: left;
+
+    }
+
+    .divDong {
+        width: 100%;
+        float: left;
+        margin-top: 10px;
+    }
+
+    .divLabel {
+        width: 40%;
+        float: left;
+        font-size:14pt;
+        margin-left:3%;
+    }
+
+    .divControl {
+        width: 55%;
+        float: left;
+    }
+
+    .divLabelChiTiet {
+        width: 39%;
+        float: left;
+        text-align: left;
+        margin-left: 10px;
+       font-size:14pt;
+    }
+    .txt{ font-size:14pt;}
+
+    .divControlChitiet {
+        width: 56%;
+        float: left;
+    }
+
+    .divLabeltg {
+        width: 20%;
+        text-align: left;
+        margin-left: 10px;
+    }
+    .lbl{
+        font-size:15pt;
+    }
+    .divControltg {
+        width: 73%;
+        float: left;
+    }
+
+    .tdtextbox {
+        width: 100%;
+    }
+
+    .divLabelKhoHang {
+        width: 50%;
+        float: left;
+        text-align: left;
+        margin-left: 6%;
+        font-size:11pt;
+    }
+
+    .divControlKhoHang {
+        width: 44%;
+        float: left;
+    }
+
+    .divLabelBienBan {
+        width: 41%;
+        float: left;
+        text-align: left;
+        font-size:11pt;
+        margin-left:10px;
+    }
+
+    .divControlBienBan {
+        width: 54%;
+        float: left;
+
+    }
+
+    .divRadio1 {
+        width: 45%;
+        float: left;
+        font-size:11pt;
+        margin-left:11px;
+    }
+
+    .divRadio2 {
+        width: 45%;
+        float: left;
+        font-size:11pt;
+    }
+    .divChiPhi1{
+        width:60%;
+        float:left;
+       margin-top:10px;
+       font-size:11pt;
+       margin-left:10px;
+       
+    }
+    .cplabel{
+        width:37%;
+        float:left;
+    }
+    .cpcontrol{
+       width:58%;
+       float:left;
+    }
+      .divChiPhi2{
+        width:25%;
+        float:left;
+        margin-right:10px;
+          margin-top:10px;
+    }
+
+}

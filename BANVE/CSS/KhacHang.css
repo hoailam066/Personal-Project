@@ -1,0 +1,474 @@
+﻿body {
+}
+
+@media (min-width: 1200px) {
+    .divLon {
+        width: 100%;
+        float: left;
+        font-size:16pt;
+    }
+
+    .divDong {
+        width: 100%;
+        float: left;
+        margin-top: 10px;
+        margin-left: 10px;
+    }
+
+    .divCon1 {
+        width: 25%;
+        float: left;
+    }
+
+    .divCon2 {
+        width: 47%;
+        float: left;
+    }
+
+    .divLabel {
+        width: 30%;
+        float: left;
+    }
+
+    .divControl {
+        width: 65%;
+        float: left;
+    }
+
+    .txtNhomKH {
+        width: 90%;
+    }
+
+    .fontmargin {
+        margin-top: 20%;
+    }
+
+    .divLabelDiaChi {
+        width: 13%;
+        float: left;
+    }
+
+    .divcontrolDiaChi {
+        width: 87%;
+        float: left;
+    }
+    .divbutton1{
+        width:50%;
+        float:left;
+    }
+    .divbutton2{
+        width:50%;
+        float:left;
+    }
+        .divlabelNhomKH{
+        width:35%;
+        float:left
+    }
+    .divtxtNhomKH {
+        width: 54%;
+        float:left;
+    }
+    .title{
+        font-size:16pt;
+        background-size:70px;
+    }
+    .button{
+        font-size:13pt;
+    }
+    .font{
+        text-align:center;
+        font-size:17pt;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+     .divLon {
+        width: 100%;
+        float: left;
+        font-size:15pt;
+    }
+
+    .divDong {
+        width: 100%;
+        float: left;
+        margin-top: 10px;
+        margin-left: 10px;
+    }
+
+    .divCon1 {
+        width: 25%;
+        float: left;
+    }
+
+    .divCon2 {
+        width: 47%;
+        float: left;
+    }
+
+    .divLabel {
+        width: 35%;
+        float: left;
+    }
+
+    .divControl {
+        width: 60%;
+        float: left;
+    }
+
+    .txtNhomKH {
+        width: 90%;
+    }
+
+    .fontmargin {
+        margin-top: 20%;
+    }
+
+    .divLabelDiaChi {
+        width: 15%;
+        float: left;
+    }
+
+    .divcontrolDiaChi {
+        width: 85%;
+        float: left;
+    }
+    .divbutton1{
+        width:50%;
+        float:left;
+    }
+    .divbutton2{
+        width:50%;
+        float:left;
+    }
+        .divlabelNhomKH{
+        width:39%;
+        float:left
+    }
+    .divtxtNhomKH {
+        width: 50%;
+        float:left;
+    }
+    .font{
+        font-size:16pt;
+    }
+    .textboxthuong{
+        font-size:14pt;  
+    }
+    .button{
+        font-size:14pt;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+   .divLon {
+        width: 100%;
+        float: left;
+        font-size:15pt;
+    }
+
+    .divDong {
+        width: 100%;
+        float: left;
+        margin-top: 10px;
+        margin-left: 10px;
+    }
+
+    .divCon1 {
+        width: 25%;
+        float: left;
+    }
+
+    .divCon2 {
+        width: 47%;
+        float: left;
+    }
+
+    .divLabel {
+        width: 44%;
+        float: left;
+    }
+
+    .divControl {
+        width: 51%;
+        float: left;
+    }
+
+    .txtNhomKH {
+        width: 80%;
+    }
+
+    .fontmargin {
+        margin-top: 10%;
+    }
+
+    .divLabelDiaChi {
+        width: 20%;
+        float: left;
+    }
+
+    .divcontrolDiaChi {
+        width: 79%;
+        float: left;
+    }
+    .divbutton1{
+        width:50%;
+        float:left;
+    }
+    .divbutton2{
+        width:50%;
+        float:left;
+    }
+        .divlabelNhomKH{
+        width:30%;
+        float:left
+    }
+    .divtxtNhomKH {
+        width: 57%;
+        float:left;
+    }
+    .textboxthuong{
+        font-size:14pt;
+    }
+    .font{
+ font-size:16pt;
+    }
+    .title{
+         font-size:14pt;
+    }
+    .button{
+         font-size:13pt;
+    }
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+      .divLon {
+        width: 100%;
+        float: left;
+        font-size:14pt;
+    }
+
+    .divDong {
+        width: 100%;
+        float: left;
+        margin-top: 10px;
+        margin-left: 10px;
+    }
+
+    .divCon1 {
+        width: 50%;
+        float: left;
+    }
+
+    .divCon2 {
+        width: 100%;
+        float: left;
+    }
+
+    .divLabel {
+        width: 35%;
+        float: left;
+    }
+
+    .divControl {
+        width: 54%;
+        float: left;
+    }
+
+    .txtNhomKH {
+        width: 99%;
+    }
+
+    .fontmargin {
+        margin-top: 20%;
+    }
+
+    .divLabelDiaChi {
+        width: 16%;
+        float: left;
+    }
+
+    .divcontrolDiaChi {
+        width: 78%;
+        float: left;
+    }
+    .divbutton1{
+        width:50%;
+        float:left;
+    }
+    .divbutton2{
+        width:50%;
+        float:left;
+    }
+        .divlabelNhomKH{
+        width:32%;
+        float:left
+    }
+    .divtxtNhomKH {
+        width: 57%;
+        float:left;
+    }
+    .textboxthuong{
+         font-size:13.5pt;
+    }
+    .button{ font-size:13pt;}
+    .title{
+         font-size:14pt;
+    }
+    .font{
+         font-size:16pt;
+    }
+}
+
+@media (min-width: 321px) and (max-width: 480px) {
+ .divLon {
+        width: 100%;
+        float: left;
+        font-size:15pt;
+    }
+
+    .divDong {
+        width: 100%;
+        float: left;
+        margin-top: 10px;
+        margin-left: 5px;
+    }
+
+    .divCon1 {
+        width: 100%;
+        float: left;
+    }
+
+    .divCon2 {
+        width: 100%;
+        float: left;
+    }
+
+    .divLabel {
+        width: 30%;
+        float: left;
+    }
+
+    .divControl {
+        width: 62%;
+        float: left;
+    }
+    .fontmargin {
+        margin-top: 20%;
+    }
+
+    .divLabelDiaChi {
+        width: 28%;
+        float: left;
+    }
+
+    .divcontrolDiaChi {
+        width: 65%;
+        float: left;
+    }
+    .divbutton1{
+        width:50%;
+        float:left;
+    }
+    .divbutton2{
+        width:50%;
+        float:left;
+    }
+       .divlabelNhomKH{
+        width:35%;
+        float:left
+    }
+    .divtxtNhomKH {
+        width: 58%;
+        float:left;
+    }
+    .button{
+         font-size:13pt;
+    }
+    .font{
+         font-size:15pt;
+    }
+    .title{
+         font-size:14pt;
+    }
+    .textboxthuong{
+         font-size:14pt;
+    }
+}
+
+@media (max-width: 320px) {
+
+     .divLon {
+        width: 100%;
+        float: left;
+         font-size:14pt;
+    }
+
+    .divDong {
+        width: 100%;
+        float: left;
+        margin-top: 10px;
+        margin-left: 5px;
+    }
+
+    .divCon1 {
+        width: 100%;
+        float: left;
+    }
+
+    .divCon2 {
+        width: 100%;
+        float: left;
+    }
+
+    .divLabel {
+        width: 25%;
+        float: left;
+    }
+
+    .divControl {
+        width: 68%;
+        float: left;
+    }
+    .fontmargin {
+        margin-top: 20%;
+    }
+
+    .divLabelDiaChi {
+        width: 24%;
+        float: left;
+    }
+
+    .divcontrolDiaChi {
+        width: 70%;
+        float: left;
+    }
+    .divbutton1{
+        width:50%;
+        float:left;
+    }
+    .divbutton2{
+        width:50%;
+        float:left;
+    }
+       .divlabelNhomKH{
+        width:30%;
+        float:left
+    }
+    .divtxtNhomKH {
+        width: 63%;
+        float:left;
+    }
+    .title{
+        font-size:13pt;
+        background-size:50px;
+    }
+    .font{
+         font-size:14pt;
+    }
+    .textboxthuong{
+         font-size:14pt;
+    }
+    .button{
+         font-size:13pt;
+    }
+}

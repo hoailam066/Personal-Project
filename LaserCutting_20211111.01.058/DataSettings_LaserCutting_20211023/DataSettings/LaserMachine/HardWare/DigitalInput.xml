@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<RootNode Document_Version_="1.00" SDK_Enviroment_="Visual Basic 2008 SP1" BuildDate="2014/7/5 下午 02:07:24">
+  <WorkholderVaccum Index="0" Attributes="">
+    <BitID Index="0" NodeType="Int32">0</BitID>
+    <BitAdress Index="0" NodeType="String">Dev1/Port0/Line0</BitAdress>
+    <CardID Index="0" NodeType="Int32">0</CardID>
+    <ConnectIndex Index="0" NodeType="Int32">0</ConnectIndex>
+    <CardType Index="0" NodeType="String">AdlinkAMP204C</CardType>
+    <IsIgnore Index="0" NodeType="Boolean">False</IsIgnore>
+    <Logic Index="0" NodeType="String">ActiveHigh</Logic>
+    <NameChinese Index="0" NodeType="String">WorkholderVaccum</NameChinese>
+    <SlaveID Index="0" NodeType="Int32">0</SlaveID>
+  </WorkholderVaccum>
+  <Reserved0 Index="0" Attributes="">
+    <BitID Index="0" NodeType="Int32">1</BitID>
+    <BitAdress Index="0" NodeType="String">Dev1/Port0/Line0</BitAdress>
+    <CardID Index="0" NodeType="Int32">0</CardID>
+    <ConnectIndex Index="0" NodeType="Int32">0</ConnectIndex>
+    <CardType Index="0" NodeType="String">AdlinkAMP204C</CardType>
+    <IsIgnore Index="0" NodeType="Boolean">False</IsIgnore>
+    <Logic Index="0" NodeType="String">ActiveHigh</Logic>
+    <NameChinese Index="0" NodeType="String">Reserved0</NameChinese>
+    <SlaveID Index="0" NodeType="Int32">0</SlaveID>
+  </Reserved0>
+  <Reserved1 Index="0" Attributes="">
+    <BitID Index="0" NodeType="Int32">2</BitID>
+    <BitAdress Index="0" NodeType="String">Dev1/Port0/Line0</BitAdress>
+    <CardID Index="0" NodeType="Int32">0</CardID>
+    <ConnectIndex Index="0" NodeType="Int32">0</ConnectIndex>
+    <CardType Index="0" NodeType="String">AdlinkAMP204C</CardType>
+    <IsIgnore Index="0" NodeType="Boolean">False</IsIgnore>
+    <Logic Index="0" NodeType="String">ActiveHigh</Logic>
+    <NameChinese Index="0" NodeType="String">Reserved1</NameChinese>
+    <SlaveID Index="0" NodeType="Int32">0</SlaveID>
+  </Reserved1>
+  <Reserved2 Index="0" Attributes="">
+    <BitID Index="0" NodeType="Int32">3</BitID>
+    <BitAdress Index="0" NodeType="String">Dev1/Port0/Line0</BitAdress>
+    <CardID Index="0" NodeType="Int32">0</CardID>
+    <ConnectIndex Index="0" NodeType="Int32">0</ConnectIndex>
+    <CardType Index="0" NodeType="String">AdlinkAMP204C</CardType>
+    <IsIgnore Index="0" NodeType="Boolean">False</IsIgnore>
+    <Logic Index="0" NodeType="String">ActiveHigh</Logic>
+    <NameChinese Index="0" NodeType="String">Reserved2</NameChinese>
+    <SlaveID Index="0" NodeType="Int32">0</SlaveID>
+  </Reserved2>
+   <Reserved3 Index="0" Attributes="">
+    <BitID Index="0" NodeType="Int32">4</BitID>
+    <BitAdress Index="0" NodeType="String">Dev1/Port0/Line0</BitAdress>
+    <CardID Index="0" NodeType="Int32">0</CardID>
+    <ConnectIndex Index="0" NodeType="Int32">0</ConnectIndex>
+    <CardType Index="0" NodeType="String">AdlinkAMP204C</CardType>
+    <IsIgnore Index="0" NodeType="Boolean">False</IsIgnore>
+    <Logic Index="0" NodeType="String">ActiveHigh</Logic>
+    <NameChinese Index="0" NodeType="String">Reserved3</NameChinese>
+    <SlaveID Index="0" NodeType="Int32">0</SlaveID>
+  </Reserved3>
+  <Reserved4 Index="0" Attributes="">
+    <BitID Index="0" NodeType="Int32">5</BitID>
+    <BitAdress Index="0" NodeType="String">Dev1/Port0/Line0</BitAdress>
+    <CardID Index="0" NodeType="Int32">0</CardID>
+    <ConnectIndex Index="0" NodeType="Int32">0</ConnectIndex>
+    <CardType Index="0" NodeType="String">AdlinkAMP204C</CardType>
+    <IsIgnore Index="0" NodeType="Boolean">False</IsIgnore>
+    <Logic Index="0" NodeType="String">ActiveHigh</Logic>
+    <NameChinese Index="0" NodeType="String">Reserved4</NameChinese>
+    <SlaveID Index="0" NodeType="Int32">0</SlaveID>
+  </Reserved4>
+ <TrayInDownLimit Index="0" Attributes="">
+    <BitID Index="0" NodeType="Int32">6</BitID>
+    <BitAdress Index="0" NodeType="String">Dev1/Port0/Line0</BitAdress>
+    <CardID Index="0" NodeType="Int32">0</CardID>
+    <ConnectIndex Index="0" NodeType="Int32">0</ConnectIndex>
+    <CardType Index="0" NodeType="String">AdlinkAMP204C</CardType>
+    <IsIgnore Index="0" NodeType="Boolean">False</IsIgnore>
+    <Logic Index="0" NodeType="String">ActiveHigh</Logic>
+    <NameChinese Index="0" NodeType="String">TrayInDownLimit</NameChinese>
+    <SlaveID Index="0" NodeType="Int32">0</SlaveID>
+  </TrayInDownLimit>
+  <TrayInUpLimit Index="0" Attributes="">
+    <BitID Index="0" NodeType="Int32">7</BitID>
+    <BitAdress Index="0" NodeType="String">Dev1/Port0/Line0</BitAdress>
+    <CardID Index="0" NodeType="Int32">0</CardID>
+    <ConnectIndex Index="0" NodeType="Int32">0</ConnectIndex>
+    <CardType Index="0" NodeType="String">AdlinkAMP204C</CardType>
+    <IsIgnore Index="0" NodeType="Boolean">False</IsIgnore>
+    <Logic Index="0" NodeType="String">ActiveHigh</Logic>
+    <NameChinese Index="0" NodeType="String">TrayInUpLimit</NameChinese>
+    <SlaveID Index="0" NodeType="Int32">0</SlaveID>
+  </TrayInUpLimit>
+  <TrayOutLeftLimit Index="0" Attributes="">
+    <BitID Index="0" NodeType="Int32">8</BitID>
+    <BitAdress Index="0" NodeType="String">Dev1/Port0/Line0</BitAdress>
+    <CardID Index="0" NodeType="Int32">0</CardID>
+    <ConnectIndex Index="0" NodeType="Int32">0</ConnectIndex>
+    <CardType Index="0" NodeType="String">AdlinkAMP204C</CardType>
+    <IsIgnore Index="0" NodeType="Boolean">False</IsIgnore>
+    <Logic Index="0" NodeType="String">ActiveHigh</Logic>
+    <NameChinese Index="0" NodeType="String">TrayOutLeftLimit</NameChinese>
+    <SlaveID Index="0" NodeType="Int32">0</SlaveID>
+  </TrayOutLeftLimit>
+  <TrayOutRightLimit Index="0" Attributes="">
+    <BitID Index="0" NodeType="Int32">9</BitID>
+    <BitAdress Index="0" NodeType="String">Dev1/Port0/Line0</BitAdress>
+    <CardID Index="0" NodeType="Int32">0</CardID>
+    <ConnectIndex Index="0" NodeType="Int32">0</ConnectIndex>
+    <CardType Index="0" NodeType="String">AdlinkAMP204C</CardType>
+    <IsIgnore Index="0" NodeType="Boolean">False</IsIgnore>
+    <Logic Index="0" NodeType="String">ActiveHigh</Logic>
+    <NameChinese Index="0" NodeType="String">TrayOutRightLimit</NameChinese>
+    <SlaveID Index="0" NodeType="Int32">0</SlaveID>
+  </TrayOutRightLimit>
+  <TrayOutDownLimit Index="0" Attributes="">
+    <BitID Index="0" NodeType="Int32">10</BitID>
+    <BitAdress Index="0" NodeType="String">Dev1/Port0/Line0</BitAdress>
+    <CardID Index="0" NodeType="Int32">1</CardID>
+    <ConnectIndex Index="0" NodeType="Int32">0</ConnectIndex>
+    <CardType Index="0" NodeType="String">AdlinkAMP204C</CardType>
+    <IsIgnore Index="0" NodeType="Boolean">False</IsIgnore>
+    <Logic Index="0" NodeType="String">ActiveHigh</Logic>
+    <NameChinese Index="0" NodeType="String">TrayOutDownLimit</NameChinese>
+    <SlaveID Index="0" NodeType="Int32">0</SlaveID>
+  </TrayOutDownLimit>
+    <TrayOutUpLimit Index="0" Attributes="">
+    <BitID Index="0" NodeType="Int32">11</BitID>
+    <BitAdress Index="0" NodeType="String">Dev1/Port0/Line0</BitAdress>
+    <CardID Index="0" NodeType="Int32">1</CardID>
+    <ConnectIndex Index="0" NodeType="Int32">0</ConnectIndex>
+    <CardType Index="0" NodeType="String">AdlinkAMP204C</CardType>
+    <IsIgnore Index="0" NodeType="Boolean">False</IsIgnore>
+    <Logic Index="0" NodeType="String">ActiveHigh</Logic>
+    <NameChinese Index="0" NodeType="String">TrayOutUpLimit</NameChinese>
+    <SlaveID Index="0" NodeType="Int32">0</SlaveID>
+  </TrayOutUpLimit>
+  <Reserved5 Index="0" Attributes="">
+    <BitID Index="0" NodeType="Int32">12</BitID>
+    <BitAdress Index="0" NodeType="String">Dev1/Port0/Line0</BitAdress>
+    <CardID Index="0" NodeType="Int32">1</CardID>
+    <ConnectIndex Index="0" NodeType="Int32">0</ConnectIndex>
+    <CardType Index="0" NodeType="String">AdlinkAMP204C</CardType>
+    <IsIgnore Index="0" NodeType="Boolean">False</IsIgnore>
+    <Logic Index="0" NodeType="String">ActiveHigh</Logic>
+    <NameChinese Index="0" NodeType="String">Reserved5</NameChinese>
+    <SlaveID Index="0" NodeType="Int32">0</SlaveID>
+  </Reserved5>
+  <Reserved6 Index="0" Attributes="">
+    <BitID Index="0" NodeType="Int32">13</BitID>
+    <BitAdress Index="0" NodeType="String">Dev1/Port0/Line0</BitAdress>
+    <CardID Index="0" NodeType="Int32">1</CardID>
+    <ConnectIndex Index="0" NodeType="Int32">0</ConnectIndex>
+    <CardType Index="0" NodeType="String">AdlinkAMP204C</CardType>
+    <IsIgnore Index="0" NodeType="Boolean">False</IsIgnore>
+    <Logic Index="0" NodeType="String">ActiveHigh</Logic>
+    <NameChinese Index="0" NodeType="String">Reserved6</NameChinese>
+    <SlaveID Index="0" NodeType="Int32">0</SlaveID>
+  </Reserved6>
+    <Reserved7 Index="0" Attributes="">
+    <BitID Index="0" NodeType="Int32">14</BitID>
+    <BitAdress Index="0" NodeType="String">Dev1/Port0/Line0</BitAdress>
+    <CardID Index="0" NodeType="Int32">1</CardID>
+    <ConnectIndex Index="0" NodeType="Int32">0</ConnectIndex>
+    <CardType Index="0" NodeType="String">AdlinkAMP204C</CardType>
+    <IsIgnore Index="0" NodeType="Boolean">False</IsIgnore>
+    <Logic Index="0" NodeType="String">ActiveHigh</Logic>
+    <NameChinese Index="0" NodeType="String">Reserved7</NameChinese>
+    <SlaveID Index="0" NodeType="Int32">0</SlaveID>
+  </Reserved7>
+    <Reserved8 Index="0" Attributes="">
+    <BitID Index="0" NodeType="Int32">15</BitID>
+    <BitAdress Index="0" NodeType="String">Dev1/Port0/Line0</BitAdress>
+    <CardID Index="0" NodeType="Int32">1</CardID>
+    <ConnectIndex Index="0" NodeType="Int32">0</ConnectIndex>
+    <CardType Index="0" NodeType="String">AdlinkAMP204C</CardType>
+    <IsIgnore Index="0" NodeType="Boolean">False</IsIgnore>
+    <Logic Index="0" NodeType="String">ActiveHigh</Logic>
+    <NameChinese Index="0" NodeType="String">Reserved8</NameChinese>
+    <SlaveID Index="0" NodeType="Int32">0</SlaveID>
+  </Reserved8>
+</RootNode>

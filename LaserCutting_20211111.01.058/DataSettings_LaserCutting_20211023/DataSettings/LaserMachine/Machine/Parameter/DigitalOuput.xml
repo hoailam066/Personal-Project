@@ -1,0 +1,328 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<RootNode Document_Version_="1.00" SDK_Enviroment_="Visual Basic 2008 SP1" BuildDate="2021/5/11 下午 07:35:21">
+  <TrayInDCMotorUp Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">1500</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">500</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">500</SatbleTimeNormal>
+  </TrayInDCMotorUp>
+  <TrayInDCMotorDown Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">1500</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">500</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">500</SatbleTimeNormal>
+  </TrayInDCMotorDown>
+  <TrayInSlowSpeed Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">1500</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">500</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">500</SatbleTimeNormal>
+  </TrayInSlowSpeed>
+  <WorkholderInStart Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">1500</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">500</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">500</SatbleTimeNormal>
+  </WorkholderInStart>
+  <WorkholderOutStart Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">1500</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">500</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">500</SatbleTimeNormal>
+  </WorkholderOutStart>
+  <SubStrateShiftInStart Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">1500</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">300</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">300</SatbleTimeNormal>
+  </SubStrateShiftInStart>
+  <SubStrateAdavanceReverse Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">1500</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">300</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">300</SatbleTimeNormal>
+  </SubStrateAdavanceReverse>
+  <SubstrateOutTrayClip1st Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">1500</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">300</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">300</SatbleTimeNormal>
+  </SubstrateOutTrayClip1st>
+  <SubstrateOutTrayClip2nd Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">1500</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">300</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">300</SatbleTimeNormal>
+  </SubstrateOutTrayClip2nd>
+  <SubstrateOutUpDown Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">1500</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">800</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">500</SatbleTimeNormal>
+  </SubstrateOutUpDown>
+  <SubstrateOutClip Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">1500</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">300</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">300</SatbleTimeNormal>
+  </SubstrateOutClip>
+  <SubstrateInUpDown Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">1500</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">1200</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">500</SatbleTimeNormal>
+  </SubstrateInUpDown>
+  <WorkholderOutClip1st Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">1500</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">300</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">300</SatbleTimeNormal>
+  </WorkholderOutClip1st>
+  <SubstrateInVaccum Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">1500</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">1500</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">1500</SatbleTimeNormal>
+  </SubstrateInVaccum>
+  <RobotVaccum Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">1500</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">500</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">500</SatbleTimeNormal>
+  </RobotVaccum>
+  <LightGreen Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">1500</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">500</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">500</SatbleTimeNormal>
+  </LightGreen>
+  <LightYellow Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">1500</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">500</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">500</SatbleTimeNormal>
+  </LightYellow>
+  <LightRed Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">1500</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">500</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">500</SatbleTimeNormal>
+  </LightRed>
+  <Buzzer Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">1500</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">500</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">500</SatbleTimeNormal>
+  </Buzzer>
+  <RobotStart Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">1500</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">500</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">500</SatbleTimeNormal>
+  </RobotStart>
+  <RobotStop Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">1500</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">500</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">500</SatbleTimeNormal>
+  </RobotStop>
+  <RobotReset Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">1500</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">500</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">500</SatbleTimeNormal>
+  </RobotReset>
+  <Reserved22 Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">1500</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">50</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">50</SatbleTimeNormal>
+  </Reserved22>
+  <Reserved23 Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">1500</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">50</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">50</SatbleTimeNormal>
+  </Reserved23>
+  <Reserved24 Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">1500</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">50</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">50</SatbleTimeNormal>
+  </Reserved24>
+  <Reserved25 Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">1500</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">50</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">50</SatbleTimeNormal>
+  </Reserved25>
+  <Reserved26 Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">1500</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">50</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">50</SatbleTimeNormal>
+  </Reserved26>
+  <Reserved27 Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">1500</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">50</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">50</SatbleTimeNormal>
+  </Reserved27>
+  <Reserved28 Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">1500</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">50</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">50</SatbleTimeNormal>
+  </Reserved28>
+  <Reserved29 Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">1500</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">50</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">50</SatbleTimeNormal>
+  </Reserved29>
+  <Reserved30 Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">1500</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">50</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">50</SatbleTimeNormal>
+  </Reserved30>
+  <Reserved31 Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">1500</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">50</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">50</SatbleTimeNormal>
+  </Reserved31>
+  <Reserved32 Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">1500</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">50</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">50</SatbleTimeNormal>
+  </Reserved32>
+  <Reserved33 Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">5000</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">0</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">0</SatbleTimeNormal>
+  </Reserved33>
+  <Reserved34 Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">5000</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">0</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">0</SatbleTimeNormal>
+  </Reserved34>
+  <Reserved35 Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">5000</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">0</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">0</SatbleTimeNormal>
+  </Reserved35>
+  <Reserved36 Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">5000</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">0</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">0</SatbleTimeNormal>
+  </Reserved36>
+  <Reserved37 Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">5000</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">0</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">0</SatbleTimeNormal>
+  </Reserved37>
+  <Reserved38 Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">5000</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">0</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">0</SatbleTimeNormal>
+  </Reserved38>
+  <Reserved39 Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">5000</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">0</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">0</SatbleTimeNormal>
+  </Reserved39>
+  <Reserved40 Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">5000</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">0</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">0</SatbleTimeNormal>
+  </Reserved40>
+  <Reserved41 Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">5000</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">0</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">0</SatbleTimeNormal>
+  </Reserved41>
+  <Reserved42 Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">5000</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">0</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">0</SatbleTimeNormal>
+  </Reserved42>
+  <Reserved43 Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">5000</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">0</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">0</SatbleTimeNormal>
+  </Reserved43>
+  <Reserved44 Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">5000</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">0</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">0</SatbleTimeNormal>
+  </Reserved44>
+  <Reserved45 Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">5000</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">0</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">0</SatbleTimeNormal>
+  </Reserved45>
+  <Reserved46 Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">5000</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">0</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">0</SatbleTimeNormal>
+  </Reserved46>
+  <Reserved47 Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">5000</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">0</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">0</SatbleTimeNormal>
+  </Reserved47>
+  <Reserved48 Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">5000</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">0</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">0</SatbleTimeNormal>
+  </Reserved48>
+  <Reserved49 Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">5000</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">0</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">0</SatbleTimeNormal>
+  </Reserved49>
+  <Reserved50 Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">5000</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">0</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">0</SatbleTimeNormal>
+  </Reserved50>
+  <Reserved51 Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">5000</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">0</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">0</SatbleTimeNormal>
+  </Reserved51>
+  <Reserved52 Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">5000</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">0</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">0</SatbleTimeNormal>
+  </Reserved52>
+  <Reserved53 Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">5000</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">0</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">0</SatbleTimeNormal>
+  </Reserved53>
+  <Reserved54 Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">5000</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">0</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">0</SatbleTimeNormal>
+  </Reserved54>
+  <Reserved55 Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">5000</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">0</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">0</SatbleTimeNormal>
+  </Reserved55>
+  <Reserved56 Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">5000</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">0</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">0</SatbleTimeNormal>
+  </Reserved56>
+  <Reserved57 Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">5000</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">0</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">0</SatbleTimeNormal>
+  </Reserved57>
+  <Reserved58 Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">5000</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">0</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">0</SatbleTimeNormal>
+  </Reserved58>
+  <Reserved59 Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">5000</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">0</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">0</SatbleTimeNormal>
+  </Reserved59>
+  <Reserved60 Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">5000</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">0</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">0</SatbleTimeNormal>
+  </Reserved60>
+  <Reserved61 Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">5000</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">0</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">0</SatbleTimeNormal>
+  </Reserved61>
+  <Reserved62 Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">5000</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">0</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">0</SatbleTimeNormal>
+  </Reserved62>
+  <Reserved63 Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">5000</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">0</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">0</SatbleTimeNormal>
+  </Reserved63>
+  <Reserved64 Index="0" Attributes="">
+    <AlarmTime Index="0" NodeType="Int32">5000</AlarmTime>
+    <SatbleTimeAction Index="0" NodeType="Int32">0</SatbleTimeAction>
+    <SatbleTimeNormal Index="0" NodeType="Int32">0</SatbleTimeNormal>
+  </Reserved64>
+</RootNode>

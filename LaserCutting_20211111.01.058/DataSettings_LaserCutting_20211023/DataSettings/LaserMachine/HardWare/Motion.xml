@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<RootNode Document_Version_="1.00" SDK_Enviroment_="Visual Basic 2008 SP1" BuildDate="2021/5/11 下午 07:35:21">
+  <Motion_0 Index="0" Attributes="">
+    <AxisID Index="0" NodeType="Int16">0</AxisID>
+    <AxisName Index="0" NodeType="String">WorkholderX</AxisName>
+    <CardID Index="0" NodeType="Int32">0</CardID>
+    <CardName Index="0" NodeType="String">AdlinkAMP204C</CardName>
+    <CardType Index="0" NodeType="Int32" EnumName="enumMotionCard">6</CardType>
+    <ModeAlarmLogic Index="0" NodeType="Int16">1</ModeAlarmLogic>
+    <ModeAlarmMode Index="0" NodeType="Int16">1</ModeAlarmMode>
+    <ModeClrMode Index="0" NodeType="Int16">0</ModeClrMode>
+    <ModeCurveMode Index="0" NodeType="Int16">0</ModeCurveMode>
+    <ModeERCEnable Index="0" NodeType="Int16">0</ModeERCEnable>
+    <ModeERCLogic Index="0" NodeType="Int16">0</ModeERCLogic>
+    <ModeEZLogic Index="0" NodeType="Int16">0</ModeEZLogic>
+    <ModeHomeDir Index="0" NodeType="Int16">1</ModeHomeDir>
+    <ModeHomeMode Index="0" NodeType="Int16">1</ModeHomeMode>
+    <ModeInpEnable Index="0" NodeType="Int16">1</ModeInpEnable>
+    <ModeInpLogic Index="0" NodeType="Int16">0</ModeInpLogic>
+    <ModeIsServo Index="0" NodeType="Boolean">True</ModeIsServo>
+    <ModeOrgLatch Index="0" NodeType="Int16">0</ModeOrgLatch>
+    <ModeOrgLogic Index="0" NodeType="Int16">0</ModeOrgLogic>
+    <ModePCSEnable Index="0" NodeType="Int16">0</ModePCSEnable>
+    <ModePCSLogic Index="0" NodeType="Int16">0</ModePCSLogic>
+    <ModePulseInputMode Index="0" NodeType="Int16">2</ModePulseInputMode>
+    <ModePulseLogic Index="0" NodeType="Int16">1</ModePulseLogic>
+    <ModePulseOutMode Index="0" NodeType="Int16">32</ModePulseOutMode>
+    <ModeSdEnable Index="0" NodeType="Int16">0</ModeSdEnable>
+    <ModeSdLatch Index="0" NodeType="Int16">0</ModeSdLatch>
+    <ModeSdLogic Index="0" NodeType="Int16">0</ModeSdLogic>
+    <ModeServoONLogic Index="0" NodeType="Int16">0</ModeServoONLogic>
+    <ModeLimitLogic Index="0" NodeType="Int16">1</ModeLimitLogic>
+    <ModeLimitMode Index="0" NodeType="Int16">1</ModeLimitMode>
+  </Motion_0>
+  
+</RootNode>

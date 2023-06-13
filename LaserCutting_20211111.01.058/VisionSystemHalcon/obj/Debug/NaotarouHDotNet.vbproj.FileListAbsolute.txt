@@ -1,0 +1,71 @@
+D:\01.Visual Basic2008 Project\HalconDemo\NaotarouHDotNet\bin\Debug\NaotarouHDotNet.dll
+D:\01.Visual Basic2008 Project\HalconDemo\NaotarouHDotNet\bin\Debug\NaotarouHDotNet.pdb
+D:\01.Visual Basic2008 Project\HalconDemo\NaotarouHDotNet\bin\Debug\NaotarouHDotNet.xml
+D:\01.Visual Basic2008 Project\HalconDemo\NaotarouHDotNet\bin\Debug\NaotarouHDotNet.tlb
+D:\01.Visual Basic2008 Project\HalconDemo\NaotarouHDotNet\bin\Debug\halcondotnet.dll
+D:\01.Visual Basic2008 Project\HalconDemo\NaotarouHDotNet\bin\Debug\halcondotnet.xml
+D:\01.Visual Basic2008 Project\HalconDemo\NaotarouHDotNet\obj\Debug\ResolveAssemblyReference.cache
+D:\01.Visual Basic2008 Project\HalconDemo\NaotarouHDotNet\obj\Debug\NaotarouHDotNet.Resources.resources
+D:\01.Visual Basic2008 Project\HalconDemo\NaotarouHDotNet\obj\Debug\NaotarouHDotNet.WindowControl.resources
+D:\01.Visual Basic2008 Project\HalconDemo\NaotarouHDotNet\obj\Debug\NaotarouHDotNet.vbproj.GenerateResource.Cache
+D:\01.Visual Basic2008 Project\HalconDemo\NaotarouHDotNet\obj\Debug\NaotarouHDotNet.dll
+D:\01.Visual Basic2008 Project\HalconDemo\NaotarouHDotNet\obj\Debug\NaotarouHDotNet.xml
+D:\01.Visual Basic2008 Project\HalconDemo\NaotarouHDotNet\obj\Debug\NaotarouHDotNet.pdb
+D:\01.Visual Basic2008 Project\naotarouso\HalconDemo\NaotarouHDotNet\obj\Debug\ResolveAssemblyReference.cache
+D:\01.Visual Basic2008 Project\naotarouso\HalconDemo\NaotarouHDotNet\obj\Debug\NaotarouHDotNet.Resources.resources
+D:\01.Visual Basic2008 Project\naotarouso\HalconDemo\NaotarouHDotNet\obj\Debug\NaotarouHDotNet.WindowControl.resources
+D:\01.Visual Basic2008 Project\naotarouso\HalconDemo\NaotarouHDotNet\obj\Debug\NaotarouHDotNet.vbproj.GenerateResource.Cache
+D:\01.Visual Basic2008 Project\naotarouso\HalconDemo\NaotarouHDotNet\obj\Debug\NaotarouHDotNet.xml
+D:\01.Visual Basic2008 Project\naotarouso\HalconDemo\NaotarouHDotNet\obj\Debug\NaotarouHDotNet.pdb
+D:\01.Visual Basic2008 Project\naotarouso\YaskawaDemo\NaotarouHDotNet\obj\Debug\ResolveAssemblyReference.cache
+D:\01.Visual Basic2008 Project\naotarouso\YaskawaDemo\NaotarouHDotNet\obj\Debug\NaotarouHDotNet.Resources.resources
+D:\01.Visual Basic2008 Project\naotarouso\YaskawaDemo\NaotarouHDotNet\obj\Debug\NaotarouHDotNet.WindowControl.resources
+D:\01.Visual Basic2008 Project\naotarouso\YaskawaDemo\NaotarouHDotNet\obj\Debug\NaotarouHDotNet.vbproj.GenerateResource.Cache
+D:\01.Visual Basic2008 Project\naotarouso\YaskawaDemo\NaotarouHDotNet\obj\Debug\NaotarouHDotNet.xml
+D:\01.Visual Basic2008 Project\naotarouso\YaskawaDemo\NaotarouHDotNet\obj\Debug\NaotarouHDotNet.pdb
+D:\01.Visual Basic2008 Project\naotarouso\Sorter\NaotarouHDotNet\obj\Debug\ResolveAssemblyReference.cache
+D:\01.Visual Basic2008 Project\naotarouso\Sorter\NaotarouHDotNet\obj\Debug\NaotarouHDotNet.FMaskEdit.resources
+D:\01.Visual Basic2008 Project\naotarouso\Sorter\NaotarouHDotNet\obj\Debug\NaotarouHDotNet.FMatchingShapeTool.resources
+D:\01.Visual Basic2008 Project\naotarouso\Sorter\NaotarouHDotNet\obj\Debug\NaotarouHDotNet.Resources.resources
+D:\01.Visual Basic2008 Project\naotarouso\Sorter\NaotarouHDotNet\obj\Debug\NaotarouHDotNet.DisplayControl.resources
+D:\01.Visual Basic2008 Project\naotarouso\Sorter\NaotarouHDotNet\obj\Debug\NaotarouHDotNet.vbproj.GenerateResource.Cache
+D:\01.Visual Basic2008 Project\naotarouso\Sorter\NaotarouHDotNet\bin\Debug\NaotarouHDotNet.dll
+D:\01.Visual Basic2008 Project\naotarouso\Sorter\NaotarouHDotNet\bin\Debug\NaotarouHDotNet.pdb
+D:\01.Visual Basic2008 Project\naotarouso\Sorter\NaotarouHDotNet\bin\Debug\NaotarouHDotNet.xml
+D:\01.Visual Basic2008 Project\naotarouso\Sorter\NaotarouHDotNet\bin\Debug\NaotarouHDotNet.tlb
+D:\01.Visual Basic2008 Project\naotarouso\Sorter\NaotarouHDotNet\bin\Debug\halcondotnet.dll
+D:\01.Visual Basic2008 Project\naotarouso\Sorter\NaotarouHDotNet\bin\Debug\NaoTimer.dll
+D:\01.Visual Basic2008 Project\naotarouso\Sorter\NaotarouHDotNet\bin\Debug\halcondotnet.xml
+D:\01.Visual Basic2008 Project\naotarouso\Sorter\NaotarouHDotNet\obj\Debug\NaotarouHDotNet.dll
+D:\01.Visual Basic2008 Project\naotarouso\Sorter\NaotarouHDotNet\obj\Debug\NaotarouHDotNet.xml
+D:\01.Visual Basic2008 Project\naotarouso\Sorter\NaotarouHDotNet\obj\Debug\NaotarouHDotNet.pdb
+C:\Documents and Settings\naotarou\My Documents\Google 雲端硬碟\01.Pragramming Backup\01.Naotarou\Sorter\NaotarouHDotNet\bin\Debug\NaotarouHDotNet.dll
+C:\Documents and Settings\naotarou\My Documents\Google 雲端硬碟\01.Pragramming Backup\01.Naotarou\Sorter\NaotarouHDotNet\bin\Debug\NaotarouHDotNet.pdb
+C:\Documents and Settings\naotarou\My Documents\Google 雲端硬碟\01.Pragramming Backup\01.Naotarou\Sorter\NaotarouHDotNet\bin\Debug\NaotarouHDotNet.xml
+C:\Documents and Settings\naotarou\My Documents\Google 雲端硬碟\01.Pragramming Backup\01.Naotarou\Sorter\NaotarouHDotNet\bin\Debug\NaotarouHDotNet.tlb
+C:\Documents and Settings\naotarou\My Documents\Google 雲端硬碟\01.Pragramming Backup\01.Naotarou\Sorter\NaotarouHDotNet\bin\Debug\halcondotnet.dll
+C:\Documents and Settings\naotarou\My Documents\Google 雲端硬碟\01.Pragramming Backup\01.Naotarou\Sorter\NaotarouHDotNet\bin\Debug\halcondotnet.xml
+C:\Documents and Settings\naotarou\My Documents\Google 雲端硬碟\01.Pragramming Backup\01.Naotarou\Sorter\NaotarouHDotNet\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\naotarou\My Documents\Google 雲端硬碟\01.Pragramming Backup\01.Naotarou\Sorter\NaotarouHDotNet\obj\Debug\NaotarouHDotNet.FMaskEdit.resources
+C:\Documents and Settings\naotarou\My Documents\Google 雲端硬碟\01.Pragramming Backup\01.Naotarou\Sorter\NaotarouHDotNet\obj\Debug\NaotarouHDotNet.FMatchingShapeTool.resources
+C:\Documents and Settings\naotarou\My Documents\Google 雲端硬碟\01.Pragramming Backup\01.Naotarou\Sorter\NaotarouHDotNet\obj\Debug\NaotarouHDotNet.Resources.resources
+C:\Documents and Settings\naotarou\My Documents\Google 雲端硬碟\01.Pragramming Backup\01.Naotarou\Sorter\NaotarouHDotNet\obj\Debug\NaotarouHDotNet.DisplayControl.resources
+C:\Documents and Settings\naotarou\My Documents\Google 雲端硬碟\01.Pragramming Backup\01.Naotarou\Sorter\NaotarouHDotNet\obj\Debug\NaotarouHDotNet.vbproj.GenerateResource.Cache
+C:\Documents and Settings\naotarou\My Documents\Google 雲端硬碟\01.Pragramming Backup\01.Naotarou\Sorter\NaotarouHDotNet\obj\Debug\NaotarouHDotNet.dll
+C:\Documents and Settings\naotarou\My Documents\Google 雲端硬碟\01.Pragramming Backup\01.Naotarou\Sorter\NaotarouHDotNet\obj\Debug\NaotarouHDotNet.xml
+C:\Documents and Settings\naotarou\My Documents\Google 雲端硬碟\01.Pragramming Backup\01.Naotarou\Sorter\NaotarouHDotNet\obj\Debug\NaotarouHDotNet.pdb
+C:\Documents and Settings\Jimmy\My Documents\Google 雲端硬碟1\01.Pragramming Backup\01.Naotarou\Sorter\NaotarouHDotNet\bin\Debug\NaotarouHDotNet.dll
+C:\Documents and Settings\Jimmy\My Documents\Google 雲端硬碟1\01.Pragramming Backup\01.Naotarou\Sorter\NaotarouHDotNet\bin\Debug\NaotarouHDotNet.pdb
+C:\Documents and Settings\Jimmy\My Documents\Google 雲端硬碟1\01.Pragramming Backup\01.Naotarou\Sorter\NaotarouHDotNet\bin\Debug\NaotarouHDotNet.xml
+C:\Documents and Settings\Jimmy\My Documents\Google 雲端硬碟1\01.Pragramming Backup\01.Naotarou\Sorter\NaotarouHDotNet\bin\Debug\NaotarouHDotNet.tlb
+C:\Documents and Settings\Jimmy\My Documents\Google 雲端硬碟1\01.Pragramming Backup\01.Naotarou\Sorter\NaotarouHDotNet\bin\Debug\halcondotnet.dll
+C:\Documents and Settings\Jimmy\My Documents\Google 雲端硬碟1\01.Pragramming Backup\01.Naotarou\Sorter\NaotarouHDotNet\bin\Debug\halcondotnet.xml
+C:\Documents and Settings\Jimmy\My Documents\Google 雲端硬碟1\01.Pragramming Backup\01.Naotarou\Sorter\NaotarouHDotNet\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jimmy\My Documents\Google 雲端硬碟1\01.Pragramming Backup\01.Naotarou\Sorter\NaotarouHDotNet\obj\Debug\NaotarouHDotNet.FMaskEdit.resources
+C:\Documents and Settings\Jimmy\My Documents\Google 雲端硬碟1\01.Pragramming Backup\01.Naotarou\Sorter\NaotarouHDotNet\obj\Debug\NaotarouHDotNet.FMatchingShapeTool.resources
+C:\Documents and Settings\Jimmy\My Documents\Google 雲端硬碟1\01.Pragramming Backup\01.Naotarou\Sorter\NaotarouHDotNet\obj\Debug\NaotarouHDotNet.Resources.resources
+C:\Documents and Settings\Jimmy\My Documents\Google 雲端硬碟1\01.Pragramming Backup\01.Naotarou\Sorter\NaotarouHDotNet\obj\Debug\NaotarouHDotNet.DisplayControl.resources
+C:\Documents and Settings\Jimmy\My Documents\Google 雲端硬碟1\01.Pragramming Backup\01.Naotarou\Sorter\NaotarouHDotNet\obj\Debug\NaotarouHDotNet.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Jimmy\My Documents\Google 雲端硬碟1\01.Pragramming Backup\01.Naotarou\Sorter\NaotarouHDotNet\obj\Debug\NaotarouHDotNet.dll
+C:\Documents and Settings\Jimmy\My Documents\Google 雲端硬碟1\01.Pragramming Backup\01.Naotarou\Sorter\NaotarouHDotNet\obj\Debug\NaotarouHDotNet.xml
+C:\Documents and Settings\Jimmy\My Documents\Google 雲端硬碟1\01.Pragramming Backup\01.Naotarou\Sorter\NaotarouHDotNet\obj\Debug\NaotarouHDotNet.pdb

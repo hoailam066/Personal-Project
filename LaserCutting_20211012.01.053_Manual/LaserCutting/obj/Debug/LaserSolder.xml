@@ -1,0 +1,1221 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+LaserSolder
+</name>
+</assembly>
+<members>
+<member name="P:LaserSolder.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.add">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.adddata">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.addnew">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.agree">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.alarm_start">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.alarm_stop">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.alignment">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.axis">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.axisicon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.blowing">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.blowing_off">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.blowing_on">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.calculate">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.cancel">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.captureicon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.changekey">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.connect">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.counter">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.curposicon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.deletedata">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.error0">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.feedadd">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.feedadd2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.feedadd3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.feedremove">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.feedremove2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.feedremove3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.gi">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.help">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.home">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.home2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.home3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.ificon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.information">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.io">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.job">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.jobz">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.jobz2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.jobz3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.jog">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.jump">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.key">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.laser">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.leftcut">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.lightoff">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.lighton">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.lighttowner">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.line">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.log">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.movebottom">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.movedown">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.movetop">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.moveup">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.multicircle">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.open">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.passwordicon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.pickcolor">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.playicon2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.plus">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.plus2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.plus3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.point">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.program">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.pulselaser">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.pulselaser2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.qrcode">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.record_start">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.record_stop">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.redbeam">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.registericon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.repeat">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.returnicon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.rightcut">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.roll">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.roll2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.roll3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.ruler">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.ruler2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.ruler3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.rulermanual">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.run">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.save">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.searchicon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.setting">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.settingicon2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.start">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.stop2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.stop3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.stopicon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.subtract">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.subtract2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.subtract3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.tick">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.tickOK">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.tickOKsmall">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.treenoderoot">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.updown">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.wait">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserSolder.My.Resources.Resources.warning">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:LaserSolder.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:LaserSolder.FMain.Main">
+	<summary>
+ 執行序進入點
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserSolder.enumCyl.LaserPowerOn">
+	<summary>
+ 雷射啟用繼電器
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserSolder.enumCyl.ZBreak">
+	<summary>
+ 取料馬達上升
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserSolder.enumCyl.LaserBlow">
+	<summary>
+ 取料馬達下降
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserSolder.enumCyl.LightGreen">
+	<summary>
+ '綠燈
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserSolder.enumCyl.LightYellow">
+	<summary>
+ '黃燈
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserSolder.enumCyl.LightRed">
+	<summary>
+ '紅燈
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserSolder.enumCyl.Buzzer">
+	<summary>
+ '警報器
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserSolder.enumSnr.SubstrateInMotorUpLimit">
+	<summary>
+ 取料馬達上極限
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserSolder.enumSnr.SubstrateInMotorDownLimit">
+	<summary>
+ 取料馬達下極限
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserSolder.enumSnr.SubstrateInUpLimit">
+	<summary>
+ 取料汽缸上極限
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserSolder.enumSnr.SubstrateInDownLimit">
+	<summary>
+ 取料汽缸下極限
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserSolder.enumSnr.SubstrateInVaccumExist">
+	<summary>
+ 送料真空檢知
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserSolder.enumSnr.SubstrateOutStoreBoxFeed">
+	<summary>
+ 收料到料AMP
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserSolder.enumSnr.SubstrateInStoreBoxFeed">
+	<summary>
+ 送料到料AMP
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserSolder.enumSnr.SubstrateInHaveFeed">
+	<summary>
+ 送料有料AMP(氣缸吸片有料)
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserSolder.enumSnr.SubstrateOutHaveFeed">
+	<summary>
+ 收料有料AMP(氣缸吸片有料)
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserSolder.enumSnr.SecondWorkholderHaveFeed">
+	<summary>
+ 次平台有料AMP
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserSolder.enumSnr.SubstrateOutMotorUpLimit">
+	<summary>
+ 收料馬達上極限
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserSolder.enumSnr.SubstrateOutMotorDownLimit">
+	<summary>
+ 收料馬達下極限
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserSolder.enumSnr.SubstrateOutUpLimit">
+	<summary>
+ 收料汽缸上極限
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserSolder.enumSnr.SubstrateOutDownLimit">
+	<summary>
+ 收料汽缸下極限
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserSolder.enumSnr.SubstrateOutVaccumExist">
+	<summary>
+ 收料真空檢知
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserSolder.enumSnr.WorkholderVaccumExist">
+	<summary>
+ 平台真空檢知
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserSolder.enumSnr.SecondWorkholderVaccumExist">
+	<summary>
+ 次平台真空檢知
+ </summary>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CPositionWH.AlignRealX">
+	<summary>
+ 基板原點視覺補正完後實際位置
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CPositionWH.AlignRealY">
+	<summary>
+ 基板原點視覺補正完後實際位置
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CPositionWH.AlignX">
+	<summary>
+ 基版原點對應雷射原點位置
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CPositionWH.AlignY">
+	<summary>
+ 基版原點對應雷射原點位置
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CPositionWH.SubstrateInX1">
+	<summary>
+ 基版供料位置 
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CPositionWH.SubstrateInY1">
+	<summary>
+ 基版供料位置 
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CPositionWH.SubstrateOutX1">
+	<summary>
+ 基版退料位置
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CPositionWH.SubstrateOutY1">
+	<summary>
+ 基版退料位置 
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CPositionWH.ImageAlignT">
+	<summary>
+ 基版視覺定位初始位置
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CPositionWH.PatternAlignX1">
+	<summary>
+ 基版視覺樣板比對左邊孔位位置
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CPositionWH.PatternAlignY1">
+	<summary>
+ 基版視覺樣板比對左邊孔位位置
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CPositionWH.PatternAlignX2">
+	<summary>
+ 基版視覺樣板比對右邊孔位位置
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CPositionWH.PatternAlignY2">
+	<summary>
+ 基版視覺樣板比對右邊孔位位置
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CPositionWH.EdgeAlignX1">
+	<summary>
+ 基版視覺版邊比對左邊水平位置
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CPositionWH.EdgeAlignY1">
+	<summary>
+ 基版視覺版邊比對左邊水平位置
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CPositionWH.EdgeAlignX2">
+	<summary>
+ 基版視覺版邊比對右邊水平位置
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CPositionWH.EdgeAlignY2">
+	<summary>
+ 基版視覺版邊比對左邊水平位置
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CPositionWH.EdgeAlignX3">
+	<summary>
+ 基版視覺版邊比對左邊垂直位置
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CPositionWH.EdgeAlignY3">
+	<summary>
+ 基版視覺版邊比對左邊垂直位置
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CPositionWH.EdgeAlignX4">
+	<summary>
+ 基版視覺版邊比對左邊垂直位置
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CPositionWH.EdgeAlignY4">
+	<summary>
+ 基版視覺版邊比對左邊垂直位置
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CPositionWH.LaserTestX">
+	<summary>
+ 雷射測試切割FirstX
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CPositionWH.LaserTestY">
+	<summary>
+  雷射測試切割FirstY
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CPositionWH.LaserTestT">
+	<summary>
+  雷射測試切割FirstT
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CPositionWH.LaserSetFirstT">
+	<summary>
+  雷射測試切割FirstT
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CPositionWH.DivideTDistance">
+	<summary>
+ 雷射測試切割T軸切割長度
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CPositionWH.JumpDistance">
+	<summary>
+ 基版視覺版邊比對左邊垂直位置
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CPositionWH.ScribeCount">
+	<summary>
+ 基版視覺版邊比對左邊垂直位置
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CPositionWH.ScribeDistance">
+	<summary>
+ 基版視覺版邊比對左邊垂直位置
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CPositionWH.ScribeDirection">
+	<summary>
+ 基版視覺版邊比對左邊垂直位置
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CPositionFocusZ.LaserFocusZ">
+	<summary>
+ 雷射加工面位置
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="F:LaserSolder.CIdxSystem.m_jobIdx">
+	<summary>
+ Job索引值
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserSolder.CIdxSystem.m_layIdx">
+	<summary>
+ 圖層索引值
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserSolder.CIdxSystem.m_geoIdx">
+	<summary>
+ 幾何物件索引值
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserSolder.CIdxSystem.m_entityIdx">
+	<summary>
+ 元件索引值
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserSolder.CIdxSystem.m_layCutCount">
+	<summary>
+ 圖層切割次數
+ </summary>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CIdxSystem.PieceIn">
+	<summary>
+ 從料盒進料的片數
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CIdxSystem.PieceIn1stTest">
+	<summary>
+ 首件暫停機制
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CIdxTray.SubstrateInNG">
+	<summary>
+ 供料供料連續失敗次數
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="F:LaserSolder.CCountSystem.m_layIdx">
+	<summary>
+ 圖層索引值
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserSolder.CCountSystem.m_geoIdx">
+	<summary>
+ 幾何物件索引值
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserSolder.CCountSystem.m_entityIdx">
+	<summary>
+ 元件索引值
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserSolder.CCountTray.m_PieceToStop">
+	<summary>
+ 工作片數設定
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserSolder.CCountTray.m_SubstrateOutNGMax">
+	<summary>
+ 收料NG數量上限
+ </summary>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CCountTray.PieceToStop">
+	<summary>
+ 工作片數設定
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CCountTray.SubstrateOutNGMax">
+	<summary>
+ 收料NG數量上限
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CCountTray.SubstrateInNGMax">
+	<summary>
+ 進料NG數量上限
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="F:LaserSolder.CCountWorkholder.m_ImageAlignmentRetryMax">
+	<summary>
+ 影像定位最大補償次數
+ </summary>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CCountWorkholder.ImageAlignmentRetryMax">
+	<summary>
+ 影像定位最大補償次數
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CFlagsPause.EmergencyStop">
+	<summary>
+ 緊急停止
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CFlagsPause.MaunalStop">
+	<summary>
+ 立即停止
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CFlagsPause.StopFeedSubstrate">
+	<summary>
+ 停止繼續供料
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CFlagsPause.SysTopFinished">
+	<summary>
+ 供料禁止中途停止動作
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CFlagsPause.SysSubstrateFinished">
+	<summary>
+ 供料禁止中途停止動作
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CFlagsPause.SysTrayInFinished">
+	<summary>
+ 收料禁止中途停止動作
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CFlagsPause.SysTrayOutFinished">
+	<summary>
+ 收料禁止中途停止動作
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CFlagsPause.SysWorkholderFinished">
+	<summary>
+ 平台禁止中途停止動作
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CFlagsPause.WaitStop">
+	<summary>
+ 等待停止
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CFlagsSystem.Is1stCalibration">
+	<summary>
+ 首件測試
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CFlagsSystem.KeyCode">
+	<summary>
+ 自動生產是否能中斷
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CFlagsSystem.PatternMatched">
+	<summary>
+ 使用樣板比對
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CFlagsSystem.VisionAligned">
+	<summary>
+ 使用Vision
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CFlagsSystem.MachineType">
+	<summary>
+ 機器型號
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CFlagsSystem.ProductLoaded">
+	<summary>
+ 已正確讀入生產檔案
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CFlagsSystem.SysInitHomeOk">
+	<summary>
+ 正常復歸完畢
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CFlagsSystem.VaccumLaerScribeChecked">
+	<summary>
+ 切割時透過平台真空檢查有無破片
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CFlagsSystem.ManualSubstrateIn">
+	<summary>
+ 手動模式
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CFlagsSystem.PieceLog">
+	<summary>
+ 使用PieceLog
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CFlagsSystem.PiecePosLog">
+	<summary>
+ 使用PiecePosLog
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CFlagsSystem.AngleChecked">
+	<summary>
+ 使用PieceLog
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CFlagsSystem.WorkholderVaccumSecond">
+	<summary>
+ 使用二段平台真空
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CFlagsWorkholder.LoaderCanUse">
+	<summary>
+ 可使用移載
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CFlagsWorkholder.TopIsFinal">
+	<summary>
+ 供料最後一片
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CFlagsWorkholder.TopIsNG">
+	<summary>
+ 收料NG
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CFlagsWorkholder.ShowCut">
+	<summary>
+ 顯示目前切割的idx
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="F:LaserSolder.CTimeLaser.m_JumpDelayMiniSecond">
+	<summary>
+ 跳躍延遲 (ms)
+ </summary>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CTimeLaser.EmissionEnableStart">
+	<summary>
+ 雷射致能開始時間,致能開始到可以擊發需經時120mini-second
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CTimeLaser.JumpStart">
+	<summary>
+ 平台移動完畢
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CTimeLaser.LaserON">
+	<summary>
+ 雷射擊發時間
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CTimeLaser.LaserOnStart">
+	<summary>
+ 雷射開始擊發的時間
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CTimeLaser.JumpDelayMiniSecond">
+	<summary>
+ 跳躍延遲 (ms)
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="F:LaserSolder.CTimeTray.m_SubstrateInDownDelayMiniSecond">
+	<summary>
+ 供料馬達慢速下降時間 (ms)
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserSolder.CTimeTray.m_SubstrateInBlowDelayMiniSecond">
+	<summary>
+ 供料供料時吹氣時間 (ms)
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserSolder.CTimeTray.m_SubstrateSecondWorkHolderStayTime">
+	<summary>
+ 第二平台停留時間 (ms)
+ </summary>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CTimeTray.SubstrateInDownDelayMiniSecond">
+	<summary>
+ 供料馬達慢速下降時間 (ms)
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CTimeTray.SubstrateInBlowDelayMiniSecond">
+	<summary>
+ 供料供料時吹氣時間 (ms)
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CTimeTray.SubstrateSecondWorkHolderStayTime">
+	<summary>
+ 第二平台停留時間 (ms)
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CVariableLaser.PinHoleDefLeftX">
+	<summary>
+ 圖面定位孔位置,1象限
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CVariableLaser.PinHoleDefLeftY">
+	<summary>
+ 圖面定位孔位置,1象限
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="F:LaserSolder.CVariableWorkholder.m_LaserOrgCCDOffsetXMatch">
+	<summary>
+ 樣版影像CCD中心至雷射原點水平方向距離 (μm)
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserSolder.CVariableWorkholder.m_LaserOrgCCDOffsetYMatch">
+	<summary>
+ 樣版影像CCD中心至雷射原點垂直方向距離 (μm)
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserSolder.CVariableWorkholder.m_LaserOrgCCDOffsetXEdge">
+	<summary>
+ 尋邊影像中心至雷射原點水平方向距離 (μm)
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserSolder.CVariableWorkholder.m_LaserOrgCCDOffsetYEdge">
+	<summary>
+ 尋邊影像中心至雷射原點垂直方向距離 (μm)
+ </summary>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CVariableWorkholder.OrthogonalModify">
+	<summary>
+ 非正交軸修正補償角度
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CVariableWorkholder.LaserOrgCCDOffsetXMatch">
+	<summary>
+ 樣版影像CCD中心至雷射原點水平方向距離 (μm)
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CVariableWorkholder.LaserOrgCCDOffsetYMatch">
+	<summary>
+ 樣版影像CCD中心至雷射原點垂直方向距離 (μm)
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CVariableWorkholder.LaserOrgCCDOffsetXEdge">
+	<summary>
+ 尋邊影像中心至雷射原點水平方向距離 (μm)
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CVariableWorkholder.LaserOrgCCDOffsetYEdge">
+	<summary>
+ 尋邊影像中心至雷射原點垂直方向距離 (μm)
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CVariableWorkholder.PinHoleLeftX">
+	<summary>
+ 視覺定位計算對位孔馬達位置
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CVariableWorkholder.PinHoleLeftY">
+	<summary>
+ 視覺定位計算對位孔馬達位置
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CVariableWorkholder.ThetaRadCCW">
+	<summary>
+ 弧度
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserSolder.CVariableWorkholder.ImageErrorBiggestDegree">
+	<summary>
+ 允許視覺最大角度
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

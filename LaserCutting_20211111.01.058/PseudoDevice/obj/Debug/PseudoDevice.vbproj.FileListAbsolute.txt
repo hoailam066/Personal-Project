@@ -1,0 +1,1724 @@
+C:\Documents and Settings\Administrator\桌面\LaserScriber\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Documents and Settings\Administrator\桌面\LaserScriber\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Documents and Settings\Administrator\桌面\LaserScriber\PseudoDevice\bin\Debug\Timer.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber\PseudoDevice\bin\Debug\Xmler.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber\PseudoDevice\bin\Debug\Xmler.pdb
+C:\Documents and Settings\Administrator\桌面\LaserScriber\PseudoDevice\bin\Debug\Xmler.xml
+C:\Documents and Settings\Administrator\桌面\LaserScriber\PseudoDevice\bin\Debug\Timer.pdb
+C:\Documents and Settings\Administrator\桌面\LaserScriber\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\LaserScriber\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Documents and Settings\Administrator\桌面\LaserScriber\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\LaserScriber\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Documents and Settings\Administrator\桌面\LaserScriber\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber\PseudoDevice\bin\Debug\Timer.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber\PseudoDevice\bin\Debug\Xmler.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber\PseudoDevice\bin\Debug\Xmler.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber\PseudoDevice\bin\Debug\Xmler.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber\PseudoDevice\bin\Debug\Timer.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MyUser\桌面\LaserScriber\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Documents and Settings\MyUser\桌面\LaserScriber\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Documents and Settings\MyUser\桌面\LaserScriber\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150107.00.000\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150107.00.000\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150107.00.000\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150107.00.000\PseudoDevice\bin\Debug\Timer.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150107.00.000\PseudoDevice\bin\Debug\Xmler.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150107.00.000\PseudoDevice\bin\Debug\Xmler.pdb
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150107.00.000\PseudoDevice\bin\Debug\Xmler.xml
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150107.00.000\PseudoDevice\bin\Debug\Timer.pdb
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150107.00.000\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150107.00.000\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150107.00.000\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150107.00.000\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150107.00.000\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150107.00.000\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150119.00.001\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150119.00.001\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150119.00.001\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150119.00.001\PseudoDevice\bin\Debug\Timer.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150119.00.001\PseudoDevice\bin\Debug\Xmler.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150119.00.001\PseudoDevice\bin\Debug\Xmler.pdb
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150119.00.001\PseudoDevice\bin\Debug\Xmler.xml
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150119.00.001\PseudoDevice\bin\Debug\Timer.pdb
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150119.00.001\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150119.00.001\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150119.00.001\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150119.00.001\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150119.00.001\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150119.00.001\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150120.00.001\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150120.00.001\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150120.00.001\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150120.00.001\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150120.00.001\PseudoDevice\bin\Debug\Timer.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150120.00.001\PseudoDevice\bin\Debug\Xmler.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150120.00.001\PseudoDevice\bin\Debug\Xmler.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150120.00.001\PseudoDevice\bin\Debug\Xmler.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150120.00.001\PseudoDevice\bin\Debug\Timer.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150120.00.001\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150120.00.001\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150120.00.001\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150120.00.001\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150120.00.001\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150120.00.001\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150120.00.001\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150120.00.001\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150120.00.001\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150120.00.001\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150120.00.001\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150120.00.001\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150120.00.001\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150120.00.001\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150120.00.001\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150120.00.001\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150120.00.001\PseudoDevice\bin\Debug\Timer.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150120.00.001\PseudoDevice\bin\Debug\Xmler.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150121.00.001\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150121.00.001\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150121.00.001\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150121.00.001\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150121.00.001\PseudoDevice\bin\Debug\Timer.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150121.00.001\PseudoDevice\bin\Debug\Xmler.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150121.00.001\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150121.00.001\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150121.00.001\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150121.00.001\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150121.00.001\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150121.00.001\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150130.00.001\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150130.00.001\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150130.00.001\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150130.00.001\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150130.00.001\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150130.00.001\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150130.00.001\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150130.00.001\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150130.00.001\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150130.00.001\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150130.00.001\PseudoDevice\bin\Debug\Timer.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150130.00.001\PseudoDevice\bin\Debug\Xmler.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150211.00.001\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150211.00.001\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150211.00.001\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150211.00.001\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150211.00.001\PseudoDevice\bin\Debug\Timer.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150211.00.001\PseudoDevice\bin\Debug\Xmler.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150211.00.001\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150211.00.001\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150211.00.001\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150211.00.001\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150211.00.001\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150211.00.001\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150225.00.001\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150225.00.001\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150225.00.001\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150225.00.001\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150225.00.001\PseudoDevice\bin\Debug\Timer.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150225.00.001\PseudoDevice\bin\Debug\Xmler.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150225.00.001\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150225.00.001\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150225.00.001\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150225.00.001\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150225.00.001\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150225.00.001\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150901.00.001\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150901.00.001\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150901.00.001\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150901.00.001\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150901.00.001\PseudoDevice\bin\Debug\Timer.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150901.00.001\PseudoDevice\bin\Debug\Xmler.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150901.00.001\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150901.00.001\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150901.00.001\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150901.00.001\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150901.00.001\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150901.00.001\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150902.00.001\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150902.00.001\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150902.00.001\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150902.00.001\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150902.00.001\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150902.00.001\PseudoDevice\bin\Debug\Timer.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150902.00.001\PseudoDevice\bin\Debug\Xmler.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150902.00.001\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150902.00.001\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150902.00.001\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150902.00.001\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150902.00.001\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150902.00.001\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150902.00.001\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150902.00.001\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150902.00.001\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150902.00.001\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150902.00.001\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150902.00.001\PseudoDevice\bin\Debug\Timer.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150902.00.001\PseudoDevice\bin\Debug\Xmler.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150902.00.001\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150902.00.001\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150902.00.001\PseudoDevice\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150902.00.001\PseudoDevice\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150902.00.001\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150902.00.001\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150902.00.001\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150903.00.001\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150903.00.001\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150903.00.001\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150903.00.001\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150903.00.001\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150903.00.001\PseudoDevice\bin\Debug\Timer.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150903.00.001\PseudoDevice\bin\Debug\Xmler.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150903.00.001\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150903.00.001\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150903.00.001\PseudoDevice\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150903.00.001\PseudoDevice\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150903.00.001\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150903.00.001\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150903.00.001\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150908.00.001\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150908.00.001\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150908.00.001\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150908.00.001\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150908.00.001\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150908.00.001\PseudoDevice\bin\Debug\Timer.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150908.00.001\PseudoDevice\bin\Debug\Xmler.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150908.00.001\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150908.00.001\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150908.00.001\PseudoDevice\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150908.00.001\PseudoDevice\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150908.00.001\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150908.00.001\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150908.00.001\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150910.01.002\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150910.01.002\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150910.01.002\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150910.01.002\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150910.01.002\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150910.01.002\PseudoDevice\bin\Debug\Timer.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150910.01.002\PseudoDevice\bin\Debug\Xmler.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150910.01.002\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150910.01.002\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150910.01.002\PseudoDevice\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150910.01.002\PseudoDevice\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150910.01.002\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150910.01.002\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150910.01.002\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150911.03.003\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150911.03.003\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150911.03.003\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150911.03.003\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150911.03.003\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150911.03.003\PseudoDevice\bin\Debug\Timer.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150911.03.003\PseudoDevice\bin\Debug\Xmler.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150911.03.003\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150911.03.003\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150911.03.003\PseudoDevice\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150911.03.003\PseudoDevice\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150911.03.003\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150911.03.003\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150911.03.003\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004 release\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004 release\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004 release\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004 release\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004 release\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004 release\PseudoDevice\bin\Debug\Timer.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004 release\PseudoDevice\bin\Debug\Xmler.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004 release\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004 release\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004 release\PseudoDevice\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004 release\PseudoDevice\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004 release\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004 release\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004 release\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004-20150924.04.005\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004-20150924.04.005\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004-20150924.04.005\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004-20150924.04.005\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004-20150924.04.005\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004-20150924.04.005\PseudoDevice\bin\Debug\Timer.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004-20150924.04.005\PseudoDevice\bin\Debug\Xmler.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004-20150924.04.005\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004-20150924.04.005\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004-20150924.04.005\PseudoDevice\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004-20150924.04.005\PseudoDevice\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004-20150924.04.005\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004-20150924.04.005\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004-20150924.04.005\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150915.04.004-201501005.04.006\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150915.04.004-201501005.04.006\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150915.04.004-201501005.04.006\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150915.04.004-201501005.04.006\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150915.04.004-201501005.04.006\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150915.04.004-201501005.04.006\PseudoDevice\bin\Debug\Timer.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150915.04.004-201501005.04.006\PseudoDevice\bin\Debug\Xmler.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150915.04.004-201501005.04.006\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150915.04.004-201501005.04.006\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150915.04.004-201501005.04.006\PseudoDevice\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150915.04.004-201501005.04.006\PseudoDevice\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150915.04.004-201501005.04.006\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150915.04.004-201501005.04.006\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150915.04.004-201501005.04.006\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004-201501005.04.006\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004-201501005.04.006\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004-201501005.04.006\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004-201501005.04.006\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004-201501005.04.006\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004-201501005.04.006\PseudoDevice\bin\Debug\Timer.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004-201501005.04.006\PseudoDevice\bin\Debug\Xmler.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004-201501005.04.006\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004-201501005.04.006\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004-201501005.04.006\PseudoDevice\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004-201501005.04.006\PseudoDevice\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004-201501005.04.006\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004-201501005.04.006\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004-201501005.04.006\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150915.04.004-201501006.04.007\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150915.04.004-201501006.04.007\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150915.04.004-201501006.04.007\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150915.04.004-201501006.04.007\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150915.04.004-201501006.04.007\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150915.04.004-201501006.04.007\PseudoDevice\bin\Debug\Timer.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150915.04.004-201501006.04.007\PseudoDevice\bin\Debug\Xmler.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150915.04.004-201501006.04.007\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150915.04.004-201501006.04.007\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150915.04.004-201501006.04.007\PseudoDevice\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150915.04.004-201501006.04.007\PseudoDevice\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150915.04.004-201501006.04.007\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150915.04.004-201501006.04.007\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Documents and Settings\Administrator\桌面\LaserScriber20150915.04.004-201501006.04.007\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004-201501006.04.007\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004-201501006.04.007\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004-201501006.04.007\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004-201501006.04.007\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004-201501006.04.007\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004-201501006.04.007\PseudoDevice\bin\Debug\Timer.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004-201501006.04.007\PseudoDevice\bin\Debug\Xmler.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004-201501006.04.007\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004-201501006.04.007\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004-201501006.04.007\PseudoDevice\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004-201501006.04.007\PseudoDevice\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004-201501006.04.007\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004-201501006.04.007\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20150915.04.004-201501006.04.007\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151013.06.010-20151021.06.012\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151013.06.010-20151021.06.012\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151013.06.010-20151021.06.012\PseudoDevice\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151013.06.010-20151021.06.012\PseudoDevice\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151013.06.010-20151021.06.012\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151013.06.010-20151021.06.012\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151013.06.010-20151021.06.012\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151013.06.010-20151021.06.012\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151013.06.010-20151021.06.012\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151013.06.010-20151021.06.012\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151013.06.010-20151021.06.012\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151013.06.010-20151021.06.012\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151013.06.010-20151021.06.012\PseudoDevice\bin\Debug\Timer.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151013.06.010-20151021.06.012\PseudoDevice\bin\Debug\Xmler.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151013.06.010-20151111.06.017\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151013.06.010-20151111.06.017\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151013.06.010-20151111.06.017\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151013.06.010-20151111.06.017\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151013.06.010-20151111.06.017\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151013.06.010-20151111.06.017\PseudoDevice\bin\Debug\Timer.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151013.06.010-20151111.06.017\PseudoDevice\bin\Debug\Xmler.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151013.06.010-20151111.06.017\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151013.06.010-20151111.06.017\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151013.06.010-20151111.06.017\PseudoDevice\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151013.06.010-20151111.06.017\PseudoDevice\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151013.06.010-20151111.06.017\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151013.06.010-20151111.06.017\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151013.06.010-20151111.06.017\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\LaserScriber20151120.09.020-20151124.09.022\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\LaserScriber20151120.09.020-20151124.09.022\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\MyUser\Desktop\LaserScriber20151120.09.020-20151124.09.022\PseudoDevice\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\MyUser\Desktop\LaserScriber20151120.09.020-20151124.09.022\PseudoDevice\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\MyUser\Desktop\LaserScriber20151120.09.020-20151124.09.022\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\LaserScriber20151120.09.020-20151124.09.022\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\LaserScriber20151120.09.020-20151124.09.022\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\LaserScriber20151120.09.020-20151124.09.022\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\LaserScriber20151120.09.020-20151124.09.022\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\LaserScriber20151120.09.020-20151124.09.022\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\LaserScriber20151120.09.020-20151124.09.022\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\MyUser\Desktop\LaserScriber20151120.09.020-20151124.09.022\PseudoDevice\bin\Debug\Timer.dll
+C:\Users\MyUser\Desktop\LaserScriber20151120.09.020-20151124.09.022\PseudoDevice\bin\Debug\Xmler.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151120.09.020-20151130.09.023\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151120.09.020-20151130.09.023\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151120.09.020-20151130.09.023\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151120.09.020-20151130.09.023\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151120.09.020-20151130.09.023\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151120.09.020-20151130.09.023\PseudoDevice\bin\Debug\Timer.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151120.09.020-20151130.09.023\PseudoDevice\bin\Debug\Xmler.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151120.09.020-20151130.09.023\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151120.09.020-20151130.09.023\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151120.09.020-20151130.09.023\PseudoDevice\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151120.09.020-20151130.09.023\PseudoDevice\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151120.09.020-20151130.09.023\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151120.09.020-20151130.09.023\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151120.09.020-20151130.09.023\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151120.09.020-20151204.09.023\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151120.09.020-20151204.09.023\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151120.09.020-20151204.09.023\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151120.09.020-20151204.09.023\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151120.09.020-20151204.09.023\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151120.09.020-20151204.09.023\PseudoDevice\bin\Debug\Timer.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151120.09.020-20151204.09.023\PseudoDevice\bin\Debug\Xmler.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151120.09.020-20151204.09.023\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151120.09.020-20151204.09.023\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151120.09.020-20151204.09.023\PseudoDevice\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151120.09.020-20151204.09.023\PseudoDevice\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151120.09.020-20151204.09.023\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151120.09.020-20151204.09.023\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151120.09.020-20151204.09.023\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151120.09.020-20151204.09.025\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151120.09.020-20151204.09.025\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151120.09.020-20151204.09.025\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151120.09.020-20151204.09.025\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151120.09.020-20151204.09.025\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151120.09.020-20151204.09.025\PseudoDevice\bin\Debug\Timer.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151120.09.020-20151204.09.025\PseudoDevice\bin\Debug\Xmler.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151120.09.020-20151204.09.025\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151120.09.020-20151204.09.025\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151120.09.020-20151204.09.025\PseudoDevice\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151120.09.020-20151204.09.025\PseudoDevice\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151120.09.020-20151204.09.025\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151120.09.020-20151204.09.025\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151120.09.020-20151204.09.025\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151215.10.021 Release\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151215.10.021 Release\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151215.10.021 Release\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151215.10.021 Release\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151215.10.021 Release\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151215.10.021 Release\PseudoDevice\bin\Debug\Timer.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151215.10.021 Release\PseudoDevice\bin\Debug\Xmler.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151215.10.021 Release\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151215.10.021 Release\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151215.10.021 Release\PseudoDevice\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151215.10.021 Release\PseudoDevice\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151215.10.021 Release\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151215.10.021 Release\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151215.10.021 Release\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151217.10.021 Release usb\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151217.10.021 Release usb\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151217.10.021 Release usb\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151217.10.021 Release usb\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151217.10.021 Release usb\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151217.10.021 Release usb\PseudoDevice\bin\Debug\Timer.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151217.10.021 Release usb\PseudoDevice\bin\Debug\Xmler.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151217.10.021 Release usb\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151217.10.021 Release usb\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151217.10.021 Release usb\PseudoDevice\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151217.10.021 Release usb\PseudoDevice\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151217.10.021 Release usb\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151217.10.021 Release usb\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151217.10.021 Release usb\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151221.10.021 Release usb\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151221.10.021 Release usb\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151221.10.021 Release usb\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151221.10.021 Release usb\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151221.10.021 Release usb\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151221.10.021 Release usb\PseudoDevice\bin\Debug\Timer.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151221.10.021 Release usb\PseudoDevice\bin\Debug\Xmler.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151221.10.021 Release usb\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151221.10.021 Release usb\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151221.10.021 Release usb\PseudoDevice\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151221.10.021 Release usb\PseudoDevice\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151221.10.021 Release usb\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151221.10.021 Release usb\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151221.10.021 Release usb\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151221.10.021 Release\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151221.10.021 Release\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151221.10.021 Release\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151221.10.021 Release\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151221.10.021 Release\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151221.10.021 Release\PseudoDevice\bin\Debug\Timer.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151221.10.021 Release\PseudoDevice\bin\Debug\Xmler.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151221.10.021 Release\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151221.10.021 Release\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151221.10.021 Release\PseudoDevice\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151221.10.021 Release\PseudoDevice\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151221.10.021 Release\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151221.10.021 Release\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151221.10.021 Release\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151223.10.021 Release\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151223.10.021 Release\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151223.10.021 Release\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151223.10.021 Release\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151223.10.021 Release\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151223.10.021 Release\PseudoDevice\bin\Debug\Timer.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151223.10.021 Release\PseudoDevice\bin\Debug\Xmler.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151223.10.021 Release\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151223.10.021 Release\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151223.10.021 Release\PseudoDevice\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151223.10.021 Release\PseudoDevice\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151223.10.021 Release\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151223.10.021 Release\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151223.10.021 Release\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151224.10.021 Release\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151224.10.021 Release\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151224.10.021 Release\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151224.10.021 Release\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151224.10.021 Release\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151224.10.021 Release\PseudoDevice\bin\Debug\Timer.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151224.10.021 Release\PseudoDevice\bin\Debug\Xmler.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151224.10.021 Release\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151224.10.021 Release\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151224.10.021 Release\PseudoDevice\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151224.10.021 Release\PseudoDevice\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151224.10.021 Release\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151224.10.021 Release\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Documents and Settings\Administrator\桌面\LaserScriber20151224.10.021 Release\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151230.10.021 Release\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151230.10.021 Release\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151230.10.021 Release\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151230.10.021 Release\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151230.10.021 Release\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151230.10.021 Release\PseudoDevice\bin\Debug\Timer.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151230.10.021 Release\PseudoDevice\bin\Debug\Xmler.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151230.10.021 Release\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151230.10.021 Release\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151230.10.021 Release\PseudoDevice\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151230.10.021 Release\PseudoDevice\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151230.10.021 Release\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151230.10.021 Release\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20151230.10.021 Release\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160108.10.021-20160203.10.021\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160108.10.021-20160203.10.021\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160108.10.021-20160203.10.021\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160108.10.021-20160203.10.021\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160108.10.021-20160203.10.021\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160108.10.021-20160203.10.021\PseudoDevice\bin\Debug\Timer.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160108.10.021-20160203.10.021\PseudoDevice\bin\Debug\Xmler.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160108.10.021-20160203.10.021\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160108.10.021-20160203.10.021\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160108.10.021-20160203.10.021\PseudoDevice\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160108.10.021-20160203.10.021\PseudoDevice\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160108.10.021-20160203.10.021\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160108.10.021-20160203.10.021\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160108.10.021-20160203.10.021\PseudoDevice\obj\Debug\PseudoDevice.pdb
+D:\升億\311.研發-程式-原始碼\大毅\T1謹耀畫線機改機\LaserScriber20160108.10.021-20160203.10.021\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+D:\升億\311.研發-程式-原始碼\大毅\T1謹耀畫線機改機\LaserScriber20160108.10.021-20160203.10.021\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+D:\升億\311.研發-程式-原始碼\大毅\T1謹耀畫線機改機\LaserScriber20160108.10.021-20160203.10.021\PseudoDevice\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\升億\311.研發-程式-原始碼\大毅\T1謹耀畫線機改機\LaserScriber20160108.10.021-20160203.10.021\PseudoDevice\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\升億\311.研發-程式-原始碼\大毅\T1謹耀畫線機改機\LaserScriber20160108.10.021-20160203.10.021\PseudoDevice\obj\Debug\PseudoDevice.dll
+D:\升億\311.研發-程式-原始碼\大毅\T1謹耀畫線機改機\LaserScriber20160108.10.021-20160203.10.021\PseudoDevice\obj\Debug\PseudoDevice.xml
+D:\升億\311.研發-程式-原始碼\大毅\T1謹耀畫線機改機\LaserScriber20160108.10.021-20160203.10.021\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\LaserScriber20160503.11.023 - 20160704.11.027\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\LaserScriber20160503.11.023 - 20160704.11.027\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\LaserScriber20160503.11.023 - 20160704.11.027\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\LaserScriber20160503.11.023 - 20160704.11.027\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\MyUser\Desktop\LaserScriber20160503.11.023 - 20160704.11.027\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Users\MyUser\Desktop\LaserScriber20160503.11.023 - 20160704.11.027\PseudoDevice\bin\Debug\Timer.dll
+C:\Users\MyUser\Desktop\LaserScriber20160503.11.023 - 20160704.11.027\PseudoDevice\bin\Debug\Xmler.dll
+C:\Users\MyUser\Desktop\LaserScriber20160503.11.023 - 20160704.11.027\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\LaserScriber20160503.11.023 - 20160704.11.027\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\MyUser\Desktop\LaserScriber20160503.11.023 - 20160704.11.027\PseudoDevice\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\MyUser\Desktop\LaserScriber20160503.11.023 - 20160704.11.027\PseudoDevice\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\MyUser\Desktop\LaserScriber20160503.11.023 - 20160704.11.027\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\LaserScriber20160503.11.023 - 20160704.11.027\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\LaserScriber20160503.11.023 - 20160704.11.027\PseudoDevice\obj\Debug\PseudoDevice.pdb
+D:\升億\311.研發-程式-原始碼\大毅\T1謹耀畫線機改機\LaserScriber20160704.12.028 - 20160711.12.29\PseudoDevice\bin\Debug\PseudoDevice.dll
+D:\升億\311.研發-程式-原始碼\大毅\T1謹耀畫線機改機\LaserScriber20160704.12.028 - 20160711.12.29\PseudoDevice\bin\Debug\PseudoDevice.pdb
+D:\升億\311.研發-程式-原始碼\大毅\T1謹耀畫線機改機\LaserScriber20160704.12.028 - 20160711.12.29\PseudoDevice\bin\Debug\PseudoDevice.xml
+D:\升億\311.研發-程式-原始碼\大毅\T1謹耀畫線機改機\LaserScriber20160704.12.028 - 20160711.12.29\PseudoDevice\bin\Debug\PseudoDevice.tlb
+D:\升億\311.研發-程式-原始碼\大毅\T1謹耀畫線機改機\LaserScriber20160704.12.028 - 20160711.12.29\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+D:\升億\311.研發-程式-原始碼\大毅\T1謹耀畫線機改機\LaserScriber20160704.12.028 - 20160711.12.29\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+D:\升億\311.研發-程式-原始碼\大毅\T1謹耀畫線機改機\LaserScriber20160704.12.028 - 20160711.12.29\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+D:\升億\311.研發-程式-原始碼\大毅\T1謹耀畫線機改機\LaserScriber20160704.12.028 - 20160711.12.29\PseudoDevice\obj\Debug\PseudoDevice.dll
+D:\升億\311.研發-程式-原始碼\大毅\T1謹耀畫線機改機\LaserScriber20160704.12.028 - 20160711.12.29\PseudoDevice\obj\Debug\PseudoDevice.xml
+D:\升億\311.研發-程式-原始碼\大毅\T1謹耀畫線機改機\LaserScriber20160704.12.028 - 20160711.12.29\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\LaserScriber20160720.14.031 release\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\LaserScriber20160720.14.031 release\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\LaserScriber20160720.14.031 release\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\LaserScriber20160720.14.031 release\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\MyUser\Desktop\LaserScriber20160720.14.031 release\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Users\MyUser\Desktop\LaserScriber20160720.14.031 release\PseudoDevice\bin\Debug\Timer.dll
+C:\Users\MyUser\Desktop\LaserScriber20160720.14.031 release\PseudoDevice\bin\Debug\Xmler.dll
+C:\Users\MyUser\Desktop\LaserScriber20160720.14.031 release\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\LaserScriber20160720.14.031 release\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\MyUser\Desktop\LaserScriber20160720.14.031 release\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\MyUser\Desktop\LaserScriber20160720.14.031 release\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\LaserScriber20160720.14.031 release\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\LaserScriber20160720.14.031 release\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160725.15.0312 release\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160725.15.0312 release\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160725.15.0312 release\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160725.15.0312 release\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160725.15.0312 release\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160725.15.0312 release\PseudoDevice\bin\Debug\Timer.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160725.15.0312 release\PseudoDevice\bin\Debug\Xmler.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160725.15.0312 release\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160725.15.0312 release\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160725.15.0312 release\PseudoDevice\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160725.15.0312 release\PseudoDevice\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160725.15.0312 release\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160725.15.0312 release\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160725.15.0312 release\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160802.16.033 release\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160802.16.033 release\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160802.16.033 release\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160802.16.033 release\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160802.16.033 release\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160802.16.033 release\PseudoDevice\bin\Debug\Timer.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160802.16.033 release\PseudoDevice\bin\Debug\Xmler.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160802.16.033 release\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160802.16.033 release\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160802.16.033 release\PseudoDevice\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160802.16.033 release\PseudoDevice\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160802.16.033 release\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160802.16.033 release\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160802.16.033 release\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160923.17.036 release\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160923.17.036 release\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160923.17.036 release\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160923.17.036 release\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160923.17.036 release\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160923.17.036 release\PseudoDevice\bin\Debug\Timer.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160923.17.036 release\PseudoDevice\bin\Debug\Xmler.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160923.17.036 release\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160923.17.036 release\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160923.17.036 release\PseudoDevice\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160923.17.036 release\PseudoDevice\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160923.17.036 release\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160923.17.036 release\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20160923.17.036 release\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\Naoki\Desktop\LaserScriber20160923.18.037 release\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\Naoki\Desktop\LaserScriber20160923.18.037 release\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\Naoki\Desktop\LaserScriber20160923.18.037 release\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\Naoki\Desktop\LaserScriber20160923.18.037 release\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\Naoki\Desktop\LaserScriber20160923.18.037 release\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\Naoki\Desktop\LaserScriber20160923.18.037 release\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\Naoki\Desktop\LaserScriber20160923.18.037 release\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\Naoki\Desktop\LaserScriber20160923.18.037 release\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\Naoki\Desktop\LaserScriber20160923.18.037 release\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\Naoki\Desktop\LaserScriber20160923.18.037 release\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\LaserScriber20160930.19.038 release\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\LaserScriber20160930.19.038 release\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\LaserScriber20160930.19.038 release\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\LaserScriber20160930.19.038 release\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\MyUser\Desktop\LaserScriber20160930.19.038 release\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Users\MyUser\Desktop\LaserScriber20160930.19.038 release\PseudoDevice\bin\Debug\Timer.dll
+C:\Users\MyUser\Desktop\LaserScriber20160930.19.038 release\PseudoDevice\bin\Debug\Xmler.dll
+C:\Users\MyUser\Desktop\LaserScriber20160930.19.038 release\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\LaserScriber20160930.19.038 release\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\MyUser\Desktop\LaserScriber20160930.19.038 release\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\MyUser\Desktop\LaserScriber20160930.19.038 release\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\LaserScriber20160930.19.038 release\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\LaserScriber20160930.19.038 release\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\LaserScriber20161026.20.039 release\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\LaserScriber20161026.20.039 release\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\LaserScriber20161026.20.039 release\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\LaserScriber20161026.20.039 release\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\MyUser\Desktop\LaserScriber20161026.20.039 release\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Users\MyUser\Desktop\LaserScriber20161026.20.039 release\PseudoDevice\bin\Debug\Timer.dll
+C:\Users\MyUser\Desktop\LaserScriber20161026.20.039 release\PseudoDevice\bin\Debug\Xmler.dll
+C:\Users\MyUser\Desktop\LaserScriber20161026.20.039 release\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\LaserScriber20161026.20.039 release\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\MyUser\Desktop\LaserScriber20161026.20.039 release\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\MyUser\Desktop\LaserScriber20161026.20.039 release\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\LaserScriber20161026.20.039 release\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\LaserScriber20161026.20.039 release\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161027.20.039\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161027.20.039\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161027.20.039\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161027.20.039\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161027.20.039\PseudoDevice\bin\Debug\Timer.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161027.20.039\PseudoDevice\bin\Debug\Xmler.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161027.20.039\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161027.20.039\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161027.20.039\PseudoDevice\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161027.20.039\PseudoDevice\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161027.20.039\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161027.20.039\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161027.20.039\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\複製 -LaserScriber20161027.20.039\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\複製 -LaserScriber20161027.20.039\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\複製 -LaserScriber20161027.20.039\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\複製 -LaserScriber20161027.20.039\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Documents and Settings\MyUser\桌面\複製 -LaserScriber20161027.20.039\PseudoDevice\bin\Debug\Timer.dll
+C:\Documents and Settings\MyUser\桌面\複製 -LaserScriber20161027.20.039\PseudoDevice\bin\Debug\Xmler.dll
+C:\Documents and Settings\MyUser\桌面\複製 -LaserScriber20161027.20.039\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MyUser\桌面\複製 -LaserScriber20161027.20.039\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Documents and Settings\MyUser\桌面\複製 -LaserScriber20161027.20.039\PseudoDevice\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\MyUser\桌面\複製 -LaserScriber20161027.20.039\PseudoDevice\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\MyUser\桌面\複製 -LaserScriber20161027.20.039\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\複製 -LaserScriber20161027.20.039\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\複製 -LaserScriber20161027.20.039\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\複製 -LaserScriber20161027.20.039\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161028.21.040\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161028.21.040\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161028.21.040\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161028.21.040\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161028.21.040\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161028.21.040\PseudoDevice\bin\Debug\Timer.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161028.21.040\PseudoDevice\bin\Debug\Xmler.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161028.21.040\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161028.21.040\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161028.21.040\PseudoDevice\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161028.21.040\PseudoDevice\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161028.21.040\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161028.21.040\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161028.21.040\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\LaserScriber20161102.22.041\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\LaserScriber20161102.22.041\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\LaserScriber20161102.22.041\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\LaserScriber20161102.22.041\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\MyUser\Desktop\LaserScriber20161102.22.041\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Users\MyUser\Desktop\LaserScriber20161102.22.041\PseudoDevice\bin\Debug\Timer.dll
+C:\Users\MyUser\Desktop\LaserScriber20161102.22.041\PseudoDevice\bin\Debug\Xmler.dll
+C:\Users\MyUser\Desktop\LaserScriber20161102.22.041\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\LaserScriber20161102.22.041\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\MyUser\Desktop\LaserScriber20161102.22.041\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\MyUser\Desktop\LaserScriber20161102.22.041\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\LaserScriber20161102.22.041\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\LaserScriber20161102.22.041\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161110.24.043\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161110.24.043\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161110.24.043\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161110.24.043\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161110.24.043\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161110.24.043\PseudoDevice\bin\Debug\Timer.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161110.24.043\PseudoDevice\bin\Debug\Xmler.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161110.24.043\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161110.24.043\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161110.24.043\PseudoDevice\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161110.24.043\PseudoDevice\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161110.24.043\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161110.24.043\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161110.24.043\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\Naoki\Desktop\LaserScriber20161122.24.043\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Naoki\Desktop\LaserScriber20161122.24.043\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\Naoki\Desktop\LaserScriber20161122.24.043\PseudoDevice\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Naoki\Desktop\LaserScriber20161122.24.043\PseudoDevice\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Naoki\Desktop\LaserScriber20161122.24.043\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\Naoki\Desktop\LaserScriber20161122.24.043\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\Naoki\Desktop\LaserScriber20161122.24.043\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161124.25.045\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161124.25.045\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161124.25.045\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161124.25.045\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161124.25.045\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161124.25.045\PseudoDevice\bin\Debug\Timer.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161124.25.045\PseudoDevice\bin\Debug\Xmler.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161124.25.045\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161124.25.045\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161124.25.045\PseudoDevice\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161124.25.045\PseudoDevice\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161124.25.045\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161124.25.045\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161124.25.045\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161124.25.046\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161124.25.046\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161124.25.046\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161124.25.046\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161124.25.046\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161124.25.046\PseudoDevice\bin\Debug\Timer.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161124.25.046\PseudoDevice\bin\Debug\Xmler.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161124.25.046\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161124.25.046\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161124.25.046\PseudoDevice\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161124.25.046\PseudoDevice\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161124.25.046\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161124.25.046\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20161124.25.046\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20170123.27.048 release\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20170123.27.048 release\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20170123.27.048 release\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20170123.27.048 release\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20170123.27.048 release\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20170123.27.048 release\PseudoDevice\bin\Debug\Timer.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20170123.27.048 release\PseudoDevice\bin\Debug\Xmler.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20170123.27.048 release\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MyUser\桌面\LaserScriber20170123.27.048 release\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Documents and Settings\MyUser\桌面\LaserScriber20170123.27.048 release\PseudoDevice\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20170123.27.048 release\PseudoDevice\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20170123.27.048 release\PseudoDevice\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20170123.27.048 release\PseudoDevice\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20170123.27.048 release\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20170123.27.048 release\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20170123.27.048 release\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20170125.27.049\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20170125.27.049\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20170125.27.049\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20170125.27.049\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Documents and Settings\MyUser\桌面\LaserScriber20170125.27.049\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20170125.27.049\PseudoDevice\bin\Debug\Timer.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20170125.27.049\PseudoDevice\bin\Debug\Xmler.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20170125.27.049\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MyUser\桌面\LaserScriber20170125.27.049\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Documents and Settings\MyUser\桌面\LaserScriber20170125.27.049\PseudoDevice\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20170125.27.049\PseudoDevice\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20170125.27.049\PseudoDevice\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20170125.27.049\PseudoDevice\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\MyUser\桌面\LaserScriber20170125.27.049\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Documents and Settings\MyUser\桌面\LaserScriber20170125.27.049\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Documents and Settings\MyUser\桌面\LaserScriber20170125.27.049\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\USER\Desktop\LaserScriber20170125.28.049 release\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\USER\Desktop\LaserScriber20170125.28.049 release\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\USER\Desktop\LaserScriber20170125.28.049 release\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\USER\Desktop\LaserScriber20170125.28.049 release\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\USER\Desktop\LaserScriber20170125.28.049 release\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Users\USER\Desktop\LaserScriber20170125.28.049 release\PseudoDevice\bin\Debug\Timer.dll
+C:\Users\USER\Desktop\LaserScriber20170125.28.049 release\PseudoDevice\bin\Debug\Xmler.dll
+C:\Users\USER\Desktop\LaserScriber20170125.28.049 release\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\LaserScriber20170125.28.049 release\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\USER\Desktop\LaserScriber20170125.28.049 release\PseudoDevice\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\USER\Desktop\LaserScriber20170125.28.049 release\PseudoDevice\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\USER\Desktop\LaserScriber20170125.28.049 release\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\USER\Desktop\LaserScriber20170125.28.049 release\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\USER\Desktop\LaserScriber20170125.28.049 release\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\Jacky\Desktop\SR瑾耀程式(win7正確版)\LaserScriber20170125.28.049 release\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\Jacky\Desktop\SR瑾耀程式(win7正確版)\LaserScriber20170125.28.049 release\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\Jacky\Desktop\SR瑾耀程式(win7正確版)\LaserScriber20170125.28.049 release\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\Jacky\Desktop\SR瑾耀程式(win7正確版)\LaserScriber20170125.28.049 release\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\Jacky\Desktop\SR瑾耀程式(win7正確版)\LaserScriber20170125.28.049 release\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\Jacky\Desktop\SR瑾耀程式(win7正確版)\LaserScriber20170125.28.049 release\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\Jacky\Desktop\SR瑾耀程式(win7正確版)\LaserScriber20170125.28.049 release\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\Jacky\Desktop\SR瑾耀程式(win7正確版)\LaserScriber20170125.28.049 release\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\Jacky\Desktop\SR瑾耀程式(win7正確版)\LaserScriber20170125.28.049 release\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\Jacky\Desktop\SR瑾耀程式(win7正確版)\LaserScriber20170125.28.049 release\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\USER\Desktop\SR瑾耀程式(win7正確版)\LaserScriber20170125.28.049 release\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\USER\Desktop\SR瑾耀程式(win7正確版)\LaserScriber20170125.28.049 release\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\USER\Desktop\SR瑾耀程式(win7正確版)\LaserScriber20170125.28.049 release\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\USER\Desktop\SR瑾耀程式(win7正確版)\LaserScriber20170125.28.049 release\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\USER\Desktop\SR瑾耀程式(win7正確版)\LaserScriber20170125.28.049 release\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\SR瑾耀程式(win7正確版)\LaserScriber20170125.28.049 release\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\USER\Desktop\SR瑾耀程式(win7正確版)\LaserScriber20170125.28.049 release\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\USER\Desktop\SR瑾耀程式(win7正確版)\LaserScriber20170125.28.049 release\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\USER\Desktop\SR瑾耀程式(win7正確版)\LaserScriber20170125.28.049 release\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\USER\Desktop\SR瑾耀程式(win7正確版)\LaserScriber20170125.28.049 release\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\USER\Desktop\New_SR\NEW_SR2017.09.30.00.01\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\USER\Desktop\New_SR\NEW_SR2017.09.30.00.01\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\USER\Desktop\New_SR\NEW_SR2017.09.30.00.01\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\USER\Desktop\New_SR\NEW_SR2017.09.30.00.01\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\USER\Desktop\New_SR\NEW_SR2017.09.30.00.01\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\New_SR\NEW_SR2017.09.30.00.01\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\USER\Desktop\New_SR\NEW_SR2017.09.30.00.01\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\USER\Desktop\New_SR\NEW_SR2017.09.30.00.01\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\USER\Desktop\New_SR\NEW_SR2017.09.30.00.01\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\USER\Desktop\New_SR\NEW_SR2017.09.30.00.01\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\USER\Desktop\New_SR\NEW_SR2017.10.03.00.00\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\USER\Desktop\New_SR\NEW_SR2017.10.03.00.00\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\USER\Desktop\New_SR\NEW_SR2017.10.03.00.00\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\USER\Desktop\New_SR\NEW_SR2017.10.03.00.00\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\USER\Desktop\New_SR\NEW_SR2017.10.03.00.00\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\New_SR\NEW_SR2017.10.03.00.00\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\USER\Desktop\New_SR\NEW_SR2017.10.03.00.00\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\USER\Desktop\New_SR\NEW_SR2017.10.03.00.00\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\USER\Desktop\New_SR\NEW_SR2017.10.03.00.00\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\USER\Desktop\New_SR\NEW_SR2017.10.03.00.00\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\USER\Desktop\New_SR\NEW_SR2017.10.16.00.00\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\USER\Desktop\New_SR\NEW_SR2017.10.16.00.00\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\USER\Desktop\New_SR\NEW_SR2017.10.16.00.00\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\USER\Desktop\New_SR\NEW_SR2017.10.16.00.00\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\USER\Desktop\New_SR\NEW_SR2017.10.16.00.00\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\New_SR\NEW_SR2017.10.16.00.00\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\USER\Desktop\New_SR\NEW_SR2017.10.16.00.00\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\USER\Desktop\New_SR\NEW_SR2017.10.16.00.00\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\USER\Desktop\New_SR\NEW_SR2017.10.16.00.00\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\USER\Desktop\New_SR\NEW_SR2017.10.16.00.00\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\USER\Desktop\NEW_SR2017.11.21.00.023\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\USER\Desktop\NEW_SR2017.11.21.00.023\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\USER\Desktop\NEW_SR2017.11.21.00.023\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\USER\Desktop\NEW_SR2017.11.21.00.023\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\USER\Desktop\NEW_SR2017.11.21.00.023\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\NEW_SR2017.11.21.00.023\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\USER\Desktop\NEW_SR2017.11.21.00.023\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\USER\Desktop\NEW_SR2017.11.21.00.023\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\USER\Desktop\NEW_SR2017.11.21.00.023\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\USER\Desktop\NEW_SR2017.11.21.00.023\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\USER\Desktop\NEW_SR2017.11.27.00.024\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\USER\Desktop\NEW_SR2017.11.27.00.024\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\USER\Desktop\NEW_SR2017.11.27.00.024\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\USER\Desktop\NEW_SR2017.11.27.00.024\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\USER\Desktop\NEW_SR2017.11.27.00.024\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\USER\Desktop\NEW_SR2017.11.27.00.024\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\USER\Desktop\NEW_SR2017.11.27.00.024\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\USER\Desktop\NEW_SR2017.11.27.00.024\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\USER\Desktop\NEW_SR2017.11.27.00.024\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\USER\Documents\TTT\NEW_SR2018.03.23.1737\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\USER\Documents\TTT\NEW_SR2018.03.23.1737\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\USER\Documents\TTT\NEW_SR2018.03.23.1737\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\USER\Documents\TTT\NEW_SR2018.03.23.1737\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\USER\Documents\TTT\NEW_SR2018.03.23.1737\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\TTT\NEW_SR2018.03.23.1737\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\USER\Documents\TTT\NEW_SR2018.03.23.1737\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\USER\Documents\TTT\NEW_SR2018.03.23.1737\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\USER\Documents\TTT\NEW_SR2018.03.23.1737\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\USER\Documents\TTT\NEW_SR2018.03.23.1737\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\USER\Documents\TTT\NEW_SR2018.03.28.0900\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\USER\Documents\TTT\NEW_SR2018.03.28.0900\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\USER\Documents\TTT\NEW_SR2018.03.28.0900\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\USER\Documents\TTT\NEW_SR2018.03.28.0900\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\USER\Documents\TTT\NEW_SR2018.03.28.0900\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\TTT\NEW_SR2018.03.28.0900\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\USER\Documents\TTT\NEW_SR2018.03.28.0900\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\USER\Documents\TTT\NEW_SR2018.03.28.0900\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\USER\Documents\TTT\NEW_SR2018.03.28.0900\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\USER\Documents\TTT\NEW_SR2018.03.28.0900\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\USER\Documents\TTT\NEW_SR2018.03.28.2040\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\USER\Documents\TTT\NEW_SR2018.03.28.2040\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\USER\Documents\TTT\NEW_SR2018.03.28.2040\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\USER\Documents\TTT\NEW_SR2018.03.28.2040\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\USER\Documents\TTT\NEW_SR2018.03.28.2040\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\TTT\NEW_SR2018.03.28.2040\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\USER\Documents\TTT\NEW_SR2018.03.28.2040\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\USER\Documents\TTT\NEW_SR2018.03.28.2040\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\USER\Documents\TTT\NEW_SR2018.03.28.2040\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\USER\Documents\TTT\NEW_SR2018.03.28.2040\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\USER\Documents\TTT\NEW_SR2018.03.30.2040\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\USER\Documents\TTT\NEW_SR2018.03.30.2040\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\USER\Documents\TTT\NEW_SR2018.03.30.2040\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\USER\Documents\TTT\NEW_SR2018.03.30.2040\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\USER\Documents\TTT\NEW_SR2018.03.30.2040\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\TTT\NEW_SR2018.03.30.2040\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\USER\Documents\TTT\NEW_SR2018.03.30.2040\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\USER\Documents\TTT\NEW_SR2018.03.30.2040\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\USER\Documents\TTT\NEW_SR2018.03.30.2040\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\USER\Documents\TTT\NEW_SR2018.03.30.2040\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\USER\Documents\TTT\NEW_SR2018.03.30.2040\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Users\USER\Documents\TTT\NEW_SR2018.03.30.2040\PseudoDevice\bin\Debug\Timer.dll
+C:\Users\USER\Documents\TTT\NEW_SR2018.03.30.2040\PseudoDevice\bin\Debug\Xmler.dll
+C:\Users\USER\Documents\TTT\NEW_SR2018.04.16.1200\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\USER\Documents\TTT\NEW_SR2018.04.16.1200\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\USER\Documents\TTT\NEW_SR2018.04.16.1200\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\USER\Documents\TTT\NEW_SR2018.04.16.1200\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\USER\Documents\TTT\NEW_SR2018.04.16.1200\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Users\USER\Documents\TTT\NEW_SR2018.04.16.1200\PseudoDevice\bin\Debug\Timer.dll
+C:\Users\USER\Documents\TTT\NEW_SR2018.04.16.1200\PseudoDevice\bin\Debug\Xmler.dll
+C:\Users\USER\Documents\TTT\NEW_SR2018.04.16.1200\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\TTT\NEW_SR2018.04.16.1200\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\USER\Documents\TTT\NEW_SR2018.04.16.1200\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\USER\Documents\TTT\NEW_SR2018.04.16.1200\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\USER\Documents\TTT\NEW_SR2018.04.16.1200\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\USER\Documents\TTT\NEW_SR2018.04.16.1200\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\Jack\Desktop\NEW_SR2018.06.07.1445\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\Jack\Desktop\NEW_SR2018.06.07.1445\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\Jack\Desktop\NEW_SR2018.06.07.1445\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\Jack\Desktop\NEW_SR2018.06.07.1445\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\Jack\Desktop\NEW_SR2018.06.07.1445\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\Jack\Desktop\NEW_SR2018.06.07.1445\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\Jack\Desktop\NEW_SR2018.06.07.1445\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\Jack\Desktop\NEW_SR2018.06.07.1445\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\Jack\Desktop\NEW_SR2018.06.07.1445\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\Jack\Desktop\NEW_SR2018.06.07.1445\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\NEW_SR2018.06.019.1902testProcess\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\NEW_SR2018.06.019.1902testProcess\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\NEW_SR2018.06.019.1902testProcess\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\NEW_SR2018.06.019.1902testProcess\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\MyUser\Desktop\NEW_SR2018.06.019.1902testProcess\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\NEW_SR2018.06.019.1902testProcess\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\MyUser\Desktop\NEW_SR2018.06.019.1902testProcess\PseudoDevice\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\MyUser\Desktop\NEW_SR2018.06.019.1902testProcess\PseudoDevice\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\MyUser\Desktop\NEW_SR2018.06.019.1902testProcess\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\NEW_SR2018.06.019.1902testProcess\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\NEW_SR2018.06.019.1902testProcess\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\NEW_SR2018.06.019.1902testProcess\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Users\MyUser\Desktop\NEW_SR2018.06.019.1902testProcess\PseudoDevice\bin\Debug\Timer.dll
+C:\Users\MyUser\Desktop\NEW_SR2018.06.019.1902testProcess\PseudoDevice\bin\Debug\Xmler.dll
+C:\Users\MyUser\Desktop\NEW_SR2018.06.019.2220testProcess\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\NEW_SR2018.06.019.2220testProcess\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\NEW_SR2018.06.019.2220testProcess\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\NEW_SR2018.06.019.2220testProcess\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\MyUser\Desktop\NEW_SR2018.06.019.2220testProcess\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Users\MyUser\Desktop\NEW_SR2018.06.019.2220testProcess\PseudoDevice\bin\Debug\Timer.dll
+C:\Users\MyUser\Desktop\NEW_SR2018.06.019.2220testProcess\PseudoDevice\bin\Debug\Xmler.dll
+C:\Users\MyUser\Desktop\NEW_SR2018.06.019.2220testProcess\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\NEW_SR2018.06.019.2220testProcess\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\MyUser\Desktop\NEW_SR2018.06.019.2220testProcess\PseudoDevice\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\MyUser\Desktop\NEW_SR2018.06.019.2220testProcess\PseudoDevice\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\MyUser\Desktop\NEW_SR2018.06.019.2220testProcess\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\NEW_SR2018.06.019.2220testProcess\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\NEW_SR2018.06.019.2220testProcess\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\NEW_SR2018.06.020.1635testProcess\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\NEW_SR2018.06.020.1635testProcess\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\NEW_SR2018.06.020.1635testProcess\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\NEW_SR2018.06.020.1635testProcess\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\MyUser\Desktop\NEW_SR2018.06.020.1635testProcess\PseudoDevice\bin\Debug\Timer.dll
+C:\Users\MyUser\Desktop\NEW_SR2018.06.020.1635testProcess\PseudoDevice\bin\Debug\Xmler.dll
+C:\Users\MyUser\Desktop\NEW_SR2018.06.020.1635testProcess\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\NEW_SR2018.06.020.1635testProcess\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\MyUser\Desktop\NEW_SR2018.06.020.1635testProcess\PseudoDevice\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\MyUser\Desktop\NEW_SR2018.06.020.1635testProcess\PseudoDevice\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\MyUser\Desktop\NEW_SR2018.06.020.1635testProcess\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\NEW_SR2018.06.020.1635testProcess\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\NEW_SR2018.06.020.1635testProcess\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\NEW_SR2018.07.09.1500testProcess\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\NEW_SR2018.07.09.1500testProcess\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\NEW_SR2018.07.09.1500testProcess\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\NEW_SR2018.07.09.1500testProcess\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\MyUser\Desktop\NEW_SR2018.07.09.1500testProcess\PseudoDevice\bin\Debug\Timer.dll
+C:\Users\MyUser\Desktop\NEW_SR2018.07.09.1500testProcess\PseudoDevice\bin\Debug\Xmler.dll
+C:\Users\MyUser\Desktop\NEW_SR2018.07.09.1500testProcess\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\NEW_SR2018.07.09.1500testProcess\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\MyUser\Desktop\NEW_SR2018.07.09.1500testProcess\PseudoDevice\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\MyUser\Desktop\NEW_SR2018.07.09.1500testProcess\PseudoDevice\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\MyUser\Desktop\NEW_SR2018.07.09.1500testProcess\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\NEW_SR2018.07.09.1500testProcess\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\NEW_SR2018.07.09.1500testProcess\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\NEW_SR2018.07.26.1500testProcess\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\NEW_SR2018.07.26.1500testProcess\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\NEW_SR2018.07.26.1500testProcess\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\NEW_SR2018.07.26.1500testProcess\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\MyUser\Desktop\NEW_SR2018.07.26.1500testProcess\PseudoDevice\bin\Debug\Timer.dll
+C:\Users\MyUser\Desktop\NEW_SR2018.07.26.1500testProcess\PseudoDevice\bin\Debug\Xmler.dll
+C:\Users\MyUser\Desktop\NEW_SR2018.07.26.1500testProcess\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\NEW_SR2018.07.26.1500testProcess\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\MyUser\Desktop\NEW_SR2018.07.26.1500testProcess\PseudoDevice\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\MyUser\Desktop\NEW_SR2018.07.26.1500testProcess\PseudoDevice\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\MyUser\Desktop\NEW_SR2018.07.26.1500testProcess\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\NEW_SR2018.07.26.1500testProcess\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\NEW_SR2018.07.26.1500testProcess\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\SRType4 20180727.29.052\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\SRType4 20180727.29.052\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\SRType4 20180727.29.052\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\SRType4 20180727.29.052\PseudoDevice\bin\Debug\Timer.dll
+C:\Users\MyUser\Desktop\SRType4 20180727.29.052\PseudoDevice\bin\Debug\Xmler.dll
+C:\Users\MyUser\Desktop\SRType4 20180727.29.052\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\SRType4 20180727.29.052\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\MyUser\Desktop\SRType4 20180727.29.052\PseudoDevice\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\MyUser\Desktop\SRType4 20180727.29.052\PseudoDevice\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\MyUser\Desktop\SRType4 20180727.29.052\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\SRType4 20180727.29.052\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\SRType4 20180727.29.052\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\SRType4 20180727.29.052\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\MyUser\Desktop\SRType4 20180808.030.01\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\SRType4 20180808.030.01\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\SRType4 20180808.030.01\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\SRType4 20180808.030.01\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\MyUser\Desktop\SRType4 20180808.030.01\PseudoDevice\bin\Debug\Timer.dll
+C:\Users\MyUser\Desktop\SRType4 20180808.030.01\PseudoDevice\bin\Debug\Xmler.dll
+C:\Users\MyUser\Desktop\SRType4 20180808.030.01\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\SRType4 20180808.030.01\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\MyUser\Desktop\SRType4 20180808.030.01\PseudoDevice\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\MyUser\Desktop\SRType4 20180808.030.01\PseudoDevice\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\MyUser\Desktop\SRType4 20180808.030.01\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\SRType4 20180808.030.01\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\SRType4 20180808.030.01\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\SRType4 20180810.030.01\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\SRType4 20180810.030.01\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\SRType4 20180810.030.01\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\SRType4 20180810.030.01\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\MyUser\Desktop\SRType4 20180810.030.01\PseudoDevice\bin\Debug\Timer.dll
+C:\Users\MyUser\Desktop\SRType4 20180810.030.01\PseudoDevice\bin\Debug\Xmler.dll
+C:\Users\MyUser\Desktop\SRType4 20180810.030.01\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\SRType4 20180810.030.01\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\MyUser\Desktop\SRType4 20180810.030.01\PseudoDevice\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\MyUser\Desktop\SRType4 20180810.030.01\PseudoDevice\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\MyUser\Desktop\SRType4 20180810.030.01\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\SRType4 20180810.030.01\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\SRType4 20180810.030.01\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\SRType4 20180810.030.01\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Users\MyUser\Desktop\SRType4 201808281010Test\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\SRType4 201808281010Test\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\SRType4 201808281010Test\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\SRType4 201808281010Test\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Users\MyUser\Desktop\SRType4 201808281010Test\PseudoDevice\bin\Debug\Timer.dll
+C:\Users\MyUser\Desktop\SRType4 201808281010Test\PseudoDevice\bin\Debug\Xmler.dll
+C:\Users\MyUser\Desktop\SRType4 201808281010Test\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\SRType4 201808281010Test\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\MyUser\Desktop\SRType4 201808281010Test\PseudoDevice\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\MyUser\Desktop\SRType4 201808281010Test\PseudoDevice\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\MyUser\Desktop\SRType4 201808281010Test\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\SRType4 201808281010Test\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\SRType4 201808281010Test\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\SRType4 201808281010Test\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\Jack\Desktop\SRType4 201808281730.00.001\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\Jack\Desktop\SRType4 201808281730.00.001\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\Jack\Desktop\SRType4 201808281730.00.001\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\Jack\Desktop\SRType4 201808281730.00.001\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\Jack\Desktop\SRType4 201808281730.00.001\PseudoDevice\bin\Debug\Timer.dll
+C:\Users\Jack\Desktop\SRType4 201808281730.00.001\PseudoDevice\bin\Debug\Xmler.dll
+C:\Users\Jack\Desktop\SRType4 201808281730.00.001\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\Jack\Desktop\SRType4 201808281730.00.001\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\Jack\Desktop\SRType4 201808281730.00.001\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\Jack\Desktop\SRType4 201808281730.00.001\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\Jack\Desktop\SRType4 201808281730.00.001\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\Jack\Desktop\SRType4 201808281730.00.001\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\Jack\Desktop\SRType4 201808301600.00.001\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\Jack\Desktop\SRType4 201808301600.00.001\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\Jack\Desktop\SRType4 201808301600.00.001\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\Jack\Desktop\SRType4 201808301600.00.001\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\Jack\Desktop\SRType4 201808301600.00.001\PseudoDevice\bin\Debug\Timer.dll
+C:\Users\Jack\Desktop\SRType4 201808301600.00.001\PseudoDevice\bin\Debug\Xmler.dll
+C:\Users\Jack\Desktop\SRType4 201808301600.00.001\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\Jack\Desktop\SRType4 201808301600.00.001\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\Jack\Desktop\SRType4 201808301600.00.001\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\Jack\Desktop\SRType4 201808301600.00.001\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\Jack\Desktop\SRType4 201808301600.00.001\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\Jack\Desktop\SRType4 201808301600.00.001\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\SRType4 201809030900Test\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\SRType4 201809030900Test\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\SRType4 201809030900Test\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\SRType4 201809030900Test\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\MyUser\Desktop\SRType4 201809030900Test\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Users\MyUser\Desktop\SRType4 201809030900Test\PseudoDevice\bin\Debug\Timer.dll
+C:\Users\MyUser\Desktop\SRType4 201809030900Test\PseudoDevice\bin\Debug\Xmler.dll
+C:\Users\MyUser\Desktop\SRType4 201809030900Test\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\SRType4 201809030900Test\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\MyUser\Desktop\SRType4 201809030900Test\PseudoDevice\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\MyUser\Desktop\SRType4 201809030900Test\PseudoDevice\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\MyUser\Desktop\SRType4 201809030900Test\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\SRType4 201809030900Test\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\SRType4 201809030900Test\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\SRType4 201809031800Test\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\SRType4 201809031800Test\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\SRType4 201809031800Test\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\SRType4 201809031800Test\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\MyUser\Desktop\SRType4 201809031800Test\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Users\MyUser\Desktop\SRType4 201809031800Test\PseudoDevice\bin\Debug\Timer.dll
+C:\Users\MyUser\Desktop\SRType4 201809031800Test\PseudoDevice\bin\Debug\Xmler.dll
+C:\Users\MyUser\Desktop\SRType4 201809031800Test\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\SRType4 201809031800Test\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\MyUser\Desktop\SRType4 201809031800Test\PseudoDevice\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\MyUser\Desktop\SRType4 201809031800Test\PseudoDevice\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\MyUser\Desktop\SRType4 201809031800Test\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\SRType4 201809031800Test\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\SRType4 201809031800Test\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\SRType4 201809211400Test\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\SRType4 201809211400Test\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\SRType4 201809211400Test\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\SRType4 201809211400Test\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\MyUser\Desktop\SRType4 201809211400Test\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Users\MyUser\Desktop\SRType4 201809211400Test\PseudoDevice\bin\Debug\Timer.dll
+C:\Users\MyUser\Desktop\SRType4 201809211400Test\PseudoDevice\bin\Debug\Xmler.dll
+C:\Users\MyUser\Desktop\SRType4 201809211400Test\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\SRType4 201809211400Test\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\MyUser\Desktop\SRType4 201809211400Test\PseudoDevice\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\MyUser\Desktop\SRType4 201809211400Test\PseudoDevice\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\MyUser\Desktop\SRType4 201809211400Test\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\SRType4 201809211400Test\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\SRType4 201809211400Test\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\SRType4 201810111330.00.007\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\SRType4 201810111330.00.007\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\SRType4 201810111330.00.007\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\SRType4 201810111330.00.007\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\MyUser\Desktop\SRType4 201810111330.00.007\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Users\MyUser\Desktop\SRType4 201810111330.00.007\PseudoDevice\bin\Debug\Timer.dll
+C:\Users\MyUser\Desktop\SRType4 201810111330.00.007\PseudoDevice\bin\Debug\Xmler.dll
+C:\Users\MyUser\Desktop\SRType4 201810111330.00.007\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\SRType4 201810111330.00.007\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\MyUser\Desktop\SRType4 201810111330.00.007\PseudoDevice\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\MyUser\Desktop\SRType4 201810111330.00.007\PseudoDevice\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\MyUser\Desktop\SRType4 201810111330.00.007\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\SRType4 201810111330.00.007\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\SRType4 201810111330.00.007\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\SRType4 201901151700.00.007\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\SRType4 201901151700.00.007\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\SRType4 201901151700.00.007\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\SRType4 201901151700.00.007\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\MyUser\Desktop\SRType4 201901151700.00.007\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Users\MyUser\Desktop\SRType4 201901151700.00.007\PseudoDevice\bin\Debug\Timer.dll
+C:\Users\MyUser\Desktop\SRType4 201901151700.00.007\PseudoDevice\bin\Debug\Xmler.dll
+C:\Users\MyUser\Desktop\SRType4 201901151700.00.007\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\SRType4 201901151700.00.007\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\MyUser\Desktop\SRType4 201901151700.00.007\PseudoDevice\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\MyUser\Desktop\SRType4 201901151700.00.007\PseudoDevice\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\MyUser\Desktop\SRType4 201901151700.00.007\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\SRType4 201901151700.00.007\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\SRType4 201901151700.00.007\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\SRType4 20190722.01.012\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\SRType4 20190722.01.012\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\SRType4 20190722.01.012\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\SRType4 20190722.01.012\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\MyUser\Desktop\SRType4 20190722.01.012\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Users\MyUser\Desktop\SRType4 20190722.01.012\PseudoDevice\bin\Debug\Timer.dll
+C:\Users\MyUser\Desktop\SRType4 20190722.01.012\PseudoDevice\bin\Debug\Xmler.dll
+C:\Users\MyUser\Desktop\SRType4 20190722.01.012\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\SRType4 20190722.01.012\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\MyUser\Desktop\SRType4 20190722.01.012\PseudoDevice\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\MyUser\Desktop\SRType4 20190722.01.012\PseudoDevice\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\MyUser\Desktop\SRType4 20190722.01.012\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\SRType4 20190722.01.012\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\SRType4 20190722.01.012\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\SRType4 20200522.05.007\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\SRType4 20200522.05.007\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\SRType4 20200522.05.007\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\SRType4 20200522.05.007\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\MyUser\Desktop\SRType4 20200522.05.007\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Users\MyUser\Desktop\SRType4 20200522.05.007\PseudoDevice\bin\Debug\Timer.dll
+C:\Users\MyUser\Desktop\SRType4 20200522.05.007\PseudoDevice\bin\Debug\Xmler.dll
+C:\Users\MyUser\Desktop\SRType4 20200522.05.007\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\SRType4 20200522.05.007\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\MyUser\Desktop\SRType4 20200522.05.007\PseudoDevice\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\MyUser\Desktop\SRType4 20200522.05.007\PseudoDevice\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\MyUser\Desktop\SRType4 20200522.05.007\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\SRType4 20200522.05.007\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\SRType4 20200522.05.007\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\SR\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\SR\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\SR\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\SR\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\MyUser\Desktop\SR\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Users\MyUser\Desktop\SR\PseudoDevice\bin\Debug\Timer.dll
+C:\Users\MyUser\Desktop\SR\PseudoDevice\bin\Debug\Xmler.dll
+C:\Users\MyUser\Desktop\SR\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\SR\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\MyUser\Desktop\SR\PseudoDevice\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\MyUser\Desktop\SR\PseudoDevice\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\MyUser\Desktop\SR\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\SR\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\SR\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\SRType4 20200528.05.014\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\SRType4 20200528.05.014\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\SRType4 20200528.05.014\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\SRType4 20200528.05.014\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\MyUser\Desktop\SRType4 20200528.05.014\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Users\MyUser\Desktop\SRType4 20200528.05.014\PseudoDevice\bin\Debug\Timer.dll
+C:\Users\MyUser\Desktop\SRType4 20200528.05.014\PseudoDevice\bin\Debug\Xmler.dll
+C:\Users\MyUser\Desktop\SRType4 20200528.05.014\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\SRType4 20200528.05.014\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\MyUser\Desktop\SRType4 20200528.05.014\PseudoDevice\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\MyUser\Desktop\SRType4 20200528.05.014\PseudoDevice\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\MyUser\Desktop\SRType4 20200528.05.014\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\SRType4 20200528.05.014\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\SRType4 20200528.05.014\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\SRType4 20200529.05.015\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\SRType4 20200529.05.015\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\SRType4 20200529.05.015\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\SRType4 20200529.05.015\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\MyUser\Desktop\SRType4 20200529.05.015\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Users\MyUser\Desktop\SRType4 20200529.05.015\PseudoDevice\bin\Debug\Timer.dll
+C:\Users\MyUser\Desktop\SRType4 20200529.05.015\PseudoDevice\bin\Debug\Xmler.dll
+C:\Users\MyUser\Desktop\SRType4 20200529.05.015\PseudoDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\SRType4 20200529.05.015\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\MyUser\Desktop\SRType4 20200529.05.015\PseudoDevice\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\MyUser\Desktop\SRType4 20200529.05.015\PseudoDevice\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\MyUser\Desktop\SRType4 20200529.05.015\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\SRType4 20200529.05.015\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\SRType4 20200529.05.015\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\SRType4 20200529.05.016\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\SRType4 20200529.05.016\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\SRType4 20200529.05.016\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\SRType4 20200529.05.016\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\MyUser\Desktop\SRType4 20200529.05.016\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Users\MyUser\Desktop\SRType4 20200529.05.016\PseudoDevice\bin\Debug\Timer.dll
+C:\Users\MyUser\Desktop\SRType4 20200529.05.016\PseudoDevice\bin\Debug\Xmler.dll
+C:\Users\MyUser\Desktop\SRType4 20200529.05.016\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\MyUser\Desktop\SRType4 20200529.05.016\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\SRType4 20200529.05.016\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\SRType4 20200529.05.016\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\SRType4 20200529.05.016\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\MyUser\Desktop\SRType4 20200831.06.001\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\SRType4 20200831.06.001\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\SRType4 20200831.06.001\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\SRType4 20200831.06.001\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\MyUser\Desktop\SRType4 20200831.06.001\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Users\MyUser\Desktop\SRType4 20200831.06.001\PseudoDevice\bin\Debug\Timer.dll
+C:\Users\MyUser\Desktop\SRType4 20200831.06.001\PseudoDevice\bin\Debug\Xmler.dll
+C:\Users\MyUser\Desktop\SRType4 20200831.06.001\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\MyUser\Desktop\SRType4 20200831.06.001\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\MyUser\Desktop\SRType4 20200831.06.001\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\SRType4 20200831.06.001\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\SRType4 20200831.06.001\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\SRType4 20200901.06.002\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\SRType4 20200901.06.002\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\SRType4 20200901.06.002\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\SRType4 20200901.06.002\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\MyUser\Desktop\SRType4 20200901.06.002\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Users\MyUser\Desktop\SRType4 20200901.06.002\PseudoDevice\bin\Debug\Timer.dll
+C:\Users\MyUser\Desktop\SRType4 20200901.06.002\PseudoDevice\bin\Debug\Xmler.dll
+C:\Users\MyUser\Desktop\SRType4 20200901.06.002\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\SRType4 20200901.06.002\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\MyUser\Desktop\SRType4 20200901.06.002\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\MyUser\Desktop\SRType4 20200901.06.002\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\SRType4 20200901.06.002\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\SRType4 20200901.06.002\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\SRType4 20200928.06.003\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\SRType4 20200928.06.003\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\MyUser\Desktop\SRType4 20200928.06.003\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\SRType4 20200928.06.003\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\MyUser\Desktop\SRType4 20200928.06.003\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Users\MyUser\Desktop\SRType4 20200928.06.003\PseudoDevice\bin\Debug\Timer.dll
+C:\Users\MyUser\Desktop\SRType4 20200928.06.003\PseudoDevice\bin\Debug\Xmler.dll
+C:\Users\MyUser\Desktop\SRType4 20200928.06.003\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\SRType4 20200928.06.003\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\MyUser\Desktop\SRType4 20200928.06.003\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\MyUser\Desktop\SRType4 20200928.06.003\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\MyUser\Desktop\SRType4 20200928.06.003\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\MyUser\Desktop\SRType4 20200928.06.003\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Windows\System32\PseudoDevice.dll
+C:\Windows\System32\PseudoDevice.pdb
+C:\Windows\System32\PseudoDevice.xml
+C:\Windows\System32\PseudoDevice.tlb
+C:\Users\ZhengYe\Desktop\焊錫機\LaserSolder_20201211.001.02\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\ZhengYe\Desktop\焊錫機\LaserSolder_20201211.001.02\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\ZhengYe\Desktop\焊錫機\LaserSolder_20201215.001.01\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\ZhengYe\Desktop\焊錫機\LaserSolder_20201215.001.01\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\ZhengYe\Desktop\焊錫機\LaserSolder_20201215.001.01\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\ZhengYe\Desktop\焊錫機\LaserSolder_20201215.001.01\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\ZhengYe\Desktop\焊錫機\LaserSolder_20201215.001.01\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\ZhengYe\Desktop\焊錫機\LaserSolder_20201215.001.01\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Users\ZhengYe\Desktop\焊錫機\LaserSolder_20201215.001.01\PseudoDevice\bin\Debug\Automation.BDaq.dll
+C:\Users\ZhengYe\Desktop\焊錫機\LaserSolder_20201215.001.01\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\ZhengYe\Desktop\焊錫機\LaserSolder_20201215.001.01\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\ZhengYe\Desktop\焊錫機\LaserSolder_20201215.001.01\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\ZhengYe\Desktop\焊錫機\LaserSolder_20201215.001.01\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\ZhengYe\Desktop\焊錫機\LaserSolder_20201215.001.01\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\ZhengYe\Desktop\焊錫機\LaserSolder_20201215.001.02\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\ZhengYe\Desktop\焊錫機\LaserSolder_20201215.001.02\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\ZhengYe\Desktop\焊錫機\LaserSolder_20201215.001.02\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\ZhengYe\Desktop\焊錫機\LaserSolder_20201215.001.02\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\ZhengYe\Desktop\焊錫機\LaserSolder_20201215.001.02\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Users\ZhengYe\Desktop\焊錫機\LaserSolder_20201215.001.02\PseudoDevice\bin\Debug\Automation.BDaq.dll
+C:\Users\ZhengYe\Desktop\焊錫機\LaserSolder_20201215.001.02\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\ZhengYe\Desktop\焊錫機\LaserSolder_20201215.001.02\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\ZhengYe\Desktop\焊錫機\LaserSolder_20201215.001.02\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\ZhengYe\Desktop\焊錫機\LaserSolder_20201215.001.02\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\ZhengYe\Desktop\焊錫機\LaserSolder_20201215.001.02\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\ZhengYe\Desktop\焊錫機\LaserSolder_20201215.001.02\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\LaserSolder_20201230.001.02\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\Server\Desktop\LaserSolder_20201230.001.02\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\Server\Desktop\LaserSolder_20201230.001.02\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\Server\Desktop\LaserSolder_20201230.001.02\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\Server\Desktop\LaserSolder_20201230.001.02\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\LaserSolder_20201230.001.02\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\Server\Desktop\LaserSolder_20201230.001.02\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\Server\Desktop\LaserSolder_20201230.001.02\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\Server\Desktop\LaserSolder_20201230.001.02\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\Server\Desktop\LaserSolder_20201230.001.02\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\ZhengYe\Desktop\焊錫機\LaserSolder_20210105.001.03\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\ZhengYe\Desktop\焊錫機\LaserSolder_20210105.001.03\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\ZhengYe\Desktop\焊錫機\LaserSolder_20210105.001.03\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\ZhengYe\Desktop\焊錫機\LaserSolder_20210105.001.03\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\ZhengYe\Desktop\焊錫機\LaserSolder_20210105.001.03\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Users\ZhengYe\Desktop\焊錫機\LaserSolder_20210105.001.03\PseudoDevice\bin\Debug\Automation.BDaq.dll
+C:\Users\ZhengYe\Desktop\焊錫機\LaserSolder_20210105.001.03\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\ZhengYe\Desktop\焊錫機\LaserSolder_20210105.001.03\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\ZhengYe\Desktop\焊錫機\LaserSolder_20210105.001.03\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\ZhengYe\Desktop\焊錫機\LaserSolder_20210105.001.03\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\ZhengYe\Desktop\焊錫機\LaserSolder_20210105.001.03\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\ZhengYe\Desktop\焊錫機\LaserSolder_20210105.001.03\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\ZhengYe\Desktop\焊錫機\LaserSolder_20210107.001.05\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\ZhengYe\Desktop\焊錫機\LaserSolder_20210107.001.05\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\ZhengYe\Desktop\焊錫機\LaserSolder_20210107.001.05\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\ZhengYe\Desktop\焊錫機\LaserSolder_20210107.001.05\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\ZhengYe\Desktop\焊錫機\LaserSolder_20210107.001.05\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Users\ZhengYe\Desktop\焊錫機\LaserSolder_20210107.001.05\PseudoDevice\bin\Debug\Automation.BDaq.dll
+C:\Users\ZhengYe\Desktop\焊錫機\LaserSolder_20210107.001.05\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\ZhengYe\Desktop\焊錫機\LaserSolder_20210107.001.05\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\ZhengYe\Desktop\焊錫機\LaserSolder_20210107.001.05\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\ZhengYe\Desktop\焊錫機\LaserSolder_20210107.001.05\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\ZhengYe\Desktop\焊錫機\LaserSolder_20210107.001.05\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\ZhengYe\Desktop\焊錫機\LaserSolder_20210107.001.05\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\Server\Desktop\LaserSolder_20210115.001.05\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\Server\Desktop\LaserSolder_20210115.001.05\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\Server\Desktop\LaserSolder_20210115.001.05\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\Server\Desktop\LaserSolder_20210115.001.05\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\Server\Desktop\LaserSolder_20210115.001.05\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Users\Server\Desktop\LaserSolder_20210115.001.05\PseudoDevice\bin\Debug\Timer.dll
+C:\Users\Server\Desktop\LaserSolder_20210115.001.05\PseudoDevice\bin\Debug\Xmler.dll
+C:\Users\Server\Desktop\LaserSolder_20210115.001.05\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\LaserSolder_20210115.001.05\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\Server\Desktop\LaserSolder_20210115.001.05\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\Server\Desktop\LaserSolder_20210115.001.05\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\Server\Desktop\LaserSolder_20210115.001.05\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\Server\Desktop\LaserSolder_20210115.001.05\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\Server\Desktop\LaserSolder_20210116.001.08\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\LaserSolder_20210116.001.08\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\Server\Desktop\LaserSolder_20210116.001.08\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\Server\Desktop\LaserSolder_20210116.001.08\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\Server\Desktop\LaserSolder_20210116.001.08\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\Server\Desktop\LaserSolder_20210116.001.08\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\Server\Desktop\LaserSolder_20210116.001.09\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\Server\Desktop\LaserSolder_20210116.001.09\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\Server\Desktop\LaserSolder_20210116.001.09\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\Server\Desktop\LaserSolder_20210116.001.09\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\Server\Desktop\LaserSolder_20210116.001.09\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\Server\Desktop\LaserSolder_20210118.001.10\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\Server\Desktop\LaserSolder_20210118.001.10\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\Server\Desktop\LaserSolder_20210118.001.10\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\Server\Desktop\LaserSolder_20210118.001.10\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\Server\Desktop\LaserSolder_20210118.001.10\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\Server\Desktop\LaserSolder_20210119.001.13\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\LaserSolder_20210119.001.13\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\Server\Desktop\LaserSolder_20210119.001.13\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\Server\Desktop\LaserSolder_20210119.001.13\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\Server\Desktop\LaserSolder_20210119.001.13\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\Server\Desktop\LaserSolder_20210119.001.13\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\Server\Desktop\LaserSolder_20210120.001.14\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\Server\Desktop\LaserSolder_20210120.001.14\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\Server\Desktop\LaserSolder_20210120.001.14\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\Server\Desktop\LaserSolder_20210120.001.14\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\Server\Desktop\LaserSolder_20210120.001.14\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\Server\Desktop\LaserSolder_20210120.001.14\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\LaserSolder_20210122.001.17\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\Server\Desktop\LaserSolder_20210122.001.17\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\Server\Desktop\LaserSolder_20210122.001.17\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\Server\Desktop\LaserSolder_20210122.001.17\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\Server\Desktop\LaserSolder_20210122.001.17\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\Server\Desktop\LaserSolder_20210122.001.17\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\LaserSolder_20210123.001.18\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\Server\Desktop\LaserSolder_20210123.001.18\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\Server\Desktop\LaserSolder_20210123.001.18\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\Server\Desktop\LaserSolder_20210123.001.18\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\Server\Desktop\LaserSolder_20210123.001.18\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\Server\Desktop\LaserSolder_20210123.001.18\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\LaserSolder_20210125.001.19\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\LaserSolder_20210125.001.19\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\Server\Desktop\LaserSolder_20210125.001.19\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\Server\Desktop\LaserSolder_20210125.001.19\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\Server\Desktop\LaserSolder_20210125.001.19\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\Server\Desktop\LaserSolder_20210125.001.19\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\Client\Desktop\LaserSolder_20210127.001.21\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\Client\Desktop\LaserSolder_20210127.001.21\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\Client\Desktop\LaserSolder_20210127.001.21\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\Client\Desktop\LaserSolder_20210127.001.21\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\Client\Desktop\LaserSolder_20210127.001.21\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Users\Client\Desktop\LaserSolder_20210127.001.21\PseudoDevice\bin\Debug\Timer.dll
+C:\Users\Client\Desktop\LaserSolder_20210127.001.21\PseudoDevice\bin\Debug\Xmler.dll
+C:\Users\Client\Desktop\LaserSolder_20210127.001.21\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserSolder_20210127.001.21\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\Client\Desktop\LaserSolder_20210127.001.21\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserSolder_20210127.001.21\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\Client\Desktop\LaserSolder_20210127.001.21\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\Client\Desktop\LaserSolder_20210127.001.21\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\Server\Desktop\LaserSolder_20210201.001.25\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\Server\Desktop\LaserSolder_20210201.001.25\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\Server\Desktop\LaserSolder_20210201.001.25\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\Server\Desktop\LaserSolder_20210201.001.25\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\Server\Desktop\LaserSolder_20210201.001.25\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Users\Server\Desktop\LaserSolder_20210201.001.25\PseudoDevice\bin\Debug\Timer.dll
+C:\Users\Server\Desktop\LaserSolder_20210201.001.25\PseudoDevice\bin\Debug\Xmler.dll
+C:\Users\Server\Desktop\LaserSolder_20210201.001.25\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\Server\Desktop\LaserSolder_20210201.001.25\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\Server\Desktop\LaserSolder_20210201.001.25\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\Server\Desktop\LaserSolder_20210201.001.25\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\Server\Desktop\LaserSolder_20210201.001.25\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\Server\Desktop\LaserSolder_20210201.001.25\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\New program\LaserSolder_20210209.001.27\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\ALin\Desktop\New program\LaserSolder_20210209.001.27\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\ALin\Desktop\New program\LaserSolder_20210209.001.27\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\ALin\Desktop\New program\LaserSolder_20210209.001.27\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\ALin\Desktop\New program\LaserSolder_20210209.001.27\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Users\ALin\Desktop\New program\LaserSolder_20210209.001.27\PseudoDevice\bin\Debug\Automation.BDaq.dll
+C:\Users\ALin\Desktop\New program\LaserSolder_20210209.001.27\PseudoDevice\bin\Debug\Timer.dll
+C:\Users\ALin\Desktop\New program\LaserSolder_20210209.001.27\PseudoDevice\bin\Debug\Xmler.dll
+C:\Users\ALin\Desktop\New program\LaserSolder_20210209.001.27\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\ALin\Desktop\New program\LaserSolder_20210209.001.27\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\New program\LaserSolder_20210209.001.27\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\ALin\Desktop\New program\LaserSolder_20210209.001.27\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\ALin\Desktop\New program\LaserSolder_20210209.001.27\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\Client\Desktop\LaserSolder_20210324.001.01_Line\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\Client\Desktop\LaserSolder_20210324.001.01_Line\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\Client\Desktop\LaserSolder_20210324.001.01_Line\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\Client\Desktop\LaserSolder_20210324.001.01_Line\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\Client\Desktop\LaserSolder_20210324.001.01_Line\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\Client\Desktop\LaserSolder_20210324.001.01_Line\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserSolder_20210324.001.01_Line\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\Client\Desktop\LaserSolder_20210324.001.01_Line\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\Client\Desktop\LaserSolder_20210324.001.01_Line\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\Client\Desktop\LaserSolder_20210327.001.02_Line\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\Client\Desktop\LaserSolder_20210327.001.02_Line\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\Client\Desktop\LaserSolder_20210327.001.02_Line\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\Client\Desktop\LaserSolder_20210327.001.02_Line\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\Client\Desktop\LaserSolder_20210327.001.02_Line\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserSolder_20210327.001.02_Line\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\Client\Desktop\LaserSolder_20210327.001.02_Line\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserSolder_20210327.001.02_Line\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\Client\Desktop\LaserSolder_20210327.001.02_Line\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\Client\Desktop\LaserSolder_20210327.001.02_Line\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\Client\Desktop\LaserSolder_20210327.001.04_Line\PseudoDevice\bin\Debug\PseudoDevice.dll
+C:\Users\Client\Desktop\LaserSolder_20210327.001.04_Line\PseudoDevice\bin\Debug\PseudoDevice.pdb
+C:\Users\Client\Desktop\LaserSolder_20210327.001.04_Line\PseudoDevice\bin\Debug\PseudoDevice.xml
+C:\Users\Client\Desktop\LaserSolder_20210327.001.04_Line\PseudoDevice\bin\Debug\PseudoDevice.tlb
+C:\Users\Client\Desktop\LaserSolder_20210327.001.04_Line\PseudoDevice\bin\Debug\AdvMotAPI.dll
+C:\Users\Client\Desktop\LaserSolder_20210327.001.04_Line\PseudoDevice\bin\Debug\Timer.dll
+C:\Users\Client\Desktop\LaserSolder_20210327.001.04_Line\PseudoDevice\bin\Debug\Xmler.dll
+C:\Users\Client\Desktop\LaserSolder_20210327.001.04_Line\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserSolder_20210327.001.04_Line\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\Client\Desktop\LaserSolder_20210327.001.04_Line\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserSolder_20210327.001.04_Line\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\Client\Desktop\LaserSolder_20210327.001.04_Line\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\Client\Desktop\LaserSolder_20210327.001.04_Line\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\Client\Desktop\LaserSolder_20210410.001.06_LineCutting\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\Client\Desktop\LaserSolder_20210410.001.06_LineCutting\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserSolder_20210410.001.06_LineCutting\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\Client\Desktop\LaserSolder_20210410.001.06_LineCutting\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\Client\Desktop\LaserSolder_20210410.001.06_LineCutting\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\Client\Desktop\LineCutting_20210417.001.07\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LineCutting_20210417.001.07\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\Client\Desktop\LineCutting_20210417.001.07\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LineCutting_20210417.001.07\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\Client\Desktop\LineCutting_20210417.001.07\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\Client\Desktop\LineCutting_20210417.001.07\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\Client\Desktop\LaserCutting_20210419.001.09\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20210419.001.09\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20210419.001.09\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20210419.001.09\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\Client\Desktop\LaserCutting_20210419.001.09\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\Client\Desktop\LaserCutting_20210419.001.09\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\Client\Desktop\LaserCutting_20210419.001.10\LaserCutting_20210419.001.10\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20210419.001.10\LaserCutting_20210419.001.10\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20210419.001.10\LaserCutting_20210419.001.10\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20210419.001.10\LaserCutting_20210419.001.10\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\Client\Desktop\LaserCutting_20210419.001.10\LaserCutting_20210419.001.10\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\Client\Desktop\LaserCutting_20210419.001.10\LaserCutting_20210419.001.10\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\Windows\SysWOW64\PseudoDevice.dll
+C:\Users\Windows\SysWOW64\PseudoDevice.pdb
+C:\Users\Windows\SysWOW64\PseudoDevice.xml
+C:\Users\Windows\SysWOW64\PseudoDevice.tlb
+C:\Users\Client\Desktop\LaserCutting_20210423.001.13\LaserCutting_20210419.001.10\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20210423.001.13\LaserCutting_20210419.001.10\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20210423.001.13\LaserCutting_20210419.001.10\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20210423.001.13\LaserCutting_20210419.001.10\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\Client\Desktop\LaserCutting_20210423.001.13\LaserCutting_20210419.001.10\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\Client\Desktop\LaserCutting_20210423.001.13\LaserCutting_20210419.001.10\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\ALin\Desktop\LaserCutting_20210423.001.14\LaserCutting_20210419.001.10\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\LaserCutting_20210423.001.14\LaserCutting_20210419.001.10\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting_20210423.001.14\LaserCutting_20210419.001.10\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting_20210423.001.14\LaserCutting_20210419.001.10\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\ALin\Desktop\LaserCutting_20210423.001.14\LaserCutting_20210419.001.10\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\ALin\Desktop\LaserCutting_20210423.001.14\LaserCutting_20210419.001.10\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\ALin\Desktop\LaserCutting_20210423.001.14\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting_20210423.001.14\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting_20210423.001.14\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\ALin\Desktop\LaserCutting_20210423.001.14\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\ALin\Desktop\LaserCutting_20210423.001.14\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\ALin\Desktop\LaserCutting_20210424.001.15\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\LaserCutting_20210424.001.15\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting_20210424.001.15\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting_20210424.001.15\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\ALin\Desktop\LaserCutting_20210424.001.15\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\ALin\Desktop\LaserCutting_20210424.001.15\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\Client\Desktop\LaserCutting_20210426.001.16\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20210426.001.16\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20210426.001.16\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20210426.001.16\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\Client\Desktop\LaserCutting_20210426.001.16\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\Client\Desktop\LaserCutting_20210426.001.16\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\Client\Desktop\LaserCutting_20210426.001.17\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20210426.001.17\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20210426.001.17\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20210426.001.17\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\Client\Desktop\LaserCutting_20210426.001.17\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\Client\Desktop\LaserCutting_20210426.001.17\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\ALin\Desktop\LaserCutting_20210427.001.18\LaserCutting_20210427.001.18\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\LaserCutting_20210427.001.18\LaserCutting_20210427.001.18\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting_20210427.001.18\LaserCutting_20210427.001.18\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting_20210427.001.18\LaserCutting_20210427.001.18\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\ALin\Desktop\LaserCutting_20210427.001.18\LaserCutting_20210427.001.18\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\ALin\Desktop\LaserCutting_20210427.001.18\LaserCutting_20210427.001.18\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\Client\Desktop\LaserCutting_20210427.001.19\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20210427.001.19\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20210427.001.19\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20210427.001.19\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\Client\Desktop\LaserCutting_20210427.001.19\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\Client\Desktop\LaserCutting_20210427.001.19\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\ALin\Desktop\LaserCutting_20210428.001.20\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting_20210428.001.20\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting_20210428.001.20\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\ALin\Desktop\LaserCutting_20210428.001.20\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\ALin\Desktop\LaserCutting_20210428.001.20\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210430.001.21\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210430.001.21\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210430.001.21\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210430.001.21\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210430.001.21\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210430.001.21\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210503.001.22\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210503.001.22\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210503.001.22\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210503.001.22\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210503.001.22\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210503.001.22\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210503.001.23\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210503.001.23\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210503.001.23\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210503.001.23\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210503.001.23\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210503.001.23\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\Client\Desktop\LaserCutting_20210504.001.23\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20210504.001.23\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20210504.001.23\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20210504.001.23\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\Client\Desktop\LaserCutting_20210504.001.23\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\Client\Desktop\LaserCutting_20210504.001.23\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\ALin\Desktop\LaserCutting_20210504.001.24\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\LaserCutting_20210504.001.24\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting_20210504.001.24\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting_20210504.001.24\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\ALin\Desktop\LaserCutting_20210504.001.24\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\ALin\Desktop\LaserCutting_20210504.001.24\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\Client\Desktop\LaserCutting_20210504.001.25\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20210504.001.25\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20210504.001.25\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20210504.001.25\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\Client\Desktop\LaserCutting_20210504.001.25\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\Client\Desktop\LaserCutting_20210504.001.25\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\ZhengYe\Desktop\雷射切割機\LaserCutting_20210504.001.26\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\ZhengYe\Desktop\雷射切割機\LaserCutting_20210504.001.26\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\ZhengYe\Desktop\雷射切割機\LaserCutting_20210504.001.26\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\ZhengYe\Desktop\雷射切割機\LaserCutting_20210504.001.26\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\ZhengYe\Desktop\雷射切割機\LaserCutting_20210504.001.26\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\ZhengYe\Desktop\雷射切割機\LaserCutting_20210504.001.26\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\ZhengYe\Desktop\雷射切割機\LaserCutting_20210616.001.26\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\ZhengYe\Desktop\雷射切割機\LaserCutting_20210616.001.26\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\ZhengYe\Desktop\雷射切割機\LaserCutting_20210616.001.26\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\ZhengYe\Desktop\雷射切割機\LaserCutting_20210616.001.26\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\ZhengYe\Desktop\雷射切割機\LaserCutting_20210616.001.26\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\ZhengYe\Desktop\雷射切割機\LaserCutting_20210616.001.26\PseudoDevice\obj\Debug\PseudoDevice.pdb
+D:\LaserCutting\LaserCutting_20210803.001.27\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+D:\LaserCutting\LaserCutting_20210803.001.27\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+D:\LaserCutting\LaserCutting_20210803.001.27\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+D:\LaserCutting\LaserCutting_20210803.001.27\PseudoDevice\obj\Debug\PseudoDevice.dll
+D:\LaserCutting\LaserCutting_20210803.001.27\PseudoDevice\obj\Debug\PseudoDevice.xml
+D:\LaserCutting\LaserCutting_20210803.001.27\PseudoDevice\obj\Debug\PseudoDevice.pdb
+D:\LaserCutting\LaserCutting_20210804.01.028\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+D:\LaserCutting\LaserCutting_20210804.01.028\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+D:\LaserCutting\LaserCutting_20210804.01.028\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+D:\LaserCutting\LaserCutting_20210804.01.028\PseudoDevice\obj\Debug\PseudoDevice.dll
+D:\LaserCutting\LaserCutting_20210804.01.028\PseudoDevice\obj\Debug\PseudoDevice.xml
+D:\LaserCutting\LaserCutting_20210804.01.028\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\Client\Desktop\LaserCutting_20210806.01.029\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20210806.01.029\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20210806.01.029\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20210806.01.029\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\Client\Desktop\LaserCutting_20210806.01.029\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\Client\Desktop\LaserCutting_20210806.01.029\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\Client\Desktop\LaserCutting_20210810.01.030\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20210810.01.030\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20210810.01.030\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20210810.01.030\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\Client\Desktop\LaserCutting_20210810.01.030\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\Client\Desktop\LaserCutting_20210810.01.030\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.031\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.031\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.031\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.031\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.031\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.031\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\Client\Desktop\LaserCutting_20210811.01.032\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20210811.01.032\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20210811.01.032\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20210811.01.032\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\Client\Desktop\LaserCutting_20210811.01.032\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\Client\Desktop\LaserCutting_20210811.01.032\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.033\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.033\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.033\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.033\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.033\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.033\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\Client\Desktop\LaserCutting_20210812.01.034\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20210812.01.034\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20210812.01.034\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20210812.01.034\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\Client\Desktop\LaserCutting_20210812.01.034\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\Client\Desktop\LaserCutting_20210812.01.034\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\ALin\Desktop\LaserCutting_20210812.01.035\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\LaserCutting_20210812.01.035\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting_20210812.01.035\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting_20210812.01.035\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\ALin\Desktop\LaserCutting_20210812.01.035\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\ALin\Desktop\LaserCutting_20210812.01.035\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\Client\Desktop\LaserCutting_20210812.01.035\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20210812.01.035\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20210812.01.035\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20210812.01.035\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\Client\Desktop\LaserCutting_20210812.01.035\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\Client\Desktop\LaserCutting_20210812.01.035\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\Client\Desktop\LaserCutting_20210813.01.036\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20210813.01.036\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20210813.01.036\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20210813.01.036\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\Client\Desktop\LaserCutting_20210813.01.036\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\Client\Desktop\LaserCutting_20210813.01.036\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\Client\Desktop\LaserCutting_20210816.01.037\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20210816.01.037\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20210816.01.037\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20210816.01.037\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\Client\Desktop\LaserCutting_20210816.01.037\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\Client\Desktop\LaserCutting_20210816.01.037\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038_ZH_EN\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038_ZH_EN\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038_ZH_EN\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038_ZH_EN\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038_ZH_EN\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038_ZH_EN\PseudoDevice\obj\Debug\PseudoDevice.pdb
+D:\LaserCutting\LaserCutting_20210821.01.040\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+D:\LaserCutting\LaserCutting_20210821.01.040\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+D:\LaserCutting\LaserCutting_20210821.01.040\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+D:\LaserCutting\LaserCutting_20210821.01.040\PseudoDevice\obj\Debug\PseudoDevice.dll
+D:\LaserCutting\LaserCutting_20210821.01.040\PseudoDevice\obj\Debug\PseudoDevice.xml
+D:\LaserCutting\LaserCutting_20210821.01.040\PseudoDevice\obj\Debug\PseudoDevice.pdb
+D:\LaserCutting\LaserCutting_20210824.01.041\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+D:\LaserCutting\LaserCutting_20210824.01.041\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+D:\LaserCutting\LaserCutting_20210824.01.041\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+D:\LaserCutting\LaserCutting_20210824.01.041\PseudoDevice\obj\Debug\PseudoDevice.dll
+D:\LaserCutting\LaserCutting_20210824.01.041\PseudoDevice\obj\Debug\PseudoDevice.xml
+D:\LaserCutting\LaserCutting_20210824.01.041\PseudoDevice\obj\Debug\PseudoDevice.pdb
+D:\LaserCutting\Auto Run\LaserCutting_20210824.01.041\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+D:\LaserCutting\Auto Run\LaserCutting_20210824.01.041\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+D:\LaserCutting\Auto Run\LaserCutting_20210824.01.041\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+D:\LaserCutting\Auto Run\LaserCutting_20210824.01.041\PseudoDevice\obj\Debug\PseudoDevice.dll
+D:\LaserCutting\Auto Run\LaserCutting_20210824.01.041\PseudoDevice\obj\Debug\PseudoDevice.xml
+D:\LaserCutting\Auto Run\LaserCutting_20210824.01.041\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211008.01.045\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211008.01.045\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211008.01.045\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211008.01.045\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211008.01.045\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211008.01.045\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211010.01.046\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211010.01.046\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211010.01.046\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211010.01.046\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211010.01.046\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211010.01.046\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20211023.01.047\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20211023.01.047\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20211023.01.047\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\Client\Desktop\LaserCutting_20211023.01.047\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\Client\Desktop\LaserCutting_20211023.01.047\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211023.01.048\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211023.01.048\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211023.01.048\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211023.01.048\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211023.01.048\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211023.01.048\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\Client\Desktop\LaserCutting_20211025.01.049\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20211025.01.049\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20211025.01.049\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\Client\Desktop\LaserCutting_20211025.01.049\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\Client\Desktop\LaserCutting_20211025.01.049\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\Client\Desktop\LaserCutting_20211101.01.052\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20211101.01.052\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.052\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20211101.01.052\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\Client\Desktop\LaserCutting_20211101.01.052\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\Client\Desktop\LaserCutting_20211101.01.052\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\Client\Desktop\LaserCutting_20211101.01.053\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20211101.01.053\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.053\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20211101.01.053\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\Client\Desktop\LaserCutting_20211101.01.053\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\Client\Desktop\LaserCutting_20211101.01.053\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211103.01.054\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211103.01.054\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Windows\SysWOW64\PseudoDevice.dll
+C:\Windows\SysWOW64\PseudoDevice.pdb
+C:\Windows\SysWOW64\PseudoDevice.xml
+C:\Windows\SysWOW64\PseudoDevice.tlb
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211103.01.054\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211103.01.054\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211103.01.054\PseudoDevice\obj\Debug\PseudoDevice.pdb
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211110.01.058\PseudoDevice\obj\Debug\PseudoDevice.vbprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211110.01.058\PseudoDevice\obj\Debug\PseudoDevice.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211110.01.058\PseudoDevice\obj\Debug\PseudoDevice.vbproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211110.01.058\PseudoDevice\obj\Debug\PseudoDevice.dll
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211110.01.058\PseudoDevice\obj\Debug\PseudoDevice.xml
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211110.01.058\PseudoDevice\obj\Debug\PseudoDevice.pdb

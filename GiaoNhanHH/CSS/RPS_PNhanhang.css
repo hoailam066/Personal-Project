@@ -1,0 +1,432 @@
+﻿
+/* Màn hình có độ rộng (width) lớn hơn 1200px */
+@media (min-width: 1200px) {
+    body {
+        font-family: Arial, Helvetica, sans-serif;
+        
+    }
+    .divLon{
+        width:100%;
+        float:left;
+    }
+    .divDong {
+        width: 20%;
+        float: left;
+        margin-top:1%;
+    }
+
+    .divLabel {
+        width: 35%;
+        float: left;
+        margin: 1%;
+        text-align:right;
+    }
+
+    .divControl {
+        width: 56%;
+        float: left;
+        margin: 1%;
+    }
+    
+
+    .li {
+        padding-left: 2.75%;
+        font-size: 14pt;
+    }
+
+    .sidenavmenu {
+        margin-top: 78px;
+    }
+
+    .divLeft {
+        width: 40px;
+        height: 84vh; /*vh là đơn vị màn hình thiết bị hiện tại*/
+        float: left;
+    }
+
+    .divIFrame {
+        width: 93%;
+        height: 84vh;
+        float: right;
+        overflow-y: auto;
+    }
+
+    .divContain {
+        display: table;
+        width: 100%;
+    }
+
+    .divColumn {
+        display: table-cell;
+    }
+
+    .tdtextbox {
+        width: 100%;
+    }
+
+    .tddrop {
+        width: 80%;
+    }
+    .tdbutton{
+       padding:10px;
+       margin:15px;
+    }
+
+}
+
+/* Kích thước (width) nằm trong đoạn 992px <= width <= 1199px */
+@media (min-width: 992px) and (max-width: 1199px) {
+    body {
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .divLon{
+        width:100%;
+        float:left;
+    }
+    .divDong {
+        width: 20%;
+        float: left;
+        margin-top:1%;
+    }
+
+    .divLabel {
+        width: 40%;
+        float: left;
+        margin: 1%;
+        text-align:right;
+    }
+
+    .divControl {
+        width: 56%;
+        float: left;
+        margin: 1%;
+    }
+    
+
+    .li {
+        padding-left: 2.75%;
+        font-size: 14pt;
+    }
+
+    .sidenavmenu {
+        margin-top: 78px;
+    }
+
+    .divLeft {
+        width: 40px;
+        height: 84vh; /*vh là đơn vị màn hình thiết bị hiện tại*/
+        float: left;
+    }
+
+    .divIFrame {
+        width: 93%;
+        height: 84vh;
+        float: right;
+        overflow-y: auto;
+    }
+
+    .divContain {
+        display: table;
+        width: 100%;
+    }
+
+    .divColumn {
+        display: table-cell;
+    }
+
+
+    .tdbutton{
+       padding:10px;
+       margin:15px;
+    }
+
+}
+
+/* Kích thước (width) nằm trong đoạn 768px <= width <= 991px */
+@media (min-width: 768px) and (max-width: 991px) {
+    body {
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+  
+    .divLon{
+        width:100%;
+        float:left;
+    }
+    .divDong {
+        width: 50%;
+        float: left;
+        margin-top:1%;
+    }
+
+    .divLabel {
+        width: 21%;
+        float: left;
+        margin: 1%;
+        text-align:right;
+    }
+
+    .divControl {
+        width: 68%;
+        float: left;
+        margin: 1%;
+    }
+    
+
+    .li {
+        padding-left: 2.75%;
+        font-size: 14pt;
+    }
+
+    .sidenavmenu {
+        margin-top: 78px;
+    }
+
+    .divLeft {
+        width: 40px;
+        height: 84vh; /*vh là đơn vị màn hình thiết bị hiện tại*/
+        float: left;
+    }
+
+    .divIFrame {
+        width: 93%;
+        height: 84vh;
+        float: right;
+        overflow-y: auto;
+    }
+
+    .divContain {
+        display: table;
+        width: 100%;
+    }
+
+    .divColumn {
+        display: table-cell;
+    }
+
+
+    .tdbutton{
+       padding:10px;
+       margin:15px;
+    }
+
+}
+/* Kích thước (width) nằm trong đoạn 481px <= width <= 767px */
+@media (min-width: 481px) and (max-width: 767px) {
+    body {
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .divLon{
+        width:100%;
+        float:left;
+    }
+    .divDong {
+        width: 50%;
+        float: left;
+        margin-top:1%;
+    }
+
+    .divLabel {
+        width: 35%;
+        float: left;
+        margin: 1%;
+        text-align:right;
+    }
+
+    .divControl {
+        width: 60%;
+        float: left;
+        margin: 1%;
+    }
+    
+
+    .li {
+        padding-left: 2.75%;
+        font-size: 14pt;
+    }
+
+    .sidenavmenu {
+        margin-top: 78px;
+    }
+
+    .divLeft {
+        width: 40px;
+        height: 84vh; /*vh là đơn vị màn hình thiết bị hiện tại*/
+        float: left;
+    }
+
+    .divIFrame {
+        width: 93%;
+        height: 84vh;
+        float: right;
+        overflow-y: auto;
+    }
+
+    .divContain {
+        display: table;
+        width: 100%;
+    }
+
+    .divColumn {
+        display: table-cell;
+    }
+
+
+    .tdbutton{
+       padding:10px;
+       margin:15px;
+    }
+     div.box.divLon table tbody tr td.title{
+        font-size:12pt !important;
+        background-size:50px
+    }
+
+}
+
+
+
+/* Chia nhỏ từ 321 => 480*/
+@media (min-width: 321px) and (max-width: 480px) {
+    body {
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .divLon{
+        width:100%;
+        float:left;
+    }
+    .divDong {
+        width: 100%;
+        float: left;
+        margin-top:1%;
+    }
+
+    .divLabel {
+        width: 30%;
+        float: left;
+        margin: 1%;
+        text-align:right;
+    }
+
+    .divControl {
+        width: 65%;
+        float: left;
+        margin: 1%;
+    }
+    
+
+    .li {
+        padding-left: 2.75%;
+        font-size: 14pt;
+    }
+
+    .sidenavmenu {
+        margin-top: 78px;
+    }
+
+    .divLeft {
+        width: 40px;
+        height: 84vh; /*vh là đơn vị màn hình thiết bị hiện tại*/
+        float: left;
+    }
+
+    .divIFrame {
+        width: 93%;
+        height: 84vh;
+        float: right;
+        overflow-y: auto;
+    }
+
+    .divContain {
+        display: table;
+        width: 100%;
+    }
+
+    .divColumn {
+        display: table-cell;
+    }
+
+
+    .tdbutton{
+       padding:10px;
+       margin:15px;
+    }
+    div.box.divLon table tbody tr td.title{
+        font-size:10pt !important;
+        background-size:50px
+    }
+}
+
+/* Kích thước (width) nhỏ, lớn nhất là 320px */
+@media (max-width: 320px) {
+    body {
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+      .divLon{
+        width:100%;
+        float:left;
+    }
+    .divDong {
+        width: 100%;
+        float: left;
+        margin-top:1%;
+    }
+
+    .divLabel {
+        width: 30%;
+        float: left;
+        margin: 1%;
+        text-align:right;
+    }
+
+    .divControl {
+        width: 65%;
+        float: left;
+        margin: 1%;
+    }
+    
+
+    .li {
+        padding-left: 2.75%;
+        font-size: 14pt;
+    }
+
+    .sidenavmenu {
+        margin-top: 78px;
+    }
+
+    .divLeft {
+        width: 40px;
+        height: 84vh; /*vh là đơn vị màn hình thiết bị hiện tại*/
+        float: left;
+    }
+
+    .divIFrame {
+        width: 93%;
+        height: 84vh;
+        float: right;
+        overflow-y: auto;
+    }
+
+    .divContain {
+        display: table;
+        width: 100%;
+    }
+
+    .divColumn {
+        display: table-cell;
+    }
+
+
+    .tdbutton{
+       padding:10px;
+       margin:15px;
+    }
+    div.box.divLon table tbody tr td.title{
+        font-size:9pt !important;
+        background-size:50px
+    }
+}

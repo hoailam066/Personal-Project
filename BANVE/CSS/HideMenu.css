@@ -1,0 +1,100 @@
+﻿.sidenavmenu .a:link {
+    padding: 10px 8px 8px 0px;
+    text-decoration: none;
+    font-size:25px;
+    color:#c2e8a0;
+    display: block;
+    transition:0.3s;
+}
+
+.sidenavmenu{
+    height:100%;
+    width:0;
+    position:fixed;
+    z-index:1;
+    top:0;
+    left:8px;
+    background-color:#ffffff;
+    overflow-x:hidden;
+    transition:0.5s;
+    color:#3e7c08;
+    height:87vh;
+    border-bottom:1px solid #68ccce;
+    border-top:1px solid #68ccce;
+}
+
+.sidenavmenu a:hover, offcanvas a:focus{
+    text-decoration:underline;
+    color:#fefffe ;
+}
+.sidenavmenu .closebtn{
+    position: absolute;
+    top:0;
+    right:25px;
+    font-size:36px;
+    margin-left:50px;
+}
+.sidenavmenu .ul
+{
+    width:100%;
+    list-style-type:none;
+}
+.divMenuCon{
+    vertical-align:middle;
+    padding:42% 9% 2% 0;
+    border-bottom:1px solid #ccc;
+    height:7vh;
+    background-size:40px 50px;
+    background-position:top;
+    background-repeat:no-repeat;
+    padding-left:5px;
+    font-weight:bold;
+    text-align:center;
+    border-right:5px solid #a3ce4e;
+    
+}
+.menuselected{
+    border-right:5px solid #3e7c08 !important;
+    z-index:2;
+    padding:42% 0% 0% 0%;
+}
+.divMenuCon:hover{
+    cursor:pointer;
+    text-decoration:none;
+    color:red;
+}
+.sidenavmenu ul{
+   -webkit-padding-start: 0px;
+}
+.sidenavmenu img {
+    float:right;
+}
+
+.link{
+    text-decoration:none;
+    color:#c2e8a0;
+}
+.menuselected{
+    text-decoration:none;
+    color:red;
+}
+
+@media (min-width: 1200px) {
+    
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+}
+
+@media (min-width: 321px) and (max-width: 480px) {
+}
+
+@media (max-width: 320px) {
+}

@@ -1,0 +1,1185 @@
+C:\Users\ZhengYe\Desktop\兆順\LaserSolder_20210406.001.04_LineCutting\LaserSolder\bin\x86\Debug\LaserSolder.exe.config
+C:\Users\ZhengYe\Desktop\兆順\LaserSolder_20210406.001.04_LineCutting\LaserSolder\obj\x86\Debug\LaserSolder.exe
+C:\Users\ZhengYe\Desktop\兆順\LaserSolder_20210406.001.04_LineCutting\LaserSolder\obj\x86\Debug\LaserSolder.xml
+C:\Users\ZhengYe\Desktop\兆順\LaserSolder_20210406.001.04_LineCutting\LaserSolder\obj\x86\Debug\LaserSolder.pdb
+C:\Users\ZhengYe\Desktop\兆順\LaserSolder_20210410.001.06_LineCutting\LaserSolder\bin\x86\Debug\LaserSolder.exe.config
+C:\Users\ZhengYe\Desktop\兆順\LaserSolder_20210410.001.06_LineCutting\LaserSolder\obj\x86\Debug\LaserSolder.exe
+C:\Users\ZhengYe\Desktop\兆順\LaserSolder_20210410.001.06_LineCutting\LaserSolder\obj\x86\Debug\LaserSolder.xml
+C:\Users\ZhengYe\Desktop\兆順\LaserSolder_20210410.001.06_LineCutting\LaserSolder\obj\x86\Debug\LaserSolder.pdb
+C:\Users\Client\Desktop\LaserSolder_20210410.001.06_LineCutting\LaserSolder\bin\x86\Debug\LaserSolder.exe.config
+C:\Users\Client\Desktop\LaserSolder_20210410.001.06_LineCutting\LaserSolder\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserSolder_20210410.001.06_LineCutting\LaserSolder\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+C:\Users\Client\Desktop\LaserSolder_20210410.001.06_LineCutting\LaserSolder\obj\x86\Debug\LaserCutting.FMain.resources
+C:\Users\Client\Desktop\LaserSolder_20210410.001.06_LineCutting\LaserSolder\obj\x86\Debug\LaserCutting.FLoading.resources
+C:\Users\Client\Desktop\LaserSolder_20210410.001.06_LineCutting\LaserSolder\obj\x86\Debug\LaserCutting.FChangePassword.resources
+C:\Users\Client\Desktop\LaserSolder_20210410.001.06_LineCutting\LaserSolder\obj\x86\Debug\LaserCutting.FLog.resources
+C:\Users\Client\Desktop\LaserSolder_20210410.001.06_LineCutting\LaserSolder\obj\x86\Debug\LaserCutting.FLogin.resources
+C:\Users\Client\Desktop\LaserSolder_20210410.001.06_LineCutting\LaserSolder\obj\x86\Debug\LaserCutting.FMessageBox.resources
+C:\Users\Client\Desktop\LaserSolder_20210410.001.06_LineCutting\LaserSolder\obj\x86\Debug\LaserCutting.FNewProject.resources
+C:\Users\Client\Desktop\LaserSolder_20210410.001.06_LineCutting\LaserSolder\obj\x86\Debug\LaserCutting.FOpenProject.resources
+C:\Users\Client\Desktop\LaserSolder_20210410.001.06_LineCutting\LaserSolder\obj\x86\Debug\LaserCutting.Resources.resources
+C:\Users\Client\Desktop\LaserSolder_20210410.001.06_LineCutting\LaserSolder\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserSolder_20210410.001.06_LineCutting\LaserSolder\obj\x86\Debug\LaserCutting.exe
+C:\Users\Client\Desktop\LaserSolder_20210410.001.06_LineCutting\LaserSolder\obj\x86\Debug\LaserCutting.xml
+C:\Users\Client\Desktop\LaserSolder_20210410.001.06_LineCutting\LaserSolder\obj\x86\Debug\LaserCutting.pdb
+C:\Users\Client\Desktop\LineCutting_20210417.001.07\LaserSolder\obj\x86\Debug\LaserCutting.exe
+C:\Users\Client\Desktop\LineCutting_20210417.001.07\LaserSolder\obj\x86\Debug\LaserCutting.xml
+C:\Users\Client\Desktop\LineCutting_20210417.001.07\LaserSolder\obj\x86\Debug\LaserCutting.pdb
+C:\Users\Client\Desktop\LineCutting_20210417.001.07\LaserSolder\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LineCutting_20210417.001.07\LaserSolder\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+C:\Users\Client\Desktop\LineCutting_20210417.001.07\LaserSolder\obj\x86\Debug\LaserCutting.FMain.resources
+C:\Users\Client\Desktop\LineCutting_20210417.001.07\LaserSolder\obj\x86\Debug\LaserCutting.FLoading.resources
+C:\Users\Client\Desktop\LineCutting_20210417.001.07\LaserSolder\obj\x86\Debug\LaserCutting.FChangePassword.resources
+C:\Users\Client\Desktop\LineCutting_20210417.001.07\LaserSolder\obj\x86\Debug\LaserCutting.FLog.resources
+C:\Users\Client\Desktop\LineCutting_20210417.001.07\LaserSolder\obj\x86\Debug\LaserCutting.FLogin.resources
+C:\Users\Client\Desktop\LineCutting_20210417.001.07\LaserSolder\obj\x86\Debug\LaserCutting.FMessageBox.resources
+C:\Users\Client\Desktop\LineCutting_20210417.001.07\LaserSolder\obj\x86\Debug\LaserCutting.FNewProject.resources
+C:\Users\Client\Desktop\LineCutting_20210417.001.07\LaserSolder\obj\x86\Debug\LaserCutting.FOpenProject.resources
+C:\Users\Client\Desktop\LineCutting_20210417.001.07\LaserSolder\obj\x86\Debug\LaserCutting.Resources.resources
+C:\Users\Client\Desktop\LineCutting_20210417.001.07\LaserSolder\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20210419.001.09\LaserCutting\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20210419.001.09\LaserCutting\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+C:\Users\Client\Desktop\LaserCutting_20210419.001.09\LaserCutting\obj\x86\Debug\LaserCutting.FMain.resources
+C:\Users\Client\Desktop\LaserCutting_20210419.001.09\LaserCutting\obj\x86\Debug\LaserCutting.FLoading.resources
+C:\Users\Client\Desktop\LaserCutting_20210419.001.09\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.resources
+C:\Users\Client\Desktop\LaserCutting_20210419.001.09\LaserCutting\obj\x86\Debug\LaserCutting.FLog.resources
+C:\Users\Client\Desktop\LaserCutting_20210419.001.09\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.resources
+C:\Users\Client\Desktop\LaserCutting_20210419.001.09\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.resources
+C:\Users\Client\Desktop\LaserCutting_20210419.001.09\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.resources
+C:\Users\Client\Desktop\LaserCutting_20210419.001.09\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.resources
+C:\Users\Client\Desktop\LaserCutting_20210419.001.09\LaserCutting\obj\x86\Debug\LaserCutting.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20210419.001.09\LaserCutting\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20210419.001.09\LaserCutting\obj\x86\Debug\LaserCutting.exe
+C:\Users\Client\Desktop\LaserCutting_20210419.001.09\LaserCutting\obj\x86\Debug\LaserCutting.xml
+C:\Users\Client\Desktop\LaserCutting_20210419.001.09\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+C:\Users\Client\Desktop\LaserCutting_20210419.001.10\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+C:\Users\Client\Desktop\LaserCutting_20210419.001.10\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.FMain.resources
+C:\Users\Client\Desktop\LaserCutting_20210419.001.10\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.FLoading.resources
+C:\Users\Client\Desktop\LaserCutting_20210419.001.10\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.resources
+C:\Users\Client\Desktop\LaserCutting_20210419.001.10\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.FLog.resources
+C:\Users\Client\Desktop\LaserCutting_20210419.001.10\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.resources
+C:\Users\Client\Desktop\LaserCutting_20210419.001.10\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.resources
+C:\Users\Client\Desktop\LaserCutting_20210419.001.10\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.resources
+C:\Users\Client\Desktop\LaserCutting_20210419.001.10\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.resources
+C:\Users\Client\Desktop\LaserCutting_20210419.001.10\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20210419.001.10\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+C:\Users\Windows\SysWOW64\LaserCutting.exe.config
+C:\Users\Client\Desktop\LaserCutting_20210419.001.10\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+C:\Users\Windows\SysWOW64\Classes\ExtensionControl.vb
+C:\Users\Windows\SysWOW64\LaserCutting.exe
+C:\Users\Windows\SysWOW64\LaserCutting.pdb
+C:\Users\Windows\SysWOW64\LaserCutting.xml
+C:\Users\Client\Desktop\LaserCutting_20210419.001.10\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.exe
+C:\Users\Client\Desktop\LaserCutting_20210419.001.10\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.xml
+C:\Users\Client\Desktop\LaserCutting_20210419.001.10\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+C:\Users\Client\Desktop\LaserCutting_20210419.001.11\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.exe
+C:\Users\Client\Desktop\LaserCutting_20210419.001.11\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.xml
+C:\Users\Client\Desktop\LaserCutting_20210419.001.11\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+C:\Users\Client\Desktop\LaserCutting_20210419.001.11\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20210419.001.11\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+C:\Users\Client\Desktop\LaserCutting_20210419.001.11\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.FMain.resources
+C:\Users\Client\Desktop\LaserCutting_20210419.001.11\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.FLoading.resources
+C:\Users\Client\Desktop\LaserCutting_20210419.001.11\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.resources
+C:\Users\Client\Desktop\LaserCutting_20210419.001.11\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.FLog.resources
+C:\Users\Client\Desktop\LaserCutting_20210419.001.11\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.resources
+C:\Users\Client\Desktop\LaserCutting_20210419.001.11\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.resources
+C:\Users\Client\Desktop\LaserCutting_20210419.001.11\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.resources
+C:\Users\Client\Desktop\LaserCutting_20210419.001.11\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.resources
+C:\Users\Client\Desktop\LaserCutting_20210419.001.11\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20210419.001.11\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20210423.001.13\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.exe
+C:\Users\Client\Desktop\LaserCutting_20210423.001.13\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.xml
+C:\Users\Client\Desktop\LaserCutting_20210423.001.13\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+C:\Users\Client\Desktop\LaserCutting_20210423.001.13\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20210423.001.13\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+C:\Users\Client\Desktop\LaserCutting_20210423.001.13\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.FMain.resources
+C:\Users\Client\Desktop\LaserCutting_20210423.001.13\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.FLoading.resources
+C:\Users\Client\Desktop\LaserCutting_20210423.001.13\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.resources
+C:\Users\Client\Desktop\LaserCutting_20210423.001.13\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.FLog.resources
+C:\Users\Client\Desktop\LaserCutting_20210423.001.13\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.resources
+C:\Users\Client\Desktop\LaserCutting_20210423.001.13\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.resources
+C:\Users\Client\Desktop\LaserCutting_20210423.001.13\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.resources
+C:\Users\Client\Desktop\LaserCutting_20210423.001.13\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.resources
+C:\Users\Client\Desktop\LaserCutting_20210423.001.13\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20210423.001.13\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting_20210423.001.14\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.exe
+C:\Users\ALin\Desktop\LaserCutting_20210423.001.14\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.xml
+C:\Users\ALin\Desktop\LaserCutting_20210423.001.14\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+C:\Users\ALin\Desktop\LaserCutting_20210423.001.14\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\LaserCutting_20210423.001.14\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+C:\Users\ALin\Desktop\LaserCutting_20210423.001.14\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.FMain.resources
+C:\Users\ALin\Desktop\LaserCutting_20210423.001.14\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.FLoading.resources
+C:\Users\ALin\Desktop\LaserCutting_20210423.001.14\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.resources
+C:\Users\ALin\Desktop\LaserCutting_20210423.001.14\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.FLog.resources
+C:\Users\ALin\Desktop\LaserCutting_20210423.001.14\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.resources
+C:\Users\ALin\Desktop\LaserCutting_20210423.001.14\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.resources
+C:\Users\ALin\Desktop\LaserCutting_20210423.001.14\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.resources
+C:\Users\ALin\Desktop\LaserCutting_20210423.001.14\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.resources
+C:\Users\ALin\Desktop\LaserCutting_20210423.001.14\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting_20210423.001.14\LaserCutting_20210419.001.10\LaserCutting\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting_20210423.001.14\LaserCutting\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\LaserCutting_20210423.001.14\LaserCutting\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+C:\Users\ALin\Desktop\LaserCutting_20210423.001.14\LaserCutting\obj\x86\Debug\LaserCutting.FMain.resources
+C:\Users\ALin\Desktop\LaserCutting_20210423.001.14\LaserCutting\obj\x86\Debug\LaserCutting.FLoading.resources
+C:\Users\ALin\Desktop\LaserCutting_20210423.001.14\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.resources
+C:\Users\ALin\Desktop\LaserCutting_20210423.001.14\LaserCutting\obj\x86\Debug\LaserCutting.FLog.resources
+C:\Users\ALin\Desktop\LaserCutting_20210423.001.14\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.resources
+C:\Users\ALin\Desktop\LaserCutting_20210423.001.14\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.resources
+C:\Users\ALin\Desktop\LaserCutting_20210423.001.14\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.resources
+C:\Users\ALin\Desktop\LaserCutting_20210423.001.14\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.resources
+C:\Users\ALin\Desktop\LaserCutting_20210423.001.14\LaserCutting\obj\x86\Debug\LaserCutting.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting_20210423.001.14\LaserCutting\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting_20210423.001.14\LaserCutting\obj\x86\Debug\LaserCutting.exe
+C:\Users\ALin\Desktop\LaserCutting_20210423.001.14\LaserCutting\obj\x86\Debug\LaserCutting.xml
+C:\Users\ALin\Desktop\LaserCutting_20210423.001.14\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+C:\Users\ALin\Desktop\LaserCutting_20210424.001.15\LaserCutting\obj\x86\Debug\LaserCutting.xml
+C:\Users\ALin\Desktop\LaserCutting_20210424.001.15\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+C:\Users\ALin\Desktop\LaserCutting_20210424.001.15\LaserCutting\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\LaserCutting_20210424.001.15\LaserCutting\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+C:\Users\ALin\Desktop\LaserCutting_20210424.001.15\LaserCutting\obj\x86\Debug\LaserCutting.FMain.resources
+C:\Users\ALin\Desktop\LaserCutting_20210424.001.15\LaserCutting\obj\x86\Debug\LaserCutting.FLoading.resources
+C:\Users\ALin\Desktop\LaserCutting_20210424.001.15\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.resources
+C:\Users\ALin\Desktop\LaserCutting_20210424.001.15\LaserCutting\obj\x86\Debug\LaserCutting.FLog.resources
+C:\Users\ALin\Desktop\LaserCutting_20210424.001.15\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.resources
+C:\Users\ALin\Desktop\LaserCutting_20210424.001.15\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.resources
+C:\Users\ALin\Desktop\LaserCutting_20210424.001.15\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.resources
+C:\Users\ALin\Desktop\LaserCutting_20210424.001.15\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.resources
+C:\Users\ALin\Desktop\LaserCutting_20210424.001.15\LaserCutting\obj\x86\Debug\LaserCutting.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting_20210424.001.15\LaserCutting\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting_20210424.001.15\LaserCutting\obj\x86\Debug\LaserCutting.exe
+C:\Users\Client\Desktop\LaserCutting_20210426.001.16\LaserCutting\obj\x86\Debug\LaserCutting.exe
+C:\Users\Client\Desktop\LaserCutting_20210426.001.16\LaserCutting\obj\x86\Debug\LaserCutting.xml
+C:\Users\Client\Desktop\LaserCutting_20210426.001.16\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+C:\Users\Client\Desktop\LaserCutting_20210426.001.16\LaserCutting\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20210426.001.16\LaserCutting\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+C:\Users\Client\Desktop\LaserCutting_20210426.001.16\LaserCutting\obj\x86\Debug\LaserCutting.FMain.resources
+C:\Users\Client\Desktop\LaserCutting_20210426.001.16\LaserCutting\obj\x86\Debug\LaserCutting.FLoading.resources
+C:\Users\Client\Desktop\LaserCutting_20210426.001.16\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.resources
+C:\Users\Client\Desktop\LaserCutting_20210426.001.16\LaserCutting\obj\x86\Debug\LaserCutting.FLog.resources
+C:\Users\Client\Desktop\LaserCutting_20210426.001.16\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.resources
+C:\Users\Client\Desktop\LaserCutting_20210426.001.16\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.resources
+C:\Users\Client\Desktop\LaserCutting_20210426.001.16\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.resources
+C:\Users\Client\Desktop\LaserCutting_20210426.001.16\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.resources
+C:\Users\Client\Desktop\LaserCutting_20210426.001.16\LaserCutting\obj\x86\Debug\LaserCutting.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20210426.001.16\LaserCutting\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20210426.001.17\LaserCutting\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20210426.001.17\LaserCutting\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+C:\Users\Client\Desktop\LaserCutting_20210426.001.17\LaserCutting\obj\x86\Debug\LaserCutting.FMain.resources
+C:\Users\Client\Desktop\LaserCutting_20210426.001.17\LaserCutting\obj\x86\Debug\LaserCutting.FLoading.resources
+C:\Users\Client\Desktop\LaserCutting_20210426.001.17\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.resources
+C:\Users\Client\Desktop\LaserCutting_20210426.001.17\LaserCutting\obj\x86\Debug\LaserCutting.FLog.resources
+C:\Users\Client\Desktop\LaserCutting_20210426.001.17\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.resources
+C:\Users\Client\Desktop\LaserCutting_20210426.001.17\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.resources
+C:\Users\Client\Desktop\LaserCutting_20210426.001.17\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.resources
+C:\Users\Client\Desktop\LaserCutting_20210426.001.17\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.resources
+C:\Users\Client\Desktop\LaserCutting_20210426.001.17\LaserCutting\obj\x86\Debug\LaserCutting.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20210426.001.17\LaserCutting\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20210426.001.17\LaserCutting\obj\x86\Debug\LaserCutting.exe
+C:\Users\Client\Desktop\LaserCutting_20210426.001.17\LaserCutting\obj\x86\Debug\LaserCutting.xml
+C:\Users\Client\Desktop\LaserCutting_20210426.001.17\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+C:\Users\ALin\Desktop\LaserCutting_20210427.001.18\LaserCutting_20210427.001.18\LaserCutting\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\LaserCutting_20210427.001.18\LaserCutting_20210427.001.18\LaserCutting\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+C:\Users\ALin\Desktop\LaserCutting_20210427.001.18\LaserCutting_20210427.001.18\LaserCutting\obj\x86\Debug\LaserCutting.FMain.resources
+C:\Users\ALin\Desktop\LaserCutting_20210427.001.18\LaserCutting_20210427.001.18\LaserCutting\obj\x86\Debug\LaserCutting.FLoading.resources
+C:\Users\ALin\Desktop\LaserCutting_20210427.001.18\LaserCutting_20210427.001.18\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.resources
+C:\Users\ALin\Desktop\LaserCutting_20210427.001.18\LaserCutting_20210427.001.18\LaserCutting\obj\x86\Debug\LaserCutting.FLog.resources
+C:\Users\ALin\Desktop\LaserCutting_20210427.001.18\LaserCutting_20210427.001.18\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.resources
+C:\Users\ALin\Desktop\LaserCutting_20210427.001.18\LaserCutting_20210427.001.18\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.resources
+C:\Users\ALin\Desktop\LaserCutting_20210427.001.18\LaserCutting_20210427.001.18\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.resources
+C:\Users\ALin\Desktop\LaserCutting_20210427.001.18\LaserCutting_20210427.001.18\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.resources
+C:\Users\ALin\Desktop\LaserCutting_20210427.001.18\LaserCutting_20210427.001.18\LaserCutting\obj\x86\Debug\LaserCutting.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting_20210427.001.18\LaserCutting_20210427.001.18\LaserCutting\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting_20210427.001.18\LaserCutting_20210427.001.18\LaserCutting\obj\x86\Debug\LaserCutting.exe
+C:\Users\ALin\Desktop\LaserCutting_20210427.001.18\LaserCutting_20210427.001.18\LaserCutting\obj\x86\Debug\LaserCutting.xml
+C:\Users\ALin\Desktop\LaserCutting_20210427.001.18\LaserCutting_20210427.001.18\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+C:\Users\Client\Desktop\LaserCutting_20210427.001.19\LaserCutting\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20210427.001.19\LaserCutting\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+C:\Users\Client\Desktop\LaserCutting_20210427.001.19\LaserCutting\obj\x86\Debug\LaserCutting.FMain.resources
+C:\Users\Client\Desktop\LaserCutting_20210427.001.19\LaserCutting\obj\x86\Debug\LaserCutting.FLoading.resources
+C:\Users\Client\Desktop\LaserCutting_20210427.001.19\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.resources
+C:\Users\Client\Desktop\LaserCutting_20210427.001.19\LaserCutting\obj\x86\Debug\LaserCutting.FLog.resources
+C:\Users\Client\Desktop\LaserCutting_20210427.001.19\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.resources
+C:\Users\Client\Desktop\LaserCutting_20210427.001.19\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.resources
+C:\Users\Client\Desktop\LaserCutting_20210427.001.19\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.resources
+C:\Users\Client\Desktop\LaserCutting_20210427.001.19\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.resources
+C:\Users\Client\Desktop\LaserCutting_20210427.001.19\LaserCutting\obj\x86\Debug\LaserCutting.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20210427.001.19\LaserCutting\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20210427.001.19\LaserCutting\obj\x86\Debug\LaserCutting.exe
+C:\Users\Client\Desktop\LaserCutting_20210427.001.19\LaserCutting\obj\x86\Debug\LaserCutting.xml
+C:\Users\Client\Desktop\LaserCutting_20210427.001.19\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+C:\Users\ALin\Desktop\LaserCutting_20210428.001.20\LaserCutting\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\LaserCutting_20210428.001.20\LaserCutting\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+C:\Users\ALin\Desktop\LaserCutting_20210428.001.20\LaserCutting\obj\x86\Debug\LaserCutting.FMain.resources
+C:\Users\ALin\Desktop\LaserCutting_20210428.001.20\LaserCutting\obj\x86\Debug\LaserCutting.FLoading.resources
+C:\Users\ALin\Desktop\LaserCutting_20210428.001.20\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.resources
+C:\Users\ALin\Desktop\LaserCutting_20210428.001.20\LaserCutting\obj\x86\Debug\LaserCutting.FLog.resources
+C:\Users\ALin\Desktop\LaserCutting_20210428.001.20\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.resources
+C:\Users\ALin\Desktop\LaserCutting_20210428.001.20\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.resources
+C:\Users\ALin\Desktop\LaserCutting_20210428.001.20\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.resources
+C:\Users\ALin\Desktop\LaserCutting_20210428.001.20\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.resources
+C:\Users\ALin\Desktop\LaserCutting_20210428.001.20\LaserCutting\obj\x86\Debug\LaserCutting.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting_20210428.001.20\LaserCutting\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting_20210428.001.20\LaserCutting\obj\x86\Debug\LaserCutting.exe
+C:\Users\ALin\Desktop\LaserCutting_20210428.001.20\LaserCutting\obj\x86\Debug\LaserCutting.xml
+C:\Users\ALin\Desktop\LaserCutting_20210428.001.20\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210430.001.21\LaserCutting\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210430.001.21\LaserCutting\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210430.001.21\LaserCutting\obj\x86\Debug\LaserCutting.FMain.resources
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210430.001.21\LaserCutting\obj\x86\Debug\LaserCutting.FLoading.resources
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210430.001.21\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.resources
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210430.001.21\LaserCutting\obj\x86\Debug\LaserCutting.FLog.resources
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210430.001.21\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.resources
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210430.001.21\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.resources
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210430.001.21\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.resources
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210430.001.21\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.resources
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210430.001.21\LaserCutting\obj\x86\Debug\LaserCutting.Resources.resources
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210430.001.21\LaserCutting\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210430.001.21\LaserCutting\obj\x86\Debug\LaserCutting.exe
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210430.001.21\LaserCutting\obj\x86\Debug\LaserCutting.xml
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210430.001.21\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210503.001.22\LaserCutting\obj\x86\Debug\LaserCutting.exe
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210503.001.22\LaserCutting\obj\x86\Debug\LaserCutting.xml
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210503.001.22\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210503.001.22\LaserCutting\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210503.001.22\LaserCutting\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210503.001.22\LaserCutting\obj\x86\Debug\LaserCutting.FMain.resources
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210503.001.22\LaserCutting\obj\x86\Debug\LaserCutting.FLoading.resources
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210503.001.22\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.resources
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210503.001.22\LaserCutting\obj\x86\Debug\LaserCutting.FLog.resources
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210503.001.22\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.resources
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210503.001.22\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.resources
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210503.001.22\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.resources
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210503.001.22\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.resources
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210503.001.22\LaserCutting\obj\x86\Debug\LaserCutting.Resources.resources
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210503.001.22\LaserCutting\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210503.001.23\LaserCutting\obj\x86\Debug\LaserCutting.exe
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210503.001.23\LaserCutting\obj\x86\Debug\LaserCutting.xml
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210503.001.23\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210503.001.23\LaserCutting\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210503.001.23\LaserCutting\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210503.001.23\LaserCutting\obj\x86\Debug\LaserCutting.FMain.resources
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210503.001.23\LaserCutting\obj\x86\Debug\LaserCutting.FLoading.resources
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210503.001.23\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.resources
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210503.001.23\LaserCutting\obj\x86\Debug\LaserCutting.FLog.resources
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210503.001.23\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.resources
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210503.001.23\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.resources
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210503.001.23\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.resources
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210503.001.23\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.resources
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210503.001.23\LaserCutting\obj\x86\Debug\LaserCutting.Resources.resources
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210503.001.23\LaserCutting\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20210504.001.23\LaserCutting\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20210504.001.23\LaserCutting\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+C:\Users\Client\Desktop\LaserCutting_20210504.001.23\LaserCutting\obj\x86\Debug\LaserCutting.FMain.resources
+C:\Users\Client\Desktop\LaserCutting_20210504.001.23\LaserCutting\obj\x86\Debug\LaserCutting.FLoading.resources
+C:\Users\Client\Desktop\LaserCutting_20210504.001.23\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.resources
+C:\Users\Client\Desktop\LaserCutting_20210504.001.23\LaserCutting\obj\x86\Debug\LaserCutting.FLog.resources
+C:\Users\Client\Desktop\LaserCutting_20210504.001.23\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.resources
+C:\Users\Client\Desktop\LaserCutting_20210504.001.23\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.resources
+C:\Users\Client\Desktop\LaserCutting_20210504.001.23\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.resources
+C:\Users\Client\Desktop\LaserCutting_20210504.001.23\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.resources
+C:\Users\Client\Desktop\LaserCutting_20210504.001.23\LaserCutting\obj\x86\Debug\LaserCutting.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20210504.001.23\LaserCutting\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20210504.001.23\LaserCutting\obj\x86\Debug\LaserCutting.exe
+C:\Users\Client\Desktop\LaserCutting_20210504.001.23\LaserCutting\obj\x86\Debug\LaserCutting.xml
+C:\Users\Client\Desktop\LaserCutting_20210504.001.23\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+C:\Users\ALin\Desktop\LaserCutting_20210504.001.24\LaserCutting\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\LaserCutting_20210504.001.24\LaserCutting\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+C:\Users\ALin\Desktop\LaserCutting_20210504.001.24\LaserCutting\obj\x86\Debug\LaserCutting.FMain.resources
+C:\Users\ALin\Desktop\LaserCutting_20210504.001.24\LaserCutting\obj\x86\Debug\LaserCutting.FLoading.resources
+C:\Users\ALin\Desktop\LaserCutting_20210504.001.24\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.resources
+C:\Users\ALin\Desktop\LaserCutting_20210504.001.24\LaserCutting\obj\x86\Debug\LaserCutting.FLog.resources
+C:\Users\ALin\Desktop\LaserCutting_20210504.001.24\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.resources
+C:\Users\ALin\Desktop\LaserCutting_20210504.001.24\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.resources
+C:\Users\ALin\Desktop\LaserCutting_20210504.001.24\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.resources
+C:\Users\ALin\Desktop\LaserCutting_20210504.001.24\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.resources
+C:\Users\ALin\Desktop\LaserCutting_20210504.001.24\LaserCutting\obj\x86\Debug\LaserCutting.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting_20210504.001.24\LaserCutting\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting_20210504.001.24\LaserCutting\obj\x86\Debug\LaserCutting.exe
+C:\Users\ALin\Desktop\LaserCutting_20210504.001.24\LaserCutting\obj\x86\Debug\LaserCutting.xml
+C:\Users\ALin\Desktop\LaserCutting_20210504.001.24\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+C:\Users\Client\Desktop\LaserCutting_20210504.001.25\LaserCutting\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20210504.001.25\LaserCutting\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+C:\Users\Client\Desktop\LaserCutting_20210504.001.25\LaserCutting\obj\x86\Debug\LaserCutting.FMain.resources
+C:\Users\Client\Desktop\LaserCutting_20210504.001.25\LaserCutting\obj\x86\Debug\LaserCutting.FLoading.resources
+C:\Users\Client\Desktop\LaserCutting_20210504.001.25\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.resources
+C:\Users\Client\Desktop\LaserCutting_20210504.001.25\LaserCutting\obj\x86\Debug\LaserCutting.FLog.resources
+C:\Users\Client\Desktop\LaserCutting_20210504.001.25\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.resources
+C:\Users\Client\Desktop\LaserCutting_20210504.001.25\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.resources
+C:\Users\Client\Desktop\LaserCutting_20210504.001.25\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.resources
+C:\Users\Client\Desktop\LaserCutting_20210504.001.25\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.resources
+C:\Users\Client\Desktop\LaserCutting_20210504.001.25\LaserCutting\obj\x86\Debug\LaserCutting.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20210504.001.25\LaserCutting\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20210504.001.25\LaserCutting\obj\x86\Debug\LaserCutting.exe
+C:\Users\Client\Desktop\LaserCutting_20210504.001.25\LaserCutting\obj\x86\Debug\LaserCutting.xml
+C:\Users\Client\Desktop\LaserCutting_20210504.001.25\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+C:\Users\ZhengYe\Desktop\雷射切割機\LaserCutting_20210504.001.26\LaserCutting\obj\x86\Debug\LaserCutting.xml
+C:\Users\ZhengYe\Desktop\雷射切割機\LaserCutting_20210504.001.26\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+C:\Users\ZhengYe\Desktop\雷射切割機\LaserCutting_20210616.001.26\LaserCutting\obj\x86\Debug\LaserCutting.xml
+C:\Users\ZhengYe\Desktop\雷射切割機\LaserCutting_20210616.001.26\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+C:\Users\ZhengYe\Desktop\雷射切割機\LaserCutting_20210616.001.26\LaserCutting\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+C:\Users\ZhengYe\Desktop\雷射切割機\LaserCutting_20210616.001.26\LaserCutting\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+C:\Users\ZhengYe\Desktop\雷射切割機\LaserCutting_20210616.001.26\LaserCutting\obj\x86\Debug\LaserCutting.FMain.resources
+C:\Users\ZhengYe\Desktop\雷射切割機\LaserCutting_20210616.001.26\LaserCutting\obj\x86\Debug\LaserCutting.FLoading.resources
+C:\Users\ZhengYe\Desktop\雷射切割機\LaserCutting_20210616.001.26\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.resources
+C:\Users\ZhengYe\Desktop\雷射切割機\LaserCutting_20210616.001.26\LaserCutting\obj\x86\Debug\LaserCutting.FLog.resources
+C:\Users\ZhengYe\Desktop\雷射切割機\LaserCutting_20210616.001.26\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.resources
+C:\Users\ZhengYe\Desktop\雷射切割機\LaserCutting_20210616.001.26\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.resources
+C:\Users\ZhengYe\Desktop\雷射切割機\LaserCutting_20210616.001.26\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.resources
+C:\Users\ZhengYe\Desktop\雷射切割機\LaserCutting_20210616.001.26\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.resources
+C:\Users\ZhengYe\Desktop\雷射切割機\LaserCutting_20210616.001.26\LaserCutting\obj\x86\Debug\LaserCutting.Resources.resources
+C:\Users\ZhengYe\Desktop\雷射切割機\LaserCutting_20210616.001.26\LaserCutting\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+C:\Users\ZhengYe\Desktop\雷射切割機\LaserCutting_20210616.001.26\LaserCutting\obj\x86\Debug\LaserCutting.exe
+C:\Users\ZhengYe\Desktop\雷射切割機\LaserCutting_20210803.001.27\LaserCutting\obj\x86\Debug\LaserCutting.exe
+C:\Users\ZhengYe\Desktop\雷射切割機\LaserCutting_20210803.001.27\LaserCutting\obj\x86\Debug\LaserCutting.xml
+C:\Users\ZhengYe\Desktop\雷射切割機\LaserCutting_20210803.001.27\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+D:\Windows\SysWOW64\LaserCutting.exe.config
+D:\LaserCutting\LaserCutting_20210803.001.27\LaserCutting\obj\x86\Debug\LaserCutting.exe
+D:\LaserCutting\LaserCutting_20210803.001.27\LaserCutting\obj\x86\Debug\LaserCutting.xml
+D:\LaserCutting\LaserCutting_20210803.001.27\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+D:\LaserCutting\LaserCutting_20210803.001.27\LaserCutting\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+D:\LaserCutting\LaserCutting_20210803.001.27\LaserCutting\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+D:\LaserCutting\LaserCutting_20210803.001.27\LaserCutting\obj\x86\Debug\LaserCutting.FMain.resources
+D:\LaserCutting\LaserCutting_20210803.001.27\LaserCutting\obj\x86\Debug\LaserCutting.FLoading.resources
+D:\LaserCutting\LaserCutting_20210803.001.27\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.resources
+D:\LaserCutting\LaserCutting_20210803.001.27\LaserCutting\obj\x86\Debug\LaserCutting.FLog.resources
+D:\LaserCutting\LaserCutting_20210803.001.27\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.resources
+D:\LaserCutting\LaserCutting_20210803.001.27\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.resources
+D:\LaserCutting\LaserCutting_20210803.001.27\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.resources
+D:\LaserCutting\LaserCutting_20210803.001.27\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.resources
+D:\LaserCutting\LaserCutting_20210803.001.27\LaserCutting\obj\x86\Debug\LaserCutting.Resources.resources
+D:\LaserCutting\LaserCutting_20210803.001.27\LaserCutting\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+D:\LaserCutting\LaserCutting_20210803.001.27\LaserCutting\obj\x86\Debug\LaserCutting.FInputCorrection.resources
+D:\LaserCutting\LaserCutting_20210803.001.27\LaserCutting\obj\x86\Debug\LaserCutting.UserControlPoint.resources
+D:\LaserCutting\LaserCutting_20210804.01.028\LaserCutting\obj\x86\Debug\LaserCutting.exe
+D:\LaserCutting\LaserCutting_20210804.01.028\LaserCutting\obj\x86\Debug\LaserCutting.xml
+D:\LaserCutting\LaserCutting_20210804.01.028\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+D:\LaserCutting\LaserCutting_20210804.01.028\LaserCutting\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+D:\LaserCutting\LaserCutting_20210804.01.028\LaserCutting\obj\x86\Debug\LaserCutting.FInputCorrection.resources
+D:\LaserCutting\LaserCutting_20210804.01.028\LaserCutting\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+D:\LaserCutting\LaserCutting_20210804.01.028\LaserCutting\obj\x86\Debug\LaserCutting.FMain.resources
+D:\LaserCutting\LaserCutting_20210804.01.028\LaserCutting\obj\x86\Debug\LaserCutting.FLoading.resources
+D:\LaserCutting\LaserCutting_20210804.01.028\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.resources
+D:\LaserCutting\LaserCutting_20210804.01.028\LaserCutting\obj\x86\Debug\LaserCutting.FLog.resources
+D:\LaserCutting\LaserCutting_20210804.01.028\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.resources
+D:\LaserCutting\LaserCutting_20210804.01.028\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.resources
+D:\LaserCutting\LaserCutting_20210804.01.028\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.resources
+D:\LaserCutting\LaserCutting_20210804.01.028\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.resources
+D:\LaserCutting\LaserCutting_20210804.01.028\LaserCutting\obj\x86\Debug\LaserCutting.UserControlPoint.resources
+D:\LaserCutting\LaserCutting_20210804.01.028\LaserCutting\obj\x86\Debug\LaserCutting.Resources.resources
+D:\LaserCutting\LaserCutting_20210804.01.028\LaserCutting\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20210806.01.029\LaserCutting\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20210806.01.029\LaserCutting\obj\x86\Debug\LaserCutting.FInputCorrection.resources
+C:\Users\Client\Desktop\LaserCutting_20210806.01.029\LaserCutting\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+C:\Users\Client\Desktop\LaserCutting_20210806.01.029\LaserCutting\obj\x86\Debug\LaserCutting.FMain.resources
+C:\Users\Client\Desktop\LaserCutting_20210806.01.029\LaserCutting\obj\x86\Debug\LaserCutting.FLoading.resources
+C:\Users\Client\Desktop\LaserCutting_20210806.01.029\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.resources
+C:\Users\Client\Desktop\LaserCutting_20210806.01.029\LaserCutting\obj\x86\Debug\LaserCutting.FLog.resources
+C:\Users\Client\Desktop\LaserCutting_20210806.01.029\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.resources
+C:\Users\Client\Desktop\LaserCutting_20210806.01.029\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.resources
+C:\Users\Client\Desktop\LaserCutting_20210806.01.029\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.resources
+C:\Users\Client\Desktop\LaserCutting_20210806.01.029\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.resources
+C:\Users\Client\Desktop\LaserCutting_20210806.01.029\LaserCutting\obj\x86\Debug\LaserCutting.UserControlPoint.resources
+C:\Users\Client\Desktop\LaserCutting_20210806.01.029\LaserCutting\obj\x86\Debug\LaserCutting.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20210806.01.029\LaserCutting\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20210806.01.029\LaserCutting\obj\x86\Debug\LaserCutting.exe
+C:\Users\Client\Desktop\LaserCutting_20210806.01.029\LaserCutting\obj\x86\Debug\LaserCutting.xml
+C:\Users\Client\Desktop\LaserCutting_20210806.01.029\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+C:\Users\Client\Desktop\LaserCutting_20210810.01.030\LaserCutting\obj\x86\Debug\LaserCutting.exe
+C:\Users\Client\Desktop\LaserCutting_20210810.01.030\LaserCutting\obj\x86\Debug\LaserCutting.xml
+C:\Users\Client\Desktop\LaserCutting_20210810.01.030\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+C:\Users\Client\Desktop\LaserCutting_20210810.01.030\LaserCutting\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20210810.01.030\LaserCutting\obj\x86\Debug\LaserCutting.FInputCorrection.resources
+C:\Users\Client\Desktop\LaserCutting_20210810.01.030\LaserCutting\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+C:\Users\Client\Desktop\LaserCutting_20210810.01.030\LaserCutting\obj\x86\Debug\LaserCutting.FMain.resources
+C:\Users\Client\Desktop\LaserCutting_20210810.01.030\LaserCutting\obj\x86\Debug\LaserCutting.FLoading.resources
+C:\Users\Client\Desktop\LaserCutting_20210810.01.030\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.resources
+C:\Users\Client\Desktop\LaserCutting_20210810.01.030\LaserCutting\obj\x86\Debug\LaserCutting.FLog.resources
+C:\Users\Client\Desktop\LaserCutting_20210810.01.030\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.resources
+C:\Users\Client\Desktop\LaserCutting_20210810.01.030\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.resources
+C:\Users\Client\Desktop\LaserCutting_20210810.01.030\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.resources
+C:\Users\Client\Desktop\LaserCutting_20210810.01.030\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.resources
+C:\Users\Client\Desktop\LaserCutting_20210810.01.030\LaserCutting\obj\x86\Debug\LaserCutting.UserControlPoint.resources
+C:\Users\Client\Desktop\LaserCutting_20210810.01.030\LaserCutting\obj\x86\Debug\LaserCutting.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20210810.01.030\LaserCutting\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.031\LaserCutting\obj\x86\Debug\LaserCutting.xml
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.031\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.031\LaserCutting\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.031\LaserCutting\obj\x86\Debug\LaserCutting.FInputCorrection.resources
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.031\LaserCutting\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.031\LaserCutting\obj\x86\Debug\LaserCutting.FMain.resources
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.031\LaserCutting\obj\x86\Debug\LaserCutting.FLoading.resources
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.031\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.resources
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.031\LaserCutting\obj\x86\Debug\LaserCutting.FLog.resources
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.031\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.resources
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.031\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.resources
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.031\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.resources
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.031\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.resources
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.031\LaserCutting\obj\x86\Debug\LaserCutting.UserControlPoint.resources
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.031\LaserCutting\obj\x86\Debug\LaserCutting.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.031\LaserCutting\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.031\LaserCutting\obj\x86\Debug\LaserCutting.exe
+C:\Users\Client\Desktop\LaserCutting_20210811.01.032\LaserCutting\obj\x86\Debug\LaserCutting.exe
+C:\Users\Client\Desktop\LaserCutting_20210811.01.032\LaserCutting\obj\x86\Debug\LaserCutting.xml
+C:\Users\Client\Desktop\LaserCutting_20210811.01.032\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+C:\Users\Client\Desktop\LaserCutting_20210811.01.032\LaserCutting\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20210811.01.032\LaserCutting\obj\x86\Debug\LaserCutting.FInputCorrection.resources
+C:\Users\Client\Desktop\LaserCutting_20210811.01.032\LaserCutting\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+C:\Users\Client\Desktop\LaserCutting_20210811.01.032\LaserCutting\obj\x86\Debug\LaserCutting.FMain.resources
+C:\Users\Client\Desktop\LaserCutting_20210811.01.032\LaserCutting\obj\x86\Debug\LaserCutting.FLoading.resources
+C:\Users\Client\Desktop\LaserCutting_20210811.01.032\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.resources
+C:\Users\Client\Desktop\LaserCutting_20210811.01.032\LaserCutting\obj\x86\Debug\LaserCutting.FLog.resources
+C:\Users\Client\Desktop\LaserCutting_20210811.01.032\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.resources
+C:\Users\Client\Desktop\LaserCutting_20210811.01.032\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.resources
+C:\Users\Client\Desktop\LaserCutting_20210811.01.032\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.resources
+C:\Users\Client\Desktop\LaserCutting_20210811.01.032\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.resources
+C:\Users\Client\Desktop\LaserCutting_20210811.01.032\LaserCutting\obj\x86\Debug\LaserCutting.UserControlPoint.resources
+C:\Users\Client\Desktop\LaserCutting_20210811.01.032\LaserCutting\obj\x86\Debug\LaserCutting.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20210811.01.032\LaserCutting\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.033\LaserCutting\obj\x86\Debug\LaserCutting.exe
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.033\LaserCutting\obj\x86\Debug\LaserCutting.xml
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.033\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.033\LaserCutting\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.033\LaserCutting\obj\x86\Debug\LaserCutting.FInputCorrection.resources
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.033\LaserCutting\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.033\LaserCutting\obj\x86\Debug\LaserCutting.FMain.resources
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.033\LaserCutting\obj\x86\Debug\LaserCutting.FLoading.resources
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.033\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.resources
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.033\LaserCutting\obj\x86\Debug\LaserCutting.FLog.resources
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.033\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.resources
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.033\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.resources
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.033\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.resources
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.033\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.resources
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.033\LaserCutting\obj\x86\Debug\LaserCutting.UserControlPoint.resources
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.033\LaserCutting\obj\x86\Debug\LaserCutting.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.033\LaserCutting\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.033_Add Move\LaserCutting\obj\x86\Debug\LaserCutting.exe
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.033_Add Move\LaserCutting\obj\x86\Debug\LaserCutting.xml
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.033_Add Move\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.033_Add Move\LaserCutting\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.033_Add Move\LaserCutting\obj\x86\Debug\LaserCutting.FInputCorrection.resources
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.033_Add Move\LaserCutting\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.033_Add Move\LaserCutting\obj\x86\Debug\LaserCutting.FMain.resources
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.033_Add Move\LaserCutting\obj\x86\Debug\LaserCutting.FLoading.resources
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.033_Add Move\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.resources
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.033_Add Move\LaserCutting\obj\x86\Debug\LaserCutting.FLog.resources
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.033_Add Move\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.resources
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.033_Add Move\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.resources
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.033_Add Move\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.resources
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.033_Add Move\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.resources
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.033_Add Move\LaserCutting\obj\x86\Debug\LaserCutting.UserControlPoint.resources
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.033_Add Move\LaserCutting\obj\x86\Debug\LaserCutting.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.033_Add Move\LaserCutting\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20210812.01.034\LaserCutting\obj\x86\Debug\LaserCutting.xml
+C:\Users\Client\Desktop\LaserCutting_20210812.01.034\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+C:\Users\Client\Desktop\LaserCutting_20210812.01.034\LaserCutting\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20210812.01.034\LaserCutting\obj\x86\Debug\LaserCutting.FInputCorrection.resources
+C:\Users\Client\Desktop\LaserCutting_20210812.01.034\LaserCutting\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+C:\Users\Client\Desktop\LaserCutting_20210812.01.034\LaserCutting\obj\x86\Debug\LaserCutting.FMain.resources
+C:\Users\Client\Desktop\LaserCutting_20210812.01.034\LaserCutting\obj\x86\Debug\LaserCutting.FLoading.resources
+C:\Users\Client\Desktop\LaserCutting_20210812.01.034\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.resources
+C:\Users\Client\Desktop\LaserCutting_20210812.01.034\LaserCutting\obj\x86\Debug\LaserCutting.FLog.resources
+C:\Users\Client\Desktop\LaserCutting_20210812.01.034\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.resources
+C:\Users\Client\Desktop\LaserCutting_20210812.01.034\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.resources
+C:\Users\Client\Desktop\LaserCutting_20210812.01.034\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.resources
+C:\Users\Client\Desktop\LaserCutting_20210812.01.034\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.resources
+C:\Users\Client\Desktop\LaserCutting_20210812.01.034\LaserCutting\obj\x86\Debug\LaserCutting.UserControlPoint.resources
+C:\Users\Client\Desktop\LaserCutting_20210812.01.034\LaserCutting\obj\x86\Debug\LaserCutting.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20210812.01.034\LaserCutting\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20210812.01.034\LaserCutting\obj\x86\Debug\LaserCutting.exe
+C:\Users\ALin\Desktop\LaserCutting_20210812.01.035\LaserCutting\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\LaserCutting_20210812.01.035\LaserCutting\obj\x86\Debug\LaserCutting.FInputCorrection.resources
+C:\Users\ALin\Desktop\LaserCutting_20210812.01.035\LaserCutting\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+C:\Users\ALin\Desktop\LaserCutting_20210812.01.035\LaserCutting\obj\x86\Debug\LaserCutting.FMain.resources
+C:\Users\ALin\Desktop\LaserCutting_20210812.01.035\LaserCutting\obj\x86\Debug\LaserCutting.FLoading.resources
+C:\Users\ALin\Desktop\LaserCutting_20210812.01.035\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.resources
+C:\Users\ALin\Desktop\LaserCutting_20210812.01.035\LaserCutting\obj\x86\Debug\LaserCutting.FLog.resources
+C:\Users\ALin\Desktop\LaserCutting_20210812.01.035\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.resources
+C:\Users\ALin\Desktop\LaserCutting_20210812.01.035\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.resources
+C:\Users\ALin\Desktop\LaserCutting_20210812.01.035\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.resources
+C:\Users\ALin\Desktop\LaserCutting_20210812.01.035\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.resources
+C:\Users\ALin\Desktop\LaserCutting_20210812.01.035\LaserCutting\obj\x86\Debug\LaserCutting.UserControlPoint.resources
+C:\Users\ALin\Desktop\LaserCutting_20210812.01.035\LaserCutting\obj\x86\Debug\LaserCutting.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting_20210812.01.035\LaserCutting\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting_20210812.01.035\LaserCutting\obj\x86\Debug\LaserCutting.exe
+C:\Users\ALin\Desktop\LaserCutting_20210812.01.035\LaserCutting\obj\x86\Debug\LaserCutting.xml
+C:\Users\ALin\Desktop\LaserCutting_20210812.01.035\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+C:\Users\Client\Desktop\LaserCutting_20210812.01.035\LaserCutting\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20210812.01.035\LaserCutting\obj\x86\Debug\LaserCutting.FInputCorrection.resources
+C:\Users\Client\Desktop\LaserCutting_20210812.01.035\LaserCutting\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+C:\Users\Client\Desktop\LaserCutting_20210812.01.035\LaserCutting\obj\x86\Debug\LaserCutting.FMain.resources
+C:\Users\Client\Desktop\LaserCutting_20210812.01.035\LaserCutting\obj\x86\Debug\LaserCutting.FLoading.resources
+C:\Users\Client\Desktop\LaserCutting_20210812.01.035\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.resources
+C:\Users\Client\Desktop\LaserCutting_20210812.01.035\LaserCutting\obj\x86\Debug\LaserCutting.FLog.resources
+C:\Users\Client\Desktop\LaserCutting_20210812.01.035\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.resources
+C:\Users\Client\Desktop\LaserCutting_20210812.01.035\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.resources
+C:\Users\Client\Desktop\LaserCutting_20210812.01.035\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.resources
+C:\Users\Client\Desktop\LaserCutting_20210812.01.035\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.resources
+C:\Users\Client\Desktop\LaserCutting_20210812.01.035\LaserCutting\obj\x86\Debug\LaserCutting.UserControlPoint.resources
+C:\Users\Client\Desktop\LaserCutting_20210812.01.035\LaserCutting\obj\x86\Debug\LaserCutting.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20210812.01.035\LaserCutting\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20210812.01.035\LaserCutting\obj\x86\Debug\LaserCutting.exe
+C:\Users\Client\Desktop\LaserCutting_20210812.01.035\LaserCutting\obj\x86\Debug\LaserCutting.xml
+C:\Users\Client\Desktop\LaserCutting_20210812.01.035\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+C:\Users\Client\Desktop\LaserCutting_20210813.01.036\LaserCutting\obj\x86\Debug\LaserCutting.exe
+C:\Users\Client\Desktop\LaserCutting_20210813.01.036\LaserCutting\obj\x86\Debug\LaserCutting.xml
+C:\Users\Client\Desktop\LaserCutting_20210813.01.036\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+C:\Users\Client\Desktop\LaserCutting_20210813.01.036\LaserCutting\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20210813.01.036\LaserCutting\obj\x86\Debug\LaserCutting.FInputCorrection.resources
+C:\Users\Client\Desktop\LaserCutting_20210813.01.036\LaserCutting\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+C:\Users\Client\Desktop\LaserCutting_20210813.01.036\LaserCutting\obj\x86\Debug\LaserCutting.FMain.resources
+C:\Users\Client\Desktop\LaserCutting_20210813.01.036\LaserCutting\obj\x86\Debug\LaserCutting.FLoading.resources
+C:\Users\Client\Desktop\LaserCutting_20210813.01.036\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.resources
+C:\Users\Client\Desktop\LaserCutting_20210813.01.036\LaserCutting\obj\x86\Debug\LaserCutting.FLog.resources
+C:\Users\Client\Desktop\LaserCutting_20210813.01.036\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.resources
+C:\Users\Client\Desktop\LaserCutting_20210813.01.036\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.resources
+C:\Users\Client\Desktop\LaserCutting_20210813.01.036\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.resources
+C:\Users\Client\Desktop\LaserCutting_20210813.01.036\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.resources
+C:\Users\Client\Desktop\LaserCutting_20210813.01.036\LaserCutting\obj\x86\Debug\LaserCutting.UserControlPoint.resources
+C:\Users\Client\Desktop\LaserCutting_20210813.01.036\LaserCutting\obj\x86\Debug\LaserCutting.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20210813.01.036\LaserCutting\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20210816.01.037\LaserCutting\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20210816.01.037\LaserCutting\obj\x86\Debug\LaserCutting.FInputCorrection.resources
+C:\Users\Client\Desktop\LaserCutting_20210816.01.037\LaserCutting\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+C:\Users\Client\Desktop\LaserCutting_20210816.01.037\LaserCutting\obj\x86\Debug\LaserCutting.FMain.resources
+C:\Users\Client\Desktop\LaserCutting_20210816.01.037\LaserCutting\obj\x86\Debug\LaserCutting.FLoading.resources
+C:\Users\Client\Desktop\LaserCutting_20210816.01.037\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.resources
+C:\Users\Client\Desktop\LaserCutting_20210816.01.037\LaserCutting\obj\x86\Debug\LaserCutting.FLog.resources
+C:\Users\Client\Desktop\LaserCutting_20210816.01.037\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.resources
+C:\Users\Client\Desktop\LaserCutting_20210816.01.037\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.resources
+C:\Users\Client\Desktop\LaserCutting_20210816.01.037\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.resources
+C:\Users\Client\Desktop\LaserCutting_20210816.01.037\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.resources
+C:\Users\Client\Desktop\LaserCutting_20210816.01.037\LaserCutting\obj\x86\Debug\LaserCutting.UserControlPoint.resources
+C:\Users\Client\Desktop\LaserCutting_20210816.01.037\LaserCutting\obj\x86\Debug\LaserCutting.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20210816.01.037\LaserCutting\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20210816.01.037\LaserCutting\obj\x86\Debug\LaserCutting.exe
+C:\Users\Client\Desktop\LaserCutting_20210816.01.037\LaserCutting\obj\x86\Debug\LaserCutting.xml
+C:\Users\Client\Desktop\LaserCutting_20210816.01.037\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038\LaserCutting\obj\x86\Debug\LaserCutting.xml
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038\LaserCutting\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038\LaserCutting\obj\x86\Debug\LaserCutting.FInputCorrection.resources
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038\LaserCutting\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038\LaserCutting\obj\x86\Debug\LaserCutting.FMain.resources
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038\LaserCutting\obj\x86\Debug\LaserCutting.FLoading.resources
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.resources
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038\LaserCutting\obj\x86\Debug\LaserCutting.FLog.resources
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.resources
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.resources
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.resources
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.resources
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038\LaserCutting\obj\x86\Debug\LaserCutting.UserControlPoint.resources
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038\LaserCutting\obj\x86\Debug\LaserCutting.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038\LaserCutting\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038\LaserCutting\obj\x86\Debug\LaserCutting.exe
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038_ZH_EN\LaserCutting\obj\x86\Debug\LaserCutting.exe
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038_ZH_EN\LaserCutting\obj\x86\Debug\LaserCutting.xml
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038_ZH_EN\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038_ZH_EN\LaserCutting\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038_ZH_EN\LaserCutting\obj\x86\Debug\LaserCutting.FInputCorrection.resources
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038_ZH_EN\LaserCutting\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038_ZH_EN\LaserCutting\obj\x86\Debug\LaserCutting.FMain.resources
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038_ZH_EN\LaserCutting\obj\x86\Debug\LaserCutting.FLoading.resources
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038_ZH_EN\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.resources
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038_ZH_EN\LaserCutting\obj\x86\Debug\LaserCutting.FLog.resources
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038_ZH_EN\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.resources
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038_ZH_EN\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.resources
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038_ZH_EN\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.resources
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038_ZH_EN\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.resources
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038_ZH_EN\LaserCutting\obj\x86\Debug\LaserCutting.UserControlPoint.resources
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038_ZH_EN\LaserCutting\obj\x86\Debug\LaserCutting.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038_ZH_EN\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.zh.resources
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038_ZH_EN\LaserCutting\obj\x86\Debug\LaserCutting.FMain.zh.resources
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038_ZH_EN\LaserCutting\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038_ZH_EN\LaserCutting\obj\x86\Debug\zh\LaserCutting.resources.dll
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038_ZH_EN\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.zh.resources
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038_ZH_EN\LaserCutting\obj\x86\Debug\LaserCutting.FLog.zh.resources
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038_ZH_EN\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.zh.resources
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038_ZH_EN\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.zh.resources
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038_ZH_EN\LaserCutting\obj\x86\Debug\LaserCutting.Resource.en-US.resources
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038_ZH_EN\LaserCutting\obj\x86\Debug\en-US\LaserCutting.resources.dll
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038_ZH_EN\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.zh.resources
+D:\LaserCutting\LaserCutting_20210821.01.040\LaserCutting\obj\x86\Debug\LaserCutting.exe
+D:\LaserCutting\LaserCutting_20210821.01.040\LaserCutting\obj\x86\Debug\LaserCutting.xml
+D:\LaserCutting\LaserCutting_20210821.01.040\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+D:\LaserCutting\LaserCutting_20210821.01.040\LaserCutting\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+D:\LaserCutting\LaserCutting_20210821.01.040\LaserCutting\obj\x86\Debug\LaserCutting.FInputCorrection.resources
+D:\LaserCutting\LaserCutting_20210821.01.040\LaserCutting\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+D:\LaserCutting\LaserCutting_20210821.01.040\LaserCutting\obj\x86\Debug\LaserCutting.FMain.resources
+D:\LaserCutting\LaserCutting_20210821.01.040\LaserCutting\obj\x86\Debug\LaserCutting.FLoading.resources
+D:\LaserCutting\LaserCutting_20210821.01.040\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.resources
+D:\LaserCutting\LaserCutting_20210821.01.040\LaserCutting\obj\x86\Debug\LaserCutting.FLog.resources
+D:\LaserCutting\LaserCutting_20210821.01.040\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.resources
+D:\LaserCutting\LaserCutting_20210821.01.040\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.resources
+D:\LaserCutting\LaserCutting_20210821.01.040\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.resources
+D:\LaserCutting\LaserCutting_20210821.01.040\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.resources
+D:\LaserCutting\LaserCutting_20210821.01.040\LaserCutting\obj\x86\Debug\LaserCutting.UserControlPoint.resources
+D:\LaserCutting\LaserCutting_20210821.01.040\LaserCutting\obj\x86\Debug\LaserCutting.Resources.resources
+D:\LaserCutting\LaserCutting_20210821.01.040\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.zh.resources
+D:\LaserCutting\LaserCutting_20210821.01.040\LaserCutting\obj\x86\Debug\LaserCutting.FLog.zh.resources
+D:\LaserCutting\LaserCutting_20210821.01.040\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.zh.resources
+D:\LaserCutting\LaserCutting_20210821.01.040\LaserCutting\obj\x86\Debug\LaserCutting.FMain.zh.resources
+D:\LaserCutting\LaserCutting_20210821.01.040\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.zh.resources
+D:\LaserCutting\LaserCutting_20210821.01.040\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.zh.resources
+D:\LaserCutting\LaserCutting_20210821.01.040\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.zh.resources
+D:\LaserCutting\LaserCutting_20210821.01.040\LaserCutting\obj\x86\Debug\LaserCutting.Resource.en-US.resources
+D:\LaserCutting\LaserCutting_20210821.01.040\LaserCutting\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+D:\LaserCutting\LaserCutting_20210821.01.040\LaserCutting\obj\x86\Debug\zh\LaserCutting.resources.dll
+D:\LaserCutting\LaserCutting_20210821.01.040\LaserCutting\obj\x86\Debug\en-US\LaserCutting.resources.dll
+D:\LaserCutting\LaserCutting_20210821.01.040\LaserCutting\obj\x86\Debug\LaserCutting.CLine.resources
+D:\LaserCutting\LaserCutting_20210821.01.040\LaserCutting\obj\x86\Debug\LaserCutting.CLine.en-US.resources
+D:\LaserCutting\LaserCutting_20210821.01.040\LaserCutting\obj\x86\Debug\LaserCutting.CProject.resources
+D:\LaserCutting\LaserCutting_20210821.01.040\LaserCutting\obj\x86\Debug\LaserCutting.CProject.en-US.resources
+D:\LaserCutting\LaserCutting_20210821.01.040\LaserCutting\obj\x86\Debug\LaserCutting.CMerge.resources
+D:\LaserCutting\LaserCutting_20210821.01.040\LaserCutting\obj\x86\Debug\LaserCutting.CMerge.en-US.resources
+D:\LaserCutting\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+D:\LaserCutting\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.CLine.resources
+D:\LaserCutting\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.CMerge.resources
+D:\LaserCutting\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.CProject.resources
+D:\LaserCutting\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.FInputCorrection.resources
+D:\LaserCutting\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+D:\LaserCutting\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.FMain.resources
+D:\LaserCutting\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.FLoading.resources
+D:\LaserCutting\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.resources
+D:\LaserCutting\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.FLog.resources
+D:\LaserCutting\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.resources
+D:\LaserCutting\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.resources
+D:\LaserCutting\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.resources
+D:\LaserCutting\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.resources
+D:\LaserCutting\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.UserControlPoint.resources
+D:\LaserCutting\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.Resources.resources
+D:\LaserCutting\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.CLine.en-US.resources
+D:\LaserCutting\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.CMerge.en-US.resources
+D:\LaserCutting\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.CProject.en-US.resources
+D:\LaserCutting\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.zh.resources
+D:\LaserCutting\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.FLog.zh.resources
+D:\LaserCutting\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.zh.resources
+D:\LaserCutting\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.FMain.zh.resources
+D:\LaserCutting\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.zh.resources
+D:\LaserCutting\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.zh.resources
+D:\LaserCutting\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.zh.resources
+D:\LaserCutting\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.Resource.en-US.resources
+D:\LaserCutting\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+D:\LaserCutting\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\en-US\LaserCutting.resources.dll
+D:\LaserCutting\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\zh\LaserCutting.resources.dll
+D:\LaserCutting\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.exe
+D:\LaserCutting\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.xml
+D:\LaserCutting\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+D:\LaserCutting\Auto Run\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.exe
+D:\LaserCutting\Auto Run\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.xml
+D:\LaserCutting\Auto Run\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+D:\LaserCutting\Auto Run\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+D:\LaserCutting\Auto Run\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.CLine.resources
+D:\LaserCutting\Auto Run\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.CMerge.resources
+D:\LaserCutting\Auto Run\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.CProject.resources
+D:\LaserCutting\Auto Run\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.FInputCorrection.resources
+D:\LaserCutting\Auto Run\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+D:\LaserCutting\Auto Run\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.FMain.resources
+D:\LaserCutting\Auto Run\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.FLoading.resources
+D:\LaserCutting\Auto Run\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.resources
+D:\LaserCutting\Auto Run\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.FLog.resources
+D:\LaserCutting\Auto Run\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.resources
+D:\LaserCutting\Auto Run\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.resources
+D:\LaserCutting\Auto Run\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.resources
+D:\LaserCutting\Auto Run\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.resources
+D:\LaserCutting\Auto Run\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.UserControlPoint.resources
+D:\LaserCutting\Auto Run\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.Resources.resources
+D:\LaserCutting\Auto Run\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.CLine.en-US.resources
+D:\LaserCutting\Auto Run\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.CMerge.en-US.resources
+D:\LaserCutting\Auto Run\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.CProject.en-US.resources
+D:\LaserCutting\Auto Run\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.zh.resources
+D:\LaserCutting\Auto Run\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.FLog.zh.resources
+D:\LaserCutting\Auto Run\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.zh.resources
+D:\LaserCutting\Auto Run\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.FMain.zh.resources
+D:\LaserCutting\Auto Run\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.zh.resources
+D:\LaserCutting\Auto Run\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.zh.resources
+D:\LaserCutting\Auto Run\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.zh.resources
+D:\LaserCutting\Auto Run\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.Resource.en-US.resources
+D:\LaserCutting\Auto Run\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+D:\LaserCutting\Auto Run\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\en-US\LaserCutting.resources.dll
+D:\LaserCutting\Auto Run\LaserCutting_20210824.01.041\LaserCutting\obj\x86\Debug\zh\LaserCutting.resources.dll
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211008.01.045\LaserCutting\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211008.01.045\LaserCutting\obj\x86\Debug\LaserCutting.CLine.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211008.01.045\LaserCutting\obj\x86\Debug\LaserCutting.CMerge.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211008.01.045\LaserCutting\obj\x86\Debug\LaserCutting.CProject.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211008.01.045\LaserCutting\obj\x86\Debug\LaserCutting.FInputCorrection.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211008.01.045\LaserCutting\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211008.01.045\LaserCutting\obj\x86\Debug\LaserCutting.FMain.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211008.01.045\LaserCutting\obj\x86\Debug\LaserCutting.FLoading.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211008.01.045\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211008.01.045\LaserCutting\obj\x86\Debug\LaserCutting.FLog.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211008.01.045\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211008.01.045\LaserCutting\obj\x86\Debug\LaserCutting.FMarkAxisParam.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211008.01.045\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211008.01.045\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211008.01.045\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211008.01.045\LaserCutting\obj\x86\Debug\LaserCutting.UserControlPoint.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211008.01.045\LaserCutting\obj\x86\Debug\LaserCutting.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211008.01.045\LaserCutting\obj\x86\Debug\LaserCutting.CLine.en-US.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211008.01.045\LaserCutting\obj\x86\Debug\LaserCutting.CMerge.en-US.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211008.01.045\LaserCutting\obj\x86\Debug\LaserCutting.CProject.en-US.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211008.01.045\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211008.01.045\LaserCutting\obj\x86\Debug\LaserCutting.FLog.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211008.01.045\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211008.01.045\LaserCutting\obj\x86\Debug\LaserCutting.FMain.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211008.01.045\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211008.01.045\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211008.01.045\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211008.01.045\LaserCutting\obj\x86\Debug\LaserCutting.Resource.en-US.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211008.01.045\LaserCutting\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211008.01.045\LaserCutting\obj\x86\Debug\en-US\LaserCutting.resources.dll
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211008.01.045\LaserCutting\obj\x86\Debug\zh\LaserCutting.resources.dll
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211008.01.045\LaserCutting\obj\x86\Debug\LaserCutting.exe
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211008.01.045\LaserCutting\obj\x86\Debug\LaserCutting.xml
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211008.01.045\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211010.01.046\LaserCutting\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211010.01.046\LaserCutting\obj\x86\Debug\LaserCutting.CLine.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211010.01.046\LaserCutting\obj\x86\Debug\LaserCutting.CMerge.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211010.01.046\LaserCutting\obj\x86\Debug\LaserCutting.CProject.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211010.01.046\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211010.01.046\LaserCutting\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211010.01.046\LaserCutting\obj\x86\Debug\LaserCutting.FInputCorrection.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211010.01.046\LaserCutting\obj\x86\Debug\LaserCutting.FLoading.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211010.01.046\LaserCutting\obj\x86\Debug\LaserCutting.FLog.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211010.01.046\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211010.01.046\LaserCutting\obj\x86\Debug\LaserCutting.FMain.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211010.01.046\LaserCutting\obj\x86\Debug\LaserCutting.FMarkAxisParam.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211010.01.046\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211010.01.046\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211010.01.046\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211010.01.046\LaserCutting\obj\x86\Debug\LaserCutting.UserControlPoint.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211010.01.046\LaserCutting\obj\x86\Debug\LaserCutting.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211010.01.046\LaserCutting\obj\x86\Debug\LaserCutting.CLine.en-US.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211010.01.046\LaserCutting\obj\x86\Debug\LaserCutting.CMerge.en-US.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211010.01.046\LaserCutting\obj\x86\Debug\LaserCutting.CProject.en-US.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211010.01.046\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211010.01.046\LaserCutting\obj\x86\Debug\LaserCutting.FLog.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211010.01.046\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211010.01.046\LaserCutting\obj\x86\Debug\LaserCutting.FMain.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211010.01.046\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211010.01.046\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211010.01.046\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211010.01.046\LaserCutting\obj\x86\Debug\LaserCutting.Resource.en-US.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211010.01.046\LaserCutting\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211010.01.046\LaserCutting\obj\x86\Debug\en-US\LaserCutting.resources.dll
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211010.01.046\LaserCutting\obj\x86\Debug\zh\LaserCutting.resources.dll
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211010.01.046\LaserCutting\obj\x86\Debug\LaserCutting.exe
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211010.01.046\LaserCutting\obj\x86\Debug\LaserCutting.xml
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211010.01.046\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+C:\Users\Client\Desktop\LaserCutting_20211023.01.047\LaserCutting\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20211023.01.047\LaserCutting\obj\x86\Debug\LaserCutting.CLine.resources
+C:\Users\Client\Desktop\LaserCutting_20211023.01.047\LaserCutting\obj\x86\Debug\LaserCutting.CMerge.resources
+C:\Users\Client\Desktop\LaserCutting_20211023.01.047\LaserCutting\obj\x86\Debug\LaserCutting.CProject.resources
+C:\Users\Client\Desktop\LaserCutting_20211023.01.047\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.resources
+C:\Users\Client\Desktop\LaserCutting_20211023.01.047\LaserCutting\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+C:\Users\Client\Desktop\LaserCutting_20211023.01.047\LaserCutting\obj\x86\Debug\LaserCutting.FInputCorrection.resources
+C:\Users\Client\Desktop\LaserCutting_20211023.01.047\LaserCutting\obj\x86\Debug\LaserCutting.FLoading.resources
+C:\Users\Client\Desktop\LaserCutting_20211023.01.047\LaserCutting\obj\x86\Debug\LaserCutting.FLog.resources
+C:\Users\Client\Desktop\LaserCutting_20211023.01.047\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.resources
+C:\Users\Client\Desktop\LaserCutting_20211023.01.047\LaserCutting\obj\x86\Debug\LaserCutting.FMain.resources
+C:\Users\Client\Desktop\LaserCutting_20211023.01.047\LaserCutting\obj\x86\Debug\LaserCutting.FMarkAxisParam.resources
+C:\Users\Client\Desktop\LaserCutting_20211023.01.047\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.resources
+C:\Users\Client\Desktop\LaserCutting_20211023.01.047\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.resources
+C:\Users\Client\Desktop\LaserCutting_20211023.01.047\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.resources
+C:\Users\Client\Desktop\LaserCutting_20211023.01.047\LaserCutting\obj\x86\Debug\LaserCutting.UserControlPoint.resources
+C:\Users\Client\Desktop\LaserCutting_20211023.01.047\LaserCutting\obj\x86\Debug\LaserCutting.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20211023.01.047\LaserCutting\obj\x86\Debug\LaserCutting.CLine.en-US.resources
+C:\Users\Client\Desktop\LaserCutting_20211023.01.047\LaserCutting\obj\x86\Debug\LaserCutting.CMerge.en-US.resources
+C:\Users\Client\Desktop\LaserCutting_20211023.01.047\LaserCutting\obj\x86\Debug\LaserCutting.CProject.en-US.resources
+C:\Users\Client\Desktop\LaserCutting_20211023.01.047\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.zh.resources
+C:\Users\Client\Desktop\LaserCutting_20211023.01.047\LaserCutting\obj\x86\Debug\LaserCutting.FLog.zh.resources
+C:\Users\Client\Desktop\LaserCutting_20211023.01.047\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.zh.resources
+C:\Users\Client\Desktop\LaserCutting_20211023.01.047\LaserCutting\obj\x86\Debug\LaserCutting.FMain.zh.resources
+C:\Users\Client\Desktop\LaserCutting_20211023.01.047\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.zh.resources
+C:\Users\Client\Desktop\LaserCutting_20211023.01.047\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.zh.resources
+C:\Users\Client\Desktop\LaserCutting_20211023.01.047\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.zh.resources
+C:\Users\Client\Desktop\LaserCutting_20211023.01.047\LaserCutting\obj\x86\Debug\LaserCutting.Resource.en-US.resources
+C:\Users\Client\Desktop\LaserCutting_20211023.01.047\LaserCutting\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20211023.01.047\LaserCutting\obj\x86\Debug\en-US\LaserCutting.resources.dll
+C:\Users\Client\Desktop\LaserCutting_20211023.01.047\LaserCutting\obj\x86\Debug\zh\LaserCutting.resources.dll
+C:\Users\Client\Desktop\LaserCutting_20211023.01.047\LaserCutting\obj\x86\Debug\LaserCutting.exe
+C:\Users\Client\Desktop\LaserCutting_20211023.01.047\LaserCutting\obj\x86\Debug\LaserCutting.xml
+C:\Users\Client\Desktop\LaserCutting_20211023.01.047\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211023.01.048\LaserCutting\obj\x86\Debug\LaserCutting.exe
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211023.01.048\LaserCutting\obj\x86\Debug\LaserCutting.xml
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211023.01.048\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211023.01.048\LaserCutting\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211023.01.048\LaserCutting\obj\x86\Debug\LaserCutting.CLine.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211023.01.048\LaserCutting\obj\x86\Debug\LaserCutting.CMerge.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211023.01.048\LaserCutting\obj\x86\Debug\LaserCutting.CProject.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211023.01.048\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211023.01.048\LaserCutting\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211023.01.048\LaserCutting\obj\x86\Debug\LaserCutting.FInputCorrection.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211023.01.048\LaserCutting\obj\x86\Debug\LaserCutting.FLoading.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211023.01.048\LaserCutting\obj\x86\Debug\LaserCutting.FLog.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211023.01.048\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211023.01.048\LaserCutting\obj\x86\Debug\LaserCutting.FMain.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211023.01.048\LaserCutting\obj\x86\Debug\LaserCutting.FMarkAxisParam.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211023.01.048\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211023.01.048\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211023.01.048\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211023.01.048\LaserCutting\obj\x86\Debug\LaserCutting.UserControlPoint.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211023.01.048\LaserCutting\obj\x86\Debug\LaserCutting.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211023.01.048\LaserCutting\obj\x86\Debug\LaserCutting.CLine.en-US.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211023.01.048\LaserCutting\obj\x86\Debug\LaserCutting.CMerge.en-US.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211023.01.048\LaserCutting\obj\x86\Debug\LaserCutting.CProject.en-US.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211023.01.048\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211023.01.048\LaserCutting\obj\x86\Debug\LaserCutting.FLog.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211023.01.048\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211023.01.048\LaserCutting\obj\x86\Debug\LaserCutting.FMain.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211023.01.048\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211023.01.048\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211023.01.048\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211023.01.048\LaserCutting\obj\x86\Debug\LaserCutting.Resource.en-US.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211023.01.048\LaserCutting\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211023.01.048\LaserCutting\obj\x86\Debug\en-US\LaserCutting.resources.dll
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211023.01.048\LaserCutting\obj\x86\Debug\zh\LaserCutting.resources.dll
+C:\Users\Client\Desktop\LaserCutting_20211025.01.049\LaserCutting\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20211025.01.049\LaserCutting\obj\x86\Debug\LaserCutting.CLine.resources
+C:\Users\Client\Desktop\LaserCutting_20211025.01.049\LaserCutting\obj\x86\Debug\LaserCutting.CMerge.resources
+C:\Users\Client\Desktop\LaserCutting_20211025.01.049\LaserCutting\obj\x86\Debug\LaserCutting.CProject.resources
+C:\Users\Client\Desktop\LaserCutting_20211025.01.049\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.resources
+C:\Users\Client\Desktop\LaserCutting_20211025.01.049\LaserCutting\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+C:\Users\Client\Desktop\LaserCutting_20211025.01.049\LaserCutting\obj\x86\Debug\LaserCutting.FInputCorrection.resources
+C:\Users\Client\Desktop\LaserCutting_20211025.01.049\LaserCutting\obj\x86\Debug\LaserCutting.FLoading.resources
+C:\Users\Client\Desktop\LaserCutting_20211025.01.049\LaserCutting\obj\x86\Debug\LaserCutting.FLog.resources
+C:\Users\Client\Desktop\LaserCutting_20211025.01.049\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.resources
+C:\Users\Client\Desktop\LaserCutting_20211025.01.049\LaserCutting\obj\x86\Debug\LaserCutting.FMain.resources
+C:\Users\Client\Desktop\LaserCutting_20211025.01.049\LaserCutting\obj\x86\Debug\LaserCutting.FMarkAxisParam.resources
+C:\Users\Client\Desktop\LaserCutting_20211025.01.049\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.resources
+C:\Users\Client\Desktop\LaserCutting_20211025.01.049\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.resources
+C:\Users\Client\Desktop\LaserCutting_20211025.01.049\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.resources
+C:\Users\Client\Desktop\LaserCutting_20211025.01.049\LaserCutting\obj\x86\Debug\LaserCutting.UserControlPoint.resources
+C:\Users\Client\Desktop\LaserCutting_20211025.01.049\LaserCutting\obj\x86\Debug\LaserCutting.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20211025.01.049\LaserCutting\obj\x86\Debug\LaserCutting.CLine.en-US.resources
+C:\Users\Client\Desktop\LaserCutting_20211025.01.049\LaserCutting\obj\x86\Debug\LaserCutting.CMerge.en-US.resources
+C:\Users\Client\Desktop\LaserCutting_20211025.01.049\LaserCutting\obj\x86\Debug\LaserCutting.CProject.en-US.resources
+C:\Users\Client\Desktop\LaserCutting_20211025.01.049\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.zh.resources
+C:\Users\Client\Desktop\LaserCutting_20211025.01.049\LaserCutting\obj\x86\Debug\LaserCutting.FLog.zh.resources
+C:\Users\Client\Desktop\LaserCutting_20211025.01.049\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.zh.resources
+C:\Users\Client\Desktop\LaserCutting_20211025.01.049\LaserCutting\obj\x86\Debug\LaserCutting.FMain.zh.resources
+C:\Users\Client\Desktop\LaserCutting_20211025.01.049\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.zh.resources
+C:\Users\Client\Desktop\LaserCutting_20211025.01.049\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.zh.resources
+C:\Users\Client\Desktop\LaserCutting_20211025.01.049\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.zh.resources
+C:\Users\Client\Desktop\LaserCutting_20211025.01.049\LaserCutting\obj\x86\Debug\LaserCutting.Resource.en-US.resources
+C:\Users\Client\Desktop\LaserCutting_20211025.01.049\LaserCutting\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20211025.01.049\LaserCutting\obj\x86\Debug\en-US\LaserCutting.resources.dll
+C:\Users\Client\Desktop\LaserCutting_20211025.01.049\LaserCutting\obj\x86\Debug\zh\LaserCutting.resources.dll
+C:\Users\Client\Desktop\LaserCutting_20211025.01.049\LaserCutting\obj\x86\Debug\LaserCutting.exe
+C:\Users\Client\Desktop\LaserCutting_20211025.01.049\LaserCutting\obj\x86\Debug\LaserCutting.xml
+C:\Users\Client\Desktop\LaserCutting_20211025.01.049\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+C:\Users\Client\Desktop\LaserCutting_20211027.01.050\LaserCutting\obj\x86\Debug\LaserCutting.exe
+C:\Users\Client\Desktop\LaserCutting_20211027.01.050\LaserCutting\obj\x86\Debug\LaserCutting.xml
+C:\Users\Client\Desktop\LaserCutting_20211027.01.050\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211027.01.050\LaserCutting\obj\x86\Debug\LaserCutting.exe
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211027.01.050\LaserCutting\obj\x86\Debug\LaserCutting.xml
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211027.01.050\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211027.01.050\LaserCutting\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211027.01.050\LaserCutting\obj\x86\Debug\LaserCutting.CLine.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211027.01.050\LaserCutting\obj\x86\Debug\LaserCutting.CMerge.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211027.01.050\LaserCutting\obj\x86\Debug\LaserCutting.CProject.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211027.01.050\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211027.01.050\LaserCutting\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211027.01.050\LaserCutting\obj\x86\Debug\LaserCutting.FInputCorrection.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211027.01.050\LaserCutting\obj\x86\Debug\LaserCutting.FLoading.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211027.01.050\LaserCutting\obj\x86\Debug\LaserCutting.FLog.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211027.01.050\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211027.01.050\LaserCutting\obj\x86\Debug\LaserCutting.FMain.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211027.01.050\LaserCutting\obj\x86\Debug\LaserCutting.FMarkAxisParam.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211027.01.050\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211027.01.050\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211027.01.050\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211027.01.050\LaserCutting\obj\x86\Debug\LaserCutting.UserControlPoint.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211027.01.050\LaserCutting\obj\x86\Debug\LaserCutting.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211027.01.050\LaserCutting\obj\x86\Debug\LaserCutting.CLine.en-US.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211027.01.050\LaserCutting\obj\x86\Debug\LaserCutting.CMerge.en-US.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211027.01.050\LaserCutting\obj\x86\Debug\LaserCutting.CProject.en-US.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211027.01.050\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211027.01.050\LaserCutting\obj\x86\Debug\LaserCutting.FLog.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211027.01.050\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211027.01.050\LaserCutting\obj\x86\Debug\LaserCutting.FMain.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211027.01.050\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211027.01.050\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211027.01.050\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211027.01.050\LaserCutting\obj\x86\Debug\LaserCutting.Resource.en-US.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211027.01.050\LaserCutting\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211027.01.050\LaserCutting\obj\x86\Debug\en-US\LaserCutting.resources.dll
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211027.01.050\LaserCutting\obj\x86\Debug\zh\LaserCutting.resources.dll
+C:\Users\Client\Desktop\LaserCutting_20211028.01.051\LaserCutting\obj\x86\Debug\LaserCutting.exe
+C:\Users\Client\Desktop\LaserCutting_20211028.01.051\LaserCutting\obj\x86\Debug\LaserCutting.xml
+C:\Users\Client\Desktop\LaserCutting_20211028.01.051\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+C:\Users\Client\Desktop\LaserCutting_20211028.01.051\LaserCutting\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20211028.01.051\LaserCutting\obj\x86\Debug\LaserCutting.CLine.resources
+C:\Users\Client\Desktop\LaserCutting_20211028.01.051\LaserCutting\obj\x86\Debug\LaserCutting.CMerge.resources
+C:\Users\Client\Desktop\LaserCutting_20211028.01.051\LaserCutting\obj\x86\Debug\LaserCutting.CProject.resources
+C:\Users\Client\Desktop\LaserCutting_20211028.01.051\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.resources
+C:\Users\Client\Desktop\LaserCutting_20211028.01.051\LaserCutting\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+C:\Users\Client\Desktop\LaserCutting_20211028.01.051\LaserCutting\obj\x86\Debug\LaserCutting.FInputCorrection.resources
+C:\Users\Client\Desktop\LaserCutting_20211028.01.051\LaserCutting\obj\x86\Debug\LaserCutting.FLoading.resources
+C:\Users\Client\Desktop\LaserCutting_20211028.01.051\LaserCutting\obj\x86\Debug\LaserCutting.FLog.resources
+C:\Users\Client\Desktop\LaserCutting_20211028.01.051\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.resources
+C:\Users\Client\Desktop\LaserCutting_20211028.01.051\LaserCutting\obj\x86\Debug\LaserCutting.FMain.resources
+C:\Users\Client\Desktop\LaserCutting_20211028.01.051\LaserCutting\obj\x86\Debug\LaserCutting.FMarkAxisParam.resources
+C:\Users\Client\Desktop\LaserCutting_20211028.01.051\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.resources
+C:\Users\Client\Desktop\LaserCutting_20211028.01.051\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.resources
+C:\Users\Client\Desktop\LaserCutting_20211028.01.051\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.resources
+C:\Users\Client\Desktop\LaserCutting_20211028.01.051\LaserCutting\obj\x86\Debug\LaserCutting.UserControlPoint.resources
+C:\Users\Client\Desktop\LaserCutting_20211028.01.051\LaserCutting\obj\x86\Debug\LaserCutting.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20211028.01.051\LaserCutting\obj\x86\Debug\LaserCutting.CLine.en-US.resources
+C:\Users\Client\Desktop\LaserCutting_20211028.01.051\LaserCutting\obj\x86\Debug\LaserCutting.CMerge.en-US.resources
+C:\Users\Client\Desktop\LaserCutting_20211028.01.051\LaserCutting\obj\x86\Debug\LaserCutting.CProject.en-US.resources
+C:\Users\Client\Desktop\LaserCutting_20211028.01.051\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.zh.resources
+C:\Users\Client\Desktop\LaserCutting_20211028.01.051\LaserCutting\obj\x86\Debug\LaserCutting.FLog.zh.resources
+C:\Users\Client\Desktop\LaserCutting_20211028.01.051\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.zh.resources
+C:\Users\Client\Desktop\LaserCutting_20211028.01.051\LaserCutting\obj\x86\Debug\LaserCutting.FMain.zh.resources
+C:\Users\Client\Desktop\LaserCutting_20211028.01.051\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.zh.resources
+C:\Users\Client\Desktop\LaserCutting_20211028.01.051\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.zh.resources
+C:\Users\Client\Desktop\LaserCutting_20211028.01.051\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.zh.resources
+C:\Users\Client\Desktop\LaserCutting_20211028.01.051\LaserCutting\obj\x86\Debug\LaserCutting.Resource.en-US.resources
+C:\Users\Client\Desktop\LaserCutting_20211028.01.051\LaserCutting\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20211028.01.051\LaserCutting\obj\x86\Debug\en-US\LaserCutting.resources.dll
+C:\Users\Client\Desktop\LaserCutting_20211028.01.051\LaserCutting\obj\x86\Debug\zh\LaserCutting.resources.dll
+C:\Users\Client\Desktop\LaserCutting_20211101.01.052\LaserCutting\obj\x86\Debug\LaserCutting.exe
+C:\Users\Client\Desktop\LaserCutting_20211101.01.052\LaserCutting\obj\x86\Debug\LaserCutting.xml
+C:\Users\Client\Desktop\LaserCutting_20211101.01.052\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+C:\Users\Client\Desktop\LaserCutting_20211101.01.052\LaserCutting\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20211101.01.052\LaserCutting\obj\x86\Debug\LaserCutting.CLine.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.052\LaserCutting\obj\x86\Debug\LaserCutting.CMerge.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.052\LaserCutting\obj\x86\Debug\LaserCutting.CProject.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.052\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.052\LaserCutting\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.052\LaserCutting\obj\x86\Debug\LaserCutting.FInputCorrection.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.052\LaserCutting\obj\x86\Debug\LaserCutting.FLoading.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.052\LaserCutting\obj\x86\Debug\LaserCutting.FLog.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.052\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.052\LaserCutting\obj\x86\Debug\LaserCutting.FMain.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.052\LaserCutting\obj\x86\Debug\LaserCutting.FMarkAxisParam.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.052\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.052\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.052\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.052\LaserCutting\obj\x86\Debug\LaserCutting.UserControlPoint.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.052\LaserCutting\obj\x86\Debug\LaserCutting.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.052\LaserCutting\obj\x86\Debug\LaserCutting.CLine.en-US.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.052\LaserCutting\obj\x86\Debug\LaserCutting.CMerge.en-US.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.052\LaserCutting\obj\x86\Debug\LaserCutting.CProject.en-US.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.052\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.zh.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.052\LaserCutting\obj\x86\Debug\LaserCutting.FLog.zh.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.052\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.zh.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.052\LaserCutting\obj\x86\Debug\LaserCutting.FMain.zh.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.052\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.zh.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.052\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.zh.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.052\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.zh.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.052\LaserCutting\obj\x86\Debug\LaserCutting.Resource.en-US.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.052\LaserCutting\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20211101.01.052\LaserCutting\obj\x86\Debug\en-US\LaserCutting.resources.dll
+C:\Users\Client\Desktop\LaserCutting_20211101.01.052\LaserCutting\obj\x86\Debug\zh\LaserCutting.resources.dll
+C:\Users\Client\Desktop\LaserCutting_20211101.01.053\LaserCutting\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20211101.01.053\LaserCutting\obj\x86\Debug\LaserCutting.CLine.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.053\LaserCutting\obj\x86\Debug\LaserCutting.CMerge.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.053\LaserCutting\obj\x86\Debug\LaserCutting.CProject.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.053\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.053\LaserCutting\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.053\LaserCutting\obj\x86\Debug\LaserCutting.FInputCorrection.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.053\LaserCutting\obj\x86\Debug\LaserCutting.FLoading.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.053\LaserCutting\obj\x86\Debug\LaserCutting.FLog.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.053\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.053\LaserCutting\obj\x86\Debug\LaserCutting.FMain.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.053\LaserCutting\obj\x86\Debug\LaserCutting.FMarkAxisParam.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.053\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.053\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.053\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.053\LaserCutting\obj\x86\Debug\LaserCutting.UserControlPoint.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.053\LaserCutting\obj\x86\Debug\LaserCutting.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.053\LaserCutting\obj\x86\Debug\LaserCutting.CLine.en-US.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.053\LaserCutting\obj\x86\Debug\LaserCutting.CMerge.en-US.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.053\LaserCutting\obj\x86\Debug\LaserCutting.CProject.en-US.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.053\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.zh.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.053\LaserCutting\obj\x86\Debug\LaserCutting.FLog.zh.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.053\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.zh.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.053\LaserCutting\obj\x86\Debug\LaserCutting.FMain.zh.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.053\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.zh.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.053\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.zh.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.053\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.zh.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.053\LaserCutting\obj\x86\Debug\LaserCutting.Resource.en-US.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.053\LaserCutting\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20211101.01.053\LaserCutting\obj\x86\Debug\en-US\LaserCutting.resources.dll
+C:\Users\Client\Desktop\LaserCutting_20211101.01.053\LaserCutting\obj\x86\Debug\zh\LaserCutting.resources.dll
+C:\Users\Client\Desktop\LaserCutting_20211101.01.053\LaserCutting\obj\x86\Debug\LaserCutting.exe
+C:\Users\Client\Desktop\LaserCutting_20211101.01.053\LaserCutting\obj\x86\Debug\LaserCutting.xml
+C:\Users\Client\Desktop\LaserCutting_20211101.01.053\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211103.01.054\LaserCutting\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211103.01.054\LaserCutting\obj\x86\Debug\LaserCutting.CLine.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211103.01.054\LaserCutting\obj\x86\Debug\LaserCutting.CMerge.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211103.01.054\LaserCutting\obj\x86\Debug\LaserCutting.CProject.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211103.01.054\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211103.01.054\LaserCutting\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211103.01.054\LaserCutting\obj\x86\Debug\LaserCutting.FInputCorrection.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211103.01.054\LaserCutting\obj\x86\Debug\LaserCutting.FLoading.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211103.01.054\LaserCutting\obj\x86\Debug\LaserCutting.FLog.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211103.01.054\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211103.01.054\LaserCutting\obj\x86\Debug\LaserCutting.FMain.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211103.01.054\LaserCutting\obj\x86\Debug\LaserCutting.FMarkAxisParam.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211103.01.054\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211103.01.054\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211103.01.054\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211103.01.054\LaserCutting\obj\x86\Debug\LaserCutting.UserControlPoint.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211103.01.054\LaserCutting\obj\x86\Debug\LaserCutting.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211103.01.054\LaserCutting\obj\x86\Debug\LaserCutting.CLine.en-US.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211103.01.054\LaserCutting\obj\x86\Debug\LaserCutting.CMerge.en-US.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211103.01.054\LaserCutting\obj\x86\Debug\LaserCutting.CProject.en-US.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211103.01.054\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211103.01.054\LaserCutting\obj\x86\Debug\LaserCutting.FLog.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211103.01.054\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211103.01.054\LaserCutting\obj\x86\Debug\LaserCutting.FMain.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211103.01.054\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211103.01.054\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211103.01.054\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211103.01.054\LaserCutting\obj\x86\Debug\LaserCutting.Resource.en-US.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211103.01.054\LaserCutting\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211103.01.054\LaserCutting\obj\x86\Debug\en-US\LaserCutting.resources.dll
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211103.01.054\LaserCutting\obj\x86\Debug\zh\LaserCutting.resources.dll
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211103.01.054\LaserCutting\obj\x86\Debug\LaserCutting.exe
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211103.01.054\LaserCutting\obj\x86\Debug\LaserCutting.xml
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211103.01.054\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+C:\Users\Client\Desktop\LaserCutting_20211108.01.055\LaserCutting\obj\x86\Debug\LaserCutting.exe
+C:\Users\Client\Desktop\LaserCutting_20211108.01.055\LaserCutting\obj\x86\Debug\LaserCutting.xml
+C:\Users\Client\Desktop\LaserCutting_20211108.01.055\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+C:\Users\Client\Desktop\LaserCutting_20211108.01.055\LaserCutting\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20211108.01.055\LaserCutting\obj\x86\Debug\LaserCutting.CLine.resources
+C:\Users\Client\Desktop\LaserCutting_20211108.01.055\LaserCutting\obj\x86\Debug\LaserCutting.CMerge.resources
+C:\Users\Client\Desktop\LaserCutting_20211108.01.055\LaserCutting\obj\x86\Debug\LaserCutting.CProject.resources
+C:\Users\Client\Desktop\LaserCutting_20211108.01.055\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.resources
+C:\Users\Client\Desktop\LaserCutting_20211108.01.055\LaserCutting\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+C:\Users\Client\Desktop\LaserCutting_20211108.01.055\LaserCutting\obj\x86\Debug\LaserCutting.FInputCorrection.resources
+C:\Users\Client\Desktop\LaserCutting_20211108.01.055\LaserCutting\obj\x86\Debug\LaserCutting.FLoading.resources
+C:\Users\Client\Desktop\LaserCutting_20211108.01.055\LaserCutting\obj\x86\Debug\LaserCutting.FLog.resources
+C:\Users\Client\Desktop\LaserCutting_20211108.01.055\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.resources
+C:\Users\Client\Desktop\LaserCutting_20211108.01.055\LaserCutting\obj\x86\Debug\LaserCutting.FMain.resources
+C:\Users\Client\Desktop\LaserCutting_20211108.01.055\LaserCutting\obj\x86\Debug\LaserCutting.FMarkAxisParam.resources
+C:\Users\Client\Desktop\LaserCutting_20211108.01.055\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.resources
+C:\Users\Client\Desktop\LaserCutting_20211108.01.055\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.resources
+C:\Users\Client\Desktop\LaserCutting_20211108.01.055\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.resources
+C:\Users\Client\Desktop\LaserCutting_20211108.01.055\LaserCutting\obj\x86\Debug\LaserCutting.UserControlPoint.resources
+C:\Users\Client\Desktop\LaserCutting_20211108.01.055\LaserCutting\obj\x86\Debug\LaserCutting.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20211108.01.055\LaserCutting\obj\x86\Debug\LaserCutting.CLine.en-US.resources
+C:\Users\Client\Desktop\LaserCutting_20211108.01.055\LaserCutting\obj\x86\Debug\LaserCutting.CMerge.en-US.resources
+C:\Users\Client\Desktop\LaserCutting_20211108.01.055\LaserCutting\obj\x86\Debug\LaserCutting.CProject.en-US.resources
+C:\Users\Client\Desktop\LaserCutting_20211108.01.055\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.zh.resources
+C:\Users\Client\Desktop\LaserCutting_20211108.01.055\LaserCutting\obj\x86\Debug\LaserCutting.FLog.zh.resources
+C:\Users\Client\Desktop\LaserCutting_20211108.01.055\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.zh.resources
+C:\Users\Client\Desktop\LaserCutting_20211108.01.055\LaserCutting\obj\x86\Debug\LaserCutting.FMain.zh.resources
+C:\Users\Client\Desktop\LaserCutting_20211108.01.055\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.zh.resources
+C:\Users\Client\Desktop\LaserCutting_20211108.01.055\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.zh.resources
+C:\Users\Client\Desktop\LaserCutting_20211108.01.055\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.zh.resources
+C:\Users\Client\Desktop\LaserCutting_20211108.01.055\LaserCutting\obj\x86\Debug\LaserCutting.Resource.en-US.resources
+C:\Users\Client\Desktop\LaserCutting_20211108.01.055\LaserCutting\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20211108.01.055\LaserCutting\obj\x86\Debug\en-US\LaserCutting.resources.dll
+C:\Users\Client\Desktop\LaserCutting_20211108.01.055\LaserCutting\obj\x86\Debug\zh\LaserCutting.resources.dll
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.056\LaserCutting\obj\x86\Debug\LaserCutting.exe
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.056\LaserCutting\obj\x86\Debug\LaserCutting.xml
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.056\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.056\LaserCutting\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.056\LaserCutting\obj\x86\Debug\LaserCutting.CLine.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.056\LaserCutting\obj\x86\Debug\LaserCutting.CMerge.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.056\LaserCutting\obj\x86\Debug\LaserCutting.CProject.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.056\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.056\LaserCutting\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.056\LaserCutting\obj\x86\Debug\LaserCutting.FInputCorrection.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.056\LaserCutting\obj\x86\Debug\LaserCutting.FLoading.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.056\LaserCutting\obj\x86\Debug\LaserCutting.FLog.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.056\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.056\LaserCutting\obj\x86\Debug\LaserCutting.FMain.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.056\LaserCutting\obj\x86\Debug\LaserCutting.FMarkAxisParam.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.056\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.056\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.056\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.056\LaserCutting\obj\x86\Debug\LaserCutting.UserControlPoint.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.056\LaserCutting\obj\x86\Debug\LaserCutting.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.056\LaserCutting\obj\x86\Debug\LaserCutting.CLine.en-US.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.056\LaserCutting\obj\x86\Debug\LaserCutting.CMerge.en-US.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.056\LaserCutting\obj\x86\Debug\LaserCutting.CProject.en-US.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.056\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.056\LaserCutting\obj\x86\Debug\LaserCutting.FLog.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.056\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.056\LaserCutting\obj\x86\Debug\LaserCutting.FMain.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.056\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.056\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.056\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.056\LaserCutting\obj\x86\Debug\LaserCutting.Resource.en-US.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.056\LaserCutting\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.056\LaserCutting\obj\x86\Debug\en-US\LaserCutting.resources.dll
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.056\LaserCutting\obj\x86\Debug\zh\LaserCutting.resources.dll
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.057\LaserCutting\obj\x86\Debug\LaserCutting.exe
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.057\LaserCutting\obj\x86\Debug\LaserCutting.xml
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.057\LaserCutting\obj\x86\Debug\LaserCutting.pdb
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.057\LaserCutting\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.057\LaserCutting\obj\x86\Debug\LaserCutting.CLine.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.057\LaserCutting\obj\x86\Debug\LaserCutting.CMerge.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.057\LaserCutting\obj\x86\Debug\LaserCutting.CProject.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.057\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.057\LaserCutting\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.057\LaserCutting\obj\x86\Debug\LaserCutting.FInputCorrection.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.057\LaserCutting\obj\x86\Debug\LaserCutting.FLoading.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.057\LaserCutting\obj\x86\Debug\LaserCutting.FLog.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.057\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.057\LaserCutting\obj\x86\Debug\LaserCutting.FMain.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.057\LaserCutting\obj\x86\Debug\LaserCutting.FMarkAxisParam.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.057\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.057\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.057\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.057\LaserCutting\obj\x86\Debug\LaserCutting.UserControlPoint.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.057\LaserCutting\obj\x86\Debug\LaserCutting.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.057\LaserCutting\obj\x86\Debug\LaserCutting.CLine.en-US.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.057\LaserCutting\obj\x86\Debug\LaserCutting.CMerge.en-US.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.057\LaserCutting\obj\x86\Debug\LaserCutting.CProject.en-US.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.057\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.057\LaserCutting\obj\x86\Debug\LaserCutting.FLog.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.057\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.057\LaserCutting\obj\x86\Debug\LaserCutting.FMain.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.057\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.057\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.057\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.057\LaserCutting\obj\x86\Debug\LaserCutting.Resource.en-US.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.057\LaserCutting\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.057\LaserCutting\obj\x86\Debug\en-US\LaserCutting.resources.dll
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211108.01.057\LaserCutting\obj\x86\Debug\zh\LaserCutting.resources.dll
+C:\Windows\SysWOW64\Classes\ExtensionControl.vb
+C:\Windows\SysWOW64\LaserCutting.exe.config
+C:\Windows\SysWOW64\LaserCutting.exe
+C:\Windows\SysWOW64\LaserCutting.pdb
+C:\Windows\SysWOW64\LaserCutting.xml
+C:\Windows\SysWOW64\en-US\LaserCutting.resources.dll
+C:\Windows\SysWOW64\zh\LaserCutting.resources.dll
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211110.01.058\LaserCutting\obj\x86\Debug\LaserCutting.vbprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211110.01.058\LaserCutting\obj\x86\Debug\LaserCutting.CLine.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211110.01.058\LaserCutting\obj\x86\Debug\LaserCutting.CMerge.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211110.01.058\LaserCutting\obj\x86\Debug\LaserCutting.CProject.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211110.01.058\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211110.01.058\LaserCutting\obj\x86\Debug\LaserCutting.FHelpCorrection.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211110.01.058\LaserCutting\obj\x86\Debug\LaserCutting.FInputCorrection.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211110.01.058\LaserCutting\obj\x86\Debug\LaserCutting.FLoading.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211110.01.058\LaserCutting\obj\x86\Debug\LaserCutting.FLog.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211110.01.058\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211110.01.058\LaserCutting\obj\x86\Debug\LaserCutting.FMain.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211110.01.058\LaserCutting\obj\x86\Debug\LaserCutting.FMarkAxisParam.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211110.01.058\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211110.01.058\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211110.01.058\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211110.01.058\LaserCutting\obj\x86\Debug\LaserCutting.UserControlPoint.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211110.01.058\LaserCutting\obj\x86\Debug\LaserCutting.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211110.01.058\LaserCutting\obj\x86\Debug\LaserCutting.CLine.en-US.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211110.01.058\LaserCutting\obj\x86\Debug\LaserCutting.CMerge.en-US.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211110.01.058\LaserCutting\obj\x86\Debug\LaserCutting.CProject.en-US.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211110.01.058\LaserCutting\obj\x86\Debug\LaserCutting.FChangePassword.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211110.01.058\LaserCutting\obj\x86\Debug\LaserCutting.FLog.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211110.01.058\LaserCutting\obj\x86\Debug\LaserCutting.FLogin.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211110.01.058\LaserCutting\obj\x86\Debug\LaserCutting.FMain.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211110.01.058\LaserCutting\obj\x86\Debug\LaserCutting.FMessageBox.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211110.01.058\LaserCutting\obj\x86\Debug\LaserCutting.FNewProject.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211110.01.058\LaserCutting\obj\x86\Debug\LaserCutting.FOpenProject.zh.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211110.01.058\LaserCutting\obj\x86\Debug\LaserCutting.Resource.en-US.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211110.01.058\LaserCutting\obj\x86\Debug\LaserCutting.vbproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211110.01.058\LaserCutting\obj\x86\Debug\en-US\LaserCutting.resources.dll
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211110.01.058\LaserCutting\obj\x86\Debug\zh\LaserCutting.resources.dll
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211110.01.058\LaserCutting\obj\x86\Debug\LaserCutting.exe
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211110.01.058\LaserCutting\obj\x86\Debug\LaserCutting.xml
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211110.01.058\LaserCutting\obj\x86\Debug\LaserCutting.pdb

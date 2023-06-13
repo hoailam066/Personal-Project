@@ -1,0 +1,64 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Style.master.cs" Inherits="Masterpage_Style" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="../CSS/BanVe.css" rel="stylesheet" />
+    <link href="../CSS/Responsive.css" rel="stylesheet" />
+        <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+     <div class="divLon greyback">
+        <form id="form1" runat="server">
+       <div class="divLogo">
+            <div class="logo">
+                <img class="img" src="../image/user_info.png" />
+            </div>
+        </div>
+            <nav>
+          
+                <asp:Repeater ID="rptmenu" runat="server">
+                    <HeaderTemplate>
+                        <div class="divMenuNgang">
+                            <div class="divDong">
+                                <div class="divLabel">
+                            <div class="ul" style="margin:1%">
+                                
+                    </HeaderTemplate>
+                        <ItemTemplate>
+                            <div class="li">
+                                  <a  href='<%# Eval("TenTrang") %>' class=' a <%# ((Request["tab"]!=null)&&(Request["tab"].Equals(Eval("keys").ToString()))?"mainmenuselected":"link") %>'><%# Eval("TenMenu") %></a>
+                            </div>
+                                
+                        </ItemTemplate>
+                          <FooterTemplate>
+                         
+                                <asp:TextBox runat="server" CssClass=" textboxtimkiem divControl"  Style="padding:3px;" ID="txtTimKiem"></asp:TextBox>
+                           
+                      </div>
+                              </div>
+                              </div>
+                              </div>
+                    </FooterTemplate>
+                   
+                </asp:Repeater>
+                 
+            </nav>
+           <div class="sidenavmenuUser" id="sidenavmenuUser" style="border:0px solid rgba(255, 255, 255, 0)">
+            <ul class="ul">
+                <li><asp:Label ID="lblUser" runat="server" Text="hoailam"></asp:Label></li>
+                <li><a href="http://hanghoa.ehr.vn/ChangePassword.aspx?returnpage=http%3a%2f%2fhanghoa.ehr.vn%2fpersonal%2fDefault.aspx">Đổi mật khẩu</a></li>
+                <li><a href="../Logout.aspx">Đăng xuất</a></li>
+            </ul>
+        </div>
+   
+        </form>
+    </div>
+     <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+     </asp:ContentPlaceHolder>
+</body>
+</html>

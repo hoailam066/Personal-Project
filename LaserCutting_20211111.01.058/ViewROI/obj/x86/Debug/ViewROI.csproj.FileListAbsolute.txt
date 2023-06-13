@@ -1,0 +1,394 @@
+C:\Users\NaokiSo\Desktop\SRType5 20200422.02.015\ViewROI\bin\Debug\ViewROI.exe.config
+C:\Users\NaokiSo\Desktop\SRType5 20200422.02.015\ViewROI\bin\Debug\ViewROI.exe
+C:\Users\NaokiSo\Desktop\SRType5 20200422.02.015\ViewROI\bin\Debug\ViewROI.pdb
+C:\Users\NaokiSo\Desktop\SRType5 20200422.02.015\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\NaokiSo\Desktop\SRType5 20200422.02.015\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\NaokiSo\Desktop\SRType5 20200422.02.015\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\NaokiSo\Desktop\SRType5 20200422.02.015\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\NaokiSo\Desktop\SRType5 20200422.02.015\ViewROI\bin\Debug\halcondotnet.dll
+C:\Users\NaokiSo\Desktop\SRType5 20200422.02.015\ViewROI\bin\Debug\halcondotnet.xml
+C:\Users\NaokiSo\Desktop\SRType5 20200422.02.015\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\SRType5 20200422.02.017\ViewROI\bin\Debug\ViewROI.exe.config
+C:\Users\MyUser\Desktop\SRType5 20200422.02.017\ViewROI\bin\Debug\ViewROI.exe
+C:\Users\MyUser\Desktop\SRType5 20200422.02.017\ViewROI\bin\Debug\ViewROI.pdb
+C:\Users\MyUser\Desktop\SRType5 20200422.02.017\ViewROI\bin\Debug\halcondotnet.xml
+C:\Users\MyUser\Desktop\SRType5 20200422.02.017\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\SRType5 20200422.02.017\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\MyUser\Desktop\SRType5 20200422.02.017\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\MyUser\Desktop\SRType5 20200422.02.017\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\MyUser\Desktop\SRType5 20200422.02.017\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\MyUser\Desktop\SRType5 20200422.02.017\ViewROI\bin\Debug\halcondotnet.dll
+C:\Users\MyUser\Desktop\SRType4 20200406.05.003release\ViewROI\bin\Debug\ViewROI.exe.config
+C:\Users\MyUser\Desktop\SRType4 20200406.05.003release\ViewROI\bin\Debug\ViewROI.exe
+C:\Users\MyUser\Desktop\SRType4 20200406.05.003release\ViewROI\bin\Debug\ViewROI.pdb
+C:\Users\MyUser\Desktop\SRType4 20200406.05.003release\ViewROI\bin\Debug\halcondotnet.dll
+C:\Users\MyUser\Desktop\SRType4 20200406.05.003release\ViewROI\bin\Debug\halcondotnet.xml
+C:\Users\MyUser\Desktop\SRType4 20200406.05.003release\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\MyUser\Desktop\SRType4 20200406.05.003release\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\MyUser\Desktop\SRType4 20200406.05.003release\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\MyUser\Desktop\SRType4 20200406.05.003release\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\MyUser\Desktop\SRType5 20200423.03.002\ViewROI\bin\Debug\ViewROI.exe.config
+C:\Users\MyUser\Desktop\SRType5 20200423.03.002\ViewROI\bin\Debug\ViewROI.exe
+C:\Users\MyUser\Desktop\SRType5 20200423.03.002\ViewROI\bin\Debug\ViewROI.pdb
+C:\Users\MyUser\Desktop\SRType5 20200423.03.002\ViewROI\bin\Debug\halcondotnet.dll
+C:\Users\MyUser\Desktop\SRType5 20200423.03.002\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\MyUser\Desktop\SRType5 20200423.03.002\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\MyUser\Desktop\SRType5 20200423.03.002\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\MyUser\Desktop\SRType5 20200423.03.002\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\MyUser\Desktop\SRType5 20200423.03.005\ViewROI\bin\Debug\ViewROI.exe.config
+C:\Users\MyUser\Desktop\SRType5 20200423.03.005\ViewROI\bin\Debug\ViewROI.exe
+C:\Users\MyUser\Desktop\SRType5 20200423.03.005\ViewROI\bin\Debug\ViewROI.pdb
+C:\Users\MyUser\Desktop\SRType5 20200423.03.005\ViewROI\bin\Debug\halcondotnet.dll
+C:\Users\MyUser\Desktop\SRType5 20200423.03.005\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\MyUser\Desktop\SRType5 20200423.03.005\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\MyUser\Desktop\SRType5 20200423.03.005\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\MyUser\Desktop\SRType5 20200423.03.005\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\MyUser\Desktop\SRType4 20200507.05.003\ViewROI\bin\Debug\ViewROI.exe.config
+C:\Users\MyUser\Desktop\SRType4 20200507.05.003\ViewROI\bin\Debug\ViewROI.exe
+C:\Users\MyUser\Desktop\SRType4 20200507.05.003\ViewROI\bin\Debug\ViewROI.pdb
+C:\Users\MyUser\Desktop\SRType4 20200507.05.003\ViewROI\bin\Debug\halcondotnet.dll
+C:\Users\MyUser\Desktop\SRType4 20200507.05.003\ViewROI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\SRType4 20200507.05.003\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\MyUser\Desktop\SRType4 20200507.05.003\ViewROI\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\MyUser\Desktop\SRType4 20200507.05.003\ViewROI\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\MyUser\Desktop\SRType4 20200507.05.003\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\MyUser\Desktop\SRType4 20200507.05.003\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\MyUser\Desktop\SR\ViewROI\bin\Debug\ViewROI.exe.config
+C:\Users\MyUser\Desktop\SR\ViewROI\bin\Debug\ViewROI.exe
+C:\Users\MyUser\Desktop\SR\ViewROI\bin\Debug\ViewROI.pdb
+C:\Users\MyUser\Desktop\SR\ViewROI\bin\Debug\halcondotnet.dll
+C:\Users\MyUser\Desktop\SR\ViewROI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\SR\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\MyUser\Desktop\SR\ViewROI\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\MyUser\Desktop\SR\ViewROI\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\MyUser\Desktop\SR\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\MyUser\Desktop\SR\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\MyUser\Desktop\SRType4 20200528.05.014\ViewROI\bin\Debug\ViewROI.exe.config
+C:\Users\MyUser\Desktop\SRType4 20200528.05.014\ViewROI\bin\Debug\ViewROI.exe
+C:\Users\MyUser\Desktop\SRType4 20200528.05.014\ViewROI\bin\Debug\ViewROI.pdb
+C:\Users\MyUser\Desktop\SRType4 20200528.05.014\ViewROI\bin\Debug\halcondotnet.dll
+C:\Users\MyUser\Desktop\SRType4 20200528.05.014\ViewROI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\SRType4 20200528.05.014\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\MyUser\Desktop\SRType4 20200528.05.014\ViewROI\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\MyUser\Desktop\SRType4 20200528.05.014\ViewROI\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\MyUser\Desktop\SRType4 20200528.05.014\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\MyUser\Desktop\SRType4 20200528.05.014\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\MyUser\Desktop\SRType4 20200529.05.016\ViewROI\bin\Debug\ViewROI.exe.config
+C:\Users\MyUser\Desktop\SRType4 20200529.05.016\ViewROI\bin\Debug\ViewROI.exe
+C:\Users\MyUser\Desktop\SRType4 20200529.05.016\ViewROI\bin\Debug\ViewROI.pdb
+C:\Users\MyUser\Desktop\SRType4 20200529.05.016\ViewROI\bin\Debug\halcondotnet.dll
+C:\Users\MyUser\Desktop\SRType4 20200529.05.016\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\MyUser\Desktop\SRType4 20200529.05.016\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\MyUser\Desktop\SRType4 20200529.05.016\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\ZhengYe\Desktop\SRType\SRType4 20200529.05.016\ViewROI\bin\Debug\ViewROI.exe.config
+C:\Users\ZhengYe\Desktop\SRType\SRType4 20200529.05.016\ViewROI\bin\Debug\ViewROI.exe
+C:\Users\ZhengYe\Desktop\SRType\SRType4 20200529.05.016\ViewROI\bin\Debug\ViewROI.pdb
+C:\Users\ZhengYe\Desktop\SRType\SRType4 20200529.05.016\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\ZhengYe\Desktop\SRType\SRType4 20200529.05.016\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\ZhengYe\Desktop\SRType\SRType4 20200529.05.016\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\ZhengYe\Desktop\SRType\SRType4 20200529.05.016\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\MyUser\Desktop\SRType4 20200529.05.016\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\MyUser\Desktop\SRType4 20200529.05.016\ViewROI\bin\Debug\halcondotnet.xml
+C:\Users\MyUser\Desktop\SRType4 20200928.06.003\ViewROI\bin\Debug\ViewROI.exe.config
+C:\Users\MyUser\Desktop\SRType4 20200928.06.003\ViewROI\bin\Debug\ViewROI.exe
+C:\Users\MyUser\Desktop\SRType4 20200928.06.003\ViewROI\bin\Debug\ViewROI.pdb
+C:\Users\MyUser\Desktop\SRType4 20200928.06.003\ViewROI\bin\Debug\halcondotnet.dll
+C:\Users\MyUser\Desktop\SRType4 20200928.06.003\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\MyUser\Desktop\SRType4 20200928.06.003\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\MyUser\Desktop\SRType4 20200928.06.003\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\MyUser\Desktop\SRType4 20200928.06.003\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\MyUser\Desktop\SRType4 20200928.06.004\ViewROI\bin\Debug\ViewROI.exe.config
+C:\Users\MyUser\Desktop\SRType4 20200928.06.004\ViewROI\bin\Debug\ViewROI.exe
+C:\Users\MyUser\Desktop\SRType4 20200928.06.004\ViewROI\bin\Debug\ViewROI.pdb
+C:\Users\MyUser\Desktop\SRType4 20200928.06.004\ViewROI\bin\Debug\halcondotnet.dll
+C:\Users\MyUser\Desktop\SRType4 20200928.06.004\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\MyUser\Desktop\SRType4 20200928.06.004\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\MyUser\Desktop\SRType4 20200928.06.004\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\MyUser\Desktop\SRType4 20200928.06.004\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\Server\Desktop\SRType4 20200928.06.004 大毅畫線機\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\SRType4 20200928.06.004 大毅畫線機\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\Server\Desktop\SRType4 20200928.06.004 大毅畫線機\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\Server\Desktop\SRType4 20200928.06.004 大毅畫線機\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\Server\Desktop\SRType4 20200928.06.004 大毅畫線機\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Windows\System32\ViewROI.exe.config
+C:\Windows\System32\ViewROI.exe
+C:\Windows\System32\ViewROI.pdb
+C:\Users\Server\Desktop\LaserSolder_20210201.001.25\ViewROI\bin\Debug\ViewROI.exe.config
+C:\Users\Server\Desktop\LaserSolder_20210201.001.25\ViewROI\bin\Debug\ViewROI.exe
+C:\Users\Server\Desktop\LaserSolder_20210201.001.25\ViewROI\bin\Debug\ViewROI.pdb
+C:\Users\Server\Desktop\LaserSolder_20210201.001.25\ViewROI\bin\Debug\halcondotnet.dll
+C:\Users\Server\Desktop\LaserSolder_20210201.001.25\ViewROI\bin\Debug\halcondotnet.xml
+C:\Users\Server\Desktop\LaserSolder_20210201.001.25\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\Server\Desktop\LaserSolder_20210201.001.25\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\Server\Desktop\LaserSolder_20210201.001.25\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\Server\Desktop\LaserSolder_20210201.001.25\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\Server\Desktop\LaserSolder_20210201.001.25\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\New program\LaserSolder_20210209.001.27\ViewROI\bin\Debug\ViewROI.exe.config
+C:\Users\ALin\Desktop\New program\LaserSolder_20210209.001.27\ViewROI\bin\Debug\ViewROI.exe
+C:\Users\ALin\Desktop\New program\LaserSolder_20210209.001.27\ViewROI\bin\Debug\ViewROI.pdb
+C:\Users\ALin\Desktop\New program\LaserSolder_20210209.001.27\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\ALin\Desktop\New program\LaserSolder_20210209.001.27\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\New program\LaserSolder_20210209.001.27\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\ALin\Desktop\New program\LaserSolder_20210209.001.27\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\Client\Desktop\LaserSolder_20210324.001.01_Line\ViewROI\bin\Debug\ViewROI.exe.config
+C:\Users\Client\Desktop\LaserSolder_20210324.001.01_Line\ViewROI\bin\Debug\ViewROI.exe
+C:\Users\Client\Desktop\LaserSolder_20210324.001.01_Line\ViewROI\bin\Debug\ViewROI.pdb
+C:\Users\Client\Desktop\LaserSolder_20210324.001.01_Line\ViewROI\bin\Debug\halcondotnet.dll
+C:\Users\Client\Desktop\LaserSolder_20210324.001.01_Line\ViewROI\bin\Debug\halcondotnet.xml
+C:\Users\Client\Desktop\LaserSolder_20210324.001.01_Line\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\Client\Desktop\LaserSolder_20210324.001.01_Line\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserSolder_20210324.001.01_Line\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\Client\Desktop\LaserSolder_20210324.001.01_Line\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\Client\Desktop\LaserSolder_20210327.001.02_Line\ViewROI\bin\Debug\ViewROI.exe.config
+C:\Users\Client\Desktop\LaserSolder_20210327.001.02_Line\ViewROI\bin\Debug\ViewROI.exe
+C:\Users\Client\Desktop\LaserSolder_20210327.001.02_Line\ViewROI\bin\Debug\ViewROI.pdb
+C:\Users\Client\Desktop\LaserSolder_20210327.001.02_Line\ViewROI\bin\Debug\halcondotnet.dll
+C:\Users\Client\Desktop\LaserSolder_20210327.001.02_Line\ViewROI\bin\Debug\halcondotnet.xml
+C:\Users\Client\Desktop\LaserSolder_20210327.001.02_Line\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserSolder_20210327.001.02_Line\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\Client\Desktop\LaserSolder_20210327.001.02_Line\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserSolder_20210327.001.02_Line\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\Client\Desktop\LaserSolder_20210327.001.02_Line\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\Client\Desktop\LaserSolder_20210327.001.04_Line\ViewROI\bin\Debug\ViewROI.exe.config
+C:\Users\Client\Desktop\LaserSolder_20210327.001.04_Line\ViewROI\bin\Debug\ViewROI.exe
+C:\Users\Client\Desktop\LaserSolder_20210327.001.04_Line\ViewROI\bin\Debug\ViewROI.pdb
+C:\Users\Client\Desktop\LaserSolder_20210327.001.04_Line\ViewROI\bin\Debug\halcondotnet.dll
+C:\Users\Client\Desktop\LaserSolder_20210327.001.04_Line\ViewROI\bin\Debug\halcondotnet.xml
+C:\Users\Client\Desktop\LaserSolder_20210327.001.04_Line\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserSolder_20210327.001.04_Line\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\Client\Desktop\LaserSolder_20210327.001.04_Line\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserSolder_20210327.001.04_Line\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\Client\Desktop\LaserSolder_20210327.001.04_Line\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\Client\Desktop\LaserSolder_20210410.001.06_LineCutting\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\Client\Desktop\LaserSolder_20210410.001.06_LineCutting\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserSolder_20210410.001.06_LineCutting\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\Client\Desktop\LaserSolder_20210410.001.06_LineCutting\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\Client\Desktop\LaserCutting_20210419.001.09\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20210419.001.09\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20210419.001.09\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20210419.001.09\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\Client\Desktop\LaserCutting_20210419.001.09\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\Client\Desktop\LaserCutting_20210419.001.10\LaserCutting_20210419.001.10\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20210419.001.10\LaserCutting_20210419.001.10\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20210419.001.10\LaserCutting_20210419.001.10\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\Client\Desktop\LaserCutting_20210419.001.10\LaserCutting_20210419.001.10\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\Windows\SysWOW64\ViewROI.exe.config
+C:\Users\Windows\SysWOW64\ViewROI.exe
+C:\Users\Windows\SysWOW64\ViewROI.pdb
+C:\Users\Client\Desktop\LaserCutting_20210419.001.10\LaserCutting_20210419.001.10\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20210423.001.13\LaserCutting_20210419.001.10\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20210423.001.13\LaserCutting_20210419.001.10\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20210423.001.13\LaserCutting_20210419.001.10\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20210423.001.13\LaserCutting_20210419.001.10\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\Client\Desktop\LaserCutting_20210423.001.13\LaserCutting_20210419.001.10\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\ALin\Desktop\LaserCutting_20210423.001.14\LaserCutting_20210419.001.10\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\LaserCutting_20210423.001.14\LaserCutting_20210419.001.10\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting_20210423.001.14\LaserCutting_20210419.001.10\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting_20210423.001.14\LaserCutting_20210419.001.10\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\ALin\Desktop\LaserCutting_20210423.001.14\LaserCutting_20210419.001.10\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\ALin\Desktop\LaserCutting_20210423.001.14\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting_20210423.001.14\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting_20210423.001.14\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\ALin\Desktop\LaserCutting_20210423.001.14\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\ALin\Desktop\LaserCutting_20210424.001.15\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\LaserCutting_20210424.001.15\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting_20210424.001.15\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting_20210424.001.15\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\ALin\Desktop\LaserCutting_20210424.001.15\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\Client\Desktop\LaserCutting_20210426.001.16\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20210426.001.16\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20210426.001.16\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20210426.001.16\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\Client\Desktop\LaserCutting_20210426.001.16\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\Client\Desktop\LaserCutting_20210426.001.17\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20210426.001.17\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20210426.001.17\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20210426.001.17\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\Client\Desktop\LaserCutting_20210426.001.17\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\ALin\Desktop\LaserCutting_20210427.001.18\LaserCutting_20210427.001.18\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\LaserCutting_20210427.001.18\LaserCutting_20210427.001.18\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting_20210427.001.18\LaserCutting_20210427.001.18\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting_20210427.001.18\LaserCutting_20210427.001.18\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\ALin\Desktop\LaserCutting_20210427.001.18\LaserCutting_20210427.001.18\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\Client\Desktop\LaserCutting_20210427.001.19\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20210427.001.19\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20210427.001.19\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20210427.001.19\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\Client\Desktop\LaserCutting_20210427.001.19\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\ALin\Desktop\LaserCutting_20210428.001.20\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting_20210428.001.20\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting_20210428.001.20\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\ALin\Desktop\LaserCutting_20210428.001.20\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210430.001.21\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210430.001.21\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210430.001.21\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210430.001.21\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210430.001.21\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210503.001.22\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210503.001.22\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210503.001.22\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210503.001.22\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210503.001.22\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210503.001.23\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210503.001.23\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210503.001.23\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210503.001.23\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\ALin\Desktop\Laser Cutting\LaserCutting_20210503.001.23\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\Client\Desktop\LaserCutting_20210504.001.23\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20210504.001.23\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20210504.001.23\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20210504.001.23\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\Client\Desktop\LaserCutting_20210504.001.23\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\ALin\Desktop\LaserCutting_20210504.001.24\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\LaserCutting_20210504.001.24\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting_20210504.001.24\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting_20210504.001.24\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\ALin\Desktop\LaserCutting_20210504.001.24\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\Client\Desktop\LaserCutting_20210504.001.25\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20210504.001.25\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20210504.001.25\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20210504.001.25\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\Client\Desktop\LaserCutting_20210504.001.25\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\ZhengYe\Desktop\雷射切割機\LaserCutting_20210616.001.26\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\ZhengYe\Desktop\雷射切割機\LaserCutting_20210616.001.26\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\ZhengYe\Desktop\雷射切割機\LaserCutting_20210616.001.26\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\ZhengYe\Desktop\雷射切割機\LaserCutting_20210616.001.26\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\ZhengYe\Desktop\雷射切割機\LaserCutting_20210616.001.26\ViewROI\obj\x86\Debug\ViewROI.pdb
+D:\LaserCutting\LaserCutting_20210803.001.27\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+D:\LaserCutting\LaserCutting_20210803.001.27\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+D:\LaserCutting\LaserCutting_20210803.001.27\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+D:\LaserCutting\LaserCutting_20210803.001.27\ViewROI\obj\x86\Debug\ViewROI.exe
+D:\LaserCutting\LaserCutting_20210803.001.27\ViewROI\obj\x86\Debug\ViewROI.pdb
+D:\LaserCutting\LaserCutting_20210804.01.028\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+D:\LaserCutting\LaserCutting_20210804.01.028\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+D:\LaserCutting\LaserCutting_20210804.01.028\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+D:\LaserCutting\LaserCutting_20210804.01.028\ViewROI\obj\x86\Debug\ViewROI.exe
+D:\LaserCutting\LaserCutting_20210804.01.028\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\Client\Desktop\LaserCutting_20210806.01.029\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20210806.01.029\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20210806.01.029\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20210806.01.029\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\Client\Desktop\LaserCutting_20210806.01.029\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\Client\Desktop\LaserCutting_20210810.01.030\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20210810.01.030\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20210810.01.030\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20210810.01.030\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\Client\Desktop\LaserCutting_20210810.01.030\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.031\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.031\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.031\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.031\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.031\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\Client\Desktop\LaserCutting_20210811.01.032\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20210811.01.032\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20210811.01.032\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20210811.01.032\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\Client\Desktop\LaserCutting_20210811.01.032\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.033\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.033\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.033\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.033\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\ALin\Desktop\LaserCutting_20210811.01.033\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\Client\Desktop\LaserCutting_20210812.01.034\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20210812.01.034\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20210812.01.034\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20210812.01.034\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\Client\Desktop\LaserCutting_20210812.01.034\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\ALin\Desktop\LaserCutting_20210812.01.035\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\LaserCutting_20210812.01.035\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting_20210812.01.035\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting_20210812.01.035\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\ALin\Desktop\LaserCutting_20210812.01.035\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\Client\Desktop\LaserCutting_20210812.01.035\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20210812.01.035\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20210812.01.035\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20210812.01.035\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\Client\Desktop\LaserCutting_20210812.01.035\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\Client\Desktop\LaserCutting_20210813.01.036\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20210813.01.036\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20210813.01.036\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20210813.01.036\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\Client\Desktop\LaserCutting_20210813.01.036\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\Client\Desktop\LaserCutting_20210816.01.037\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20210816.01.037\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20210816.01.037\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20210816.01.037\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\Client\Desktop\LaserCutting_20210816.01.037\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038_ZH_EN\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038_ZH_EN\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038_ZH_EN\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038_ZH_EN\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\ALin\Desktop\LaserCutting_20210816.01.038_ZH_EN\ViewROI\obj\x86\Debug\ViewROI.pdb
+D:\LaserCutting\LaserCutting_20210821.01.040\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+D:\LaserCutting\LaserCutting_20210821.01.040\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+D:\LaserCutting\LaserCutting_20210821.01.040\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+D:\LaserCutting\LaserCutting_20210821.01.040\ViewROI\obj\x86\Debug\ViewROI.exe
+D:\LaserCutting\LaserCutting_20210821.01.040\ViewROI\obj\x86\Debug\ViewROI.pdb
+D:\LaserCutting\LaserCutting_20210824.01.041\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+D:\LaserCutting\LaserCutting_20210824.01.041\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+D:\LaserCutting\LaserCutting_20210824.01.041\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+D:\LaserCutting\LaserCutting_20210824.01.041\ViewROI\obj\x86\Debug\ViewROI.exe
+D:\LaserCutting\LaserCutting_20210824.01.041\ViewROI\obj\x86\Debug\ViewROI.pdb
+D:\LaserCutting\Auto Run\LaserCutting_20210824.01.041\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+D:\LaserCutting\Auto Run\LaserCutting_20210824.01.041\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+D:\LaserCutting\Auto Run\LaserCutting_20210824.01.041\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+D:\LaserCutting\Auto Run\LaserCutting_20210824.01.041\ViewROI\obj\x86\Debug\ViewROI.exe
+D:\LaserCutting\Auto Run\LaserCutting_20210824.01.041\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211008.01.045\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211008.01.045\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211008.01.045\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211008.01.045\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211010.01.046\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211010.01.046\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211010.01.046\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211010.01.046\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211010.01.046\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\Client\Desktop\LaserCutting_20211023.01.047\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20211023.01.047\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20211023.01.047\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\Client\Desktop\LaserCutting_20211023.01.047\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211023.01.048\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211023.01.048\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211023.01.048\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211023.01.048\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211023.01.048\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\Client\Desktop\LaserCutting_20211025.01.049\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20211025.01.049\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20211025.01.049\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\Client\Desktop\LaserCutting_20211025.01.049\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211027.01.050\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211027.01.050\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211027.01.050\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211027.01.050\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211027.01.050\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\Client\Desktop\LaserCutting_20211028.01.051\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20211028.01.051\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20211028.01.051\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20211028.01.051\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\Client\Desktop\LaserCutting_20211028.01.051\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\Client\Desktop\LaserCutting_20211101.01.052\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20211101.01.052\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.052\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20211101.01.052\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\Client\Desktop\LaserCutting_20211101.01.052\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\Client\Desktop\LaserCutting_20211101.01.053\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserCutting_20211101.01.053\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\Client\Desktop\LaserCutting_20211101.01.053\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserCutting_20211101.01.053\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\Client\Desktop\LaserCutting_20211101.01.053\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211103.01.054\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211103.01.054\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211103.01.054\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211103.01.054\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Windows\SysWOW64\ViewROI.exe.config
+C:\Windows\SysWOW64\ViewROI.exe
+C:\Windows\SysWOW64\ViewROI.pdb
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211110.01.058\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211110.01.058\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211110.01.058\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\ALin\Desktop\LaserCutting\Auto Run\LaserCutting_20211110.01.058\ViewROI\obj\x86\Debug\ViewROI.pdb

@@ -1,0 +1,768 @@
+C:\Users\NaokiSo\Desktop\Galvo 20181016.002.01\Meter\bin\Debug\JinnMeter.exe.config
+C:\Users\NaokiSo\Desktop\Galvo 20181016.002.01\Meter\bin\Debug\JinnMeter.exe
+C:\Users\NaokiSo\Desktop\Galvo 20181016.002.01\Meter\bin\Debug\JinnMeter.pdb
+C:\Users\NaokiSo\Desktop\Galvo 20181016.002.01\Meter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\NaokiSo\Desktop\Galvo 20181016.002.01\Meter\bin\Debug\Timer.dll
+C:\Users\NaokiSo\Desktop\Galvo 20181016.002.01\Meter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\NaokiSo\Desktop\Galvo 20181016.002.01\Meter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\NaokiSo\Desktop\Galvo 20181016.002.01\Meter\bin\Debug\Timer.pdb
+C:\Users\NaokiSo\Desktop\Galvo 20181016.002.01\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\NaokiSo\Desktop\Galvo 20181016.002.01\Meter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\NaokiSo\Desktop\Galvo 20181016.002.01\Meter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\NaokiSo\Desktop\Galvo 20181016.002.01\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\NaokiSo\Desktop\Galvo 20181016.002.01\Meter\obj\Debug\JinnMeter.exe
+C:\Users\NaokiSo\Desktop\Galvo 20181016.002.01\Meter\obj\Debug\JinnMeter.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181016.002.01\Meter\bin\Debug\JinnMeter.exe.config
+C:\Users\COMPUTER\Desktop\Galvo 20181016.002.01\Meter\bin\Debug\JinnMeter.exe
+C:\Users\COMPUTER\Desktop\Galvo 20181016.002.01\Meter\bin\Debug\JinnMeter.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181016.002.01\Meter\bin\Debug\Automation.BDaq4.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181016.002.01\Meter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181016.002.01\Meter\bin\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181016.002.01\Meter\bin\Debug\ZedGraph.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181016.002.01\Meter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181016.002.01\Meter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\COMPUTER\Desktop\Galvo 20181016.002.01\Meter\bin\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181016.002.01\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\Galvo 20181016.002.01\Meter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\COMPUTER\Desktop\Galvo 20181016.002.01\Meter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\COMPUTER\Desktop\Galvo 20181016.002.01\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\COMPUTER\Desktop\Galvo 20181016.002.01\Meter\obj\Debug\JinnMeter.exe
+C:\Users\COMPUTER\Desktop\Galvo 20181016.002.01\Meter\obj\Debug\JinnMeter.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181018.002.01\Meter\bin\Debug\JinnMeter.exe.config
+C:\Users\COMPUTER\Desktop\Galvo 20181018.002.01\Meter\obj\Debug\JinnMeter.exe
+C:\Users\COMPUTER\Desktop\Galvo 20181018.002.01\Meter\obj\Debug\JinnMeter.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181018.002.01\Meter\bin\Debug\JinnMeter.exe
+C:\Users\COMPUTER\Desktop\Galvo 20181018.002.01\Meter\bin\Debug\JinnMeter.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181018.002.01\Meter\bin\Debug\Automation.BDaq4.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181018.002.01\Meter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181018.002.01\Meter\bin\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181018.002.01\Meter\bin\Debug\ZedGraph.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181018.002.01\Meter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181018.002.01\Meter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\COMPUTER\Desktop\Galvo 20181018.002.01\Meter\bin\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181018.002.01\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\Galvo 20181018.002.01\Meter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\COMPUTER\Desktop\Galvo 20181018.002.01\Meter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\COMPUTER\Desktop\Galvo 20181018.002.01\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\COMPUTER\Desktop\Galvo 20181018.002.02\Meter\bin\Debug\JinnMeter.exe.config
+C:\Users\COMPUTER\Desktop\Galvo 20181018.002.02\Meter\bin\Debug\JinnMeter.exe
+C:\Users\COMPUTER\Desktop\Galvo 20181018.002.02\Meter\bin\Debug\JinnMeter.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181018.002.02\Meter\bin\Debug\Automation.BDaq4.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181018.002.02\Meter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181018.002.02\Meter\bin\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181018.002.02\Meter\bin\Debug\ZedGraph.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181018.002.02\Meter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181018.002.02\Meter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\COMPUTER\Desktop\Galvo 20181018.002.02\Meter\bin\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181018.002.02\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\Galvo 20181018.002.02\Meter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\COMPUTER\Desktop\Galvo 20181018.002.02\Meter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\COMPUTER\Desktop\Galvo 20181018.002.02\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\COMPUTER\Desktop\Galvo 20181018.002.02\Meter\obj\Debug\JinnMeter.exe
+C:\Users\COMPUTER\Desktop\Galvo 20181018.002.02\Meter\obj\Debug\JinnMeter.pdb
+F:\S890-xx-F100\Galvo 20181018.002.03\Meter\bin\Debug\JinnMeter.exe.config
+F:\S890-xx-F100\Galvo 20181018.002.03\Meter\obj\Debug\JinnMeter.exe
+F:\S890-xx-F100\Galvo 20181018.002.03\Meter\obj\Debug\JinnMeter.pdb
+C:\Users\NaokiSo\Desktop\Galvo 20181029.002.04\Meter\bin\Debug\JinnMeter.exe.config
+C:\Users\NaokiSo\Desktop\Galvo 20181029.002.04\Meter\obj\Debug\JinnMeter.exe
+C:\Users\NaokiSo\Desktop\Galvo 20181029.002.04\Meter\obj\Debug\JinnMeter.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181029.002.04\Meter\bin\Debug\JinnMeter.exe.config
+C:\Users\COMPUTER\Desktop\Galvo 20181029.002.04\Meter\bin\Debug\JinnMeter.exe
+C:\Users\COMPUTER\Desktop\Galvo 20181029.002.04\Meter\bin\Debug\JinnMeter.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181029.002.04\Meter\bin\Debug\Automation.BDaq4.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181029.002.04\Meter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181029.002.04\Meter\bin\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181029.002.04\Meter\bin\Debug\ZedGraph.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181029.002.04\Meter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181029.002.04\Meter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\COMPUTER\Desktop\Galvo 20181029.002.04\Meter\bin\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181029.002.04\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\Galvo 20181029.002.04\Meter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\COMPUTER\Desktop\Galvo 20181029.002.04\Meter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\COMPUTER\Desktop\Galvo 20181029.002.04\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\COMPUTER\Desktop\Galvo 20181029.002.04\Meter\obj\Debug\JinnMeter.exe
+C:\Users\COMPUTER\Desktop\Galvo 20181029.002.04\Meter\obj\Debug\JinnMeter.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181030.003.00\Meter\bin\Debug\JinnMeter.exe.config
+C:\Users\COMPUTER\Desktop\Galvo 20181030.003.00\Meter\bin\Debug\JinnMeter.exe
+C:\Users\COMPUTER\Desktop\Galvo 20181030.003.00\Meter\bin\Debug\JinnMeter.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181030.003.00\Meter\bin\Debug\Automation.BDaq4.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181030.003.00\Meter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181030.003.00\Meter\bin\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181030.003.00\Meter\bin\Debug\ZedGraph.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181030.003.00\Meter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181030.003.00\Meter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\COMPUTER\Desktop\Galvo 20181030.003.00\Meter\bin\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181030.003.00\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\Galvo 20181030.003.00\Meter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\COMPUTER\Desktop\Galvo 20181030.003.00\Meter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\COMPUTER\Desktop\Galvo 20181030.003.00\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\COMPUTER\Desktop\Galvo 20181030.003.00\Meter\obj\Debug\JinnMeter.exe
+C:\Users\COMPUTER\Desktop\Galvo 20181030.003.00\Meter\obj\Debug\JinnMeter.pdb
+F:\S890-xx-F100\Galvo 20181031.004.00\Meter\bin\Debug\JinnMeter.exe.config
+F:\S890-xx-F100\Galvo 20181031.004.00\Meter\obj\Debug\JinnMeter.exe
+F:\S890-xx-F100\Galvo 20181031.004.00\Meter\obj\Debug\JinnMeter.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181031.004.00\Meter\bin\Debug\JinnMeter.exe.config
+C:\Users\COMPUTER\Desktop\Galvo 20181031.004.00\Meter\bin\Debug\JinnMeter.exe
+C:\Users\COMPUTER\Desktop\Galvo 20181031.004.00\Meter\bin\Debug\JinnMeter.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181031.004.00\Meter\bin\Debug\Automation.BDaq4.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181031.004.00\Meter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181031.004.00\Meter\bin\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181031.004.00\Meter\bin\Debug\ZedGraph.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181031.004.00\Meter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181031.004.00\Meter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\COMPUTER\Desktop\Galvo 20181031.004.00\Meter\bin\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181031.004.00\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\Galvo 20181031.004.00\Meter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\COMPUTER\Desktop\Galvo 20181031.004.00\Meter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\COMPUTER\Desktop\Galvo 20181031.004.00\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\COMPUTER\Desktop\Galvo 20181031.004.00\Meter\obj\Debug\JinnMeter.exe
+C:\Users\COMPUTER\Desktop\Galvo 20181031.004.00\Meter\obj\Debug\JinnMeter.pdb
+F:\S890-xx-F100\Galvo 20181111.005.00\Meter\bin\Debug\JinnMeter.exe.config
+F:\S890-xx-F100\Galvo 20181111.005.00\Meter\obj\Debug\JinnMeter.exe
+F:\S890-xx-F100\Galvo 20181111.005.00\Meter\obj\Debug\JinnMeter.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181111.005.00\Meter\bin\Debug\JinnMeter.exe.config
+C:\Users\COMPUTER\Desktop\Galvo 20181111.005.00\Meter\bin\Debug\JinnMeter.exe
+C:\Users\COMPUTER\Desktop\Galvo 20181111.005.00\Meter\bin\Debug\JinnMeter.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181111.005.00\Meter\bin\Debug\Automation.BDaq4.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181111.005.00\Meter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181111.005.00\Meter\bin\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181111.005.00\Meter\bin\Debug\ZedGraph.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181111.005.00\Meter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181111.005.00\Meter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\COMPUTER\Desktop\Galvo 20181111.005.00\Meter\bin\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181111.005.00\Meter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\COMPUTER\Desktop\Galvo 20181111.005.00\Meter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\COMPUTER\Desktop\Galvo 20181111.005.00\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\COMPUTER\Desktop\Galvo 20181111.005.00\Meter\obj\Debug\JinnMeter.exe
+C:\Users\COMPUTER\Desktop\Galvo 20181111.005.00\Meter\obj\Debug\JinnMeter.pdb
+F:\S890-xx-F100\Galvo 20181116.006.00 6.4v\Meter\bin\Debug\JinnMeter.exe.config
+F:\S890-xx-F100\Galvo 20181116.006.00 6.4v\Meter\obj\Debug\JinnMeter.exe
+F:\S890-xx-F100\Galvo 20181116.006.00 6.4v\Meter\obj\Debug\JinnMeter.pdb
+E:\S890-xx-F100\Galvo 20181116.006.00 6.4v\Meter\bin\Debug\JinnMeter.exe.config
+E:\S890-xx-F100\Galvo 20181116.006.00 6.4v\Meter\obj\Debug\JinnMeter.exe
+E:\S890-xx-F100\Galvo 20181116.006.00 6.4v\Meter\obj\Debug\JinnMeter.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181116.006.00 6.4v\Meter\bin\Debug\JinnMeter.exe.config
+C:\Users\COMPUTER\Desktop\Galvo 20181116.006.00 6.4v\Meter\obj\Debug\JinnMeter.exe
+C:\Users\COMPUTER\Desktop\Galvo 20181116.006.00 6.4v\Meter\obj\Debug\JinnMeter.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181116.006.00 6.4v\Meter\bin\Debug\JinnMeter.exe
+C:\Users\COMPUTER\Desktop\Galvo 20181116.006.00 6.4v\Meter\bin\Debug\JinnMeter.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181116.006.00 6.4v\Meter\bin\Debug\Automation.BDaq4.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181116.006.00 6.4v\Meter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181116.006.00 6.4v\Meter\bin\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181116.006.00 6.4v\Meter\bin\Debug\ZedGraph.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181116.006.00 6.4v\Meter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181116.006.00 6.4v\Meter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\COMPUTER\Desktop\Galvo 20181116.006.00 6.4v\Meter\bin\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181116.006.00 6.4v\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\Galvo 20181116.006.00 6.4v\Meter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\COMPUTER\Desktop\Galvo 20181116.006.00 6.4v\Meter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\COMPUTER\Desktop\Galvo 20181116.006.00 6.4v\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+F:\S890-xx-F100\Galvo 20181129.006.00 6.4v\Meter\bin\Debug\JinnMeter.exe.config
+F:\S890-xx-F100\Galvo 20181129.006.00 6.4v\Meter\obj\Debug\JinnMeter.exe
+F:\S890-xx-F100\Galvo 20181129.006.00 6.4v\Meter\obj\Debug\JinnMeter.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181129.006.00 6.4v\Meter\bin\Debug\JinnMeter.exe.config
+C:\Users\COMPUTER\Desktop\Galvo 20181129.006.00 6.4v\Meter\bin\Debug\JinnMeter.exe
+C:\Users\COMPUTER\Desktop\Galvo 20181129.006.00 6.4v\Meter\bin\Debug\JinnMeter.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181129.006.00 6.4v\Meter\bin\Debug\Automation.BDaq4.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181129.006.00 6.4v\Meter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181129.006.00 6.4v\Meter\bin\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181129.006.00 6.4v\Meter\bin\Debug\ZedGraph.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181129.006.00 6.4v\Meter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181129.006.00 6.4v\Meter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\COMPUTER\Desktop\Galvo 20181129.006.00 6.4v\Meter\bin\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181129.006.00 6.4v\Meter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\COMPUTER\Desktop\Galvo 20181129.006.00 6.4v\Meter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\COMPUTER\Desktop\Galvo 20181129.006.00 6.4v\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\COMPUTER\Desktop\Galvo 20181129.006.00 6.4v\Meter\obj\Debug\JinnMeter.exe
+C:\Users\COMPUTER\Desktop\Galvo 20181129.006.00 6.4v\Meter\obj\Debug\JinnMeter.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181129.006.00 6.4v\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+F:\S890-xx-F100\Galvo 20181130.006.00 6.4v  14order\Meter\bin\Debug\JinnMeter.exe.config
+F:\S890-xx-F100\Galvo 20181130.006.00 6.4v  14order\Meter\obj\Debug\JinnMeter.exe
+F:\S890-xx-F100\Galvo 20181130.006.00 6.4v  14order\Meter\obj\Debug\JinnMeter.pdb
+C:\Users\Server\Desktop\Galvo 20181130.006.00 6.4v  14order\Meter\bin\Debug\JinnMeter.exe.config
+C:\Users\Server\Desktop\Galvo 20181130.006.00 6.4v  14order\Meter\obj\Debug\JinnMeter.exe
+C:\Users\Server\Desktop\Galvo 20181130.006.00 6.4v  14order\Meter\obj\Debug\JinnMeter.pdb
+C:\Users\Server\Desktop\Galvo 20181130.006.00 6.4v  14order\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\Galvo 20181130.006.00 6.4v  14order\Meter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\Server\Desktop\Galvo 20181130.006.00 6.4v  14order\Meter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\Server\Desktop\Galvo 20181130.006.00 6.4v  14order\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\Server\Desktop\Galvo 20181130.006.00 6.4v  14order\Meter\bin\Debug\JinnMeter.exe
+C:\Users\Server\Desktop\Galvo 20181130.006.00 6.4v  14order\Meter\bin\Debug\JinnMeter.pdb
+C:\Users\Server\Desktop\Galvo 20181130.006.00 6.4v  14order\Meter\bin\Debug\Automation.BDaq4.dll
+C:\Users\Server\Desktop\Galvo 20181130.006.00 6.4v  14order\Meter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\Server\Desktop\Galvo 20181130.006.00 6.4v  14order\Meter\bin\Debug\Timer.dll
+C:\Users\Server\Desktop\Galvo 20181130.006.00 6.4v  14order\Meter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\Server\Desktop\Galvo 20181130.006.00 6.4v  14order\Meter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\Server\Desktop\Galvo 20181130.006.00 6.4v  14order\Meter\bin\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181205.006.01 6.4v  14order\Meter\bin\Debug\JinnMeter.exe.config
+C:\Users\COMPUTER\Desktop\Galvo 20181205.006.01 6.4v  14order\Meter\bin\Debug\JinnMeter.exe
+C:\Users\COMPUTER\Desktop\Galvo 20181205.006.01 6.4v  14order\Meter\bin\Debug\JinnMeter.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181205.006.01 6.4v  14order\Meter\bin\Debug\Automation.BDaq4.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181205.006.01 6.4v  14order\Meter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181205.006.01 6.4v  14order\Meter\bin\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181205.006.01 6.4v  14order\Meter\bin\Debug\ZedGraph.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181205.006.01 6.4v  14order\Meter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181205.006.01 6.4v  14order\Meter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\COMPUTER\Desktop\Galvo 20181205.006.01 6.4v  14order\Meter\bin\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181205.006.01 6.4v  14order\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\Galvo 20181205.006.01 6.4v  14order\Meter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\COMPUTER\Desktop\Galvo 20181205.006.01 6.4v  14order\Meter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\COMPUTER\Desktop\Galvo 20181205.006.01 6.4v  14order\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\COMPUTER\Desktop\Galvo 20181205.006.01 6.4v  14order\Meter\obj\Debug\JinnMeter.exe
+C:\Users\COMPUTER\Desktop\Galvo 20181205.006.01 6.4v  14order\Meter\obj\Debug\JinnMeter.pdb
+F:\S890-xx-F100\Galvo 20181205.007.00 6.4v  14order\Meter\bin\Debug\JinnMeter.exe.config
+F:\S890-xx-F100\Galvo 20181205.007.00 6.4v  14order\Meter\obj\Debug\JinnMeter.exe
+F:\S890-xx-F100\Galvo 20181205.007.00 6.4v  14order\Meter\obj\Debug\JinnMeter.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181205.007.01 6.4v  14order\Meter\bin\Debug\JinnMeter.exe.config
+C:\Users\COMPUTER\Desktop\Galvo 20181205.007.01 6.4v  14order\Meter\obj\Debug\JinnMeter.exe
+C:\Users\COMPUTER\Desktop\Galvo 20181205.007.01 6.4v  14order\Meter\obj\Debug\JinnMeter.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181205.007.01 6.4v  14order\Meter\bin\Debug\JinnMeter.exe
+C:\Users\COMPUTER\Desktop\Galvo 20181205.007.01 6.4v  14order\Meter\bin\Debug\JinnMeter.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181205.007.01 6.4v  14order\Meter\bin\Debug\Automation.BDaq4.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181205.007.01 6.4v  14order\Meter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181205.007.01 6.4v  14order\Meter\bin\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181205.007.01 6.4v  14order\Meter\bin\Debug\ZedGraph.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181205.007.01 6.4v  14order\Meter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181205.007.01 6.4v  14order\Meter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\COMPUTER\Desktop\Galvo 20181205.007.01 6.4v  14order\Meter\bin\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181205.007.01 6.4v  14order\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\Galvo 20181205.007.01 6.4v  14order\Meter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\COMPUTER\Desktop\Galvo 20181205.007.01 6.4v  14order\Meter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\COMPUTER\Desktop\Galvo 20181205.007.01 6.4v  14order\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\COMPUTER\Desktop\Galvo 20181205.008.00 6.4v  14order\Meter\bin\Debug\JinnMeter.exe.config
+C:\Users\COMPUTER\Desktop\Galvo 20181205.008.00 6.4v  14order\Meter\obj\Debug\JinnMeter.exe
+C:\Users\COMPUTER\Desktop\Galvo 20181205.008.00 6.4v  14order\Meter\obj\Debug\JinnMeter.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181205.008.00 6.4v  14order\Meter\bin\Debug\JinnMeter.exe
+C:\Users\COMPUTER\Desktop\Galvo 20181205.008.00 6.4v  14order\Meter\bin\Debug\JinnMeter.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181205.008.00 6.4v  14order\Meter\bin\Debug\Automation.BDaq4.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181205.008.00 6.4v  14order\Meter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181205.008.00 6.4v  14order\Meter\bin\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181205.008.00 6.4v  14order\Meter\bin\Debug\ZedGraph.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181205.008.00 6.4v  14order\Meter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181205.008.00 6.4v  14order\Meter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\COMPUTER\Desktop\Galvo 20181205.008.00 6.4v  14order\Meter\bin\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181205.008.00 6.4v  14order\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\Galvo 20181205.008.00 6.4v  14order\Meter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\COMPUTER\Desktop\Galvo 20181205.008.00 6.4v  14order\Meter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\COMPUTER\Desktop\Galvo 20181205.008.00 6.4v  14order\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\COMPUTER\Desktop\Galvo 20181206.008.00 7v  14order\Meter\bin\Debug\JinnMeter.exe.config
+C:\Users\COMPUTER\Desktop\Galvo 20181206.008.00 7v  14order\Meter\obj\Debug\JinnMeter.exe
+C:\Users\COMPUTER\Desktop\Galvo 20181206.008.00 7v  14order\Meter\obj\Debug\JinnMeter.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181206.008.00 7v  14order\Meter\bin\Debug\JinnMeter.exe
+C:\Users\COMPUTER\Desktop\Galvo 20181206.008.00 7v  14order\Meter\bin\Debug\JinnMeter.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181206.008.00 7v  14order\Meter\bin\Debug\Automation.BDaq4.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181206.008.00 7v  14order\Meter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181206.008.00 7v  14order\Meter\bin\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181206.008.00 7v  14order\Meter\bin\Debug\ZedGraph.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181206.008.00 7v  14order\Meter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181206.008.00 7v  14order\Meter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\COMPUTER\Desktop\Galvo 20181206.008.00 7v  14order\Meter\bin\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181206.008.00 7v  14order\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\Galvo 20181206.008.00 7v  14order\Meter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\COMPUTER\Desktop\Galvo 20181206.008.00 7v  14order\Meter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\COMPUTER\Desktop\Galvo 20181206.008.00 7v  14order\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\COMPUTER\Desktop\Galvo 20181207.009.00 7v  14order\Meter\bin\Debug\JinnMeter.exe.config
+C:\Users\COMPUTER\Desktop\Galvo 20181207.009.00 7v  14order\Meter\obj\Debug\JinnMeter.exe
+C:\Users\COMPUTER\Desktop\Galvo 20181207.009.00 7v  14order\Meter\obj\Debug\JinnMeter.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181207.009.00 7v  14order\Meter\bin\Debug\JinnMeter.exe
+C:\Users\COMPUTER\Desktop\Galvo 20181207.009.00 7v  14order\Meter\bin\Debug\JinnMeter.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181207.009.00 7v  14order\Meter\bin\Debug\Automation.BDaq4.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181207.009.00 7v  14order\Meter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181207.009.00 7v  14order\Meter\bin\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181207.009.00 7v  14order\Meter\bin\Debug\ZedGraph.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181207.009.00 7v  14order\Meter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181207.009.00 7v  14order\Meter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\COMPUTER\Desktop\Galvo 20181207.009.00 7v  14order\Meter\bin\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181207.009.00 7v  14order\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\Galvo 20181207.009.00 7v  14order\Meter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\COMPUTER\Desktop\Galvo 20181207.009.00 7v  14order\Meter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\COMPUTER\Desktop\Galvo 20181207.009.00 7v  14order\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+F:\S890-xx-F100\Galvo 20181207.009.00 7v  14order\Meter\bin\Debug\JinnMeter.exe.config
+F:\S890-xx-F100\Galvo 20181207.009.00 7v  14order\Meter\obj\Debug\JinnMeter.exe
+F:\S890-xx-F100\Galvo 20181207.009.00 7v  14order\Meter\obj\Debug\JinnMeter.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181212.010.00 7v  14order\Meter\bin\Debug\JinnMeter.exe.config
+C:\Users\COMPUTER\Desktop\Galvo 20181212.010.00 7v  14order\Meter\obj\Debug\JinnMeter.exe
+C:\Users\COMPUTER\Desktop\Galvo 20181212.010.00 7v  14order\Meter\obj\Debug\JinnMeter.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181212.010.00 7v  14order\Meter\bin\Debug\JinnMeter.exe
+C:\Users\COMPUTER\Desktop\Galvo 20181212.010.00 7v  14order\Meter\bin\Debug\JinnMeter.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181212.010.00 7v  14order\Meter\bin\Debug\Automation.BDaq4.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181212.010.00 7v  14order\Meter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181212.010.00 7v  14order\Meter\bin\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181212.010.00 7v  14order\Meter\bin\Debug\ZedGraph.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181212.010.00 7v  14order\Meter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181212.010.00 7v  14order\Meter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\COMPUTER\Desktop\Galvo 20181212.010.00 7v  14order\Meter\bin\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181212.010.00 7v  14order\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\Galvo 20181212.010.00 7v  14order\Meter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\COMPUTER\Desktop\Galvo 20181212.010.00 7v  14order\Meter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\COMPUTER\Desktop\Galvo 20181212.010.00 7v  14order\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+F:\S890-xx-F100\Galvo 20181212.010.01 7v  14order\Meter\bin\Debug\JinnMeter.exe.config
+F:\S890-xx-F100\Galvo 20181212.010.01 7v  14order\Meter\obj\Debug\JinnMeter.exe
+F:\S890-xx-F100\Galvo 20181212.010.01 7v  14order\Meter\obj\Debug\JinnMeter.pdb
+F:\S890-xx-F100\Galvo 20181212.010.01 7v  14order\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+F:\S890-xx-F100\Galvo 20181212.010.01 7v  14order\Meter\obj\Debug\JinnMeter.Form1.resources
+F:\S890-xx-F100\Galvo 20181212.010.01 7v  14order\Meter\obj\Debug\JinnMeter.Properties.Resources.resources
+F:\S890-xx-F100\Galvo 20181212.010.01 7v  14order\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\COMPUTER\Desktop\Galvo 20181218.010.02 6.4v  14order\Meter\bin\Debug\JinnMeter.exe.config
+C:\Users\COMPUTER\Desktop\Galvo 20181218.010.02 6.4v  14order\Meter\obj\Debug\JinnMeter.exe
+C:\Users\COMPUTER\Desktop\Galvo 20181218.010.02 6.4v  14order\Meter\obj\Debug\JinnMeter.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181218.010.02 6.4v  14order\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\Galvo 20181218.010.02 6.4v  14order\Meter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\COMPUTER\Desktop\Galvo 20181218.010.02 6.4v  14order\Meter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\COMPUTER\Desktop\Galvo 20181218.010.02 6.4v  14order\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\COMPUTER\Desktop\Galvo 20181218.010.02 6.4v  14order\Meter\bin\Debug\JinnMeter.exe
+C:\Users\COMPUTER\Desktop\Galvo 20181218.010.02 6.4v  14order\Meter\bin\Debug\JinnMeter.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181218.010.02 6.4v  14order\Meter\bin\Debug\Automation.BDaq4.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181218.010.02 6.4v  14order\Meter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181218.010.02 6.4v  14order\Meter\bin\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181218.010.02 6.4v  14order\Meter\bin\Debug\ZedGraph.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181218.010.02 6.4v  14order\Meter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181218.010.02 6.4v  14order\Meter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\COMPUTER\Desktop\Galvo 20181218.010.02 6.4v  14order\Meter\bin\Debug\Timer.pdb
+C:\Users\NaokiSo\Desktop\Galvo 20181218.011.00 7v  19order\Meter\bin\Debug\JinnMeter.exe.config
+C:\Users\NaokiSo\Desktop\Galvo 20181218.011.00 7v  19order\Meter\obj\Debug\JinnMeter.exe
+C:\Users\NaokiSo\Desktop\Galvo 20181218.011.00 7v  19order\Meter\obj\Debug\JinnMeter.pdb
+C:\Users\NaokiSo\Desktop\Galvo 20181218.011.00 7v  19order\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\NaokiSo\Desktop\Galvo 20181218.011.00 7v  19order\Meter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\NaokiSo\Desktop\Galvo 20181218.011.00 7v  19order\Meter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\NaokiSo\Desktop\Galvo 20181218.011.00 7v  19order\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\NaokiSo\Desktop\Galvo 20181218.011.00 7v  19order\Meter\bin\Debug\JinnMeter.exe
+C:\Users\NaokiSo\Desktop\Galvo 20181218.011.00 7v  19order\Meter\bin\Debug\JinnMeter.pdb
+C:\Users\NaokiSo\Desktop\Galvo 20181218.011.00 7v  19order\Meter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\NaokiSo\Desktop\Galvo 20181218.011.00 7v  19order\Meter\bin\Debug\Timer.dll
+C:\Users\NaokiSo\Desktop\Galvo 20181218.011.00 7v  19order\Meter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\NaokiSo\Desktop\Galvo 20181218.011.00 7v  19order\Meter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\NaokiSo\Desktop\Galvo 20181218.011.00 7v  19order\Meter\bin\Debug\Timer.pdb
+C:\Users\Server\Desktop\Galvo 20181218.011.00 7v  19order\Meter\bin\Debug\JinnMeter.exe.config
+C:\Users\Server\Desktop\Galvo 20181218.011.00 7v  19order\Meter\bin\Debug\JinnMeter.exe
+C:\Users\Server\Desktop\Galvo 20181218.011.00 7v  19order\Meter\bin\Debug\JinnMeter.pdb
+C:\Users\Server\Desktop\Galvo 20181218.011.00 7v  19order\Meter\bin\Debug\Automation.BDaq4.dll
+C:\Users\Server\Desktop\Galvo 20181218.011.00 7v  19order\Meter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\Server\Desktop\Galvo 20181218.011.00 7v  19order\Meter\bin\Debug\Timer.dll
+C:\Users\Server\Desktop\Galvo 20181218.011.00 7v  19order\Meter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\Server\Desktop\Galvo 20181218.011.00 7v  19order\Meter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\Server\Desktop\Galvo 20181218.011.00 7v  19order\Meter\bin\Debug\Timer.pdb
+C:\Users\Server\Desktop\Galvo 20181218.011.00 7v  19order\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\Galvo 20181218.011.00 7v  19order\Meter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\Server\Desktop\Galvo 20181218.011.00 7v  19order\Meter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\Server\Desktop\Galvo 20181218.011.00 7v  19order\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\Server\Desktop\Galvo 20181218.011.00 7v  19order\Meter\obj\Debug\JinnMeter.exe
+C:\Users\Server\Desktop\Galvo 20181218.011.00 7v  19order\Meter\obj\Debug\JinnMeter.pdb
+F:\S890-xx-F100\Galvo 20181227.011.00 7v  19order\Meter\bin\Debug\JinnMeter.exe.config
+F:\S890-xx-F100\Galvo 20181227.011.00 7v  19order\Meter\obj\Debug\JinnMeter.exe
+F:\S890-xx-F100\Galvo 20181227.011.00 7v  19order\Meter\obj\Debug\JinnMeter.pdb
+C:\Users\Server\Desktop\Galvo 20181227.011.00 7v  19order\Meter\bin\Debug\JinnMeter.exe.config
+C:\Users\Server\Desktop\Galvo 20181227.011.00 7v  19order\Meter\obj\Debug\JinnMeter.exe
+C:\Users\Server\Desktop\Galvo 20181227.011.00 7v  19order\Meter\obj\Debug\JinnMeter.pdb
+C:\Users\Server\Desktop\Galvo 20181227.011.00 7v  19order\Meter\bin\Debug\JinnMeter.exe
+C:\Users\Server\Desktop\Galvo 20181227.011.00 7v  19order\Meter\bin\Debug\JinnMeter.pdb
+C:\Users\Server\Desktop\Galvo 20181227.011.00 7v  19order\Meter\bin\Debug\Automation.BDaq4.dll
+C:\Users\Server\Desktop\Galvo 20181227.011.00 7v  19order\Meter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\Server\Desktop\Galvo 20181227.011.00 7v  19order\Meter\bin\Debug\Timer.dll
+C:\Users\Server\Desktop\Galvo 20181227.011.00 7v  19order\Meter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\Server\Desktop\Galvo 20181227.011.00 7v  19order\Meter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\Server\Desktop\Galvo 20181227.011.00 7v  19order\Meter\bin\Debug\Timer.pdb
+C:\Users\Server\Desktop\Galvo 20181227.011.00 7v  19order\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\Galvo 20181227.011.00 7v  19order\Meter\obj\Debug\JinnMeter.Form1.resources
+C:\Users\Server\Desktop\Galvo 20181227.011.00 7v  19order\Meter\obj\Debug\JinnMeter.Properties.Resources.resources
+C:\Users\Server\Desktop\Galvo 20181227.011.00 7v  19order\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+F:\Galvo 20181227.011.00 7v  19order\Meter\bin\Debug\JinnMeter.exe.config
+F:\Galvo 20181227.011.00 7v  19order\Meter\obj\Debug\JinnMeter.exe
+F:\Galvo 20181227.011.00 7v  19order\Meter\obj\Debug\JinnMeter.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181227.011.00 7v  19order\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\Galvo 20181227.011.00 7v  19order\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\COMPUTER\Desktop\Galvo 20181227.011.00 7v  19order\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\COMPUTER\Desktop\Galvo 20181227.011.00 7v  19order\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\COMPUTER\Desktop\Galvo 20181227.011.00 7v  19order\Meter\bin\Debug\Meter.exe.config
+C:\Users\COMPUTER\Desktop\Galvo 20181227.011.00 7v  19order\Meter\bin\Debug\Meter.exe
+C:\Users\COMPUTER\Desktop\Galvo 20181227.011.00 7v  19order\Meter\bin\Debug\Meter.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181227.011.00 7v  19order\Meter\bin\Debug\Automation.BDaq4.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181227.011.00 7v  19order\Meter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181227.011.00 7v  19order\Meter\bin\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181227.011.00 7v  19order\Meter\bin\Debug\ZedGraph.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181227.011.00 7v  19order\Meter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181227.011.00 7v  19order\Meter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\COMPUTER\Desktop\Galvo 20181227.011.00 7v  19order\Meter\bin\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181227.011.00 7v  19order\Meter\obj\Debug\Meter.exe
+C:\Users\COMPUTER\Desktop\Galvo 20181227.011.00 7v  19order\Meter\obj\Debug\Meter.pdb
+C:\Users\COMPUTER\Desktop\GalvoType2 20190328.000.02 7v  19order\Meter\bin\Debug\Meter.exe.config
+C:\Users\COMPUTER\Desktop\GalvoType2 20190328.000.02 7v  19order\Meter\bin\Debug\Meter.exe
+C:\Users\COMPUTER\Desktop\GalvoType2 20190328.000.02 7v  19order\Meter\bin\Debug\Meter.pdb
+C:\Users\COMPUTER\Desktop\GalvoType2 20190328.000.02 7v  19order\Meter\bin\Debug\Automation.BDaq4.dll
+C:\Users\COMPUTER\Desktop\GalvoType2 20190328.000.02 7v  19order\Meter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\GalvoType2 20190328.000.02 7v  19order\Meter\bin\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\GalvoType2 20190328.000.02 7v  19order\Meter\bin\Debug\ZedGraph.dll
+C:\Users\COMPUTER\Desktop\GalvoType2 20190328.000.02 7v  19order\Meter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\GalvoType2 20190328.000.02 7v  19order\Meter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\COMPUTER\Desktop\GalvoType2 20190328.000.02 7v  19order\Meter\bin\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\GalvoType2 20190328.000.02 7v  19order\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\GalvoType2 20190328.000.02 7v  19order\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\COMPUTER\Desktop\GalvoType2 20190328.000.02 7v  19order\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\COMPUTER\Desktop\GalvoType2 20190328.000.02 7v  19order\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\COMPUTER\Desktop\GalvoType2 20190328.000.02 7v  19order\Meter\obj\Debug\Meter.exe
+C:\Users\COMPUTER\Desktop\GalvoType2 20190328.000.02 7v  19order\Meter\obj\Debug\Meter.pdb
+C:\Users\Server\Desktop\GalvoType2 20190328.000.02 7v  19order\Meter\bin\Debug\Meter.exe.config
+C:\Users\Server\Desktop\GalvoType2 20190328.000.02 7v  19order\Meter\bin\Debug\Meter.exe
+C:\Users\Server\Desktop\GalvoType2 20190328.000.02 7v  19order\Meter\bin\Debug\Meter.pdb
+C:\Users\Server\Desktop\GalvoType2 20190328.000.02 7v  19order\Meter\bin\Debug\Automation.BDaq4.dll
+C:\Users\Server\Desktop\GalvoType2 20190328.000.02 7v  19order\Meter\bin\Debug\PseudoLaserSystem.dll
+C:\Users\Server\Desktop\GalvoType2 20190328.000.02 7v  19order\Meter\bin\Debug\Timer.dll
+C:\Users\Server\Desktop\GalvoType2 20190328.000.02 7v  19order\Meter\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\Server\Desktop\GalvoType2 20190328.000.02 7v  19order\Meter\bin\Debug\PseudoLaserSystem.xml
+C:\Users\Server\Desktop\GalvoType2 20190328.000.02 7v  19order\Meter\bin\Debug\Timer.pdb
+C:\Users\Server\Desktop\GalvoType2 20190328.000.02 7v  19order\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\GalvoType2 20190328.000.02 7v  19order\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\Server\Desktop\GalvoType2 20190328.000.02 7v  19order\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\Server\Desktop\GalvoType2 20190328.000.02 7v  19order\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\Server\Desktop\GalvoType2 20190328.000.02 7v  19order\Meter\obj\Debug\Meter.exe
+C:\Users\Server\Desktop\GalvoType2 20190328.000.02 7v  19order\Meter\obj\Debug\Meter.pdb
+C:\Users\Server\Desktop\GalvoType2 20190510.000.02 7v  19order\Meter\obj\Debug\Meter.exe
+C:\Users\Server\Desktop\GalvoType2 20190510.000.02 7v  19order\Meter\obj\Debug\Meter.pdb
+C:\Users\Server\Desktop\GalvoType2 20190510.000.02 7v  19order\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\GalvoType2 20190510.000.02 7v  19order\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\Server\Desktop\GalvoType2 20190510.000.02 7v  19order\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\Server\Desktop\GalvoType2 20190510.000.02 7v  19order\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\Server\Desktop\GalvoType2 20190527.000.02 7v  19order\Meter\obj\Debug\Meter.exe
+C:\Users\Server\Desktop\GalvoType2 20190527.000.02 7v  19order\Meter\obj\Debug\Meter.pdb
+C:\Users\Server\Desktop\GalvoType2 20190527.000.02 7v  19order\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\GalvoType2 20190527.000.02 7v  19order\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\Server\Desktop\GalvoType2 20190527.000.02 7v  19order\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\Server\Desktop\GalvoType2 20190527.000.02 7v  19order\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\Server\Desktop\GalvoType2 20190528.000.02 7v  19order\Meter\obj\Debug\Meter.exe
+C:\Users\Server\Desktop\GalvoType2 20190528.000.02 7v  19order\Meter\obj\Debug\Meter.pdb
+C:\Users\Server\Desktop\GalvoType2 20190528.000.02 7v  19order\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\GalvoType2 20190528.000.02 7v  19order\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\Server\Desktop\GalvoType2 20190528.000.02 7v  19order\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\Server\Desktop\GalvoType2 20190528.000.02 7v  19order\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\Server\Desktop\GalvoType5 20190528.000.02 7v  19order\Meter\obj\Debug\Meter.exe
+C:\Users\Server\Desktop\GalvoType5 20190528.000.02 7v  19order\Meter\obj\Debug\Meter.pdb
+C:\Users\Server\Desktop\GalvoType5 20190528.000.02 7v  19order\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\GalvoType5 20190528.000.02 7v  19order\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\Server\Desktop\GalvoType5 20190528.000.02 7v  19order\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\Server\Desktop\GalvoType5 20190528.000.02 7v  19order\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\Server\Desktop\GalvoType5 20190528.000.03 7v  19order\Meter\obj\Debug\Meter.exe
+C:\Users\Server\Desktop\GalvoType5 20190528.000.03 7v  19order\Meter\obj\Debug\Meter.pdb
+C:\Users\Server\Desktop\GalvoType5 20190528.000.03 7v  19order\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\GalvoType5 20190528.000.03 7v  19order\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\Server\Desktop\GalvoType5 20190528.000.03 7v  19order\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\Server\Desktop\GalvoType5 20190528.000.03 7v  19order\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\Server\Desktop\GalvoType5 20190528.000.04 7v  19order\Meter\obj\Debug\Meter.exe
+C:\Users\Server\Desktop\GalvoType5 20190528.000.04 7v  19order\Meter\obj\Debug\Meter.pdb
+C:\Users\Server\Desktop\GalvoType5 20190528.000.04 7v  19order\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\GalvoType5 20190528.000.04 7v  19order\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\Server\Desktop\GalvoType5 20190528.000.04 7v  19order\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\Server\Desktop\GalvoType5 20190528.000.04 7v  19order\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\Server\Desktop\GalvoType5 20190528.000.05 7v  19order\Meter\obj\Debug\Meter.exe
+C:\Users\Server\Desktop\GalvoType5 20190528.000.05 7v  19order\Meter\obj\Debug\Meter.pdb
+C:\Users\Server\Desktop\GalvoType5 20190528.000.05 7v  19order\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\GalvoType5 20190528.000.05 7v  19order\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\Server\Desktop\GalvoType5 20190528.000.05 7v  19order\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\Server\Desktop\GalvoType5 20190528.000.05 7v  19order\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\Server\Desktop\GalvoType5 20190618.000.05 7v  19order\Meter\obj\Debug\Meter.exe
+C:\Users\Server\Desktop\GalvoType5 20190618.000.05 7v  19order\Meter\obj\Debug\Meter.pdb
+C:\Users\Server\Desktop\GalvoType5 20190618.000.05 7v  19order\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\GalvoType5 20190618.000.05 7v  19order\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\Server\Desktop\GalvoType5 20190618.000.05 7v  19order\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\Server\Desktop\GalvoType5 20190618.000.05 7v  19order\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\NaokiSo\Desktop\GalvoType5 20190618.000.05 7v  19order\Meter\obj\Debug\Meter.exe
+C:\Users\NaokiSo\Desktop\GalvoType5 20190618.000.05 7v  19order\Meter\obj\Debug\Meter.pdb
+C:\Users\NaokiSo\Desktop\GalvoType5 20190618.000.05 7v  19order\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\NaokiSo\Desktop\GalvoType5 20190618.000.05 7v  19order\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\NaokiSo\Desktop\GalvoType5 20190618.000.05 7v  19order\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\NaokiSo\Desktop\GalvoType5 20190618.000.05 7v  19order\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\NaokiSo\Desktop\GalvoType5 20190618.000.05 7v  19order green\Meter\obj\Debug\Meter.exe
+C:\Users\NaokiSo\Desktop\GalvoType5 20190618.000.05 7v  19order green\Meter\obj\Debug\Meter.pdb
+C:\Users\NaokiSo\Desktop\GalvoType5 20190618.000.05 7v  19order green\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\NaokiSo\Desktop\GalvoType5 20190618.000.05 7v  19order green\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\NaokiSo\Desktop\GalvoType5 20190618.000.05 7v  19order green\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\NaokiSo\Desktop\GalvoType5 20190618.000.05 7v  19order green\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\NaokiSo\Desktop\GalvoType5 20190619.005.01 7v  19order green\Meter\obj\Debug\Meter.exe
+C:\Users\NaokiSo\Desktop\GalvoType5 20190619.005.01 7v  19order green\Meter\obj\Debug\Meter.pdb
+C:\Users\Server\Desktop\GalvoType5 20190619.005.01 7v  19order green\Meter\obj\Debug\Meter.exe
+C:\Users\Server\Desktop\GalvoType5 20190619.005.01 7v  19order green\Meter\obj\Debug\Meter.pdb
+C:\Users\Server\Desktop\GalvoType5 20190619.005.01 7v  19order green\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\GalvoType5 20190619.005.01 7v  19order green\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\Server\Desktop\GalvoType5 20190619.005.01 7v  19order green\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\Server\Desktop\GalvoType5 20190619.005.01 7v  19order green\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\Server\Desktop\GalvoType5 20190701.005.01 7v  19order green\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\Server\Desktop\GalvoType5 20190701.005.01 7v  19order green\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\Server\Desktop\GalvoType5 20190701.005.01 7v  19order green\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\Server\Desktop\GalvoType5 20190701.005.01 7v  19order green\Meter\obj\Debug\Meter.exe
+C:\Users\Server\Desktop\GalvoType5 20190701.005.01 7v  19order green\Meter\obj\Debug\Meter.pdb
+C:\Users\Server\Desktop\GalvoType5 20190701.005.01 7v  19order green\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\Windows\SysWOW64\Meter.exe.config
+C:\Users\NaokiSo\Desktop\新增資料夾 (2)\GalvoType5 20190701.005.01 7v  19order green\Meter\obj\Debug\Meter.exe
+C:\Users\NaokiSo\Desktop\新增資料夾 (2)\GalvoType5 20190701.005.01 7v  19order green\Meter\obj\Debug\Meter.pdb
+C:\Users\NaokiSo\Desktop\GalvoType5 20200121.005.01 7v  19order green\GalvoType5 20200121.005.01 7v  19order green\Meter\obj\Debug\Meter.exe
+C:\Users\NaokiSo\Desktop\GalvoType5 20200121.005.01 7v  19order green\GalvoType5 20200121.005.01 7v  19order green\Meter\obj\Debug\Meter.pdb
+C:\Users\NaokiSo\Desktop\GalvoNew 2020206.000.01\Meter\obj\Debug\Meter.exe
+C:\Users\NaokiSo\Desktop\GalvoNew 2020206.000.01\Meter\obj\Debug\Meter.pdb
+C:\Users\NaokiSo\Desktop\GalvoNew 2020206.000.01\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\NaokiSo\Desktop\GalvoNew 2020206.000.01\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\NaokiSo\Desktop\GalvoNew 2020206.000.01\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\NaokiSo\Desktop\GalvoNew 2020206.000.01\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\Server\Desktop\GalvoNew 2020206.000.01\Meter\obj\Debug\Meter.exe
+C:\Users\Server\Desktop\GalvoNew 2020206.000.01\Meter\obj\Debug\Meter.pdb
+C:\Users\Server\Desktop\GalvoNew 2020206.000.01\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\GalvoNew 2020206.000.01\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\Server\Desktop\GalvoNew 2020206.000.01\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\Server\Desktop\GalvoNew 2020206.000.01\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\NaokiSo\Desktop\GalvoNew 2020206.000.02\Meter\obj\Debug\Meter.exe
+C:\Users\NaokiSo\Desktop\GalvoNew 2020206.000.02\Meter\obj\Debug\Meter.pdb
+C:\Users\NaokiSo\Desktop\GalvoNew 2020206.000.02\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\NaokiSo\Desktop\GalvoNew 2020206.000.02\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\NaokiSo\Desktop\GalvoNew 2020206.000.02\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\NaokiSo\Desktop\GalvoNew 2020206.000.02\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\Server\Desktop\GalvoNew 2020206.000.03\Meter\obj\Debug\Meter.exe
+C:\Users\Server\Desktop\GalvoNew 2020206.000.03\Meter\obj\Debug\Meter.pdb
+C:\Users\Server\Desktop\GalvoNew 2020206.000.03\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\GalvoNew 2020206.000.03\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\Server\Desktop\GalvoNew 2020206.000.03\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\Server\Desktop\GalvoNew 2020206.000.03\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\NaokiSo\Desktop\GalvoNew 2020214.000.03\Meter\obj\Debug\Meter.exe
+C:\Users\NaokiSo\Desktop\GalvoNew 2020214.000.03\Meter\obj\Debug\Meter.pdb
+C:\Users\Server\Desktop\GalvoNew 2020214.000.03\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\Server\Desktop\GalvoNew 2020214.000.03\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\Server\Desktop\GalvoNew 2020214.000.03\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\Server\Desktop\GalvoNew 2020214.000.03\Meter\obj\Debug\Meter.exe
+C:\Users\Server\Desktop\GalvoNew 2020214.000.03\Meter\obj\Debug\Meter.pdb
+C:\Users\Server\Desktop\GalvoNew 2020221.000.04\Meter\obj\Debug\Meter.exe
+C:\Users\Server\Desktop\GalvoNew 2020221.000.04\Meter\obj\Debug\Meter.pdb
+C:\Users\Server\Desktop\GalvoNew 2020221.000.04\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\GalvoNew 2020221.000.04\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\Server\Desktop\GalvoNew 2020221.000.04\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\Server\Desktop\GalvoNew 2020221.000.04\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\Server\Desktop\GalvoNew 2020224.000.04\Meter\obj\Debug\Meter.exe
+C:\Users\Server\Desktop\GalvoNew 2020224.000.04\Meter\obj\Debug\Meter.pdb
+C:\Users\Server\Desktop\GalvoNew 2020224.000.04\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\GalvoNew 2020224.000.04\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\Server\Desktop\GalvoNew 2020224.000.04\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\Server\Desktop\GalvoNew 2020224.000.04\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\Server\Desktop\GalvoNew 2020225.000.04\Meter\obj\Debug\Meter.exe
+C:\Users\Server\Desktop\GalvoNew 2020225.000.04\Meter\obj\Debug\Meter.pdb
+C:\Users\Server\Desktop\GalvoNew 2020225.000.04\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\GalvoNew 2020225.000.04\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\Server\Desktop\GalvoNew 2020225.000.04\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\Server\Desktop\GalvoNew 2020225.000.04\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\Server\Desktop\GalvoNew 2020225.000.05\Meter\obj\Debug\Meter.exe
+C:\Users\Server\Desktop\GalvoNew 2020225.000.05\Meter\obj\Debug\Meter.pdb
+C:\Users\Server\Desktop\GalvoNew 2020225.000.05\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\GalvoNew 2020225.000.05\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\Server\Desktop\GalvoNew 2020225.000.05\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\Server\Desktop\GalvoNew 2020225.000.05\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\NaokiSo\Desktop\GalvoNew 2020227.000.05\GalvoNew 2020227.000.05\Meter\obj\Debug\Meter.exe
+C:\Users\NaokiSo\Desktop\GalvoNew 2020227.000.05\GalvoNew 2020227.000.05\Meter\obj\Debug\Meter.pdb
+C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\obj\Debug\Meter.exe
+C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\obj\Debug\Meter.pdb
+C:\Users\Server\Desktop\GalvoNew 20200304.000.05\Meter\obj\Debug\Meter.exe
+C:\Users\Server\Desktop\GalvoNew 20200304.000.05\Meter\obj\Debug\Meter.pdb
+C:\Users\Server\Desktop\GalvoNew 20200304.000.05\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\GalvoNew 20200304.000.05\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\Server\Desktop\GalvoNew 20200304.000.05\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\Server\Desktop\GalvoNew 20200304.000.05\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\Server\Desktop\GalvoNew 20200306.000.05\GalvoNew 20200306.000.05\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\GalvoNew 20200306.000.05\GalvoNew 20200306.000.05\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\Server\Desktop\GalvoNew 20200306.000.05\GalvoNew 20200306.000.05\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\Server\Desktop\GalvoNew 20200306.000.05\GalvoNew 20200306.000.05\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\Server\Desktop\GalvoNew 20200306.000.05\GalvoNew 20200306.000.05\Meter\obj\Debug\Meter.exe
+C:\Users\Server\Desktop\GalvoNew 20200306.000.05\GalvoNew 20200306.000.05\Meter\obj\Debug\Meter.pdb
+C:\Users\Windows\SysWOW64\Meter.exe
+C:\Users\Windows\SysWOW64\Meter.pdb
+C:\Users\Server\Desktop\GalvoNew 20200306.000.05\Meter\obj\Debug\Meter.exe
+C:\Users\Server\Desktop\GalvoNew 20200306.000.05\Meter\obj\Debug\Meter.pdb
+C:\Users\Server\Desktop\GalvoNew 20200306.000.05\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\GalvoNew 20200306.000.05\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\Server\Desktop\GalvoNew 20200306.000.05\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\Server\Desktop\GalvoNew 20200306.000.05\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+D:\Windows\SysWOW64\Meter.exe.config
+D:\311.RD-SW-SrcCode\大毅~T1修阻機 綠光新機\GalvoNew 20200320.000.05\Meter\obj\Debug\Meter.exe
+D:\311.RD-SW-SrcCode\大毅~T1修阻機 綠光新機\GalvoNew 20200320.000.05\Meter\obj\Debug\Meter.pdb
+C:\Users\Server\Desktop\GalvoNew 20200320.000.05\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\GalvoNew 20200320.000.05\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\Server\Desktop\GalvoNew 20200320.000.05\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\Server\Desktop\GalvoNew 20200320.000.05\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\Server\Desktop\GalvoNew 20200320.000.05\Meter\obj\Debug\Meter.exe
+C:\Users\Server\Desktop\GalvoNew 20200320.000.05\Meter\obj\Debug\Meter.pdb
+C:\Users\Server\Desktop\GalvoNew 20200323.000.05\Meter\obj\Debug\Meter.exe
+C:\Users\Server\Desktop\GalvoNew 20200323.000.05\Meter\obj\Debug\Meter.pdb
+C:\Users\Server\Desktop\GalvoNew 20200323.000.05\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\GalvoNew 20200323.000.05\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\Server\Desktop\GalvoNew 20200323.000.05\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\Server\Desktop\GalvoNew 20200323.000.05\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\NaokiSo\Desktop\GalvoNew 20200324.000.05\Meter\obj\Debug\Meter.exe
+C:\Users\NaokiSo\Desktop\GalvoNew 20200324.000.05\Meter\obj\Debug\Meter.pdb
+C:\Users\Server\Desktop\GalvoNew 20200407.000.05\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\GalvoNew 20200407.000.05\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\Server\Desktop\GalvoNew 20200407.000.05\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\Server\Desktop\GalvoNew 20200407.000.05\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\Server\Desktop\GalvoNew 20200407.000.05\Meter\obj\Debug\Meter.exe
+C:\Users\Server\Desktop\GalvoNew 20200407.000.05\Meter\obj\Debug\Meter.pdb
+C:\Users\Server\Desktop\GalvoNew 20200407.000.09\Meter\obj\Debug\Meter.exe
+C:\Users\Server\Desktop\GalvoNew 20200407.000.09\Meter\obj\Debug\Meter.pdb
+C:\Users\Server\Desktop\GalvoNew 20200407.000.09\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\GalvoNew 20200407.000.09\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\Server\Desktop\GalvoNew 20200407.000.09\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\Server\Desktop\GalvoNew 20200407.000.09\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\NaokiSo\Desktop\GalvoNew 20200407.000.09\Meter\obj\Debug\Meter.exe
+C:\Users\NaokiSo\Desktop\GalvoNew 20200407.000.09\Meter\obj\Debug\Meter.pdb
+C:\Users\NaokiSo\Desktop\GalvoNew 20200407.000.09\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\NaokiSo\Desktop\GalvoNew 20200407.000.09\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\NaokiSo\Desktop\GalvoNew 20200407.000.09\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\NaokiSo\Desktop\GalvoNew 20200407.000.09\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\Server\Desktop\GalvoNew 20200407.000.10\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\GalvoNew 20200407.000.10\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\Server\Desktop\GalvoNew 20200407.000.10\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\Server\Desktop\GalvoNew 20200407.000.10\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\Server\Desktop\GalvoNew 20200407.000.10\Meter\obj\Debug\Meter.exe
+C:\Users\Server\Desktop\GalvoNew 20200407.000.10\Meter\obj\Debug\Meter.pdb
+C:\Users\NaokiSo\Desktop\GalvoNew 20200407.000.11\Meter\obj\Debug\Meter.exe
+C:\Users\NaokiSo\Desktop\GalvoNew 20200407.000.11\Meter\obj\Debug\Meter.pdb
+C:\Users\NaokiSo\Desktop\GalvoNew 20200407.000.11\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\NaokiSo\Desktop\GalvoNew 20200407.000.11\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\NaokiSo\Desktop\GalvoNew 20200407.000.11\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\NaokiSo\Desktop\GalvoNew 20200407.000.11\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\Server\Desktop\GalvoNew 20200407.000.11\Meter\obj\Debug\Meter.exe
+C:\Users\Server\Desktop\GalvoNew 20200407.000.11\Meter\obj\Debug\Meter.pdb
+C:\Users\Server\Desktop\GalvoNew 20200407.000.11\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\GalvoNew 20200407.000.11\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\Server\Desktop\GalvoNew 20200407.000.11\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\Server\Desktop\GalvoNew 20200407.000.11\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\Server\Desktop\GalvoNew 20200602.000.11\Meter\obj\Debug\Meter.exe
+C:\Users\Server\Desktop\GalvoNew 20200602.000.11\Meter\obj\Debug\Meter.pdb
+C:\Users\Server\Desktop\GalvoNew 20200602.000.11\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\GalvoNew 20200602.000.11\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\Server\Desktop\GalvoNew 20200602.000.11\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\Server\Desktop\GalvoNew 20200602.000.11\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\NaokiSo\Desktop\GalvoNew 20200602.000.11\Meter\obj\Debug\Meter.exe
+C:\Users\NaokiSo\Desktop\GalvoNew 20200602.000.11\Meter\obj\Debug\Meter.pdb
+C:\Users\NaokiSo\Desktop\GalvoNew 20200605.000.11\Meter\obj\Debug\Meter.exe
+C:\Users\NaokiSo\Desktop\GalvoNew 20200605.000.11\Meter\obj\Debug\Meter.pdb
+C:\Users\NaokiSo\Desktop\GalvoNew 20200605.000.11\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\NaokiSo\Desktop\GalvoNew 20200605.000.11\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\NaokiSo\Desktop\GalvoNew 20200605.000.11\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\NaokiSo\Desktop\GalvoNew 20200605.000.11\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\Server\Desktop\GalvoNew 20200606.000.11\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\GalvoNew 20200606.000.11\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\Server\Desktop\GalvoNew 20200606.000.11\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\Server\Desktop\GalvoNew 20200606.000.11\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\Server\Desktop\GalvoNew 20200606.000.11\Meter\obj\Debug\Meter.exe
+C:\Users\Server\Desktop\GalvoNew 20200606.000.11\Meter\obj\Debug\Meter.pdb
+C:\Users\Server\Desktop\GalvoNew 20200611.000.11\Meter\obj\Debug\Meter.exe
+C:\Users\Server\Desktop\GalvoNew 20200611.000.11\Meter\obj\Debug\Meter.pdb
+C:\Users\Server\Desktop\GalvoNew 20200611.000.11\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\GalvoNew 20200611.000.11\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\Server\Desktop\GalvoNew 20200611.000.11\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\Server\Desktop\GalvoNew 20200611.000.11\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\Server\Desktop\GalvoNew 20200611.000.12\Meter\obj\Debug\Meter.exe
+C:\Users\Server\Desktop\GalvoNew 20200611.000.12\Meter\obj\Debug\Meter.pdb
+C:\Users\Server\Desktop\GalvoNew 20200611.000.12\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\GalvoNew 20200611.000.12\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\Server\Desktop\GalvoNew 20200611.000.12\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\Server\Desktop\GalvoNew 20200611.000.12\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\Server\Desktop\GalvoNew 20200612.000.12\Meter\obj\Debug\Meter.exe
+C:\Users\Server\Desktop\GalvoNew 20200612.000.12\Meter\obj\Debug\Meter.pdb
+C:\Users\Server\Desktop\GalvoNew 20200612.000.12\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\GalvoNew 20200612.000.12\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\Server\Desktop\GalvoNew 20200612.000.12\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\Server\Desktop\GalvoNew 20200612.000.12\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\ZhengYe\Desktop\TrimType01_02\GalvoNew 20200615.000.12\Meter\obj\Debug\Meter.exe
+C:\Users\ZhengYe\Desktop\TrimType01_02\GalvoNew 20200615.000.12\Meter\obj\Debug\Meter.pdb
+C:\Users\ALin\Desktop\GalvoNew 20200619.000.12\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\GalvoNew 20200619.000.12\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\ALin\Desktop\GalvoNew 20200619.000.12\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\ALin\Desktop\GalvoNew 20200619.000.12\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\GalvoNew 20200619.000.12\Meter\obj\Debug\Meter.exe
+C:\Users\ALin\Desktop\GalvoNew 20200619.000.12\Meter\obj\Debug\Meter.pdb
+C:\Users\Server\Desktop\GalvoNew 20200619.000.12\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\GalvoNew 20200619.000.12\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\Server\Desktop\GalvoNew 20200619.000.12\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\Server\Desktop\GalvoNew 20200619.000.12\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\Server\Desktop\GalvoNew 20200619.000.12\Meter\obj\Debug\Meter.exe
+C:\Users\Server\Desktop\GalvoNew 20200619.000.12\Meter\obj\Debug\Meter.pdb
+C:\Users\KFACFA\Desktop\GalvoNew 20200619.000.12\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\KFACFA\Desktop\GalvoNew 20200619.000.12\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\KFACFA\Desktop\GalvoNew 20200619.000.12\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\KFACFA\Desktop\GalvoNew 20200619.000.12\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\KFACFA\Desktop\GalvoNew 20200619.000.12\Meter\obj\Debug\Meter.exe
+C:\Users\KFACFA\Desktop\GalvoNew 20200619.000.12\Meter\obj\Debug\Meter.pdb
+C:\Users\KFACFA\Desktop\GalvoNew 20200819.000.12\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\KFACFA\Desktop\GalvoNew 20200819.000.12\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\KFACFA\Desktop\GalvoNew 20200819.000.12\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\KFACFA\Desktop\GalvoNew 20200819.000.12\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\KFACFA\Desktop\GalvoNew 20200819.000.12\Meter\obj\Debug\Meter.exe
+C:\Users\KFACFA\Desktop\GalvoNew 20200819.000.12\Meter\obj\Debug\Meter.pdb
+C:\Users\NaokiSo\Desktop\新增資料夾 (2)\GalvoNew 20200819.000.12\Meter\obj\Debug\Meter.exe
+C:\Users\NaokiSo\Desktop\新增資料夾 (2)\GalvoNew 20200819.000.12\Meter\obj\Debug\Meter.pdb
+C:\Users\NaokiSo\Desktop\新增資料夾 (2)\GalvoNew 20201222.015.01\Meter\obj\Debug\Meter.exe
+C:\Users\NaokiSo\Desktop\新增資料夾 (2)\GalvoNew 20201222.015.01\Meter\obj\Debug\Meter.pdb
+C:\Users\NaokiSo\Desktop\新增資料夾 (2)\GalvoNew 20201222.015.01\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\NaokiSo\Desktop\新增資料夾 (2)\GalvoNew 20201222.015.01\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\NaokiSo\Desktop\新增資料夾 (2)\GalvoNew 20201222.015.01\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\NaokiSo\Desktop\新增資料夾 (2)\GalvoNew 20201222.015.01\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\KFACFA\Desktop\GalvoNew 20201222.015.01\Meter\obj\Debug\Meter.exe
+C:\Users\KFACFA\Desktop\GalvoNew 20201222.015.01\Meter\obj\Debug\Meter.pdb
+C:\Users\KFACFA\Desktop\GalvoNew 20201222.015.01\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\KFACFA\Desktop\GalvoNew 20201222.015.01\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\KFACFA\Desktop\GalvoNew 20201222.015.01\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\KFACFA\Desktop\GalvoNew 20201222.015.01\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\Server\Desktop\GalvoNew 20201222.015.01\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\GalvoNew 20201222.015.01\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\Server\Desktop\GalvoNew 20201222.015.01\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\Server\Desktop\GalvoNew 20201222.015.01\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\Server\Desktop\GalvoNew 20201222.015.01\Meter\obj\Debug\Meter.exe
+C:\Users\Server\Desktop\GalvoNew 20201222.015.01\Meter\obj\Debug\Meter.pdb
+C:\Users\ALin\Desktop\GalvoNew 20201222.015.02\Meter\obj\Debug\Meter.exe
+C:\Users\ALin\Desktop\GalvoNew 20201222.015.02\Meter\obj\Debug\Meter.pdb
+C:\Users\ALin\Desktop\GalvoNew 20201222.015.02\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\GalvoNew 20201222.015.02\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\ALin\Desktop\GalvoNew 20201222.015.02\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\ALin\Desktop\GalvoNew 20201222.015.02\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Windows\SysWOW64\Meter.exe.config
+C:\Windows\SysWOW64\Meter.exe
+C:\Windows\SysWOW64\Meter.pdb
+C:\Users\Server\Desktop\GalvoNew 20210602.015.03\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\GalvoNew 20210602.015.03\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\Server\Desktop\GalvoNew 20210602.015.03\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\Server\Desktop\GalvoNew 20210602.015.03\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\Server\Desktop\GalvoNew 20210602.015.03\Meter\obj\Debug\Meter.exe
+C:\Users\Server\Desktop\GalvoNew 20210602.015.03\Meter\obj\Debug\Meter.pdb
+C:\Users\ALin\Desktop\GalvoNew 20210602.015.04\Meter\obj\Debug\Meter.exe
+C:\Users\ALin\Desktop\GalvoNew 20210602.015.04\Meter\obj\Debug\Meter.pdb
+C:\Users\Server\Desktop\GalvoNew 20210602.015.05\Meter\obj\Debug\Meter.exe
+C:\Users\Server\Desktop\GalvoNew 20210602.015.05\Meter\obj\Debug\Meter.pdb
+C:\Users\Server\Desktop\GalvoNew 20210602.015.05\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\GalvoNew 20210602.015.05\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\Server\Desktop\GalvoNew 20210602.015.05\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\Server\Desktop\GalvoNew 20210602.015.05\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\Server\Desktop\GalvoNew 20210602.015.06\Meter\obj\Debug\Meter.exe
+C:\Users\Server\Desktop\GalvoNew 20210602.015.06\Meter\obj\Debug\Meter.pdb
+C:\Users\Server\Desktop\GalvoNew 20210602.015.06\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\GalvoNew 20210602.015.06\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\Server\Desktop\GalvoNew 20210602.015.06\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\Server\Desktop\GalvoNew 20210602.015.06\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\GalvoNew 20210602.015.06\Meter\obj\Debug\Meter.exe
+C:\Users\ALin\Desktop\GalvoNew 20210602.015.06\Meter\obj\Debug\Meter.pdb
+C:\Users\ALin\Desktop\GalvoNew 20210602.015.06\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\GalvoNew 20210602.015.06\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\ALin\Desktop\GalvoNew 20210602.015.06\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\ALin\Desktop\GalvoNew 20210602.015.06\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\DaLam\GalvoNew 20210608.015.07\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\DaLam\GalvoNew 20210608.015.07\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\ALin\Desktop\DaLam\GalvoNew 20210608.015.07\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\ALin\Desktop\DaLam\GalvoNew 20210608.015.07\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\DaLam\GalvoNew 20210608.015.07\Meter\obj\Debug\Meter.exe
+C:\Users\ALin\Desktop\DaLam\GalvoNew 20210608.015.07\Meter\obj\Debug\Meter.pdb
+D:\GalvoNew\GalvoNew 20210610.015.08\Meter\obj\Debug\Meter.exe
+D:\GalvoNew\GalvoNew 20210610.015.08\Meter\obj\Debug\Meter.pdb
+C:\Users\NaokiSo\Desktop\GalvoNew 20211108.015.09\Meter\obj\Debug\Meter.exe
+C:\Users\NaokiSo\Desktop\GalvoNew 20211108.015.09\Meter\obj\Debug\Meter.pdb
+C:\Users\Server\Desktop\GalvoNew 20211108.015.09\Meter\obj\Debug\Meter.exe
+C:\Users\Server\Desktop\GalvoNew 20211108.015.09\Meter\obj\Debug\Meter.pdb
+C:\Users\Server\Desktop\GalvoNew 20211108.015.09\Meter\obj\Debug\TrimEng.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\GalvoNew 20211108.015.09\Meter\obj\Debug\Meter.Form1.resources
+C:\Users\Server\Desktop\GalvoNew 20211108.015.09\Meter\obj\Debug\Meter.Properties.Resources.resources
+C:\Users\Server\Desktop\GalvoNew 20211108.015.09\Meter\obj\Debug\TrimEng.csproj.GenerateResource.Cache

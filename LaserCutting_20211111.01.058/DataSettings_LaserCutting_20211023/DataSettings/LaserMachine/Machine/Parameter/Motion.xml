@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<RootNode Document_Version_="1.00" SDK_Enviroment_="Visual Basic 2008 SP1" BuildDate="2021/5/11 下午 07:35:21">
+  <Motion_0 Index="0" Attributes="">
+    <HomeAcc Index="0" NodeType="Double">490000</HomeAcc>
+    <HomeHighSpeed Index="0" NodeType="Double">14000</HomeHighSpeed>
+    <HomeLowSpeed Index="0" NodeType="Double">1500</HomeLowSpeed>
+    <HomeOffset Index="0" NodeType="Double">-1000</HomeOffset>
+    <HomeEscapeDis Index="0" NodeType="Double">7000</HomeEscapeDis>
+    <ParamSwMax Index="0" NodeType="Double">1000000</ParamSwMax>
+    <ParamSwMin Index="0" NodeType="Double">-1000000</ParamSwMin>
+    <ParamSwScale Index="0" NodeType="Double">0.22</ParamSwScale>
+    <ParamEnrScale Index="0" NodeType="Double">1</ParamEnrScale>
+    <SpeedIacc Index="0" NodeType="Double">100000</SpeedIacc>
+    <SpeedIdec Index="0" NodeType="Double">100000</SpeedIdec>
+    <SpeedMaxConstrainedVel Index="0" NodeType="Double">100000</SpeedMaxConstrainedVel>
+    <SpeedMaxVel Index="0" NodeType="Double">100000</SpeedMaxVel>
+    <SpeedMaxVelCircle Index="0" NodeType="Double">100000</SpeedMaxVelCircle>
+    <SpeedMaxVelLinear Index="0" NodeType="Double">100000</SpeedMaxVelLinear>
+    <SpeedRatioAcc Index="0" NodeType="Double">1</SpeedRatioAcc>
+    <SpeedRatioMaxVel Index="0" NodeType="Double">1</SpeedRatioMaxVel>
+    <SpeedSacc Index="0" NodeType="Double">1</SpeedSacc>
+    <SpeedSdec Index="0" NodeType="Double">0</SpeedSdec>
+    <SpeedStrVel Index="0" NodeType="Double">2000</SpeedStrVel>
+    <SpeedTacc Index="0" NodeType="Double">0</SpeedTacc>
+    <SpeedAcc Index="0" NodeType="Double">500000</SpeedAcc>
+    <SpeedAccCircle Index="0" NodeType="Double">500000</SpeedAccCircle>
+    <SpeedAccLinear Index="0" NodeType="Double">500000</SpeedAccLinear>
+    <SpeedTdec Index="0" NodeType="Double">0</SpeedTdec>
+    <SpeedDec Index="0" NodeType="Double">500000</SpeedDec>
+    <SpeedDecCircle Index="0" NodeType="Double">500000</SpeedDecCircle>
+    <SpeedDecLinear Index="0" NodeType="Double">500000</SpeedDecLinear>
+  </Motion_0>
+</RootNode>

@@ -1,0 +1,60 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage_MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+       <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <link href="../CSS/HangHoa.css" rel="stylesheet" />
+    <link href="../CSS/Resposive.css" rel="stylesheet" />
+    <script src="../Js/jquery-3.1.1.js"></script>
+    <script src="../Js/Common.js"></script>
+    <asp:ContentPlaceHolder id="head" runat="server">
+        
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+
+   <div class="greyback divDong">
+    <form id="form1" runat="server">
+        <header>
+            <div class="divLogo">
+                <div class="logo">
+                    <img src="../Image/user_info.png" class="img" onclick="openNavmenuUser();" title="Thông tin"/>
+                </div>
+            </div>
+            <nav>
+                <asp:Repeater ID="rptmenu" runat="server" OnItemCommand="rptmenu_ItemCommand">
+                    <HeaderTemplate>
+                        <div class="divMenuNgang">
+                            <ul class="ul">
+                    </HeaderTemplate>
+                    <ItemTemplate>
+                        <li class="li" >
+                            <a color:"#ffffff" href='<%# Eval("TenTrang") %>' class=' a <%# ((Request["tab"]!=null)&&(Request["tab"].Equals(Eval("keys").ToString()))?"mainmenuselected":"link") %>'><%# Eval("TenMenu") %></a>
+                        </li>
+                    </ItemTemplate> 
+                    <FooterTemplate>
+                            </ul>
+                        </div>
+                    </FooterTemplate>
+                </asp:Repeater>
+            </nav>
+        </header>
+        <div class="sidenavmenuUser" id="sidenavmenuUser" style="border:0px solid rgba(255, 255, 255, 0)">
+            <ul class="ul">
+                <li><asp:Label ID="lblUser" runat="server" Text="hoailam"></asp:Label></li>
+                <li><a href="http://hanghoa.ehr.vn/ChangePassword.aspx?returnpage=http%3a%2f%2fhanghoa.ehr.vn%2fpersonal%2fDefault.aspx">Đổi mật khẩu</a></li>
+                <li><a href="../Logout.aspx">Đăng xuất</a></li>
+            </ul>
+        </div>
+    </form>
+</div>
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        <div >
+
+        </div>
+    </asp:ContentPlaceHolder>
+</body>
+</html>

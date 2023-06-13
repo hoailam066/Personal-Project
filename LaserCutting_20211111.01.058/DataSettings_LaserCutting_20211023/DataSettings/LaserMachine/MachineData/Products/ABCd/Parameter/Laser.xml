@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<RootNode Document_Version_="1.00" SDK_Enviroment_="Visual Basic 2008 SP1" BuildDate="2021/4/17 下午 05:09:56">
+  <Parameter Index="0" Attributes="">
+    <VariableLaser_PRR Index="0" NodeType="Double">100</VariableLaser_PRR>
+    <VariableLaser_Power Index="0" NodeType="Double">20</VariableLaser_Power>
+    <VariableLaser_OffsetX Index="0" NodeType="Int32">-850</VariableLaser_OffsetX>
+    <VariableLaser_OffsetY Index="0" NodeType="Int32">-7200</VariableLaser_OffsetY>
+    <VariableLaser_Angle Index="0" NodeType="Double">-2</VariableLaser_Angle>
+  </Parameter>
+</RootNode>

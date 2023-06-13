@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PseudoLaserSystem", "PseudoLaserSystem\PseudoLaserSystem.vbproj", "{325DF046-4303-4CAD-9E7A-A85C177537A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrimEng", "Meter\TrimEng.csproj", "{E76DA14B-ECC4-4CEF-875D-B44677817833}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timer", "Timer\Timer.csproj", "{7BF68625-EF75-4EE6-B1ED-5C8014DF603D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{325DF046-4303-4CAD-9E7A-A85C177537A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{325DF046-4303-4CAD-9E7A-A85C177537A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{325DF046-4303-4CAD-9E7A-A85C177537A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{325DF046-4303-4CAD-9E7A-A85C177537A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E76DA14B-ECC4-4CEF-875D-B44677817833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E76DA14B-ECC4-4CEF-875D-B44677817833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E76DA14B-ECC4-4CEF-875D-B44677817833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E76DA14B-ECC4-4CEF-875D-B44677817833}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BF68625-EF75-4EE6-B1ED-5C8014DF603D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BF68625-EF75-4EE6-B1ED-5C8014DF603D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BF68625-EF75-4EE6-B1ED-5C8014DF603D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BF68625-EF75-4EE6-B1ED-5C8014DF603D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

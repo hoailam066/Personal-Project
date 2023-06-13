@@ -1,0 +1,752 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PseudoDevice
+</name>
+</assembly>
+<members>
+<member name="P:PseudoDevice.CAxisParameter.SwMax">
+	<summary>
+ 軟體正極限
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CAxisParameter.SwMin">
+	<summary>
+ 軟體負極限
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CAxisParameter.SwScale">
+	<summary>
+ 物理單位和脈衝量轉換比例
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CAxisParameter.EnrScale">
+	<summary>
+ 物理單位和脈衝量轉換比例
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:PseudoDevice.CAdlink785XDO.CylGo(System.Int32,PseudoDevice.enumCyllogic)">
+	<summary>
+	</summary>
+	<param name="CylIdx"></param>
+	<param name="Status"></param>
+	<remarks>
+ 0-&gt; Action Close Normal Open
+ 1-&gt; Action Close Normal Close
+ 2-&gt; Action Open  Normal Close
+ </remarks>
+</member><member name="M:PseudoDevice.CAdvantech1711DO.CylGo(System.Int32,PseudoDevice.enumCyllogic)">
+	<summary>
+	</summary>
+	<param name="CylIdx"></param>
+	<param name="Status"></param>
+	<remarks>
+ 0-&gt; Action Close Normal Open
+ 1-&gt; Action Close Normal Close
+ 2-&gt; Action Open  Normal Close
+ </remarks>
+</member><member name="M:PseudoDevice.CAdvantech1758UDO.CylGo(System.Int32,PseudoDevice.enumCyllogic)">
+	<summary>
+	</summary>
+	<param name="CylIdx"></param>
+	<param name="Status"></param>
+	<remarks>
+ 0-&gt; Action Close Normal Open
+ 1-&gt; Action Close Normal Close
+ 2-&gt; Action Open  Normal Close
+ </remarks>
+</member><member name="M:PseudoDevice.CDMC5480DO.CylGo(System.Int32,PseudoDevice.enumCyllogic)">
+	<summary>
+	</summary>
+	<param name="CylIdx"></param>
+	<param name="Status"></param>
+	<remarks>
+ 0-&gt; Action Close Normal Open
+ 1-&gt; Action Close Normal Close
+ 2-&gt; Action Open  Normal Close
+ </remarks>
+</member><member name="P:PseudoDevice.CAxisBased.CardID">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CAxisBased.AxisID">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CAxisBased.GroupID">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CAxisBased.CardName">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CAxisBased.AxisName">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CAxisBased.CardType">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CAxisBased.Param">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CAxisBased.Mode">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CAxisBased.Speed">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CAxisBased.IO">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CAxisBased.Status">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:PseudoDevice.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:PseudoDevice.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:PseudoDevice.CD2kDaskAO.PrepareWaveform(System.Int32,System.Int32,System.Int32,PseudoDevice.enumWaveformParamType,System.Int16[])">
+	<summary>
+ Prepare Waveform
+ </summary>
+	<param name="pDistance">Distance between 2 points</param>
+	<param name="pSpeed">Speed</param>
+	<param name="pWaveformParam">Frequency (Hz) or Time (us)</param>
+	<param name="pWaveformParamType">enumWaveformParamType: Frequency or Time</param>
+	<param name="pAO_Buff">Array AO buffer for channel 0</param>
+	<remarks></remarks>
+</member><member name="M:PseudoDevice.CD2kDaskAO.PrepareWaveform(System.Int32,System.Int32,System.Int32,PseudoDevice.enumWaveformParamType,System.Int16[],System.Int16[])">
+	<summary>
+ Prepare Waveform
+ </summary>
+	<param name="pDistance">Distance between 2 points</param>
+	<param name="pSpeed">Speed</param>
+	<param name="pWaveformParam">Frequency (Hz) or Time (us)</param>
+	<param name="pWaveformParamType">enumWaveformParamType: Frequency or Time</param>
+	<param name="pAO_Buff0">Array AO buffer for channel 0</param>
+	<param name="pAO_Buff1">Array AO buffer for channel 1</param>
+	<remarks></remarks>
+</member><member name="M:PseudoDevice.CD2kDaskAO.PrepareWaveform(System.Int32,System.Int32,System.Int32,PseudoDevice.enumWaveformParamType,System.Int16[],System.Int16[],System.Int16[])">
+	<summary>
+ Prepare Waveform
+ </summary>
+	<param name="pDistance">Distance between 2 points</param>
+	<param name="pSpeed">Speed</param>
+	<param name="pWaveformParam">Frequency (Hz) or Time (us)</param>
+	<param name="pWaveformParamType">enumWaveformParamType: Frequency or Time</param>
+	<param name="pAO_Buff0">Array AO buffer for channel 0</param>
+	<param name="pAO_Buff1">Array AO buffer for channel 1</param>
+	<param name="pAO_Buff2">Array AO buffer for channel 2</param>
+	<remarks></remarks>
+</member><member name="M:PseudoDevice.CD2kDaskAO.PrepareWaveform(System.Int32,System.Int32,System.Int32,PseudoDevice.enumWaveformParamType,System.Int16[],System.Int16[],System.Int16[],System.Int16[])">
+	<summary>
+ Prepare Waveform
+ </summary>
+	<param name="pDistance">Distance between 2 points</param>
+	<param name="pSpeed">Speed</param>
+	<param name="pWaveformParam">Frequency (Hz) or Time (us)</param>
+	<param name="pWaveformParamType">enumWaveformParamType: Frequency or Time</param>
+	<param name="pAO_Buff0">Array AO buffer for channel 0</param>
+	<param name="pAO_Buff1">Array AO buffer for channel 1</param>
+	<param name="pAO_Buff2">Array AO buffer for channel 2</param>
+	<param name="pAO_Buff3">Array AO buffer for channel 3</param>
+	<remarks></remarks>
+</member><member name="M:PseudoDevice.CD2kDaskAO.PrepareWaveform(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,PseudoDevice.enumWaveformParamType,System.Int16[])">
+	<summary>
+ Prepare Waveform
+ </summary>
+	<param name="pStartX">X position of the start point</param>
+	<param name="pStartY">Y position of the start point</param>
+	<param name="pEndX">X position of the end point</param>
+	<param name="pEndY">Y position of the end point</param>
+	<param name="pSpeed">Speed</param>
+	<param name="pWaveformParam">Frequency (Hz) or Time (us)</param>
+	<param name="pWaveformParamType">enumWaveformParamType: Frequency or Time</param>
+	<param name="pAO_Buff">Array AO buffer for channel 0</param>
+	<remarks></remarks>
+</member><member name="M:PseudoDevice.CD2kDaskAO.PrepareWaveform(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,PseudoDevice.enumWaveformParamType,System.Int16[],System.Int16[])">
+	<summary>
+ Prepare Waveform
+ </summary>
+	<param name="pStartX">X position of the start point</param>
+	<param name="pStartY">Y position of the start point</param>
+	<param name="pEndX">X position of the end point</param>
+	<param name="pEndY">Y position of the end point</param>
+	<param name="pSpeed">Speed</param>
+	<param name="pWaveformParam">Frequency (Hz) or Time (us)</param>
+	<param name="pWaveformParamType">enumWaveformParamType: Frequency or Time</param>
+	<param name="pAO_Buff0">Array AO buffer for channel 0</param>
+	<param name="pAO_Buff1">Array AO buffer for channel 1</param>
+	<remarks></remarks>
+</member><member name="M:PseudoDevice.CD2kDaskAO.PrepareWaveform(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,PseudoDevice.enumWaveformParamType,System.Int16[],System.Int16[],System.Int16[])">
+	<summary>
+ Prepare Waveform
+ </summary>
+	<param name="pStartX">X position of the start point</param>
+	<param name="pStartY">Y position of the start point</param>
+	<param name="pEndX">X position of the end point</param>
+	<param name="pEndY">Y position of the end point</param>
+	<param name="pSpeed">Speed</param>
+	<param name="pWaveformParam">Frequency (Hz) or Time (us)</param>
+	<param name="pWaveformParamType">enumWaveformParamType: Frequency or Time</param>
+	<param name="pAO_Buff0">Array AO buffer for channel 0</param>
+	<param name="pAO_Buff1">Array AO buffer for channel 1</param>
+	<param name="pAO_Buff2">Array AO buffer for channel 2</param>
+	<remarks></remarks>
+</member><member name="M:PseudoDevice.CD2kDaskAO.PrepareWaveform(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,PseudoDevice.enumWaveformParamType,System.Int16[],System.Int16[],System.Int16[],System.Int16[])">
+	<summary>
+ Prepare Waveform
+ </summary>
+	<param name="pStartX">X position of the start point</param>
+	<param name="pStartY">Y position of the start point</param>
+	<param name="pEndX">X position of the end point</param>
+	<param name="pEndY">Y position of the end point</param>
+	<param name="pSpeed">Speed</param>
+	<param name="pWaveformParam">Frequency (Hz) or Time (us)</param>
+	<param name="pWaveformParamType">enumWaveformParamType: Frequency or Time</param>
+	<param name="pAO_Buff0">Array AO buffer for channel 0</param>
+	<param name="pAO_Buff1">Array AO buffer for channel 1</param>
+	<param name="pAO_Buff2">Array AO buffer for channel 2</param>
+	<param name="pAO_Buff3">Array AO buffer for channel 3</param>
+	<remarks></remarks>
+</member><member name="M:PseudoDevice.CD2kDaskAO.PrepareWaveform(System.Int16[],System.Double,PseudoDevice.enumWaveformParamType)">
+	<summary>
+ Prepare Waveform
+ </summary>
+	<param name="pAO_Buff">Array AO buffer for channel 0</param>
+	<param name="pWaveformParam">Frequency (Hz) or Time (us)</param>
+	<param name="pWaveformParamType">enumWaveformParamType: Frequency or Time</param>
+	<remarks></remarks>
+</member><member name="M:PseudoDevice.CD2kDaskAO.PrepareWaveformSolder(System.Int16[],System.Double,PseudoDevice.enumWaveformParamType)">
+	<summary>
+ Prepare Waveform Solder
+ </summary>
+	<param name="pAO_Buff">Array AO buffer for channel 0</param>
+	<param name="pWaveformParam">Frequency (Hz) or Time (us)</param>
+	<param name="pWaveformParamType">enumWaveformParamType: Frequency or Time</param>
+	<remarks></remarks>
+</member><member name="M:PseudoDevice.CD2kDaskAO.PrepareWaveform(System.Int16[],System.Int16[],System.Int32,PseudoDevice.enumWaveformParamType)">
+	<summary>
+ Prepare Waveform
+ </summary>
+	<param name="pAO_Buff0">Array AO buffer for channel 0</param>
+	<param name="pAO_Buff1">Array AO buffer for channel 1</param>
+	<param name="pWaveformParam">Frequency (Hz) or Time (us)</param>
+	<param name="pWaveformParamType">enumWaveformParamType: Frequency or Time</param>
+	<remarks></remarks>
+</member><member name="M:PseudoDevice.CD2kDaskAO.PrepareWaveform(System.Int16[],System.Int16[],System.Int16[],System.Int32,PseudoDevice.enumWaveformParamType)">
+	<summary>
+ Prepare Waveform
+ </summary>
+	<param name="pAO_Buff0">Array AO buffer for channel 0</param>
+	<param name="pAO_Buff1">Array AO buffer for channel 1</param>
+	<param name="pAO_Buff2">Array AO buffer for channel 2</param>
+	<param name="pWaveformParam">Frequency (Hz) or Time (us)</param>
+	<param name="pWaveformParamType">enumWaveformParamType: Frequency or Time</param>
+	<remarks></remarks>
+</member><member name="M:PseudoDevice.CD2kDaskAO.PrepareWaveform(System.Int16[],System.Int16[],System.Int16[],System.Int16[],System.Int32,PseudoDevice.enumWaveformParamType)">
+	<summary>
+ Prepare Waveform
+ </summary>
+	<param name="pAO_Buff0">Array AO buffer for channel 0</param>
+	<param name="pAO_Buff1">Array AO buffer for channel 1</param>
+	<param name="pAO_Buff2">Array AO buffer for channel 2</param>
+	<param name="pAO_Buff3">Array AO buffer for channel 3</param>
+	<param name="pWaveformParam">Frequency (Hz) or Time (us)</param>
+	<param name="pWaveformParamType">enumWaveformParamType: Frequency or Time</param>
+	<remarks></remarks>
+</member><member name="M:PseudoDevice.CDO.CylGo(System.Int32,PseudoDevice.enumCyllogic)">
+	<summary>
+	</summary>
+	<param name="CylIdx"></param>
+	<param name="Status"></param>
+	<remarks>
+ 0-&gt; Action Close Normal Open
+ 1-&gt; Action Close Normal Close
+ 2-&gt; Action Open  Normal Close
+ </remarks>
+</member><member name="F:PseudoDevice.CIO.m_RdyInput">
+	<summary>
+ RDY
+ </summary>
+	<remarks></remarks>
+</member><member name="F:PseudoDevice.CIO.m_AlarmSignal">
+	<summary>
+ ALM
+ </summary>
+	<remarks></remarks>
+</member><member name="F:PseudoDevice.CIO.m_PositiveLimitSwitch">
+	<summary>
+ +EL
+ </summary>
+	<remarks></remarks>
+</member><member name="F:PseudoDevice.CIO.m_NegativeLimitSwitch">
+	<summary>
+ -EL
+ </summary>
+	<remarks></remarks>
+</member><member name="F:PseudoDevice.CIO.m_OriginSwitch">
+	<summary>
+ ORG
+ </summary>
+	<remarks></remarks>
+</member><member name="F:PseudoDevice.CIO.m_DIROutput">
+	<summary>
+ DIR
+ </summary>
+	<remarks></remarks>
+</member><member name="F:PseudoDevice.CIO.m_EMGStatus">
+	<summary>
+ EMG
+ </summary>
+	<remarks></remarks>
+</member><member name="F:PseudoDevice.CIO.m_PCSSignalInput">
+	<summary>
+ PCS
+ </summary>
+	<remarks></remarks>
+</member><member name="F:PseudoDevice.CIO.m_ERCOutput">
+	<summary>
+ ERC
+ </summary>
+	<remarks></remarks>
+</member><member name="F:PseudoDevice.CIO.m_IndexSignal">
+	<summary>
+ EZ
+ </summary>
+	<remarks></remarks>
+</member><member name="F:PseudoDevice.CIO.m_ClearSignal">
+	<summary>
+ CLR
+ </summary>
+	<remarks></remarks>
+</member><member name="F:PseudoDevice.CIO.m_LatchSignalInput">
+	<summary>
+ LTC
+ </summary>
+	<remarks></remarks>
+</member><member name="F:PseudoDevice.CIO.m_InPositionSignalInput">
+	<summary>
+ INP
+ </summary>
+	<remarks></remarks>
+</member><member name="F:PseudoDevice.CIO.m_ServoOnOutput">
+	<summary>
+ SVON
+ </summary>
+	<remarks></remarks>
+</member><member name="F:PseudoDevice.CIO.m_PositiveSlowDownPoint">
+	<summary>
+ +SD
+ </summary>
+	<remarks></remarks>
+</member><member name="F:PseudoDevice.CIO.m_NegativeSlowDownPoint">
+	<summary>
+ -SD
+ </summary>
+	<remarks></remarks>
+</member><member name="F:PseudoDevice.CIO.m_InterruptStatus">
+	<summary>
+ INT
+ </summary>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CIO.PositiveLimitSwitch">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CIO.NegativeLimitSwitch">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CIO.PositiveSlowDownPoint">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CIO.NegativeSlowDownPoint">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CIO.OriginSwitch">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CIO.IndexSignal">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CIO.AlarmSignal">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CIO.ServoOnOutput">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CIO.RdyInput">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CIO.InterruptStatus">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CIO.ERCOutput">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CIO.InPositionSignalInput">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CIO.DIROutput">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CIO.EMGStatus">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CIO.PCSSignalInput">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CIO.ClearSignal">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CIO.LatchSignalInput">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CMotionStatus.MovementIsFinished">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:PseudoDevice.CAdlinkAMP204.MoveFeederPoint(System.Int32,System.Int32,System.Collections.Generic.List{System.String}@,PseudoDevice.enumMotionFlag@)">
+	<summary>
+	</summary>
+	<param name="AxisID1"></param>
+	<param name="AxisID2"></param>
+	<param name="rtnData"></param>
+	<param name="pResult"></param>
+	<remarks></remarks>
+</member><member name="T:PseudoDevice.COM_DEVICE">
+	<summary>
+ Structure to store communication settings.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:PseudoDevice.Yaskawa.ymcClearAllAxes">
+	<summary>
+ Deleting axis all definition
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CHome.EscapeDis">
+	<summary>
+ 復歸時遮到原點要直接退開距離
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CHome.HighSpeed">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CHome.LowSpeed">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CHome.Acc">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CHome.Offset">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CMode.AlarmMode">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CMode.AlarmLogic">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CMode.InpEnable">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CMode.InpLogic">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CMode.SdEnable">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CMode.SdLogic">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CMode.SdLatch">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CMode.ERCEnable">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CMode.HomeMode">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CMode.OrgLogic">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CMode.OrgLatch">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CMode.EZLogic">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CMode.PCSLogic">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CMode.PCSEnable">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CMode.ClrMode">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CMode.HomeDir">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CMode.IsServo">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CMode.LimitMode">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CMode.LimitLogic">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CSpeed.MaxConstrainedVel">
+	<summary>
+ 最大脈波速度
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CSpeed.RatioMaxVel">
+	<summary>
+ 速度比例
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CSpeed.RatioAcc">
+	<summary>
+ 加速度時間比例
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CSpeed.MaxVel">
+	<summary>
+ 速度剖面最大速度
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CSpeed.StrVel">
+	<summary>
+ 速度剖面起始速度
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CSpeed.Iacc">
+	<summary>
+ 速度剖面加速段急跳度
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CSpeed.Idec">
+	<summary>
+ 速度剖面減速段急跳度
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CSpeed.Tacc">
+	<summary>
+ 加速時間
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CSpeed.Tdec">
+	<summary>
+ 減速時間
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CSpeed.Sacc">
+	<summary>
+ 加速段S曲線速度
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:PseudoDevice.CSpeed.Sdec">
+	<summary>
+ 減速段S曲線速度
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

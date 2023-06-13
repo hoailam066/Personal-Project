@@ -1,0 +1,121 @@
+C:\Users\COMPUTER\Desktop\Galvo 20181004.002.00\JinnMeter\Timer\bin\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181004.002.00\JinnMeter\Timer\bin\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181004.002.00\JinnMeter\Timer\obj\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181004.002.00\JinnMeter\Timer\obj\Debug\Timer.pdb
+C:\Users\NaokiSo\Desktop\Galvo 20181016.002.01\Timer\obj\Debug\Timer.pdb
+C:\Users\NaokiSo\Desktop\Galvo 20181016.002.01\Timer\bin\Debug\Timer.dll
+C:\Users\NaokiSo\Desktop\Galvo 20181016.002.01\Timer\bin\Debug\Timer.pdb
+C:\Users\NaokiSo\Desktop\Galvo 20181016.002.01\Timer\obj\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181016.002.01\Timer\bin\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181016.002.01\Timer\bin\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181016.002.01\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\Galvo 20181016.002.01\Timer\obj\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181016.002.01\Timer\obj\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181029.002.04\Timer\bin\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181029.002.04\Timer\bin\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181029.002.04\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\Galvo 20181029.002.04\Timer\obj\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181029.002.04\Timer\obj\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181030.003.00\Timer\bin\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181030.003.00\Timer\bin\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181030.003.00\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\Galvo 20181030.003.00\Timer\obj\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181030.003.00\Timer\obj\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181031.004.00\Timer\bin\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181031.004.00\Timer\bin\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181031.004.00\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\Galvo 20181031.004.00\Timer\obj\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181031.004.00\Timer\obj\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181116.006.00 6.4v\Timer\bin\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181116.006.00 6.4v\Timer\bin\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181116.006.00 6.4v\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\Galvo 20181116.006.00 6.4v\Timer\obj\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181116.006.00 6.4v\Timer\obj\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181205.008.00 6.4v  14order\Timer\bin\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181205.008.00 6.4v  14order\Timer\bin\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181205.008.00 6.4v  14order\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\Galvo 20181205.008.00 6.4v  14order\Timer\obj\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181205.008.00 6.4v  14order\Timer\obj\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181206.008.00 7v  14order\Timer\bin\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181206.008.00 7v  14order\Timer\bin\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181206.008.00 7v  14order\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\Galvo 20181206.008.00 7v  14order\Timer\obj\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181206.008.00 7v  14order\Timer\obj\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181207.009.00 7v  14order\Timer\bin\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181207.009.00 7v  14order\Timer\bin\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181207.009.00 7v  14order\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\Galvo 20181207.009.00 7v  14order\Timer\obj\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181207.009.00 7v  14order\Timer\obj\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181212.010.00 7v  14order\Timer\bin\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181212.010.00 7v  14order\Timer\bin\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181212.010.00 7v  14order\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\Galvo 20181212.010.00 7v  14order\Timer\obj\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181212.010.00 7v  14order\Timer\obj\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181218.010.02 6.4v  14order\Timer\bin\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181218.010.02 6.4v  14order\Timer\bin\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181218.010.02 6.4v  14order\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\Galvo 20181218.010.02 6.4v  14order\Timer\obj\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181218.010.02 6.4v  14order\Timer\obj\Debug\Timer.pdb
+C:\Users\Server\Desktop\Galvo 20181227.011.00 7v  19order\Timer\bin\Debug\Timer.dll
+C:\Users\Server\Desktop\Galvo 20181227.011.00 7v  19order\Timer\bin\Debug\Timer.pdb
+C:\Users\Server\Desktop\Galvo 20181227.011.00 7v  19order\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\Galvo 20181227.011.00 7v  19order\Timer\obj\Debug\Timer.dll
+C:\Users\Server\Desktop\Galvo 20181227.011.00 7v  19order\Timer\obj\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181227.011.00 7v  19order\Timer\bin\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181227.011.00 7v  19order\Timer\bin\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181227.011.00 7v  19order\Timer\obj\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181227.011.00 7v  19order\Timer\obj\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\GalvoType2 20190328.000.02 7v  19order\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\GalvoType2 20190328.000.02 7v  19order\Timer\obj\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\GalvoType2 20190328.000.02 7v  19order\Timer\obj\Debug\Timer.pdb
+C:\Users\Server\Desktop\GalvoType2 20190328.000.02 7v  19order\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\GalvoType2 20190328.000.02 7v  19order\Timer\obj\Debug\Timer.dll
+C:\Users\Server\Desktop\GalvoType2 20190328.000.02 7v  19order\Timer\obj\Debug\Timer.pdb
+C:\Users\Server\Desktop\GalvoType2 20190528.000.02 7v  19order\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\GalvoType2 20190528.000.02 7v  19order\Timer\obj\Debug\Timer.dll
+C:\Users\Server\Desktop\GalvoType2 20190528.000.02 7v  19order\Timer\obj\Debug\Timer.pdb
+C:\Users\Server\Desktop\GalvoType5 20190528.000.02 7v  19order\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\GalvoType5 20190528.000.02 7v  19order\Timer\obj\Debug\Timer.dll
+C:\Users\Server\Desktop\GalvoType5 20190528.000.02 7v  19order\Timer\obj\Debug\Timer.pdb
+C:\Users\NaokiSo\Desktop\GalvoType5 20190618.000.05 7v  19order\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+C:\Users\NaokiSo\Desktop\GalvoType5 20190618.000.05 7v  19order\Timer\obj\Debug\Timer.dll
+C:\Users\NaokiSo\Desktop\GalvoType5 20190618.000.05 7v  19order\Timer\obj\Debug\Timer.pdb
+C:\Users\NaokiSo\Desktop\GalvoType5 20190618.000.05 7v  19order green\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+C:\Users\NaokiSo\Desktop\GalvoType5 20190618.000.05 7v  19order green\Timer\obj\Debug\Timer.dll
+C:\Users\NaokiSo\Desktop\GalvoType5 20190618.000.05 7v  19order green\Timer\obj\Debug\Timer.pdb
+C:\Users\NaokiSo\Desktop\GalvoNew 20200407.000.09\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+C:\Users\NaokiSo\Desktop\GalvoNew 20200407.000.09\Timer\obj\Debug\Timer.dll
+C:\Users\NaokiSo\Desktop\GalvoNew 20200407.000.09\Timer\obj\Debug\Timer.pdb
+C:\Users\Server\Desktop\GalvoNew 20200407.000.10\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\GalvoNew 20200407.000.10\Timer\obj\Debug\Timer.dll
+C:\Users\Server\Desktop\GalvoNew 20200407.000.10\Timer\obj\Debug\Timer.pdb
+C:\Users\NaokiSo\Desktop\GalvoNew 20200407.000.11\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+C:\Users\NaokiSo\Desktop\GalvoNew 20200407.000.11\Timer\obj\Debug\Timer.dll
+C:\Users\NaokiSo\Desktop\GalvoNew 20200407.000.11\Timer\obj\Debug\Timer.pdb
+C:\Users\ALin\Desktop\GalvoNew 20200619.000.12\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\GalvoNew 20200619.000.12\Timer\obj\Debug\Timer.dll
+C:\Users\ALin\Desktop\GalvoNew 20200619.000.12\Timer\obj\Debug\Timer.pdb
+C:\Users\Server\Desktop\GalvoNew 20200619.000.12\Timer\obj\Debug\Timer.dll
+C:\Users\Server\Desktop\GalvoNew 20200619.000.12\Timer\obj\Debug\Timer.pdb
+C:\Users\KFACFA\Desktop\GalvoNew 20200619.000.12\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+C:\Users\KFACFA\Desktop\GalvoNew 20200619.000.12\Timer\obj\Debug\Timer.dll
+C:\Users\KFACFA\Desktop\GalvoNew 20200619.000.12\Timer\obj\Debug\Timer.pdb
+C:\Users\KFACFA\Desktop\GalvoNew 20200819.000.12\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+C:\Users\KFACFA\Desktop\GalvoNew 20200819.000.12\Timer\obj\Debug\Timer.dll
+C:\Users\KFACFA\Desktop\GalvoNew 20200819.000.12\Timer\obj\Debug\Timer.pdb
+C:\Users\Windows\SysWOW64\Timer.dll
+C:\Users\NaokiSo\Desktop\新增資料夾 (2)\GalvoNew 20201222.015.01\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+C:\Users\NaokiSo\Desktop\新增資料夾 (2)\GalvoNew 20201222.015.01\Timer\obj\Debug\Timer.dll
+C:\Users\NaokiSo\Desktop\新增資料夾 (2)\GalvoNew 20201222.015.01\Timer\obj\Debug\Timer.pdb
+C:\Users\Windows\SysWOW64\Timer.pdb
+C:\Users\Server\Desktop\GalvoNew 20201222.015.01\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\GalvoNew 20201222.015.01\Timer\obj\Debug\Timer.dll
+C:\Users\Server\Desktop\GalvoNew 20201222.015.01\Timer\obj\Debug\Timer.pdb
+C:\Users\ALin\Desktop\GalvoNew 20201222.015.02\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\GalvoNew 20201222.015.02\Timer\obj\Debug\Timer.dll
+C:\Users\ALin\Desktop\GalvoNew 20201222.015.02\Timer\obj\Debug\Timer.pdb
+C:\Windows\SysWOW64\Timer.dll
+C:\Windows\SysWOW64\Timer.pdb
+C:\Users\Server\Desktop\GalvoNew 20210602.015.03\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\GalvoNew 20210602.015.03\Timer\obj\Debug\Timer.dll
+C:\Users\Server\Desktop\GalvoNew 20210602.015.03\Timer\obj\Debug\Timer.pdb

@@ -1,0 +1,214 @@
+C:\Users\NaokiSo\Desktop\SRType5 20200422.02.015\ViewROI\bin\Debug\ViewROI.exe.config
+C:\Users\NaokiSo\Desktop\SRType5 20200422.02.015\ViewROI\bin\Debug\ViewROI.exe
+C:\Users\NaokiSo\Desktop\SRType5 20200422.02.015\ViewROI\bin\Debug\ViewROI.pdb
+C:\Users\NaokiSo\Desktop\SRType5 20200422.02.015\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\NaokiSo\Desktop\SRType5 20200422.02.015\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\NaokiSo\Desktop\SRType5 20200422.02.015\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\NaokiSo\Desktop\SRType5 20200422.02.015\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\NaokiSo\Desktop\SRType5 20200422.02.015\ViewROI\bin\Debug\halcondotnet.dll
+C:\Users\NaokiSo\Desktop\SRType5 20200422.02.015\ViewROI\bin\Debug\halcondotnet.xml
+C:\Users\NaokiSo\Desktop\SRType5 20200422.02.015\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\SRType5 20200422.02.017\ViewROI\bin\Debug\ViewROI.exe.config
+C:\Users\MyUser\Desktop\SRType5 20200422.02.017\ViewROI\bin\Debug\ViewROI.exe
+C:\Users\MyUser\Desktop\SRType5 20200422.02.017\ViewROI\bin\Debug\ViewROI.pdb
+C:\Users\MyUser\Desktop\SRType5 20200422.02.017\ViewROI\bin\Debug\halcondotnet.xml
+C:\Users\MyUser\Desktop\SRType5 20200422.02.017\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\SRType5 20200422.02.017\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\MyUser\Desktop\SRType5 20200422.02.017\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\MyUser\Desktop\SRType5 20200422.02.017\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\MyUser\Desktop\SRType5 20200422.02.017\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\MyUser\Desktop\SRType5 20200422.02.017\ViewROI\bin\Debug\halcondotnet.dll
+C:\Users\MyUser\Desktop\SRType4 20200406.05.003release\ViewROI\bin\Debug\ViewROI.exe.config
+C:\Users\MyUser\Desktop\SRType4 20200406.05.003release\ViewROI\bin\Debug\ViewROI.exe
+C:\Users\MyUser\Desktop\SRType4 20200406.05.003release\ViewROI\bin\Debug\ViewROI.pdb
+C:\Users\MyUser\Desktop\SRType4 20200406.05.003release\ViewROI\bin\Debug\halcondotnet.dll
+C:\Users\MyUser\Desktop\SRType4 20200406.05.003release\ViewROI\bin\Debug\halcondotnet.xml
+C:\Users\MyUser\Desktop\SRType4 20200406.05.003release\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\MyUser\Desktop\SRType4 20200406.05.003release\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\MyUser\Desktop\SRType4 20200406.05.003release\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\MyUser\Desktop\SRType4 20200406.05.003release\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\MyUser\Desktop\SRType5 20200423.03.002\ViewROI\bin\Debug\ViewROI.exe.config
+C:\Users\MyUser\Desktop\SRType5 20200423.03.002\ViewROI\bin\Debug\ViewROI.exe
+C:\Users\MyUser\Desktop\SRType5 20200423.03.002\ViewROI\bin\Debug\ViewROI.pdb
+C:\Users\MyUser\Desktop\SRType5 20200423.03.002\ViewROI\bin\Debug\halcondotnet.dll
+C:\Users\MyUser\Desktop\SRType5 20200423.03.002\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\MyUser\Desktop\SRType5 20200423.03.002\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\MyUser\Desktop\SRType5 20200423.03.002\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\MyUser\Desktop\SRType5 20200423.03.002\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\MyUser\Desktop\SRType5 20200423.03.005\ViewROI\bin\Debug\ViewROI.exe.config
+C:\Users\MyUser\Desktop\SRType5 20200423.03.005\ViewROI\bin\Debug\ViewROI.exe
+C:\Users\MyUser\Desktop\SRType5 20200423.03.005\ViewROI\bin\Debug\ViewROI.pdb
+C:\Users\MyUser\Desktop\SRType5 20200423.03.005\ViewROI\bin\Debug\halcondotnet.dll
+C:\Users\MyUser\Desktop\SRType5 20200423.03.005\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\MyUser\Desktop\SRType5 20200423.03.005\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\MyUser\Desktop\SRType5 20200423.03.005\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\MyUser\Desktop\SRType5 20200423.03.005\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\MyUser\Desktop\SRType4 20200507.05.003\ViewROI\bin\Debug\ViewROI.exe.config
+C:\Users\MyUser\Desktop\SRType4 20200507.05.003\ViewROI\bin\Debug\ViewROI.exe
+C:\Users\MyUser\Desktop\SRType4 20200507.05.003\ViewROI\bin\Debug\ViewROI.pdb
+C:\Users\MyUser\Desktop\SRType4 20200507.05.003\ViewROI\bin\Debug\halcondotnet.dll
+C:\Users\MyUser\Desktop\SRType4 20200507.05.003\ViewROI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\SRType4 20200507.05.003\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\MyUser\Desktop\SRType4 20200507.05.003\ViewROI\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\MyUser\Desktop\SRType4 20200507.05.003\ViewROI\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\MyUser\Desktop\SRType4 20200507.05.003\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\MyUser\Desktop\SRType4 20200507.05.003\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\MyUser\Desktop\SR\ViewROI\bin\Debug\ViewROI.exe.config
+C:\Users\MyUser\Desktop\SR\ViewROI\bin\Debug\ViewROI.exe
+C:\Users\MyUser\Desktop\SR\ViewROI\bin\Debug\ViewROI.pdb
+C:\Users\MyUser\Desktop\SR\ViewROI\bin\Debug\halcondotnet.dll
+C:\Users\MyUser\Desktop\SR\ViewROI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\SR\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\MyUser\Desktop\SR\ViewROI\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\MyUser\Desktop\SR\ViewROI\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\MyUser\Desktop\SR\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\MyUser\Desktop\SR\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\MyUser\Desktop\SRType4 20200528.05.014\ViewROI\bin\Debug\ViewROI.exe.config
+C:\Users\MyUser\Desktop\SRType4 20200528.05.014\ViewROI\bin\Debug\ViewROI.exe
+C:\Users\MyUser\Desktop\SRType4 20200528.05.014\ViewROI\bin\Debug\ViewROI.pdb
+C:\Users\MyUser\Desktop\SRType4 20200528.05.014\ViewROI\bin\Debug\halcondotnet.dll
+C:\Users\MyUser\Desktop\SRType4 20200528.05.014\ViewROI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MyUser\Desktop\SRType4 20200528.05.014\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\MyUser\Desktop\SRType4 20200528.05.014\ViewROI\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\MyUser\Desktop\SRType4 20200528.05.014\ViewROI\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\MyUser\Desktop\SRType4 20200528.05.014\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\MyUser\Desktop\SRType4 20200528.05.014\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\MyUser\Desktop\SRType4 20200529.05.016\ViewROI\bin\Debug\ViewROI.exe.config
+C:\Users\MyUser\Desktop\SRType4 20200529.05.016\ViewROI\bin\Debug\ViewROI.exe
+C:\Users\MyUser\Desktop\SRType4 20200529.05.016\ViewROI\bin\Debug\ViewROI.pdb
+C:\Users\MyUser\Desktop\SRType4 20200529.05.016\ViewROI\bin\Debug\halcondotnet.dll
+C:\Users\MyUser\Desktop\SRType4 20200529.05.016\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\MyUser\Desktop\SRType4 20200529.05.016\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\MyUser\Desktop\SRType4 20200529.05.016\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\ZhengYe\Desktop\SRType\SRType4 20200529.05.016\ViewROI\bin\Debug\ViewROI.exe.config
+C:\Users\ZhengYe\Desktop\SRType\SRType4 20200529.05.016\ViewROI\bin\Debug\ViewROI.exe
+C:\Users\ZhengYe\Desktop\SRType\SRType4 20200529.05.016\ViewROI\bin\Debug\ViewROI.pdb
+C:\Users\ZhengYe\Desktop\SRType\SRType4 20200529.05.016\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\ZhengYe\Desktop\SRType\SRType4 20200529.05.016\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\ZhengYe\Desktop\SRType\SRType4 20200529.05.016\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\ZhengYe\Desktop\SRType\SRType4 20200529.05.016\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\MyUser\Desktop\SRType4 20200529.05.016\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\MyUser\Desktop\SRType4 20200529.05.016\ViewROI\bin\Debug\halcondotnet.xml
+C:\Users\MyUser\Desktop\SRType4 20200928.06.003\ViewROI\bin\Debug\ViewROI.exe.config
+C:\Users\MyUser\Desktop\SRType4 20200928.06.003\ViewROI\bin\Debug\ViewROI.exe
+C:\Users\MyUser\Desktop\SRType4 20200928.06.003\ViewROI\bin\Debug\ViewROI.pdb
+C:\Users\MyUser\Desktop\SRType4 20200928.06.003\ViewROI\bin\Debug\halcondotnet.dll
+C:\Users\MyUser\Desktop\SRType4 20200928.06.003\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\MyUser\Desktop\SRType4 20200928.06.003\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\MyUser\Desktop\SRType4 20200928.06.003\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\MyUser\Desktop\SRType4 20200928.06.003\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\MyUser\Desktop\SRType4 20200928.06.004\ViewROI\bin\Debug\ViewROI.exe.config
+C:\Users\MyUser\Desktop\SRType4 20200928.06.004\ViewROI\bin\Debug\ViewROI.exe
+C:\Users\MyUser\Desktop\SRType4 20200928.06.004\ViewROI\bin\Debug\ViewROI.pdb
+C:\Users\MyUser\Desktop\SRType4 20200928.06.004\ViewROI\bin\Debug\halcondotnet.dll
+C:\Users\MyUser\Desktop\SRType4 20200928.06.004\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\MyUser\Desktop\SRType4 20200928.06.004\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\MyUser\Desktop\SRType4 20200928.06.004\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\MyUser\Desktop\SRType4 20200928.06.004\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\Server\Desktop\SRType4 20200928.06.004 大毅畫線機\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\SRType4 20200928.06.004 大毅畫線機\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\Server\Desktop\SRType4 20200928.06.004 大毅畫線機\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\Server\Desktop\SRType4 20200928.06.004 大毅畫線機\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\Server\Desktop\SRType4 20200928.06.004 大毅畫線機\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Windows\System32\ViewROI.exe.config
+C:\Windows\System32\ViewROI.exe
+C:\Windows\System32\ViewROI.pdb
+C:\Users\Server\Desktop\LaserSolder_20210201.001.25\ViewROI\bin\Debug\ViewROI.exe.config
+C:\Users\Server\Desktop\LaserSolder_20210201.001.25\ViewROI\bin\Debug\ViewROI.exe
+C:\Users\Server\Desktop\LaserSolder_20210201.001.25\ViewROI\bin\Debug\ViewROI.pdb
+C:\Users\Server\Desktop\LaserSolder_20210201.001.25\ViewROI\bin\Debug\halcondotnet.dll
+C:\Users\Server\Desktop\LaserSolder_20210201.001.25\ViewROI\bin\Debug\halcondotnet.xml
+C:\Users\Server\Desktop\LaserSolder_20210201.001.25\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\Server\Desktop\LaserSolder_20210201.001.25\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\Server\Desktop\LaserSolder_20210201.001.25\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\Server\Desktop\LaserSolder_20210201.001.25\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\Server\Desktop\LaserSolder_20210201.001.25\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\LaserSolder_20210209.001.27\ViewROI\bin\Debug\ViewROI.exe.config
+C:\Users\Server\Desktop\LaserSolder_20210209.001.27\ViewROI\bin\Debug\ViewROI.exe
+C:\Users\Server\Desktop\LaserSolder_20210209.001.27\ViewROI\bin\Debug\ViewROI.pdb
+C:\Users\Server\Desktop\LaserSolder_20210209.001.27\ViewROI\bin\Debug\halcondotnet.dll
+C:\Users\Server\Desktop\LaserSolder_20210209.001.27\ViewROI\bin\Debug\halcondotnet.xml
+C:\Users\Server\Desktop\LaserSolder_20210209.001.27\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\Server\Desktop\LaserSolder_20210209.001.27\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\Server\Desktop\LaserSolder_20210209.001.27\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\Server\Desktop\LaserSolder_20210209.001.27\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\Server\Desktop\LaserSolder_20210330.001.30\ViewROI\bin\Debug\ViewROI.exe.config
+C:\Users\Server\Desktop\LaserSolder_20210330.001.30\ViewROI\bin\Debug\ViewROI.exe
+C:\Users\Server\Desktop\LaserSolder_20210330.001.30\ViewROI\bin\Debug\ViewROI.pdb
+C:\Users\Server\Desktop\LaserSolder_20210330.001.30\ViewROI\bin\Debug\halcondotnet.dll
+C:\Users\Server\Desktop\LaserSolder_20210330.001.30\ViewROI\bin\Debug\halcondotnet.xml
+C:\Users\Server\Desktop\LaserSolder_20210330.001.30\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\Server\Desktop\LaserSolder_20210330.001.30\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\Server\Desktop\LaserSolder_20210330.001.30\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\Server\Desktop\LaserSolder_20210330.001.30\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\Server\Desktop\LaserSolder_20210330.001.31\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\LaserSolder_20210330.001.31\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\Server\Desktop\LaserSolder_20210330.001.31\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\Server\Desktop\LaserSolder_20210330.001.31\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\Server\Desktop\LaserSolder_20210330.001.31\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\Server\Desktop\LaserSolder_20210406.001.34\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\LaserSolder_20210406.001.34\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\Server\Desktop\LaserSolder_20210406.001.34\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\Server\Desktop\LaserSolder_20210406.001.34\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\Server\Desktop\LaserSolder_20210406.001.34\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\Server\Desktop\LaserSolder_20210407.001.35\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\LaserSolder_20210407.001.35\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\Server\Desktop\LaserSolder_20210407.001.35\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\Server\Desktop\LaserSolder_20210407.001.35\ViewROI\obj\x86\Debug\ViewROI.exe
+C:\Users\Server\Desktop\LaserSolder_20210407.001.35\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\Client\Desktop\LaserSolder_20210407.001.36\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserSolder_20210407.001.36\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\Client\Desktop\LaserSolder_20210407.001.36\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserSolder_20210407.001.36\ViewROI\obj\x86\Debug\ViewROI.dll
+C:\Users\Client\Desktop\LaserSolder_20210407.001.36\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\ALin\Desktop\LaserSolder_20210517.001.37\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\ALin\Desktop\LaserSolder_20210517.001.37\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserSolder_20210517.001.37\ViewROI\obj\x86\Debug\ViewROI.dll
+C:\Users\ALin\Desktop\LaserSolder_20210517.001.37\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\ALin\Desktop\LaserSolder_Type2_20210517.001.37\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\LaserSolder_Type2_20210517.001.37\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\ALin\Desktop\LaserSolder_Type2_20210517.001.37\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserSolder_Type2_20210517.001.37\ViewROI\obj\x86\Debug\ViewROI.dll
+C:\Users\ALin\Desktop\LaserSolder_Type2_20210517.001.37\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\ALin\Desktop\LaserSolder_Type2_20210519.001.38\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\LaserSolder_Type2_20210519.001.38\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\ALin\Desktop\LaserSolder_Type2_20210519.001.38\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserSolder_Type2_20210519.001.38\ViewROI\obj\x86\Debug\ViewROI.dll
+C:\Users\ALin\Desktop\LaserSolder_Type2_20210519.001.38\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\Client\Desktop\LaserSolder_Type2_20210519.001.38\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\Client\Desktop\LaserSolder_Type2_20210519.001.38\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\Client\Desktop\LaserSolder_Type2_20210519.001.38\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\Client\Desktop\LaserSolder_Type2_20210519.001.38\ViewROI\obj\x86\Debug\ViewROI.dll
+C:\Users\Client\Desktop\LaserSolder_Type2_20210519.001.38\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\ALin\Desktop\LaserSolder_Type2_20210615.001.39\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\ALin\Desktop\LaserSolder_Type2_20210615.001.39\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\LaserSolder_Type2_20210615.001.39\ViewROI\obj\x86\Debug\ViewROI.dll
+C:\Users\ALin\Desktop\LaserSolder_Type2_20210615.001.39\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\ALin\Desktop\MeasurePro_20210710.01.001\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\ALin\Desktop\MeasurePro_20210710.01.001\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\MeasurePro_20210710.01.001\ViewROI\obj\x86\Debug\ViewROI.dll
+C:\Users\ALin\Desktop\MeasurePro_20210710.01.001\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\ALin\Desktop\MeasurePro_20210710.01.001\ViewROI\bin\Debug\ViewROI.dll.config
+C:\Users\ALin\Desktop\MeasurePro_20210710.01.001\ViewROI\bin\Debug\ViewROI.dll
+C:\Users\ALin\Desktop\MeasurePro_20210710.01.001\ViewROI\bin\Debug\ViewROI.pdb
+C:\Users\ALin\Desktop\MeasurePro_20210710.01.001\ViewROI\bin\Debug\halcondotnet.dll
+C:\Users\ALin\Desktop\MeasurePro_20210710.01.001\ViewROI\bin\Debug\halcondotnet.xml
+C:\Users\ALin\Desktop\MeasurePro_20210710.01.001\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\Server\Documents\CameraViewer_20210710.01.001\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\Server\Documents\CameraViewer_20210710.01.001\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\Server\Documents\CameraViewer_20210710.01.001\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\Server\Documents\CameraViewer_20210710.01.001\ViewROI\obj\x86\Debug\ViewROI.dll
+C:\Users\Server\Documents\CameraViewer_20210710.01.001\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Users\ALin\Desktop\CameraViewer_20210710.01.001\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\CameraViewer_20210710.01.001\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\ALin\Desktop\CameraViewer_20210710.01.001\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\CameraViewer_20210710.01.001\ViewROI\obj\x86\Debug\ViewROI.dll
+C:\Users\ALin\Desktop\CameraViewer_20210710.01.001\ViewROI\obj\x86\Debug\ViewROI.pdb
+C:\Windows\SysWOW64\ViewROI.dll.config
+C:\Windows\SysWOW64\ViewROI.dll
+C:\Windows\SysWOW64\ViewROI.pdb
+C:\Users\ALin\Desktop\CameraViewer_20210710.01.002\ViewROI\obj\x86\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\CameraViewer_20210710.01.002\ViewROI\obj\x86\Debug\ViewROI.Properties.Resources.resources
+C:\Users\ALin\Desktop\CameraViewer_20210710.01.002\ViewROI\obj\x86\Debug\ViewROI.csproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\CameraViewer_20210710.01.002\ViewROI\obj\x86\Debug\ViewROI.dll
+C:\Users\ALin\Desktop\CameraViewer_20210710.01.002\ViewROI\obj\x86\Debug\ViewROI.pdb

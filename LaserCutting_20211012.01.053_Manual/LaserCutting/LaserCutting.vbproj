@@ -1,0 +1,484 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4A2A31EE-5CBF-40E7-A2F5-41E5FB2E2EF6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>LaserCutting.My.MyApplication</StartupObject>
+    <RootNamespace>LaserCutting</RootNamespace>
+    <AssemblyName>LaserCutting</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>LaserCutting.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Debug\LaserSolder.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.vb</CodeAnalysisModuleSuppressionsFile>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisRuleDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>true</CodeAnalysisIgnoreBuiltInRules>
+    <CodeAnalysisFailOnMissingRules>false</CodeAnalysisFailOnMissingRules>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>LaserCutting.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Release\LaserSolder.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.vb</CodeAnalysisModuleSuppressionsFile>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisRuleDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+    <CodeAnalysisFailOnMissingRules>false</CodeAnalysisFailOnMissingRules>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>C:\Windows\SysWOW64\</OutputPath>
+    <DocumentationFile>LaserCutting.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Debug\LaserSolder.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.vb</CodeAnalysisModuleSuppressionsFile>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>true</CodeAnalysisIgnoreBuiltInRules>
+    <CodeAnalysisFailOnMissingRules>false</CodeAnalysisFailOnMissingRules>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DocumentationFile>LaserCutting.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Release\LaserSolder.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.vb</CodeAnalysisModuleSuppressionsFile>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+    <CodeAnalysisFailOnMissingRules>false</CodeAnalysisFailOnMissingRules>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Icons\main_icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Windows\SysWOW64\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Timer, Version=15.35.0.1, Culture=neutral, PublicKeyToken=40e7debb3a3df089, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Windows\SysWOW64\Timer.dll</HintPath>
+    </Reference>
+    <Reference Include="Xmler, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Windows\SysWOW64\Xmler.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\Attributes.vb" />
+    <Compile Include="Classes\CChangeLanguage.vb" />
+    <Compile Include="Classes\CCorrection.vb" />
+    <Compile Include="Classes\CJobObject.vb" />
+    <Compile Include="Classes\CLaser.vb" />
+    <Compile Include="Classes\CLaserAperture.vb" />
+    <Compile Include="Classes\CLineCtrl.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Classes\CLog.vb" />
+    <Compile Include="Classes\CParam.vb" />
+    <Compile Include="Classes\CPerimission.vb" />
+    <Compile Include="Classes\CProject.vb" />
+    <Compile Include="Classes\CSystemCommand.vb" />
+    <Compile Include="Classes\CystemStatus.vb" />
+    <Compile Include="Classes\Descriptors.vb" />
+    <Compile Include="Classes\ExtensionControl.vb">
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Classes\CRuler.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Forms\UserControlPoint2.Designer.vb">
+      <DependentUpon>UserControlPoint2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\UserControlPoint2.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\CProject.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CProject.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FInputCorrection.Designer.vb">
+      <DependentUpon>FInputCorrection.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FInputCorrection.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FHelpCorrection.Designer.vb">
+      <DependentUpon>FHelpCorrection.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FHelpCorrection.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FMain.Designer.vb">
+      <DependentUpon>FMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FLoading.Designer.vb">
+      <DependentUpon>FLoading.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FLoading.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FChangePassword.Designer.vb">
+      <DependentUpon>FChangePassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FChangePassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FLog.Designer.vb">
+      <DependentUpon>FLog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FLog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FLogin.Designer.vb">
+      <DependentUpon>FLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FMessageBox.Designer.vb">
+      <DependentUpon>FMessageBox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FMessageBox.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FNewProject.Designer.vb">
+      <DependentUpon>FNewProject.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FNewProject.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FOpenProject.Designer.vb">
+      <DependentUpon>FOpenProject.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FOpenProject.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\UserControlPoint.Designer.vb">
+      <DependentUpon>UserControlPoint.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\UserControlPoint.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Forms\CLine.en-US.resx" />
+    <EmbeddedResource Include="Forms\CLine.resx">
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <Generator>ResXFileCodeGenerator</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CMerge.en-US.resx" />
+    <EmbeddedResource Include="Forms\CMerge.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\UserControlPoint2.resx">
+      <DependentUpon>UserControlPoint2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CProject.en-US.resx" />
+    <EmbeddedResource Include="Forms\CProject.resx">
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>CProject.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FChangePassword.zh.resx">
+      <DependentUpon>FChangePassword.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FInputCorrection.resx">
+      <DependentUpon>FInputCorrection.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FHelpCorrection.resx">
+      <DependentUpon>FHelpCorrection.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FLog.zh.resx">
+      <DependentUpon>FLog.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FLogin.zh.resx">
+      <DependentUpon>FLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FMain.resx">
+      <DependentUpon>FMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FLoading.resx">
+      <DependentUpon>FLoading.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FChangePassword.resx">
+      <DependentUpon>FChangePassword.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FLog.resx">
+      <DependentUpon>FLog.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FLogin.resx">
+      <DependentUpon>FLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FMain.zh.resx">
+      <DependentUpon>FMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FMessageBox.resx">
+      <DependentUpon>FMessageBox.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FMessageBox.zh.resx">
+      <DependentUpon>FMessageBox.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FNewProject.resx">
+      <DependentUpon>FNewProject.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FNewProject.zh.resx">
+      <DependentUpon>FNewProject.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FOpenProject.resx">
+      <DependentUpon>FOpenProject.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FOpenProject.zh.resx">
+      <DependentUpon>FOpenProject.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Resource.en-US.resx" />
+    <EmbeddedResource Include="Forms\UserControlPoint.resx">
+      <DependentUpon>UserControlPoint.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <Compile Include="Forms\FMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\changeline1.png" />
+    <None Include="Icons\key.png" />
+    <None Include="Icons\changekey.png" />
+    <None Include="Icons\tickOK.png" />
+    <None Include="Icons\playicon2.png" />
+    <None Include="Icons\registericon.png" />
+    <None Include="Icons\returnicon.png" />
+    <None Include="Icons\searchicon.png" />
+    <None Include="Icons\settingicon2.png" />
+    <None Include="Icons\curposicon.png" />
+    <None Include="Icons\agree.png" />
+    <None Include="Icons\add.png" />
+    <None Include="Icons\calculate.png" />
+    <None Include="Icons\adddata.png" />
+    <None Include="Icons\deletedata.png" />
+    <None Include="Icons\tickOKsmall.png" />
+    <None Include="Icons\movetop.png" />
+    <None Include="Icons\movebottom.png" />
+    <None Include="Icons\moveup.png" />
+    <None Include="Icons\movedown.png" />
+    <None Include="Icons\ruler3.png" />
+    <None Include="Icons\radiobutton_noselect.png" />
+    <None Include="Icons\radiobutton_selected.png" />
+    <None Include="Icons\passwordicon.png" />
+    <None Include="Icons\rulermanual.PNG" />
+    <None Include="Icons\helpcorrection.png" />
+    <None Include="Icons\Cross.png" />
+    <None Include="Icons\drawselecting.png" />
+    <None Include="Icons\Axis2.PNG" />
+    <None Include="Icons\edit.png" />
+    <None Include="Icons\copy.png" />
+    <None Include="Icons\home4.png" />
+    <None Include="Icons\copyparam.png" />
+    <None Include="Icons\paste.png" />
+    <Content Include="Icons\main_icon.ico" />
+    <None Include="Icons\pulselaser3.png" />
+    <None Include="Icons\open2.png" />
+    <Content Include="Icons\treenoderoot.png" />
+    <None Include="Icons\warning.png" />
+    <None Include="Icons\stop2.png" />
+    <None Include="Icons\run.png" />
+    <None Include="Icons\ruler2.png" />
+    <None Include="Icons\setting.png" />
+    <None Include="Icons\ruler.png" />
+    <None Include="Icons\save.png" />
+    <None Include="Icons\stop3.png" />
+    <None Include="Icons\start.png" />
+    <None Include="Icons\qrcode.png" />
+    <None Include="Icons\gi.png" />
+    <None Include="Icons\counter.png" />
+    <None Include="Icons\lighttowner.png" />
+    <None Include="Icons\updown.png" />
+    <None Include="Icons\record_stop.png" />
+    <None Include="Icons\record_start.png" />
+    <None Include="Icons\captureicon.png" />
+    <None Include="Icons\alarm_stop.png" />
+    <None Include="Icons\alarm_start.png" />
+    <None Include="Icons\wait.png" />
+    <None Include="Icons\jump.png" />
+    <None Include="Icons\home2.png" />
+    <None Include="Icons\stopicon.png" />
+    <None Include="Icons\io.png" />
+    <None Include="Icons\ificon.png" />
+    <None Include="Icons\axisicon.png" />
+    <None Include="Icons\repeat.png" />
+    <None Include="Icons\multicircle.png" />
+    <None Include="Icons\line.png" />
+    <None Include="Icons\point.png" />
+    <None Include="Icons\home3.png" />
+    <None Include="Icons\home.png" />
+    <None Include="Icons\roll3.png" />
+    <None Include="Icons\roll2.png" />
+    <None Include="Icons\roll.png" />
+    <None Include="Icons\pulselaser2.png" />
+    <None Include="Icons\pulselaser.png" />
+    <None Include="Icons\lighton.png" />
+    <None Include="Icons\lightoff.png" />
+    <None Include="Icons\redbeam.png" />
+    <None Include="Icons\blowing.png" />
+    <None Include="Icons\program.png" />
+    <None Include="Icons\tick.png" />
+    <None Include="Icons\subtract3.png" />
+    <None Include="Icons\subtract2.png" />
+    <None Include="Icons\subtract.png" />
+    <None Include="Icons\plus3.png" />
+    <None Include="Icons\plus2.png" />
+    <None Include="Icons\plus.png" />
+    <None Include="Icons\jobz3.png" />
+    <None Include="Icons\jobz2.png" />
+    <None Include="Icons\jobz.png" />
+    <None Include="Icons\feedadd3.png" />
+    <None Include="Icons\feedadd2.png" />
+    <None Include="Icons\feedadd.png" />
+    <None Include="Icons\feedremove3.png" />
+    <None Include="Icons\feedremove2.png" />
+    <None Include="Icons\feedremove.png" />
+    <None Include="Icons\laser.png" />
+    <None Include="Icons\connect.png" />
+    <None Include="Icons\jog.png" />
+    <None Include="Icons\job.png" />
+    <None Include="Icons\alignment.png" />
+    <None Include="Icons\addnew.png" />
+    <None Include="Icons\axis.png" />
+    <None Include="Icons\blowing_off.png" />
+    <None Include="Icons\blowing_on.png" />
+    <None Include="Icons\cancel.png" />
+    <None Include="Icons\error0.png" />
+    <None Include="Icons\help.png" />
+    <None Include="Icons\information.png" />
+    <Content Include="Icons\leftcut.png" />
+    <None Include="Icons\log.png" />
+    <None Include="Icons\open.png" />
+    <None Include="Icons\pickcolor.png" />
+    <Content Include="Icons\rightcut.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

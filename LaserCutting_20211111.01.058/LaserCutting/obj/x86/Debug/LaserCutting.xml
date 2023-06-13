@@ -1,0 +1,1493 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+LaserCutting
+</name>
+</assembly>
+<members>
+<member name="F:LaserCutting.enumCyl.WorkholderVaccum">
+	<summary>
+ '平台真空
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserCutting.enumCyl.TrayInUpDown">
+	<summary>
+ '送料升降汽缸
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserCutting.enumCyl.TrayOutUpDown">
+	<summary>
+ '收料升降汽缸
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserCutting.enumCyl.TrayOutLeftRight">
+	<summary>
+ '收料左右汽缸
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserCutting.enumCyl.Blow1">
+	<summary>
+ 吹氣1
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserCutting.enumCyl.Blow2">
+	<summary>
+ 吹氣2
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserCutting.enumCyl.MagnetOnOff">
+	<summary>
+ '送料取料磁鐵
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserCutting.enumCyl.Maximum">
+	<summary>
+ 總數
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserCutting.enumSnr.WorkholderVaccum">
+	<summary>
+ ' 平台真空檢知
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserCutting.enumSnr.TrayInDownLimit">
+	<summary>
+ '送料汽缸下極限開關
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserCutting.enumSnr.TrayInUpLimit">
+	<summary>
+ '送料汽缸上極限開關
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserCutting.enumSnr.TrayOutLeftLimit">
+	<summary>
+ 收料料汽缸左極限開關
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserCutting.enumSnr.TrayOutRightLimit">
+	<summary>
+ 收料料汽缸右極限開關
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserCutting.enumSnr.TrayOutDownLimit">
+	<summary>
+ 收料料汽缸下極限開關
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserCutting.enumSnr.TrayOutUpLimit">
+	<summary>
+ 收料料汽缸上極限開關
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserCutting.enumSnr.Maximum">
+	<summary>
+ 總數
+ </summary>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CFlagsPause.SysSubstrateFinished">
+	<summary>
+ 供料禁止中途停止動作
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CFlagsSystem.VaccumTrayInChecked">
+	<summary>
+ 進料時透過平台真空檢查有無料件
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CFlagsSystem.VaccumLaerDrillingChecked">
+	<summary>
+ 切割時透過平台真空檢查有無破片
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CFlagsSystem.VaccumTrayOutChecked">
+	<summary>
+ 退料時透過平台真空檢查有無料件
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CPositionWH.SubstrateInX1">
+	<summary>
+ 基版供料位置 
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CPositionWH.SubstratePunchX">
+	<summary>
+ 沖壓位置 
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CPositionWH.SubstrateOutX1">
+	<summary>
+ 基版退料位置
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CPositionWH.WorkHolderCutX1">
+	<summary>
+ 平台Cut1 
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CPositionWH.WorkHolderCutX2">
+	<summary>
+ 平台Cut2 
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CPositionWH.SubstrateBlowX">
+	<summary>
+ 平台吹氣 
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CPositionWH.ImageAlignRealOffsetX">
+	<summary>
+ 基板原點視覺補正完後實際位置
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CPositionWH.ImageAlignRealOffsetY">
+	<summary>
+ 基板原點視覺補正完後實際位置
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CPositionWH.AlignX">
+	<summary>
+ 基版原點對應雷射原點位置
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CPositionWH.AlignY">
+	<summary>
+ 基版原點對應雷射原點位置
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CPositionWH.TrayOutX1">
+	<summary>
+ 基版退料位置...基版與靠邊機構未碰觸
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CPositionWH.TrayOutY1">
+	<summary>
+ 基版退料位置...基版與靠邊機構未碰觸
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CPositionWH.TrayOutX2">
+	<summary>
+ 基版退料位置...基版與靠邊機構碰觸
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CPositionWH.TrayOutY2">
+	<summary>
+ 基版退料位置...基版與靠邊機構碰觸
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CPositionWH.TrayInX1">
+	<summary>
+ 基版進料位置...基版與靠邊機構未碰觸
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CPositionWH.TrayInY1">
+	<summary>
+ 基版進料位置...基版與靠邊機構未碰觸
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CPositionWH.TrayInX2">
+	<summary>
+ 基版進料位置...基版與靠邊機構碰觸
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CPositionWH.TrayInY2">
+	<summary>
+ 基版進料位置...基版與靠邊機構碰觸
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CPositionWH.TrayNGX">
+	<summary>
+ 基版破片處理位置
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CPositionWH.TrayNGY">
+	<summary>
+ 基版破片處理位置
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CPositionWH.ImageAlignT">
+	<summary>
+ 基版視覺定位初始位置(degree)
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CPositionWH.PatternAlignX1">
+	<summary>
+ 基版視覺樣板比對左邊孔位位置
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CPositionWH.PatternAlignY1">
+	<summary>
+ 基版視覺樣板比對左邊孔位位置
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="F:LaserCutting.CIdxSystem.m_JobIdx">
+	<summary>
+ 圖層索引值
+ </summary>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CIdxSystem.WorkStep">
+	<summary>
+ 工作的方向
+ </summary>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CIdxTray.TrayIn">
+	<summary>
+ 載入第幾片工件
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="F:LaserCutting.CCountSystem.m_layIdx">
+	<summary>
+ 圖層索引值
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserCutting.CCountSystem.m_geoIdx">
+	<summary>
+ 幾何物件索引值
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserCutting.CCountSystem.m_entityIdx">
+	<summary>
+ 元件索引值
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserCutting.CCountTray.m_PieceToStop">
+	<summary>
+ 工作片數設定
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserCutting.CCountTray.m_TrayOutNGMax">
+	<summary>
+ 收料NG數量上限
+ </summary>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CCountTray.PieceToStop">
+	<summary>
+ 工作片數設定
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CCountTray.TrayOutNGMax">
+	<summary>
+ 收料NG數量上限
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="F:LaserCutting.CCountWorkholder.m_ImageAlignmentRetryMax">
+	<summary>
+ 影像定位最大補償次數
+ </summary>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CCountWorkholder.ImageAlignmentRetryMax">
+	<summary>
+ 影像定位最大補償次數
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="F:LaserCutting.CTimeLaser.m_JumpDelayMiniSecond">
+	<summary>
+ 跳躍延遲 (ms)
+ </summary>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CTimeLaser.EmissionEnableStart">
+	<summary>
+ 雷射致能開始時間,致能開始到可以擊發需經時120mini-second
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CTimeLaser.JumpStart">
+	<summary>
+ 平台移動完畢
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CTimeLaser.LaserON">
+	<summary>
+ 雷射擊發時間
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CTimeLaser.LaserOnStart">
+	<summary>
+ 雷射開始擊發的時間
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CTimeLaser.JumpDelayMiniSecond">
+	<summary>
+ 跳躍延遲 (ms)
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="F:LaserCutting.CTimeTray.m_TrayInDownDelayMiniSecond">
+	<summary>
+ 送料馬達慢速下降時間 (ms)
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserCutting.CTimeTray.m_TrayInBlowDelayMiniSecond">
+	<summary>
+ 送料取料時吹氣時間 (ms)
+ </summary>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CTimeTray.TrayInVaccumDelayMiniSecond">
+	<summary>
+ 送料馬達下降延遲 (ms)
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CTimeTray.TrayInDownDelayMiniSecond">
+	<summary>
+ 送料馬達慢速下降時間 (ms)
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CTimeTray.TrayInBlowDelayMiniSecond">
+	<summary>
+ 送料取料時吹氣時間 (ms)
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CVariableLaser.Angle">
+	<summary>
+ Rotational angle in degrees. 
+ Allowed values:[-10....+10]. 
+ Positive angles: rotation is counterclockwise
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CVariableLaser.OffsetX">
+	<summary>
+ additional offset in bits. 
+ Allowed values: [-32768....32767]
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CVariableLaser.OffsetY">
+	<summary>
+ additional offset in bits. 
+ Allowed values: [-32768....32767]
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="F:LaserCutting.CVariableLaser.m_PolyErrorXum">
+	<summary>
+ 連續點判斷偏移量X (μm)
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserCutting.CVariableLaser.m_PolyErrorYum">
+	<summary>
+ 連續點判斷偏移量Y (μm)
+ </summary>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CVariableLaser.PinHoleDefLeftX">
+	<summary>
+ 圖面定位孔位置,1象限
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CVariableLaser.PinHoleDefLeftY">
+	<summary>
+ 圖面定位孔位置,1象限
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CVariableLaser.PinHoleDefLeftY2">
+	<summary>
+ 圖面定位孔位置,1象限
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CVariableLaser.LaserOnDelaySegMicrometer">
+	<summary>
+ 平台切割需向前延伸的長度
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CVariableLaser.LaserOnSegMicrometer">
+	<summary>
+ 平台切割雷射開啟延伸的長度
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CVariableLaser.LaserOffDelaySegMicrometer">
+	<summary>
+ 平台切割需向後延伸的長度
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CVariableLaser.LaserOffSegMicrometer">
+	<summary>
+ 平台切割雷射關閉後延伸的長度
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CVariableLaser.PolyErrorXum">
+	<summary>
+ 連續點判斷偏移量X (μm) 未使用..切割機用
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CVariableLaser.PolyErrorYum">
+	<summary>
+ 連續點判斷偏移量Y (μm) 未使用..切割機用
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="F:LaserCutting.CVariableWorkholder.m_LaserOrgCCDOffsetXMatch">
+	<summary>
+ 樣版影像CCD中心至雷射原點水平方向距離 (μm)
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserCutting.CVariableWorkholder.m_LaserOrgCCDOffsetYMatch">
+	<summary>
+ 樣版影像CCD中心至雷射原點垂直方向距離 (μm)
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserCutting.CVariableWorkholder.m_LaserOrgCCDOffsetXEdge">
+	<summary>
+ 尋邊影像中心至雷射原點水平方向距離 (μm)
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserCutting.CVariableWorkholder.m_LaserOrgCCDOffsetYEdge">
+	<summary>
+ 尋邊影像中心至雷射原點垂直方向距離 (μm)
+ </summary>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CVariableWorkholder.LaserOrgCCDOffsetXMatch">
+	<summary>
+ 樣版影像CCD中心至雷射原點水平方向距離 (μm)
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CVariableWorkholder.LaserOrgCCDOffsetYMatch">
+	<summary>
+ 樣版影像CCD中心至雷射原點垂直方向距離 (μm)
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CVariableWorkholder.LaserOrgCCDOffsetXEdge">
+	<summary>
+ 尋邊影像中心至雷射原點水平方向距離 (μm)
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CVariableWorkholder.LaserOrgCCDOffsetYEdge">
+	<summary>
+ 尋邊影像中心至雷射原點垂直方向距離 (μm)
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CVariableWorkholder.PinHoleLeftX">
+	<summary>
+ 視覺定位計算對位孔馬達位置
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CVariableWorkholder.PinHoleLeftY">
+	<summary>
+ 視覺定位計算對位孔馬達位置
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CVariableWorkholder.ThetaRadCCW">
+	<summary>
+ 弧度
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CVariableIO.DIDelay">
+	<summary>
+ Digital Input Delay (ms)
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CVariableIO.DODelay">
+	<summary>
+ Digital Output Delay (ms)
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CVariableIO.Blow1Delay">
+	<summary>
+ Blow 1 Delay (ms)
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CVariableIO.UseBlow2">
+	<summary>
+ Use Blow 2
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CVariableAlign.ImageOriginalOffsetX">
+	<summary>
+ Original Offset X on  Image Coordinate
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CVariableAlign.ImageOriginalOffsetY">
+	<summary>
+ Original Offset Y on  Image Coordinate
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CVariableAlign.ImageOrginalAngle">
+	<summary>
+ Original Angle on  Image Coordinate (uinit is degree)
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CVariableAlign.ImageCenterX">
+	<summary>
+ Center X on  Image Coordinate
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CVariableAlign.ImageCenterY">
+	<summary>
+ Center Y on  Image Coordinate
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CVariableAlign.ImageOrginalOffsetX(System.Int32)">
+	<summary>
+ Original X on  Image Coordinate
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CVariableAlign.ImageOrginalOffsetY(System.Int32)">
+	<summary>
+ Original Y on  Image Coordinate
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CVariableAlign.ImageOrginalAngle(System.Int32)">
+	<summary>
+ Original Angle on  Image Coordinate (uinit is degree)
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CVariableAlign.ImageCenterX(System.Int32)">
+	<summary>
+ Center X on  Image Coordinate
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CVariableAlign.ImageCenterY(System.Int32)">
+	<summary>
+ Center Y on  Image Coordinate
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:LaserCutting.CLaserAperture.SetZero">
+	<summary>
+ Use current value set zero
+ </summary>
+	<remarks></remarks>
+</member><member name="M:LaserCutting.CLaserAperture.SetZero(System.Double)">
+	<summary>
+ Use user value set zero
+ </summary>
+	<param name="value">The value is set to be zero</param>
+	<remarks></remarks>
+</member><member name="M:LaserCutting.CLaserAperture.SetZero(System.String)">
+	<summary>
+ Use value in file set zero
+ </summary>
+	<param name="path"></param>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CLaserAperture.LaserOnOff">
+	<summary>
+ Turn on or off laser aperture
+ </summary>
+	<value>True: Turn On, False: Turn Off</value>
+	<remarks></remarks>
+</member><member name="M:LaserCutting.Clog.#ctor(System.String,LaserCutting.enumLogType)">
+	<summary>
+ Constructor
+ </summary>
+	<param name="pLogString">Log string</param>
+	<remarks></remarks>
+</member><member name="M:LaserCutting.Clog.#ctor(System.String,System.String,LaserCutting.enumLogType)">
+	<summary>
+ Constructor
+ </summary>
+	<param name="pLogString">Log string</param>
+	<param name="pNewValue">New value</param>
+	<remarks></remarks>
+</member><member name="M:LaserCutting.Clog.#ctor(System.String,System.String,System.String,LaserCutting.enumLogType)">
+	<summary>
+ Constructor
+ </summary>
+	<param name="pParamName">Parameter name</param>
+	<param name="pOldValue">Old value</param>
+	<param name="pNewValue">New value</param>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CLine.StartX">
+	<summary>
+  On  Galvo Coordinate
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CLine.StartXPX">
+	<summary>
+  On  Image Coordinate
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CLine.StartY">
+	<summary>
+  On  Galvo Coordinate
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CLine.StartYPX">
+	<summary>
+  On  Image Coordinate
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CLine.EndX">
+	<summary>
+  On  Galvo Coordinate
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CLine.EndXPX">
+	<summary>
+  On  Image Coordinate
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CLine.EndY">
+	<summary>
+  On  Galvo Coordinate
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CLine.EndYPX">
+	<summary>
+  On  Image Coordinate
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CLine.Distance">
+	<summary>
+  On  Galvo Coordinate
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CLine.OffsetX">
+	<summary>
+  On  Galvo Coordinate
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CLine.OffsetY">
+	<summary>
+  On  Galvo Coordinate
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CLine.Angle">
+	<summary>
+  On  Galvo Coordinate
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CLine.RepeatCount">
+	<summary>
+ Start is 1
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CMerge.RepeatCount">
+	<summary>
+ Start is 1
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CChangeLanguage.AssemblyName">
+	<summary>
+ Gets Assembly Name of project
+ </summary>
+	<returns></returns>
+</member><member name="F:LaserCutting.CChangeLanguage.Cul">
+	<summary>
+ Gets or sets Current language
+ </summary>
+</member><member name="F:LaserCutting.CChangeLanguage.Rm">
+	<summary>
+ Global Resource Manager (xxx.Resource)
+ </summary>
+</member><member name="M:LaserCutting.CChangeLanguage.setLanguage(LaserCutting.Language)">
+	<summary>
+ Change language
+ </summary>
+	<param name="lang">language key. zh: 中文, en: English</param>
+	<remarks></remarks>
+</member><member name="M:LaserCutting.CChangeLanguage.setTextControl(System.Windows.Forms.Control,System.Resources.ResourceManager,System.Boolean)">
+	<summary>
+ Set Text for control
+ </summary>
+	<param name="ctrl">Control</param>
+	<param name="pRm">ResourceManager</param>
+	<param name="child">if value is TRUE and ctrl.HasChilds &gt; 0: function will set all child control</param>
+	<remarks></remarks>
+</member><member name="M:LaserCutting.CChangeLanguage.GetString(System.String)">
+	<summary>
+ Get the string from resource manager
+ </summary>
+	<param name="key">A keyword to get the string</param>
+	<returns></returns>
+</member><member name="F:LaserCutting.CLaser.PIN_INPUT">
+	<summary>
+ the signal from the arm sends the request to open the laser. 
+ 手臂發出的信號發送打開雷射
+ </summary>
+	<remarks></remarks>
+</member><member name="F:LaserCutting.CLaser.PIN_OUTPUT">
+	<summary>
+ The signal from this machine sends to the arm that the burning is finished.
+ 該機器發出的信號發送到手臂通知完成
+ </summary>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CLaser.PRR">
+	<summary>
+ 雷射工作頻率KHz
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CLaser.LaserEmission">
+	<summary>
+ 雷射啟用(進啟用雷射尚未實際打出雷射)
+ </summary>
+	<value></value>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CLaser.OperatingPower">
+	<summary>
+ 雷射工作功率 %
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.CLaser.LaserGuide">
+	<summary>
+ 雷射導引紅光開關
+ </summary>
+	<value>
+	</value>
+	<remarks>
+	</remarks>
+</member><member name="P:LaserCutting.CLaser.ResetAlarms">
+	<summary>
+ 錯誤重置
+ </summary>
+	<value></value>
+	<remarks></remarks>
+</member><member name="M:LaserCutting.CLaser.SetAngle(System.Double)">
+	<summary>
+ Rotation coordinate by the angle 
+ </summary>
+	<param name="Angle">Angle in degree</param>
+	<remarks></remarks>
+</member><member name="M:LaserCutting.CLaser.SetOffset(System.Int16,System.Int16)">
+	<summary>
+ Defines an offset in the X and Y directions which will be added to all subsequent vector outputs
+ </summary>
+	<param name="OffsetX">Offset X in bits. Allowed range: [ – 32768 …+32767]</param>
+	<param name="OffsetY">Offset Y in bits. Allowed range: [ – 32768 …+32767]</param>
+	<remarks></remarks>
+</member><member name="F:LaserCutting.CLaser.m_OperatingPower">
+	<summary>
+ 0% ~ 100%
+ </summary>
+	<remarks></remarks>
+</member><member name="P:LaserCutting.My.Resources.CProject.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.CProject.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.CProject.Description">
+	<summary>
+  Looks up a localized string similar to 描述.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.CProject.DescriptionDescription">
+	<summary>
+  Looks up a localized string similar to 項目描述.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.CProject.ProjectName">
+	<summary>
+  Looks up a localized string similar to 項目名稱.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.CProject.ProjectNameDescription">
+	<summary>
+  Looks up a localized string similar to 項目名稱.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.CProject.Time">
+	<summary>
+  Looks up a localized string similar to 初始化時間.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.CProject.TimeDescription">
+	<summary>
+  Looks up a localized string similar to 初始化時間.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.CProject.WorkStep">
+	<summary>
+  Looks up a localized string similar to 工作步驟.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.CProject.WorkStepDescription">
+	<summary>
+  Looks up a localized string similar to 機器工步數.
+</summary>
+</member><member name="T:LaserCutting.My.Resources.CProject">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.add">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.adddata">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.addnew">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.agree">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.alarm_start">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.alarm_stop">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.alignment">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.axis">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.Axis2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.axisicon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.blowing">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.blowing_off">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.blowing_on">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.calculate">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.cancel">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.captureicon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.changekey">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.connect">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.copy">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.copyparam">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.counter">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.Cross">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.curposicon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.deletedata">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.drawselecting">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.edit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.error0">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.export">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.feedadd">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.feedadd2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.feedadd3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.feedremove">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.feedremove2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.feedremove3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.filter">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.gi">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.help">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.helpcorrection">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.home">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.home2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.home3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.home4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.ificon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.information">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.io">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.job">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.jobz">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.jobz2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.jobz3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.jog">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.jump">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.key">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.laser">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.leftcut">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.lightoff">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.lighton">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.lighttowner">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.line">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.log">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.markAxis">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.move">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.movebottom">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.movedown">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.movetop">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.moveup">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.multicircle">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.open">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.passwordicon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.paste">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.pickcolor">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.playicon2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.plus">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.plus2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.plus3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.point">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.program">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.pulselaser">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.pulselaser2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.qrcode">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.record_start">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.record_stop">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.redbeam">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.registericon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.repeat">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.returnicon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.rightcut">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.roll">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.roll2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.roll3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.ruler">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.ruler2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.ruler3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.rulermanual">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.run">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.save">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.searchicon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.setting">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.settingicon2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.start">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.stop2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.stop3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.stopicon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.subtract">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.subtract2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.subtract3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.tick">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.tickOK">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.tickOKsmall">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.treenoderoot">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.updown">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.wait">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LaserCutting.My.Resources.Resources.warning">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:LaserCutting.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="F:LaserCutting.FMain.m_SelectedStep">
+	<summary>
+ Start is 1
+ </summary>
+	<remarks></remarks>
+</member><member name="M:LaserCutting.FMain.Substrate_System">
+	<summary>
+ 手臂系統
+ </summary>
+	<remarks></remarks>
+</member><member name="M:LaserCutting.FMain.Substrate_System_2_MoveOut">
+	<summary>
+ 將料從手臂放到料盒
+ m_SysSts.SubstrateLeftSys = enumStsSubstrateIDs.MoveOutOK
+ </summary>
+	<remarks></remarks>
+</member><member name="M:LaserCutting.FMain.TopSubstrateOut">
+	<summary>
+ 退料主系統
+ </summary>
+	<remarks></remarks>
+</member><member name="M:LaserCutting.FMain.Workholder_System_1_Home">
+	<summary>
+ 平台復歸
+ </summary>
+	<remarks></remarks>
+</member><member name="M:LaserCutting.FMain.Workholder_System_5_SubstrateOut">
+	<summary>
+ 送料待料位置到達
+ </summary>
+	<remarks></remarks>
+</member><member name="M:LaserCutting.FMain.Workholder_System_6_Punch">
+	<summary>
+ 送料待料位置到達
+ </summary>
+	<remarks></remarks>
+</member><member name="M:LaserCutting.FMain.Workholder_System_2_SubstrateIn">
+	<summary>
+ 送料待料位置到達
+ </summary>
+	<remarks></remarks>
+</member><member name="M:LaserCutting.FMain.Workholder_System_3_ImageAlignment">
+	<summary>
+ 視覺定位
+ </summary>
+	<remarks></remarks>
+</member><member name="M:LaserCutting.FMain.ReloadCutLine(System.Int32)">
+	<summary>
+ Redraw line after do alignment
+ </summary>
+	<param name="pWorkStep">Start is 0</param>
+	<remarks></remarks>
+</member><member name="M:LaserCutting.FMain.ReloadCutLine(System.Int32,System.Int32)">
+	<summary>
+ Redraw line after do alignment
+ </summary>
+	<param name="pWorkStep">Start is 0</param>
+	<remarks></remarks>
+</member><member name="M:LaserCutting.FMain.Alignment(System.Int32,System.Boolean)">
+	<summary>
+ Alignment
+ </summary>
+	<param name="pWorkStep">Start index is 0</param>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

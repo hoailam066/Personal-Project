@@ -1,0 +1,952 @@
+﻿body {
+}
+
+@media (min-width: 1200px) {
+    .divLon {
+        width: 100%;
+        float: left;
+    }
+
+    .divDong {
+        width: 100%;
+        float: left;
+        margin-top: 1%;
+    }
+    .divLabelSoGhe {
+        width: 10%;
+        float: left;
+        margin-left: 40%;
+      
+    }
+
+    .divLabelGhe {
+        width: 5%;
+        float: left;
+    }
+
+    .SoGhe {
+        color: red;
+        font-size: 12pt;
+        font-weight: bold;
+    }
+
+    .divXeTrai {
+        width: 49%;
+        float: left;
+    }
+
+    .divXePhai {
+        width: 49%;
+        float: right;
+    }
+
+    .divXe1 {
+        width: 50%;
+        float: left;
+        margin-top: 1%;
+        margin-bottom:2%;
+    }
+
+    .divXe2 {
+        width: 50%;
+        float: left;
+        margin-top: 1%;
+        margin-left: -10px;
+        margin-bottom:2%;
+    }
+
+    .divHinh {
+        width: 80%;
+        float: left;
+        margin-left: 3%;
+        height: 120px;
+        font-weight: bold;
+        margin-bottom:8%;
+    }
+
+    .divGheDaThu {
+        float: left;
+        height: 70%;
+        width: 100%;
+        padding-top: 7px;
+        margin-left: 5%;
+    }
+
+    .divGheChuaBan {
+        float: left;
+        height: 70%;
+        width: 100%;
+        padding-top: 7px;
+        margin-left: 5%;
+    }
+
+    .divGheDaiLyBan {
+        height: 70%;
+        width: 100%;
+        padding-top: 7px;
+        margin-left: 5%;
+    }
+
+    .divGheBanChuaThu {
+        height: 70%;
+        width: 100%;
+        padding-top: 7px;
+        margin-left: 5%;
+    }
+
+    .NoidonDaBan {
+        width: 100%;
+        height: 30%;
+        padding-top: 10px;
+        margin-left: 5%;
+        font-size: 14pt;
+    }
+
+    .NoidonChuaBan {
+        width: 100%;
+        height: 30%;
+        padding-top: 10px;
+        margin-left: 5%;
+        font-size: 15pt;
+    }
+
+    .NoidonVeDLBan {
+        width: 100%;
+        height: 30%;
+        padding-top: 10px;
+        margin-left: 5%;
+        font-size: 15pt;
+    }
+
+    .NoidonVeBanChuaThu {
+        width: 100%;
+        height: 30%;
+        padding-top: 10px;
+        margin-left: 5%;
+        font-size: 15pt;
+    }
+
+    .Label {
+        width: 100%;
+        text-align: center;
+        margin-top: 10px;
+        font-size: 14pt;
+        font-weight: bold;
+    }
+
+    .divGheGiua {
+        width: 25%;
+        float: left;
+        margin-left: 37%;
+        margin-bottom: 5%;
+        margin-top:3%;
+    }
+
+    .lbl {
+        font-size: 18pt;
+    }
+     .LabelSoXe{
+            font-size: 22pt !important;
+            text-align:center;
+    }
+    .buttonInDS{
+        width:30%;
+        text-align:right;
+        font-size:14pt;
+    }
+    .maubtnInDSDonKhach{
+        font-size:14pt;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .divLon {
+        width: 100%;
+        float: left;
+    }
+
+    .divDong {
+        width: 100%;
+        float: left;
+        margin-top: 2%;
+    }
+
+
+    .divLabelSoGhe {
+        width: 12%;
+        float: left;
+        margin-left: 35%;
+    }
+    .buttonInDS{
+        width:37%;
+        text-align:right;
+        font-size:14pt;
+    }
+    .maubtnInDSDonKhach{
+        font-size:14pt;
+    }
+    .divLabelGhe {
+        width: 8%;
+        float: left;
+    }
+    .LabelSoXe
+    {
+        font-size:22pt !important;
+    }
+    .SoGhe {
+        color: red;
+        font-size: 12pt;
+        font-weight: bold;
+    }
+
+    .divXeTrai {
+        width: 49%;
+        float: left;
+    }
+
+    .divXePhai {
+        width: 49%;
+        float: right;
+    }
+
+    .divXe1 {
+        width: 50%;
+        float: left;
+        margin-top: 0%;
+        margin-bottom:2%;
+    }
+
+    .divXe2 {
+        width: 50%;
+        float: left;
+        margin-top: 0%;
+        margin-left: -8px;
+        margin-bottom:2%;
+    }
+
+    .divHinh {
+        width: 85%;
+        float: left;
+        margin-left: 5%;
+        height: 120px;
+        font-weight: bold;
+        margin-bottom:10%;
+    }
+
+    .divGheDaThu {
+        float: left;
+        height: 70%;
+        width: 100%;
+        padding-top: 7px;
+        margin-left: 5%;
+    }
+
+    .divGheChuaBan {
+        float: left;
+        height: 70%;
+        width: 100%;
+        padding-top: 7px;
+        margin-left: 5%;
+    }
+
+    .divGheDaiLyBan {
+        height: 70%;
+        width: 100%;
+        padding-top: 7px;
+        margin-left: 5%;
+    }
+
+    .divGheBanChuaThu {
+        height: 70%;
+        width: 100%;
+        padding-top: 7px;
+        margin-left: 5%;
+    }
+
+    .NoidonDaBan {
+        width: 100%;
+        height: 30%;
+        padding-top: 10px;
+        margin-left: 5%;
+        font-size: 14pt;
+    }
+
+    .NoidonChuaBan {
+        width: 100%;
+        height: 30%;
+        padding-top: 10px;
+        margin-left: 5%;
+        font-size: 15pt;
+    }
+
+    .NoidonVeDLBan {
+        width: 100%;
+        height: 30%;
+        padding-top: 10px;
+        margin-left: 5%;
+        font-size: 15pt;
+    }
+
+    .NoidonVeBanChuaThu {
+        width: 100%;
+        height: 30%;
+        padding-top: 10px;
+        margin-left: 5%;
+        font-size: 15pt;
+    }
+
+    .Label {
+        width: 100%;
+        text-align: center;
+        margin-top: 10px;
+        font-size: 14pt;
+        font-weight: bold;
+    }
+
+    .divGheGiua {
+        width: 25%;
+        float: left;
+        margin-left: 35%;
+        margin-bottom: 5%;
+        margin-top:2%;
+    }
+
+    .lbl {
+        font-size: 18pt;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .divLon {
+        width: 100%;
+        float: left;
+    }
+
+    .divDong {
+        width: 100%;
+        float: left;
+        margin-top: 2%;
+    }
+
+    .divLabelSoGhe {
+        width: 15%;
+        float: left;
+        margin-left: 33%;
+    }
+    .buttonInDS{
+        width:47%;
+        text-align:right;
+        font-size:13pt;
+         padding:5px;
+    }
+    .maubtnInDSDonKhach{
+        font-size:13pt;
+        padding:5px;
+    }
+    .divLabelGhe {
+        width: 10%;
+        float: left;
+    }
+
+    .SoGhe {
+        color: red;
+        font-size: 17pt;
+        font-weight: bold;
+    }
+
+    .divXeTrai {
+        width: 49%;
+        float: left;
+    }
+
+    .divXePhai {
+        width: 49%;
+        float: right;
+    }
+
+    .divXe1 {
+        width: 50%;
+        float: left;
+        margin-top: 0%;
+        margin-bottom:3%;
+    }
+
+    .divXe2 {
+        width: 50%;
+        float: left;
+        margin-top: 0%;
+        margin-left: -8px;
+        margin-bottom:3%;
+    }
+
+    .divHinh {
+        width: 85%;
+        float: left;
+        margin-left: 5%;
+        height: 150px;
+        font-weight: bold;
+        margin-bottom:12%;
+    }
+
+    .divGheDaThu {
+        float: left;
+        height: 65%;
+        width: 100%;
+        padding-top: 7px;
+        margin-left: 5%;
+    }
+
+    .divGheChuaBan {
+        float: left;
+        height: 65%;
+        width: 100%;
+        padding-top: 7px;
+        margin-left: 5%;
+    }
+
+    .divGheDaiLyBan {
+        height: 65%;
+        width: 100%;
+        padding-top: 7px;
+        margin-left: 5%;
+    }
+
+    .divGheBanChuaThu {
+        height: 65%;
+        width: 100%;
+        padding-top: 7px;
+        margin-left: 5%;
+    }
+
+    .NoidonDaBan {
+        width: 100%;
+        height: 35%;
+        padding-top: 10px;
+        margin-left: 5%;
+        font-size: 15pt;
+    }
+
+    .NoidonChuaBan {
+        width: 100%;
+        height: 35%;
+        padding-top: 10px;
+        margin-left: 5%;
+        font-size: 15pt;
+    }
+
+    .NoidonVeDLBan {
+        width: 100%;
+        height: 35%;
+        padding-top: 10px;
+        margin-left: 5%;
+        font-size: 15pt;
+    }
+
+    .NoidonVeBanChuaThu {
+        width: 100%;
+        height: 35%;
+        padding-top: 10px;
+        margin-left: 5%;
+        font-size: 15pt;
+    }
+
+    .Label {
+        width: 100%;
+        text-align: center;
+        margin-top: 10px;
+        font-size: 15pt;
+        font-weight: bold;
+    }
+
+    .divGheGiua {
+        width: 25%;
+        float: left;
+        margin-left: 37%;
+        margin-bottom: 5%;
+        margin-top:2%;
+    }
+
+    .lbl {
+        font-size: 19pt;
+    }
+    .LabelSoXe{
+            font-size: 22pt !important;
+    }
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+    .divLon {
+        width: 100%;
+        float: left;
+    }
+
+    .divDong {
+        width: 100%;
+        float: left;
+        margin-top: 2%;
+    }
+
+    .divLabelSoGhe {
+        width: 30%;
+        float: left;
+        margin-left: 20%;
+    }
+    .buttonInDS{
+        width:70%;
+        text-align:right;
+        margin-left:-30px;
+        font-size:13pt;
+    }
+      .maubtnInDSDonKhach{
+        font-size:13pt;
+        padding:5px;
+        margin-top:0%;
+        margin-left:-30px;
+    }
+    .divLabelGhe {
+        width: 10%;
+        float: left;
+    }
+
+    .SoGhe {
+        color: red;
+        font-size: 17pt;
+        font-weight: bold;
+    }
+
+    .divXeTrai {
+        width: 100%;
+        float: left;
+    }
+
+    .divXePhai {
+        width: 100%;
+        float: right;
+    }
+
+    .divXe1 {
+        width: 50%;
+        float: left;
+        margin-top: 5%;
+    }
+
+    .divXe2 {
+        width: 50%;
+        float: left;
+        margin-top: 5%;
+        margin-left: -8px;
+    }
+
+    .divHinh {
+        width: 80%;
+        float: left;
+        margin-left: 7%;
+        height: 150px;
+        font-weight: bold;
+    }
+
+    .divGheDaThu {
+        float: left;
+        height: 65%;
+        width: 100%;
+        padding-top: 7px;
+        margin-left: 5%;
+    }
+
+    .divGheChuaBan {
+        float: left;
+        height: 65%;
+        width: 100%;
+        padding-top: 7px;
+        margin-left: 5%;
+    }
+
+    .divGheDaiLyBan {
+        height: 65%;
+        width: 100%;
+        padding-top: 7px;
+        margin-left: 5%;
+    }
+
+    .divGheBanChuaThu {
+        height: 65%;
+        width: 100%;
+        padding-top: 7px;
+        margin-left: 5%;
+    }
+
+    .NoidonDaBan {
+        width: 100%;
+        height: 35%;
+        padding-top: 10px;
+        margin-left: 5%;
+        font-size: 14pt;
+    }
+
+    .NoidonChuaBan {
+        width: 100%;
+        height: 35%;
+        padding-top: 10px;
+        margin-left: 5%;
+        font-size: 15pt;
+    }
+
+    .NoidonVeDLBan {
+        width: 100%;
+        height: 35%;
+        padding-top: 10px;
+        margin-left: 5%;
+        font-size: 15pt;
+    }
+
+    .NoidonVeBanChuaThu {
+        width: 100%;
+        height: 35%;
+        padding-top: 10px;
+        margin-left: 5%;
+        font-size: 15pt;
+    }
+
+    .Label {
+        width: 100%;
+        text-align: center;
+        margin-top: 10px;
+        font-size: 14pt;
+        font-weight: bold;
+    }
+
+    .divGheGiua {
+        width: 50%;
+        float: left;
+        margin-left: 25%;
+        margin-bottom: 10%;
+        margin-top:20px;
+    }
+
+    .lbl {
+        font-size: 17pt;
+    }
+    .LabelSoXe{
+            font-size: 22pt !important;
+            text-align:center;
+    }
+}
+
+@media (min-width: 321px) and (max-width: 480px) {
+    .divLon {
+        width: 100%;
+        float: left;
+    }
+
+    .divDong {
+        width: 100%;
+        float: left;
+        margin-top: 3%;
+    }
+
+    .divLabelSoGhe {
+        width: 35%;
+        float: left;
+        margin-left: 15%;
+    }
+    .buttonInDS{
+        width:55%;
+        text-align:right;
+        margin-left:0px;
+        font-size:13pt;
+        margin-bottom:-20px;
+    }
+      .maubtnInDSDonKhach{
+        font-size:13pt;
+        padding:10px;
+        margin-top:0%;
+    }
+    .divLabelGhe {
+        width: 17%;
+        float: left;
+    }
+
+    .SoGhe {
+        color: red;
+        font-size: 17pt;
+        font-weight: bold;
+    }
+
+    .divXeTrai {
+        width: 100%;
+        float: left;
+    }
+
+    .divXePhai {
+        width: 100%;
+        float: right;
+    }
+
+    .divXe1 {
+        width: 100%;
+        float: left;
+        margin-top: 0%;
+        margin-bottom:10%;
+    }
+
+    .divXe2 {
+        width: 100%;
+        float: left;
+        margin-top: 0%;
+        margin-left: 0px;
+        margin-bottom:10%;
+    }
+
+    .divHinh {
+        width: 80%;
+        float: left;
+        margin-left: 6%;
+        height: 150px;
+        font-weight: bold;
+        margin-bottom:3%;
+    }
+
+    .divGheDaThu {
+        float: left;
+        height: 65%;
+        width: 100%;
+        padding-top: 7px;
+        margin-left: 5%;
+    }
+
+    .divGheChuaBan {
+        float: left;
+        height: 65%;
+        width: 100%;
+        padding-top: 7px;
+        margin-left: 5%;
+    }
+
+    .divGheDaiLyBan {
+        height: 65%;
+        width: 100%;
+        padding-top: 7px;
+        margin-left: 5%;
+    }
+
+    .divGheBanChuaThu {
+        height: 65%;
+        width: 100%;
+        padding-top: 7px;
+        margin-left: 5%;
+    }
+
+    .NoidonDaBan {
+        width: 100%;
+        height: 35%;
+        padding-top: 10px;
+        margin-left: 5%;
+        font-size: 14pt;
+    }
+
+    .NoidonChuaBan {
+        width: 100%;
+        height: 35%;
+        padding-top: 10px;
+        margin-left: 5%;
+        font-size: 15pt;
+    }
+
+    .NoidonVeDLBan {
+        width: 100%;
+        height: 35%;
+        padding-top: 10px;
+        margin-left: 5%;
+        font-size: 15pt;
+    }
+
+    .NoidonVeBanChuaThu {
+        width: 100%;
+        height: 35%;
+        padding-top: 10px;
+        margin-left: 5%;
+        font-size: 15pt;
+    }
+
+    .Label {
+        width: 100%;
+        text-align: center;
+        margin-top: 10px;
+        font-size: 14pt;
+        font-weight: bold;
+    }
+
+    .divGheGiua {
+        width: 100%;
+        float: left;
+        margin-left: 0%;
+        margin-bottom: 10%;
+   
+    }
+
+    .lbl {
+        font-size: 18pt;
+    }
+    .LabelSoXe{
+            font-size: 22pt !important;
+            text-align:center;
+    }
+}
+
+@media  (max-width: 320px) {
+    .divLon {
+        width: 100%;
+        float: left;
+    }
+
+    .divDong {
+        width: 100%;
+        float: left;
+        margin-top: 5%;
+    }
+
+    .divLabelSoGhe {
+        width: 40%;
+        float: left;
+        margin-left: 15%;
+    }
+    .buttonInDS{
+        width:65%;
+        text-align:right;
+        margin-left:20px;
+        font-size:13pt;
+    }
+      .maubtnInDSDonKhach{
+        font-size:13pt;
+        padding:10px;
+        margin-top:10%;
+        
+    }
+    .divLabelGhe {
+        width: 17%;
+        float: left;
+    }
+
+    .SoGhe {
+        color: red;
+        font-size: 17pt;
+        font-weight: bold;
+    }
+
+    .divXeTrai {
+        width: 100%;
+        float: left;
+    }
+
+    .divXePhai {
+        width: 100%;
+        float: right;
+    }
+
+    .divXe1 {
+        width: 50%;
+        float: left;
+        margin-top: 5%;
+    }
+
+    .divXe2 {
+        width: 50%;
+        float: left;
+        margin-top: 5%;
+        margin-left: -8px;
+    }
+
+    .divHinh {
+        width: 87%;
+        float: left;
+        margin-left: 9%;
+        height: 150px;
+        font-weight: bold;
+    }
+
+    .divGheDaThu {
+        float: left;
+        height: 65%;
+        width: 100%;
+        padding-top: 7px;
+        margin-left: 5%;
+    }
+
+    .divGheChuaBan {
+        float: left;
+        height: 65%;
+        width: 100%;
+        padding-top: 7px;
+        margin-left: 5%;
+    }
+
+    .divGheDaiLyBan {
+        height: 65%;
+        width: 100%;
+        padding-top: 7px;
+        margin-left: 5%;
+    }
+
+    .divGheBanChuaThu {
+        height: 65%;
+        width: 100%;
+        padding-top: 7px;
+        margin-left: 5%;
+    }
+
+    .NoidonDaBan {
+        width: 100%;
+        height: 35%;
+        padding-top: 10px;
+        margin-left: 5%;
+        font-size: 14pt;
+    }
+
+    .NoidonChuaBan {
+        width: 100%;
+        height: 35%;
+        padding-top: 10px;
+        margin-left: 5%;
+        font-size: 15pt;
+    }
+
+    .NoidonVeDLBan {
+        width: 100%;
+        height: 35%;
+        padding-top: 10px;
+        margin-left: 5%;
+        font-size: 15pt;
+    }
+
+    .NoidonVeBanChuaThu {
+        width: 100%;
+        height: 35%;
+        padding-top: 10px;
+        margin-left: 5%;
+        font-size: 15pt;
+    }
+
+    .Label {
+        width: 100%;
+        text-align: center;
+        margin-top: 10px;
+        font-size: 14pt;
+        font-weight: bold;
+    }
+
+    .divGheGiua {
+        width: 50%;
+        float: left;
+        margin-left: 25%;
+        margin-bottom: 10%;
+        margin-top:20px;
+    }
+
+    .lbl {
+        font-size: 17pt;
+    }
+    .LabelSoXe{
+            font-size: 17pt !important;
+            text-align:center;
+    }
+}

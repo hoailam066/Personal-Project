@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<RootNode Document_Version_="1.00" SDK_Enviroment_="Visual Basic 2008 SP1" BuildDate="2016/7/25 下午 03:21:14">
+  <SearchRegion Index="0" Attributes="">
+    <CenterX Index="0" NodeType="Double">640</CenterX>
+    <CenterY Index="0" NodeType="Double">512</CenterY>
+    <LengthX Index="0" NodeType="Double">1280</LengthX>
+    <LengthY Index="0" NodeType="Double">1024</LengthY>
+    <RotationD Index="0" NodeType="Double">0</RotationD>
+  </SearchRegion>
+  <Template Index="0" Attributes="">
+    <AngleExtent Index="0" NodeType="Double">0.174532925199433</AngleExtent>
+    <AngleStart Index="0" NodeType="Double">-0.0872664625997165</AngleStart>
+    <AngleStep Index="0" NodeType="Double">0.0168635822495047</AngleStep>
+    <ContrastHigh Index="0" NodeType="Double">27</ContrastHigh>
+    <ContrastLow Index="0" NodeType="Double">14</ContrastLow>
+    <Metric Index="0" NodeType="String">use_polarity</Metric>
+    <MinContrast Index="0" NodeType="Double">3</MinContrast>
+    <MinSize Index="0" NodeType="Double">4</MinSize>
+    <NumLevels Index="0" NodeType="Int32">6</NumLevels>
+    <Optimization Index="0" NodeType="String">auto</Optimization>
+    <ScaleMax Index="0" NodeType="Double">1</ScaleMax>
+    <ScaleMin Index="0" NodeType="Double">1</ScaleMin>
+    <ScaleStep Index="0" NodeType="Double">0</ScaleStep>
+  </Template>
+  <TrainRegion Index="0" Attributes="">
+    <CenterX Index="0" NodeType="Double">541.761380323054</CenterX>
+    <CenterY Index="0" NodeType="Double">510.33042394015</CenterY>
+    <LengthX Index="0" NodeType="Double">223.67107195301</LengthX>
+    <LengthY Index="0" NodeType="Double">219.39650872818</LengthY>
+    <RotationD Index="0" NodeType="Double">0</RotationD>
+  </TrainRegion>
+  <RunParams Index="0" Attributes="">
+    <AcceptScore Index="0" NodeType="Double">75</AcceptScore>
+    <Accuracy Index="0" NodeType="Int32" EnumName="enumPixelAccuracy">4</Accuracy>
+    <AlgorithmSpeed Index="0" NodeType="Double">0</AlgorithmSpeed>
+    <AngleExtent Index="0" NodeType="Double">0.174532925199433</AngleExtent>
+    <AngleStart Index="0" NodeType="Double">-0.0872664625997165</AngleStart>
+    <ApproximateNumberToFind Index="0" NodeType="Int32">1</ApproximateNumberToFind>
+    <RotaryEnabled Index="0" NodeType="Boolean">True</RotaryEnabled>
+    <ScaleEnabled Index="0" NodeType="Boolean">False</ScaleEnabled>
+    <ScaleMax Index="0" NodeType="Double">1</ScaleMax>
+    <ScaleMin Index="0" NodeType="Double">1</ScaleMin>
+    <SearchScore Index="0" NodeType="Double">0</SearchScore>
+    <XYOverlap Index="0" NodeType="Double">0</XYOverlap>
+  </RunParams>
+</RootNode>

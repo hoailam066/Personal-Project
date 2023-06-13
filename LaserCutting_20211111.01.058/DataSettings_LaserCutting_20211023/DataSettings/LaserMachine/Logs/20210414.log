@@ -1,0 +1,353 @@
+09:13:53.693|Start program
+09:13:53.703|Open Administrator UI
+09:14:08.721|Load project: ABCd
+09:20:57.039|Close program
+09:21:30.056|Start program
+09:21:30.066|Open Administrator UI
+09:21:39.081|Load project: ABCd
+09:38:35.804|Close program
+09:38:43.509|Start program
+09:38:43.519|Open Administrator UI
+09:44:00.708|Close program
+09:44:40.279|Start program
+09:44:40.289|Open Administrator UI
+09:47:31.390|Load project: ABCd
+09:51:09.301|Load project: ABCd
+09:54:12.717|Start program
+09:54:12.727|Open Administrator UI
+09:54:23.843|Load project: ABCd
+09:55:34.121|Load project: ABCd
+09:56:10.150|Load project: ABCd
+09:56:57.258|Load project: ABCd
+09:57:37.205|Load project: ABCd
+09:58:23.911|Load project: ABCd
+09:58:41.931|Load project: ABCd
+10:01:42.091|Start program
+10:01:42.091|Open Administrator UI
+10:01:48.104|Load project: ABCd
+10:03:23.174|Close program
+10:03:45.792|Start program
+10:03:45.802|Open Administrator UI
+10:18:06.388|Start program
+10:18:06.388|Open Administrator UI
+10:18:40.466|Load project: ABCd
+10:18:54.483|Load project: ABCd
+10:19:26.510|Load project: ABCd
+10:19:50.533|Load project: ABCd
+10:21:30.733|Load project: ABCd
+10:23:42.671|Load project: ABCd
+10:25:03.269|Load project: ABCd
+10:26:41.544|Load project: ABCd
+10:27:50.618|Load project: ABCd
+10:28:42.562|Load project: ABCd
+10:29:55.883|Load project: ABCd
+10:32:36.706|Start program
+10:32:36.706|Open Administrator UI
+10:33:03.840|Load project: ABCd
+10:33:57.899|Load project: ABCd
+10:47:04.463|Load project: ABCd
+10:48:57.553|Load project: ABCd
+10:52:00.287|Start program
+10:52:00.297|Open Administrator UI
+10:52:11.653|Load project: ABCd
+11:04:29.006|Start program
+11:04:29.006|Open Administrator UI
+11:04:40.032|Load project: ABCd
+11:06:46.759|Start program
+11:06:46.769|Open Administrator UI
+11:07:05.789|Load project: ABCd
+11:07:24.829|Close program
+11:10:46.625|Start program
+11:10:46.635|Open Administrator UI
+11:10:54.650|Load project: ABCd
+11:13:07.773|Start program
+11:13:07.783|Open Administrator UI
+11:14:06.935|Start program
+11:14:06.945|Open Administrator UI
+11:16:03.028|Start program
+11:16:03.028|Open Administrator UI
+11:17:25.821|Load project: ABCd
+11:32:42.489|Close program
+11:35:36.332|Start program
+11:35:36.342|Open Administrator UI
+11:37:34.904|Close program
+11:37:42.558|Start program
+11:37:42.558|Open Administrator UI
+11:38:21.064|Start program
+11:38:21.064|Open Administrator UI
+11:40:01.213|Start program
+11:40:01.213|Open Administrator UI
+11:44:07.743|Close program
+11:44:32.925|Start program
+11:44:32.935|Open Administrator UI
+11:45:48.685|Close program
+11:46:56.890|Start program
+11:46:56.900|Open Administrator UI
+13:07:26.658|Close program
+13:08:06.743|Start program
+13:08:06.751|Open Administrator UI
+13:08:16.832|Close program
+13:08:24.310|Start program
+13:08:24.320|Open Administrator UI
+13:23:45.592|Load project: ABCd
+13:25:00.319|Close program
+13:25:32.388|Start program
+13:25:32.395|Open Administrator UI
+13:25:41.650|Load project: ABCd
+14:01:06.004|Start program
+14:01:06.004|Open Administrator UI
+14:01:17.124|Load project: ABCd
+14:11:32.205|Close program
+14:15:27.424|Start program
+14:15:27.424|Open Administrator UI
+14:15:50.624|Close program
+14:16:01.224|Start program
+14:16:01.234|Open Administrator UI
+14:56:25.699|Start program
+14:56:25.699|Open Administrator UI
+14:56:43.889|Load project: ABCd
+14:57:52.569|Close program
+14:58:51.759|Start program
+14:58:51.769|Open Administrator UI
+14:59:07.919|Load project: ABCd
+15:06:50.480|Start program
+15:06:50.490|Open Administrator UI
+15:06:57.560|Load project: ABCd
+[2021-04-14] 15:14:39.133|Start program
+[2021-04-14] 15:14:39.143|Login faild
+[2021-04-14] 15:14:39.143|Program closed
+15:15:11.604|Start program
+15:15:11.604|Open Administrator UI
+15:15:20.704|Load project: ABCd
+15:15:36.934|Close program
+15:16:35.024|Start program
+15:16:35.024|Open Administrator UI
+15:16:42.104|Load project: ABCd
+15:55:59.763|Start program
+15:55:59.763|Open Administrator UI
+15:56:13.913|Load project: ABCd
+15:56:17.953|Draw line: LINE1
+15:56:21.013|Draw line: LINE1
+15:58:56.425|Start program
+15:58:56.425|Open Administrator UI
+15:59:05.535|Load project: ABCd
+15:59:07.555|Start Auto Run
+15:59:32.487|Start program
+15:59:32.497|Open Administrator UI
+15:59:39.577|Load project: ABCd
+15:59:42.607|Start Auto Run
+16:00:44.853|Start Auto Run
+16:01:16.967|Stop Auto Run
+16:01:22.017|Start Auto Run
+16:01:24.037|Stop Auto Run
+16:02:51.581|Start Auto Run Test
+16:02:54.611|Stop Auto Run Test
+16:02:57.641|Start Auto Run
+16:03:00.661|Stop Auto Run
+16:03:31.965|Start Auto Run Test
+16:03:31.965|Close program
+16:03:43.336|Start program
+16:03:43.336|Open Administrator UI
+16:03:50.876|Load project: ABCd
+16:03:51.886|Start Auto Run
+16:03:53.906|Stop Auto Run
+16:03:55.926|Start Auto Run Test
+16:03:57.946|Stop Auto Run Test
+16:04:25.026|Start program
+16:04:25.036|Open Administrator UI
+16:04:33.136|Load project: ABCd
+16:05:40.016|Start Auto Run
+16:05:40.016|Close program
+16:05:51.686|Start program
+16:05:51.686|Open Administrator UI
+16:05:58.766|Load project: ABCd
+16:06:12.906|Start Auto Run
+16:06:12.906|Close program
+16:06:59.856|Start program
+16:06:59.856|Open Administrator UI
+16:07:06.086|Load project: ABCd
+16:07:13.216|Draw line: LINE1
+16:07:22.316|Draw line: LINE1
+16:07:24.336|Draw line: LINE1
+16:23:17.781|Draw line: LINE1
+16:23:21.821|Draw line: LINE1
+16:24:24.757|Draw line: LINE1
+16:24:27.787|Draw line: LINE1
+16:24:44.880|Draw line: LINE1 Test
+16:25:16.190|Start Auto Run Test
+16:25:16.190|Close program
+16:31:57.842|Start program
+16:31:57.842|Open Administrator UI
+16:34:22.382|Load project: ABCd
+16:34:42.582|Draw line: LINE1 Test
+16:37:49.502|Draw line: LINE1 Test
+16:37:52.532|Draw line: LINE1 Test
+16:37:55.562|Draw line: LINE1 Test
+16:38:54.142|Draw line: LINE1 Test
+16:38:58.174|Draw line: LINE1 Test
+16:39:01.204|Draw line: LINE1 Test
+16:39:09.284|Draw line: LINE1 Test
+16:39:18.435|Draw line: LINE1 Test
+16:39:26.515|Draw line: LINE1 Test
+16:39:36.615|Draw line: LINE1 Test
+16:39:39.645|Draw line: LINE1 Test
+16:39:41.665|Draw line: LINE1 Test
+16:39:43.685|Draw line: LINE1 Test
+16:39:46.715|Draw line: LINE1 Test
+16:39:48.735|Draw line: LINE1 Test
+16:40:04.895|Draw line: LINE1 Test
+16:40:09.945|Draw line: LINE1 Test
+16:40:12.975|Draw line: LINE1 Test
+16:40:16.005|Draw line: LINE1 Test
+16:40:26.105|Draw line: LINE1 Test
+16:40:34.185|Draw line: LINE1 Test
+16:41:52.965|Start Auto Run Test
+16:41:52.965|Close program
+16:42:33.911|Start program
+16:42:33.911|Open Administrator UI
+16:46:39.652|Start program
+16:46:39.662|Open Administrator UI
+16:46:54.812|Load project: ABCd
+16:46:56.832|Draw line: LINE1 Test
+16:46:58.852|Draw line: LINE1 Test
+16:47:02.912|Draw line: LINE1 Test
+16:47:04.932|Draw line: LINE1 Test
+16:47:09.982|Draw line: LINE1
+16:47:22.102|Draw line: LINE1 Test
+16:48:05.532|Load project: ABCd
+[2021-04-14] 16:48:11.552|Add new project: sdfdsfdsfdsfdfsdfdsfsdf
+16:48:12.612|Add new project: sdfdsfdsfdsfdfsdfdsfsdf
+[2021-04-14] 16:48:33.672|Delete project: sdfdsfdsfdsfdfsdfdsfsdf
+16:48:35.852|Load project: ABCd
+16:48:43.932|Start Auto Run Test
+16:48:43.932|Close program
+16:53:10.921|Start program
+16:53:10.921|Open Administrator UI
+16:55:05.234|Start program
+16:55:05.234|Open Administrator UI
+16:58:09.910|Load project: ABCd
+17:05:57.539|Start Auto Run
+17:05:57.539|Close program
+17:16:36.221|Start program
+17:16:36.221|Open Administrator UI
+17:16:44.311|Load project: ABCd
+[2021-04-14] 17:17:00.081|Start program
+[2021-04-14] 17:17:00.091|Login faild
+[2021-04-14] 17:17:00.091|Program closed
+17:17:18.091|Start program
+17:17:18.091|Open Administrator UI
+17:18:02.497|Start Auto Run
+17:18:02.500|Close program
+18:16:39.257|Start program
+18:16:39.257|Open Administrator UI
+18:16:48.357|Load project: ABCd
+18:17:00.477|Draw line: LINE1 Test
+18:17:11.587|Draw line: LINE1 Test
+18:17:21.687|Draw line: LINE1 Test
+18:17:25.727|Draw line: LINE1 Test
+18:17:35.827|Draw line: LINE1 Test
+18:17:43.907|Draw line: LINE1 Test
+18:17:50.977|Draw line: LINE1 Test
+18:17:57.037|Draw line: LINE1 Test
+18:24:23.031|Start program
+18:24:23.031|Open Administrator UI
+18:24:32.141|Start Auto Run
+18:24:32.141|Close program
+18:26:03.678|Start program
+18:26:03.688|Open Administrator UI
+18:26:17.858|Load project: ABCd
+18:26:28.968|Draw line: LINE1 Test
+18:26:35.028|Draw line: LINE1 Test
+18:26:46.148|Draw line: LINE1 Test
+18:26:49.198|Draw line: LINE1 Test
+18:27:00.308|Draw line: LINE1 Test
+18:27:07.378|Draw line: LINE1 Test
+18:27:11.418|Draw line: LINE1
+18:37:14.359|Start Auto Run Test
+18:37:14.359|Close program
+18:38:14.299|Start program
+18:38:14.299|Open Administrator UI
+18:44:05.814|Load project: ABCd
+18:44:11.874|Start Auto Run Test
+18:44:17.934|Stop Auto Run Test
+18:44:30.594|Start Auto Run Test
+18:46:24.674|Stop Auto Run Test
+18:46:40.734|Start Auto Run Test
+19:12:34.750|Start program
+19:12:34.760|Open Administrator UI
+19:40:19.616|Start program
+19:40:19.622|Open Administrator UI
+19:40:40.640|Start Auto Run
+19:40:40.643|Close program
+19:40:54.310|Start program
+19:40:54.319|Open Administrator UI
+19:44:25.138|Start Auto Run
+19:44:25.141|Close program
+19:44:37.752|Start program
+19:44:37.759|Open Administrator UI
+19:44:48.770|Start Auto Run
+19:44:48.773|Close program
+19:46:30.742|Start program
+19:46:30.749|Open Administrator UI
+19:46:46.762|Load project: ABCd
+19:46:58.777|Load project: ABCd
+19:47:15.793|Load project: ABCd
+19:47:28.807|Start Auto Run
+19:47:28.810|Close program
+19:47:36.212|Start program
+19:47:36.220|Open Administrator UI
+19:47:43.229|Load project: ABCd
+19:49:19.246|Load project: ABCd
+19:49:34.259|Load project: ABCd
+19:50:00.703|Load project: ABCd
+19:52:41.070|Start program
+19:52:41.077|Open Administrator UI
+19:52:50.719|Load project: ABCd
+19:53:04.731|Load project: ABCd
+19:54:14.809|Draw line: LINE1 Test
+19:54:17.814|Draw line: LINE1 Test
+19:56:43.024|Start Auto Run Test
+19:56:43.027|Close program
+20:02:46.039|Start program
+20:02:46.046|Open Administrator UI
+20:02:56.060|Load project: ABCd
+20:03:05.069|Start Auto Run
+20:03:05.072|Close program
+20:07:13.033|Start program
+20:07:13.040|Open Administrator UI
+20:07:20.047|Load project: ABCd
+20:07:38.067|Start Auto Run
+20:07:38.070|Close program
+20:17:24.333|Start program
+20:17:24.340|Open Administrator UI
+20:17:35.353|Load project: ABCd
+20:18:49.411|Start Auto Run
+20:18:49.414|Close program
+20:18:58.262|Start program
+20:18:58.270|Open Administrator UI
+20:21:28.097|Start program
+20:21:28.104|Open Administrator UI
+20:21:35.853|Load project: ABCd
+20:23:03.372|Start program
+20:23:03.379|Open Administrator UI
+20:23:13.451|Load project: ABCd
+20:24:10.551|Draw line: LINE2
+20:24:40.576|Draw line: LINE2 Test
+20:24:50.585|Draw line: LINE1 Test
+20:24:53.590|Draw line: LINE1 Test
+20:24:56.596|Draw line: LINE1 Test
+20:24:59.603|Draw line: LINE2 Test
+20:25:02.609|Draw line: LINE2 Test
+20:25:05.614|Draw line: LINE2 Test
+20:25:08.619|Draw line: LINE2
+20:26:47.686|Start Auto Run Test
+20:26:47.689|Close program
+20:31:30.340|Start program
+20:31:30.348|Open Administrator UI
+20:31:38.359|Load project: ABCd
+[2021-04-14] 20:31:46.052|Add new project: Test
+20:31:46.370|Add new project: Test
+[2021-04-14] 20:32:02.443|Delete project: Test
+20:32:07.433|Load project: ABCd
+20:32:34.454|Start Auto Run
+20:32:34.458|Close program

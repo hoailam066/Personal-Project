@@ -1,0 +1,648 @@
+﻿body {
+}
+
+@media (min-width: 1200px) {
+    .divLon {
+        width: 100%;
+        float: left;
+    }
+
+    .divDong {
+        width: 100%;
+        float: left;
+        margin-top: 10px;
+    }
+
+    .divCon {
+        width: 50%;
+        float: left;
+        margin-top: 3%;
+    }
+
+    .divLabelSoGhe {
+        width: 10%;
+        float: left;
+        margin-left: 40%;
+    }
+
+    .divLabelGhe {
+        width: 7%;
+        float: left;
+    }
+
+    .SoGhe {
+        color: red;
+        font-size: 20pt;
+        font-weight: bold;
+    }
+
+    .LabelSoXe {
+        font-size: 25pt !important;
+        text-align: center;
+    }
+
+    .lbl {
+        font-size: 20pt;
+    }
+
+    .title {
+        font-size: 17pt;
+        background-size: 80px;
+    }
+
+    .divTrai {
+        width: 45%;
+        float: left;
+    }
+
+    .divPhai {
+        width: 54%;
+        float: right;
+        margin-right: 5px;
+    }
+
+    .divHinh {
+        width: 17.5%;
+        float: left;
+        margin-top: 2%;
+        height: 120px;
+        margin-left: 2.5%;
+        text-align: center;
+        padding-top: 5px;
+    }
+
+    .divTrong {
+        width: 18%;
+        float: left;
+        margin-top: 2%;
+        height: 120px;
+        margin-left: 2%;
+        text-align: center;
+        padding-top: 5px;
+    }
+
+    .divHinhTrai {
+        width: 21%;
+        float: left;
+        margin-top: 3%;
+        height: 121.5px;
+        margin-left: 3%;
+        text-align: center;
+        padding-top: 5px;
+    }
+
+    .divHinhTrong {
+        width: 37%;
+        float: left;
+        margin-top: 4%;
+        height: 120px;
+        margin-left: 2.5%;
+        text-align: center;
+        line-height: 215px;
+    }
+
+    .divHinhTrongTrai {
+        width: 19%;
+        float: left;
+        margin-top: 2%;
+        height: 120px;
+        margin-left: 5%;
+    }
+
+    .LabelSoGhe {
+        font-size: 17pt;
+        text-align: center;
+        padding-top: 5px;
+    }
+
+    .lblTaiXe {
+        font-size: 18pt;
+        font-weight: bold;
+    }
+
+    .margin {
+        margin-left: 0px !important;
+    }
+
+    .button {
+        font-size: 16pt;
+        margin-bottom: 5%;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .divLon {
+        width: 100%;
+        float: left;
+    }
+
+    .divDong {
+        width: 100%;
+        float: left;
+        margin-top: 10px;
+    }
+
+    .divCon {
+        width: 50%;
+        float: left;
+        margin-top: 3%;
+    }
+
+    .divLabelSoGhe {
+        width: 13%;
+        float: left;
+        margin-left: 37%;
+    }
+
+    .divLabelGhe {
+        width: 7%;
+        float: left;
+    }
+
+    .SoGhe {
+        color: red;
+        font-size: 20pt;
+        font-weight: bold;
+    }
+
+    .LabelSoXe {
+        font-size: 25pt !important;
+        text-align: center;
+    }
+
+    .lbl {
+        font-size: 20pt;
+    }
+
+    .title {
+        font-size: 17pt;
+        background-size: 80px;
+    }
+
+    .divTrai {
+        width: 43%;
+        float: left;
+    }
+
+    .divPhai {
+        width: 54%;
+        float: right;
+        margin-right: 5px;
+    }
+
+    .divHinh {
+        width: 17.5%;
+        float: left;
+        margin-top: 2.7%;
+        height: 120px;
+        margin-left: 2.5%;
+        text-align: center;
+        padding-top: 5px;
+    }
+
+    .divTrong {
+        width: 18%;
+        float: left;
+        margin-top: 2%;
+        height: 120px;
+        margin-left: 2%;
+        text-align: center;
+        padding-top: 5px;
+    }
+
+    .divHinhTrai {
+        width: 21%;
+        float: left;
+        margin-top: 3%;
+        height: 121.5px;
+        margin-left: 3%;
+        text-align: center;
+        padding-top: 5px;
+    }
+
+    .divHinhTrong {
+        width: 37%;
+        float: left;
+        margin-top: 4%;
+        height: 120px;
+        margin-left: 2.5%;
+        text-align: center;
+        line-height: 215px;
+    }
+
+    .divHinhTrongTrai {
+        width: 19%;
+        float: left;
+        margin-top: 2%;
+        height: 120px;
+        margin-left: 5%;
+    }
+
+    .LabelSoGhe {
+        font-size: 17pt;
+        text-align: center;
+        padding-top: 5px;
+    }
+
+    .lblTaiXe {
+        font-size: 18pt;
+        font-weight: bold;
+    }
+
+    .margin {
+        margin-left: 0px !important;
+       
+    }
+
+    .button {
+        font-size: 16pt;
+        margin-bottom: 5%;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .divLon {
+        width: 100%;
+        float: left;
+    }
+
+    .divDong {
+        width: 100%;
+        float: left;
+        margin-top: 10px;
+    }
+
+    .divCon {
+        width: 50%;
+        float: left;
+        margin-top: 3%;
+    }
+
+    .divLabelSoGhe {
+        width: 15%;
+        float: left;
+        margin-left: 37%;
+    }
+
+    .divLabelGhe {
+        width: 7%;
+        float: left;
+    }
+
+    .SoGhe {
+        color: red;
+        font-size: 20pt;
+        font-weight: bold;
+    }
+
+    .LabelSoXe {
+        font-size: 25pt !important;
+        text-align: center;
+    }
+
+    .lbl {
+        font-size: 20pt;
+    }
+
+    .title {
+        font-size: 17pt;
+        background-size: 80px;
+    }
+
+    .divTrai {
+        width: 43%;
+        float: left;
+    }
+
+    .divPhai {
+        width: 54%;
+        float: right;
+        margin-right: 5px;
+    }
+
+    .divHinh {
+        width: 17.5%;
+        float: left;
+        margin-top: 2.7%;
+        height: 120px;
+        margin-left: 2.5%;
+        text-align: center;
+        padding-top: 5px;
+    }
+
+    .divTrong {
+        width: 18%;
+        float: left;
+        margin-top: 2%;
+        height: 120px;
+        margin-left: 2%;
+        text-align: center;
+        padding-top: 5px;
+    }
+
+    .divHinhTrai {
+        width: 21%;
+        float: left;
+        margin-top: 3%;
+        height: 121.5px;
+        margin-left: 3%;
+        text-align: center;
+        padding-top: 5px;
+    }
+
+    .divHinhTrong {
+        width: 37%;
+        float: left;
+        margin-top: 4.5%;
+        height: 120px;
+        margin-left: 2.5%;
+        text-align: center;
+        line-height: 215px;
+    }
+
+    .divHinhTrongTrai {
+        width: 19%;
+        float: left;
+        margin-top: 2%;
+        height: 120px;
+        margin-left: 5%;
+    }
+
+    .LabelSoGhe {
+        font-size: 17pt;
+        text-align: center;
+        padding-top: 5px;
+    }
+
+    .lblTaiXe {
+        font-size: 18pt;
+        font-weight: bold;
+    }
+
+    .margin {
+        margin-left: 0px !important;
+    }
+
+    .button {
+        font-size: 16pt;
+        margin-bottom: 5%;
+    }
+}
+@media (min-width: 481px) and (max-width: 767px) {
+    .divLon {
+        width: 100%;
+        float: left;
+    }
+
+    .divDong {
+        width: 100%;
+        float: left;
+        margin-top: 10px;
+    }
+
+    .divCon {
+        width: 50%;
+        float: left;
+        margin-top: 3%;
+    }
+
+    .divLabelSoGhe {
+        width: 30%;
+        float: left;
+        margin-left: 20%;
+    }
+
+    .divLabelGhe {
+        width: 10%;
+        float: left;
+    }
+
+    .SoGhe {
+        color: red;
+        font-size: 20pt;
+        font-weight: bold;
+    }
+
+    .LabelSoXe {
+        font-size: 25pt !important;
+        text-align: center;
+    }
+
+    .lbl {
+        font-size: 20pt;
+    }
+
+    .title {
+        font-size: 17pt;
+        background-size: 80px;
+    }
+
+    .divTrai {
+        width: 100%;
+        float: left;
+    }
+
+    .divPhai {
+        width: 100%;
+        float: left;
+        margin-left: 12px;
+    }
+
+    .divHinh {
+        width: 20%;
+        float: left;
+        margin-top: 2.7%;
+        height: 120px;
+        margin-left: 3%;
+        text-align: center;
+        padding-top: 5px;
+    }
+
+    .divTrong {
+        width: 21%;
+        float: left;
+        margin-top: 2%;
+        height: 120px;
+        margin-left: 2%;
+        text-align: center;
+        padding-top: 5px;
+    }
+
+    .divHinhTrai {
+        width: 20%;
+        float: left;
+        margin-top: 3%;
+        height: 121.5px;
+        margin-left: 3%;
+        text-align: center;
+        padding-top: 5px;
+    }
+
+    .divHinhTrong {
+        width: 23%;
+        float: left;
+        margin-top: 4%;
+        height: 120px;
+        margin-left: 2.5%;
+        text-align: center;
+        line-height: 0px;
+    }
+
+    .divHinhTrongTrai {
+        width: 15%;
+        float: left;
+        margin-top: 2%;
+        height: 120px;
+        margin-left: 5%;
+    }
+
+    .LabelSoGhe {
+        font-size: 17pt;
+        text-align: center;
+        padding-top: 5px;
+    }
+
+    .lblTaiXe {
+        font-size: 16pt;
+        font-weight: bold;
+    }
+
+    .margin {
+        margin-left: 0px !important;
+    }
+
+    .button {
+        font-size: 16pt;
+        margin-bottom: 5%;
+    }
+}
+@media (min-width: 321px) and (max-width: 480px) {
+    .divLon {
+        width: 100%;
+        float: left;
+    }
+
+    .divDong {
+        width: 100%;
+        float: left;
+        margin-top: 10px;
+    }
+
+    .divCon {
+        width: 100%;
+        float: left;
+        margin-top: 3%;
+    }
+
+    .divLabelSoGhe {
+        width: 40%;
+        float: left;
+        margin-left: 10%;
+    }
+
+    .divLabelGhe {
+        width: 20%;
+        float: left;
+    }
+
+    .SoGhe {
+        color: red;
+        font-size: 20pt;
+        font-weight: bold;
+    }
+
+    .LabelSoXe {
+        font-size: 25pt !important;
+        text-align: center;
+    }
+
+    .lbl {
+        font-size: 20pt;
+    }
+
+    .title {
+        font-size: 17pt;
+        background-size: 80px;
+    }
+
+    .divTrai {
+        width: 100%;
+        float: left;
+    }
+
+    .divPhai {
+        width: 100%;
+        float: left;
+        margin-left: 12px;
+    }
+
+    .divHinh {
+        width: 20%;
+        float: left;
+        margin-top: 2.7%;
+        height: 120px;
+        margin-left: 3%;
+        text-align: center;
+        padding-top: 5px;
+    }
+
+    .divTrong {
+        width: 21%;
+        float: left;
+        margin-top: 2%;
+        height: 120px;
+        margin-left: 2%;
+        text-align: center;
+        padding-top: 5px;
+    }
+
+    .divHinhTrai {
+        width: 20%;
+        float: left;
+        margin-top: 3%;
+        height: 121.5px;
+        margin-left: 3%;
+        text-align: center;
+        padding-top: 5px;
+    }
+
+    .divHinhTrong {
+        width: 20%;
+        float: left;
+        margin-top: 4%;
+        height: 120px;
+        margin-left: 2.5%;
+        text-align: center;
+        line-height: 30px;
+        
+    }
+
+    .divHinhTrongTrai {
+        width: 15%;
+        float: left;
+        margin-top: 2%;
+        height: 120px;
+        margin-left: 5%;
+    }
+
+    .LabelSoGhe {
+        font-size: 17pt;
+        text-align: center;
+        padding-top: 5px;
+    }
+
+    .lblTaiXe {
+        font-size: 16pt;
+        font-weight: bold;
+      
+    }
+
+    .margin {
+        margin-left: 0px !important;
+    }
+
+    .button {
+        font-size: 16pt;
+        margin-bottom: 5%;
+    }
+}

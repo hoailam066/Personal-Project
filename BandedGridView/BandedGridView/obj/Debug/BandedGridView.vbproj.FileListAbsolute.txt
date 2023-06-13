@@ -1,0 +1,11 @@
+D:\DHSOFT\BachTung\DHSErp\BandedGridView.exe
+D:\DHSOFT\BachTung\DHSErp\BandedGridView.pdb
+D:\DHSOFT\BachTung\DHSErp\BandedGridView.xml
+D:\DHSOFT\BachTung\Source\BandedGridView\BandedGridView\obj\Debug\BandedGridView.vbprojResolveAssemblyReference.cache
+D:\DHSOFT\BachTung\Source\BandedGridView\BandedGridView\obj\Debug\BandedGridView.Form1.resources
+D:\DHSOFT\BachTung\Source\BandedGridView\BandedGridView\obj\Debug\BandedGridView.Resources.resources
+D:\DHSOFT\BachTung\Source\BandedGridView\BandedGridView\obj\Debug\BandedGridView.vbproj.GenerateResource.Cache
+D:\DHSOFT\BachTung\Source\BandedGridView\BandedGridView\obj\Debug\BandedGridView.exe.licenses
+D:\DHSOFT\BachTung\Source\BandedGridView\BandedGridView\obj\Debug\BandedGridView.exe
+D:\DHSOFT\BachTung\Source\BandedGridView\BandedGridView\obj\Debug\BandedGridView.xml
+D:\DHSOFT\BachTung\Source\BandedGridView\BandedGridView\obj\Debug\BandedGridView.pdb

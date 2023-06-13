@@ -1,0 +1,6 @@
+D:\Projects\LaserSolder\VisionSystemHalcon\obj\x86\Debug\VisionSystem.FLutTrans.resources
+D:\Projects\LaserSolder\VisionSystemHalcon\obj\x86\Debug\VisionSystem.FMaskEdit.resources
+D:\Projects\LaserSolder\VisionSystemHalcon\obj\x86\Debug\VisionSystem.FMatchingShapeTool.resources
+D:\Projects\LaserSolder\VisionSystemHalcon\obj\x86\Debug\VisionSystem.Resources.resources
+D:\Projects\LaserSolder\VisionSystemHalcon\obj\x86\Debug\VisionSystem.ImageDisplay.resources
+D:\Projects\LaserSolder\VisionSystemHalcon\obj\x86\Debug\VisionHalcon.vbproj.GenerateResource.Cache

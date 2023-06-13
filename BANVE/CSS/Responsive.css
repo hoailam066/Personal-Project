@@ -1,0 +1,308 @@
+﻿body {
+}
+
+@media (min-width: 1200px) {
+    .divLon {
+        width: 100%;
+        float: left;
+    }
+
+    .divDong {
+        width: 100%;
+    }
+
+    .divLabel {
+        width: 99%;
+        float: right;
+    }
+
+    .divControl {
+        width: 20%;
+        margin-top: 5px;
+        margin-left: 5%;
+    }
+
+    ul.ul {
+        width: 82%;
+        -webkit-padding-start: 10px;
+        margin-right: 10px;
+    }
+
+    .li {
+        padding-left: 5%;
+        font-size: 12pt;
+        height: 33px;
+        line-height: 33px;
+    }
+
+    .divIFrame {
+        width: 95%;
+        height: 87vh;
+        float: right;
+        overflow-y: hidden;
+    }
+    .divMenuNgang{
+        width:95% !important;
+        margin-left:0px;
+    }
+    .ul{
+        width:100%;
+    }
+    .divLeft{
+        width:4% !important;
+    }
+    .sidenavmenu{
+        top:8% !important;
+     
+    }
+
+}
+/*--------------------------*/
+@media (min-width: 992px) and (max-width: 1199px) {
+    .divLon {
+        width: 100%;
+        float: left;
+    }
+
+    .divDong {
+        width: 100%;
+    }
+
+    .divLabel {
+        width: 99%;
+        float: right;
+    }
+
+    .divControl {
+        width: 14%;
+        margin-top: 5px;
+        margin-left: 3%;
+    }
+
+    ul.ul {
+        width: 82%;
+        -webkit-padding-start: 10px;
+        margin-right: 10px;
+    }
+
+    .li {
+        padding-left: 5%;
+        font-size: 12pt;
+        height: 33px;
+        line-height: 33px;
+    }
+    .divLeft{
+        width:4%;
+    }
+        .sidenavmenu{
+        top:8% !important;
+     
+    }
+            .divIFrame {
+        width: 95%;
+        height: 84vh;
+        float: right;
+        overflow-y: hidden;
+    }
+}
+/* ------------------------------------------*/
+@media (min-width: 768px) and (max-width: 991px) {
+    .divLon {
+        width: 100%;
+        float: left;
+    }
+
+    .divDong {
+        width: 100%;
+    }
+
+    .divLabel {
+        width: 70%;
+        float: right;
+    }
+
+    .divControl {
+        width: 40%;
+        margin-top: 5px;
+        margin-left: 25%;
+    }
+
+    ul.ul {
+        width: 100%;
+        -webkit-padding-start: 10px;
+        margin-right: 10px;
+    }
+
+    .li {
+        padding-left: 5%;
+        font-size: 12pt;
+        height: 33px;
+        line-height: 33px;
+    }
+
+
+.sidenavmenu {
+    margin-top: 11.5% !important;
+}
+
+.divLeft {
+    width: 5%;
+    height: 1vh; /*vh là đơn vị màn hình thiết bị hiện tại*/
+    float: left;
+}
+
+.divIFrame {
+    width: 90%;
+    height: 70vh;
+    float: right;
+    overflow-y: hidden;
+}
+
+.sidenavmenuUser {
+    margin-top: 70px;
+}
+
+.divMenuNgang {
+    height: 85%;
+    width: 100%;
+    margin-left: -30%;
+}
+
+.ul {
+    width: 140%;
+}
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+    .divLon {
+        width: 100%;
+        float: left;
+    }
+
+    .divDong {
+        width: 100%;
+    }
+
+    .divLabel {
+        width: 70%;
+        float: right;
+    }
+
+    .divControl {
+        width: 35%;
+        margin-top: 5px;
+        margin-left: 3%;
+    }
+
+    ul.ul {
+        width: 100%;
+        -webkit-padding-start: 10px;
+        margin-right: 10px;
+    }
+
+    .li {
+        padding-left: 5%;
+        font-size: 12pt;
+        height: 33px;
+        line-height: 33px;
+    }
+
+
+.sidenavmenu {
+    margin-top: 17.5%;
+}
+
+.divLeft {
+    width: 5%;
+    height: 1vh; /*vh là đơn vị màn hình thiết bị hiện tại*/
+    float: left;
+}
+
+.divIFrame {
+    width: 85%;
+    height: 70vh;
+    float: right;
+    overflow-y: hidden;
+}
+
+.sidenavmenuUser {
+    margin-top: 70px;
+}
+
+.divMenuNgang {
+    height: 85%;
+    width: 100%;
+    margin-left: -28%;
+}
+
+.ul {
+    width: 140%;
+}
+}
+
+@media (min-width: 321px) and (max-width: 480px) {
+    .divLon {
+        width: 100%;
+        float: left;
+    }
+
+    .divDong {
+        width: 100%;
+    }
+
+    .divLabel {
+        width: 70%;
+        float: right;
+    }
+
+    .divControl {
+        width: 35%;
+        margin-top: 5px;
+        margin-left: 3%;
+    }
+
+    ul.ul {
+        width: 100%;
+        -webkit-padding-start: 10px;
+        margin-right: 10px;
+    }
+
+    .li {
+        padding-left: 5%;
+        font-size: 12pt;
+        height: 33px;
+        line-height: 33px;
+    }
+
+
+.sidenavmenu {
+    margin-top: 36%;
+}
+
+.divLeft {
+    width: 5%;
+    height: 1vh; /*vh là đơn vị màn hình thiết bị hiện tại*/
+    float: left;
+}
+
+.divIFrame {
+    width: 78%;
+    height: 90vh;
+    float: right;
+    overflow-y: hidden;
+}
+
+.sidenavmenuUser {
+    margin-top: 70px;
+}
+
+.divMenuNgang {
+    height: 90%;
+    width: 86%;
+    margin-left: -18%;
+}
+
+.ul {
+    width: 140%;
+}
+}

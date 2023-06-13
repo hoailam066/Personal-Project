@@ -1,0 +1,477 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="btnGhiNhanResource1.Text" xml:space="preserve">
+    <value>Ghi nhận</value>
+  </data>
+  <data name="btnGhiNhanResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="LabelResource1.Text" xml:space="preserve">
+    <value>CÔNG TY TNHH DỊCH VỤ VẬN TẢI ABC</value>
+  </data>
+  <data name="LabelResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="LabelResource2.Text" xml:space="preserve">
+    <value>Thời gian:</value>
+  </data>
+  <data name="LabelResource2.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="LabelResource3.Text" xml:space="preserve">
+    <value>Thông tin chi tiết</value>
+  </data>
+  <data name="LabelResource3.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="LabelResource4.Text" xml:space="preserve">
+    <value>Tình trạng hàng</value>
+  </data>
+  <data name="LabelResource4.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="LabelResource5.Text" xml:space="preserve">
+    <value>Kho hàng</value>
+  </data>
+  <data name="LabelResource5.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblBocXepResource1.Text" xml:space="preserve">
+    <value>- Bốc xếp:</value>
+  </data>
+  <data name="lblBocXepResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblChiPhiResource1.Text" xml:space="preserve">
+    <value>Chi Phí:</value>
+  </data>
+  <data name="lblChiPhiResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblDiemCuoiResource1.Text" xml:space="preserve">
+    <value>Điểm cuối:</value>
+  </data>
+  <data name="lblDiemCuoiResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblGCGiaoHangResource1.Text" xml:space="preserve">
+    <value>Ghi chú giao hàng:</value>
+  </data>
+  <data name="lblGCGiaoHangResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblGCNhanHangResource1.Text" xml:space="preserve">
+    <value>Ghi chú nhận hàng:</value>
+  </data>
+  <data name="lblGCNhanHangResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblGCNVResource1.Text" xml:space="preserve">
+    <value>Ghi chú nhân viên:</value>
+  </data>
+  <data name="lblGCNVResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblGhiChuHangResource1.Text" xml:space="preserve">
+    <value>- Ghi chú:</value>
+  </data>
+  <data name="lblGhiChuHangResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblHangResource1.Text" xml:space="preserve">
+    <value>- Hàng:</value>
+  </data>
+  <data name="lblHangResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblKHNhanResource1.Text" xml:space="preserve">
+    <value>Khách hàng nhận:</value>
+  </data>
+  <data name="lblKHNhanResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblKhoXuongResource1.Text" xml:space="preserve">
+    <value>Kho xuống:</value>
+  </data>
+  <data name="lblKhoXuongResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblLuuYResource1.Text" xml:space="preserve">
+    <value>- Lưu ý:</value>
+  </data>
+  <data name="lblLuuYResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblNguoiGuiResource1.Text" xml:space="preserve">
+    <value>- Người gửi:</value>
+  </data>
+  <data name="lblNguoiGuiResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblNguoiNhanResource1.Text" xml:space="preserve">
+    <value>- Người nhận:</value>
+  </data>
+  <data name="lblNguoiNhanResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblNVNhanResource1.Text" xml:space="preserve">
+    <value>- Nhân viên nhận:</value>
+  </data>
+  <data name="lblNVNhanResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblSDTNNResource1.Text" xml:space="preserve">
+    <value>- SĐT:</value>
+  </data>
+  <data name="lblSDTNNResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblSDTResource1.Text" xml:space="preserve">
+    <value>- SĐT:</value>
+  </data>
+  <data name="lblSDTResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblSoLuongResource1.Text" xml:space="preserve">
+    <value>- SL:</value>
+  </data>
+  <data name="lblSoLuongResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblTenKHResource1.Text" xml:space="preserve">
+    <value>Tên KH:</value>
+  </data>
+  <data name="lblTenKHResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblThoiGianNhanResource1.Text" xml:space="preserve">
+    <value>- Thời gian nhận:</value>
+  </data>
+  <data name="lblThoiGianNhanResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblTrungChuyenResource1.Text" xml:space="preserve">
+    <value>Trung chuyển:</value>
+  </data>
+  <data name="lblTrungChuyenResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblTruongCaResource1.Text" xml:space="preserve">
+    <value>- Trưởng ca:</value>
+  </data>
+  <data name="lblTruongCaResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblTTHResource1.Text" xml:space="preserve">
+    <value>Thông tin hàng</value>
+  </data>
+  <data name="lblTTHResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblTuyenResource1.Text" xml:space="preserve">
+    <value>- Tuyến:</value>
+  </data>
+  <data name="lblTuyenResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblUocgiaResource1.Text" xml:space="preserve">
+    <value>- Ước giá:</value>
+  </data>
+  <data name="lblUocgiaResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblXeVanChuyenResource1.Text" xml:space="preserve">
+    <value>Xe vận chuyển:</value>
+  </data>
+  <data name="lblXeVanChuyenResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="PageResource1.Title" xml:space="preserve">
+    <value />
+  </data>
+  <data name="rdbChuaThanhToanResource1.Text" xml:space="preserve">
+    <value>Chưa thanh toán</value>
+  </data>
+  <data name="rdbChuaThanhToanResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="rdbDaThanhToanResource1.Text" xml:space="preserve">
+    <value>Đã thanh toán</value>
+  </data>
+  <data name="rdbDaThanhToanResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtBocXepResource1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtBocXepResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtChiPhiResource1.Text" xml:space="preserve">
+    <value>60.000đ</value>
+  </data>
+  <data name="txtChiPhiResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtDiemCuoiResource1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtDiemCuoiResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtGCGiaoHangResource1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtGCGiaoHangResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtGCNhanHangResource1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtGCNhanHangResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtGCNVResource1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtGCNVResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtGhiChuHangResource1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtGhiChuHangResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtGioResource1.Text" xml:space="preserve">
+    <value>26/08/2017</value>
+  </data>
+  <data name="txtGioResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtHangResource1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtHangResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtKHNhanResource1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtKHNhanResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtKhoXuongResource1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtKhoXuongResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtLuuYResource1.Text" xml:space="preserve">
+    <value>acb</value>
+  </data>
+  <data name="txtLuuYResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtNguoiGuiResource1.Text" xml:space="preserve">
+    <value>Trần văn a</value>
+  </data>
+  <data name="txtNguoiGuiResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtNguoiNhanResource1.Text" xml:space="preserve">
+    <value>Trần văn b</value>
+  </data>
+  <data name="txtNguoiNhanResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtNVNhanResource1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtNVNhanResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtSDTNguoiNhanResource1.Text" xml:space="preserve">
+    <value>0966170493</value>
+  </data>
+  <data name="txtSDTNguoiNhanResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtSDTResource1.Text" xml:space="preserve">
+    <value>01648006816</value>
+  </data>
+  <data name="txtSDTResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtSoLuongResource1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtSoLuongResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtTenKHResource1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtTenKHResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtThoiGianNhanResource1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtThoiGianNhanResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtTimKiemResource1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtTimKiemResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtTrungChuyenResource1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtTrungChuyenResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtTruongCaResource1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtTruongCaResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtTuyenResource1.Text" xml:space="preserve">
+    <value>TP.HCM - Phương Lâm</value>
+  </data>
+  <data name="txtTuyenResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtUocGiaResource1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtUocGiaResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtXeVanChuyenResource1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtXeVanChuyenResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+</root>

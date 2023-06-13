@@ -1,0 +1,482 @@
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161026.00.000\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.dll
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161026.00.000\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161026.00.000\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.xml
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161026.00.000\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161026.00.000\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161026.00.000\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161026.00.000\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.xml
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161026.00.000\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161102.00.000\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.dll
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161102.00.000\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161102.00.000\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.xml
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161102.00.000\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161102.00.000\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161102.00.000\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161102.00.000\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.xml
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161102.00.000\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161105.00.000\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.dll
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161105.00.000\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161105.00.000\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.xml
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161105.00.000\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161105.00.000\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161105.00.000\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161105.00.000\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.xml
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161105.00.000\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161108.00.000\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.dll
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161108.00.000\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161108.00.000\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.xml
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161108.00.000\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161108.00.000\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161108.00.000\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161108.00.000\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.xml
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161108.00.000\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161111.00.000\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.dll
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161111.00.000\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161111.00.000\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.xml
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161111.00.000\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161111.00.000\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161111.00.000\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161111.00.000\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.xml
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161111.00.000\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161129.00.000\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.dll
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161129.00.000\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161129.00.000\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.xml
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161129.00.000\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161129.00.000\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161129.00.000\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161129.00.000\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.xml
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161129.00.000\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161215.00.000\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.dll
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161215.00.000\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161215.00.000\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.xml
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161215.00.000\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161215.00.000\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161215.00.000\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161215.00.000\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.xml
+C:\Users\MyUser\Desktop\ResistorCutting ultralow 20161215.00.000\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\MyUser\Desktop\TrimmingTest 20170218.00.001\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.dll
+C:\Users\MyUser\Desktop\TrimmingTest 20170218.00.001\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\MyUser\Desktop\TrimmingTest 20170218.00.001\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.xml
+C:\Users\MyUser\Desktop\TrimmingTest 20170218.00.001\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\MyUser\Desktop\TrimmingTest 20170218.00.001\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\MyUser\Desktop\TrimmingTest 20170218.00.001\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\MyUser\Desktop\TrimmingTest 20170218.00.001\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.xml
+C:\Users\MyUser\Desktop\TrimmingTest 20170218.00.001\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\User\Desktop\Galvo\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.dll
+C:\Users\User\Desktop\Galvo\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\User\Desktop\Galvo\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.xml
+C:\Users\User\Desktop\Galvo\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\User\Desktop\Galvo\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\Galvo\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\User\Desktop\Galvo\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.xml
+C:\Users\User\Desktop\Galvo\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\User\Desktop\Galvo 20170328.00.001\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.dll
+C:\Users\User\Desktop\Galvo 20170328.00.001\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\User\Desktop\Galvo 20170328.00.001\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.xml
+C:\Users\User\Desktop\Galvo 20170328.00.001\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\User\Desktop\Galvo 20170328.00.001\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\Galvo 20170328.00.001\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\User\Desktop\Galvo 20170328.00.001\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.xml
+C:\Users\User\Desktop\Galvo 20170328.00.001\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\NaotarouSo\Desktop\Galvo 20170406.00.001\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.dll
+C:\Users\NaotarouSo\Desktop\Galvo 20170406.00.001\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\NaotarouSo\Desktop\Galvo 20170406.00.001\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.xml
+C:\Users\NaotarouSo\Desktop\Galvo 20170406.00.001\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\NaotarouSo\Desktop\Galvo 20170406.00.001\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\NaotarouSo\Desktop\Galvo 20170406.00.001\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\NaotarouSo\Desktop\Galvo 20170406.00.001\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.xml
+C:\Users\NaotarouSo\Desktop\Galvo 20170406.00.001\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\User\Desktop\Galvo 20170411.00.001\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.dll
+C:\Users\User\Desktop\Galvo 20170411.00.001\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\User\Desktop\Galvo 20170411.00.001\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.xml
+C:\Users\User\Desktop\Galvo 20170411.00.001\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\User\Desktop\Galvo 20170411.00.001\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\Galvo 20170411.00.001\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\User\Desktop\Galvo 20170411.00.001\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.xml
+C:\Users\User\Desktop\Galvo 20170411.00.001\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\User\Desktop\Galvo 20170424.00.002\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.dll
+C:\Users\User\Desktop\Galvo 20170424.00.002\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\User\Desktop\Galvo 20170424.00.002\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.xml
+C:\Users\User\Desktop\Galvo 20170424.00.002\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\User\Desktop\Galvo 20170424.00.002\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\Galvo 20170424.00.002\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\User\Desktop\Galvo 20170424.00.002\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.xml
+C:\Users\User\Desktop\Galvo 20170424.00.002\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\User\Desktop\Galvo 20170424.00.002\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.dll.CodeAnalysisLog.xml
+C:\Users\User\Desktop\Galvo 20170424.00.002\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.dll.lastcodeanalysissucceeded
+C:\Users\SEN-EI\Desktop\Galvo 20170424.00.002\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.dll
+C:\Users\SEN-EI\Desktop\Galvo 20170424.00.002\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\SEN-EI\Desktop\Galvo 20170424.00.002\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.xml
+C:\Users\SEN-EI\Desktop\Galvo 20170424.00.002\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\SEN-EI\Desktop\Galvo 20170424.00.002\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\SEN-EI\Desktop\Galvo 20170424.00.002\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\SEN-EI\Desktop\Galvo 20170424.00.002\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.xml
+C:\Users\SEN-EI\Desktop\Galvo 20170424.00.002\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\Naoki\Desktop\Galvo 20170821.00.002\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.dll
+C:\Users\Naoki\Desktop\Galvo 20170821.00.002\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\Naoki\Desktop\Galvo 20170821.00.002\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.xml
+C:\Users\Naoki\Desktop\Galvo 20170821.00.002\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\Naoki\Desktop\Galvo 20170821.00.002\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\Naoki\Desktop\Galvo 20170821.00.002\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\Naoki\Desktop\Galvo 20170821.00.002\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.xml
+C:\Users\Naoki\Desktop\Galvo 20170821.00.002\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\User\Desktop\Galvo 20170821.00.002\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.dll
+C:\Users\User\Desktop\Galvo 20170821.00.002\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\User\Desktop\Galvo 20170821.00.002\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.xml
+C:\Users\User\Desktop\Galvo 20170821.00.002\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\User\Desktop\Galvo 20170821.00.002\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\Galvo 20170821.00.002\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\User\Desktop\Galvo 20170821.00.002\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.xml
+C:\Users\User\Desktop\Galvo 20170821.00.002\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+G:\Galvo 20171031.00.007(最終穩定版) - 複製\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.dll
+G:\Galvo 20171031.00.007(最終穩定版) - 複製\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.pdb
+G:\Galvo 20171031.00.007(最終穩定版) - 複製\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.xml
+G:\Galvo 20171031.00.007(最終穩定版) - 複製\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+G:\Galvo 20171031.00.007(最終穩定版) - 複製\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+G:\Galvo 20171031.00.007(最終穩定版) - 複製\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+G:\Galvo 20171031.00.007(最終穩定版) - 複製\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.xml
+G:\Galvo 20171031.00.007(最終穩定版) - 複製\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\User\Documents\Galvo 20171031.00.010(最終穩定版) - 複製\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.dll
+C:\Users\User\Documents\Galvo 20171031.00.010(最終穩定版) - 複製\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\User\Documents\Galvo 20171031.00.010(最終穩定版) - 複製\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.xml
+C:\Users\User\Documents\Galvo 20171031.00.010(最終穩定版) - 複製\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\User\Documents\Galvo 20171031.00.010(最終穩定版) - 複製\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Galvo 20171031.00.010(最終穩定版) - 複製\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\User\Documents\Galvo 20171031.00.010(最終穩定版) - 複製\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.xml
+C:\Users\User\Documents\Galvo 20171031.00.010(最終穩定版) - 複製\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\User\Documents\Galvo 20180227.00.011(最終穩定版) - 複製\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.dll
+C:\Users\User\Documents\Galvo 20180227.00.011(最終穩定版) - 複製\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\User\Documents\Galvo 20180227.00.011(最終穩定版) - 複製\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.xml
+C:\Users\User\Documents\Galvo 20180227.00.011(最終穩定版) - 複製\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\User\Documents\Galvo 20180227.00.011(最終穩定版) - 複製\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Galvo 20180227.00.011(最終穩定版) - 複製\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\User\Documents\Galvo 20180227.00.011(最終穩定版) - 複製\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.xml
+C:\Users\User\Documents\Galvo 20180227.00.011(最終穩定版) - 複製\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\User\Documents\Galvo 20180228.00.011(最終穩定版) - 複製\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.dll
+C:\Users\User\Documents\Galvo 20180228.00.011(最終穩定版) - 複製\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\User\Documents\Galvo 20180228.00.011(最終穩定版) - 複製\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.xml
+C:\Users\User\Documents\Galvo 20180228.00.011(最終穩定版) - 複製\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\User\Documents\Galvo 20180228.00.011(最終穩定版) - 複製\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Galvo 20180228.00.011(最終穩定版) - 複製\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\User\Documents\Galvo 20180228.00.011(最終穩定版) - 複製\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.xml
+C:\Users\User\Documents\Galvo 20180228.00.011(最終穩定版) - 複製\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\User\Documents\Galvo 20180403.00.011(最終穩定版)16bit - 複製\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.dll
+C:\Users\User\Documents\Galvo 20180403.00.011(最終穩定版)16bit - 複製\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\User\Documents\Galvo 20180403.00.011(最終穩定版)16bit - 複製\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.xml
+C:\Users\User\Documents\Galvo 20180403.00.011(最終穩定版)16bit - 複製\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\User\Documents\Galvo 20180403.00.011(最終穩定版)16bit - 複製\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Galvo 20180403.00.011(最終穩定版)16bit - 複製\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\User\Documents\Galvo 20180403.00.011(最終穩定版)16bit - 複製\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.xml
+C:\Users\User\Documents\Galvo 20180403.00.011(最終穩定版)16bit - 複製\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\KFACFA\Desktop\Galvo 20180601.00.017(最終穩定版)16bit\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.dll
+C:\Users\KFACFA\Desktop\Galvo 20180601.00.017(最終穩定版)16bit\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\KFACFA\Desktop\Galvo 20180601.00.017(最終穩定版)16bit\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.xml
+C:\Users\KFACFA\Desktop\Galvo 20180601.00.017(最終穩定版)16bit\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbprojResolveAssemblyReference.cache
+C:\Users\KFACFA\Desktop\Galvo 20180601.00.017(最終穩定版)16bit\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\KFACFA\Desktop\Galvo 20180601.00.017(最終穩定版)16bit\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\KFACFA\Desktop\Galvo 20180601.00.017(最終穩定版)16bit\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\KFACFA\Desktop\Galvo 20180601.00.017(最終穩定版)16bit\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.xml
+C:\Users\KFACFA\Desktop\Galvo 20180601.00.017(最終穩定版)16bit\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\KFACFA\Desktop\Galvo 20180620.00.017(最終穩定版)16bit\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.dll
+C:\Users\KFACFA\Desktop\Galvo 20180620.00.017(最終穩定版)16bit\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\KFACFA\Desktop\Galvo 20180620.00.017(最終穩定版)16bit\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.xml
+C:\Users\KFACFA\Desktop\Galvo 20180620.00.017(最終穩定版)16bit\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbprojResolveAssemblyReference.cache
+C:\Users\KFACFA\Desktop\Galvo 20180620.00.017(最終穩定版)16bit\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\KFACFA\Desktop\Galvo 20180620.00.017(最終穩定版)16bit\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\KFACFA\Desktop\Galvo 20180620.00.017(最終穩定版)16bit\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\KFACFA\Desktop\Galvo 20180620.00.017(最終穩定版)16bit\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.xml
+C:\Users\KFACFA\Desktop\Galvo 20180620.00.017(最終穩定版)16bit\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\KFACFA\Desktop\Galvo 20180705.00.017(最終穩定版)16bit\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.dll
+C:\Users\KFACFA\Desktop\Galvo 20180705.00.017(最終穩定版)16bit\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\KFACFA\Desktop\Galvo 20180705.00.017(最終穩定版)16bit\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbprojResolveAssemblyReference.cache
+C:\Users\KFACFA\Desktop\Galvo 20180705.00.017(最終穩定版)16bit\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\KFACFA\Desktop\Galvo 20180705.00.017(最終穩定版)16bit\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\KFACFA\Desktop\Galvo 20180705.00.017(最終穩定版)16bit\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\KFACFA\Desktop\Galvo 20180705.00.017(最終穩定版)16bit\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\KFACFA\Desktop\Galvo 20180711.00.017(最終穩定版)16bit\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.dll
+C:\Users\KFACFA\Desktop\Galvo 20180711.00.017(最終穩定版)16bit\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\KFACFA\Desktop\Galvo 20180711.00.017(最終穩定版)16bit\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbprojResolveAssemblyReference.cache
+C:\Users\KFACFA\Desktop\Galvo 20180711.00.017(最終穩定版)16bit\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\KFACFA\Desktop\Galvo 20180711.00.017(最終穩定版)16bit\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\KFACFA\Desktop\Galvo 20180711.00.017(最終穩定版)16bit\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\KFACFA\Desktop\Galvo 20180711.00.017(最終穩定版)16bit\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20180721.000.01\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20180721.000.01\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20180721.000.01\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\Galvo 20180721.000.01\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\COMPUTER\Desktop\Galvo 20180721.000.01\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\COMPUTER\Desktop\Galvo 20180721.000.01\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20180721.000.01\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20180903.001.02\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20180903.001.02\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20180903.001.02\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\Galvo 20180903.001.02\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\COMPUTER\Desktop\Galvo 20180903.001.02\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\COMPUTER\Desktop\Galvo 20180903.001.02\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20180903.001.02\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20180907.001.02\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20180907.001.02\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20180907.001.02\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\COMPUTER\Desktop\Galvo 20180907.001.02\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\COMPUTER\Desktop\Galvo 20180907.001.02\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20180907.001.02\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20180913.001.00\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20180913.001.00\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20180913.001.00\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\Galvo 20180913.001.00\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\COMPUTER\Desktop\Galvo 20180913.001.00\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\COMPUTER\Desktop\Galvo 20180913.001.00\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20180913.001.00\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20180913.001.00 - 複製\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20180913.001.00 - 複製\JinnMeter\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20180913.001.00 - 複製\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\Galvo 20180913.001.00 - 複製\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\COMPUTER\Desktop\Galvo 20180913.001.00 - 複製\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\COMPUTER\Desktop\Galvo 20180913.001.00 - 複製\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20180913.001.00 - 複製\JinnMeter\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\NaokiSo\Desktop\Galvo 20181016.002.01\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.dll
+C:\Users\NaokiSo\Desktop\Galvo 20181016.002.01\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\NaokiSo\Desktop\Galvo 20181016.002.01\PseudoLaserSystem\bin\Debug\Timer.dll
+C:\Users\NaokiSo\Desktop\Galvo 20181016.002.01\PseudoLaserSystem\bin\Debug\Timer.pdb
+C:\Users\NaokiSo\Desktop\Galvo 20181016.002.01\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbprojResolveAssemblyReference.cache
+C:\Users\NaokiSo\Desktop\Galvo 20181016.002.01\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\NaokiSo\Desktop\Galvo 20181016.002.01\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\NaokiSo\Desktop\Galvo 20181016.002.01\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\NaokiSo\Desktop\Galvo 20181016.002.01\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181016.002.01\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181016.002.01\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181016.002.01\PseudoLaserSystem\bin\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181016.002.01\PseudoLaserSystem\bin\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181016.002.01\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\Galvo 20181016.002.01\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\COMPUTER\Desktop\Galvo 20181016.002.01\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\COMPUTER\Desktop\Galvo 20181016.002.01\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181016.002.01\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181018.002.01\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181018.002.01\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181018.002.01\PseudoLaserSystem\bin\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181018.002.01\PseudoLaserSystem\bin\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181018.002.01\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\Galvo 20181018.002.01\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\COMPUTER\Desktop\Galvo 20181018.002.01\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\COMPUTER\Desktop\Galvo 20181018.002.01\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181018.002.01\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181018.002.02\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181018.002.02\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181018.002.02\PseudoLaserSystem\bin\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181018.002.02\PseudoLaserSystem\bin\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181018.002.02\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\Galvo 20181018.002.02\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\COMPUTER\Desktop\Galvo 20181018.002.02\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\COMPUTER\Desktop\Galvo 20181018.002.02\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181018.002.02\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181029.002.04\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181029.002.04\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181029.002.04\PseudoLaserSystem\bin\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181029.002.04\PseudoLaserSystem\bin\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181029.002.04\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\Galvo 20181029.002.04\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\COMPUTER\Desktop\Galvo 20181029.002.04\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\COMPUTER\Desktop\Galvo 20181029.002.04\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181029.002.04\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181030.003.00\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181030.003.00\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181030.003.00\PseudoLaserSystem\bin\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181030.003.00\PseudoLaserSystem\bin\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181030.003.00\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\Galvo 20181030.003.00\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\COMPUTER\Desktop\Galvo 20181030.003.00\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\COMPUTER\Desktop\Galvo 20181030.003.00\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181030.003.00\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181031.004.00\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181031.004.00\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181031.004.00\PseudoLaserSystem\bin\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181031.004.00\PseudoLaserSystem\bin\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181031.004.00\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\Galvo 20181031.004.00\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\COMPUTER\Desktop\Galvo 20181031.004.00\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\COMPUTER\Desktop\Galvo 20181031.004.00\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181031.004.00\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181116.006.00 6.4v\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181116.006.00 6.4v\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181116.006.00 6.4v\PseudoLaserSystem\bin\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181116.006.00 6.4v\PseudoLaserSystem\bin\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181116.006.00 6.4v\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\Galvo 20181116.006.00 6.4v\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\COMPUTER\Desktop\Galvo 20181116.006.00 6.4v\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\COMPUTER\Desktop\Galvo 20181116.006.00 6.4v\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181116.006.00 6.4v\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181205.008.00 6.4v  14order\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181205.008.00 6.4v  14order\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181205.008.00 6.4v  14order\PseudoLaserSystem\bin\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181205.008.00 6.4v  14order\PseudoLaserSystem\bin\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181205.008.00 6.4v  14order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\Galvo 20181205.008.00 6.4v  14order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\COMPUTER\Desktop\Galvo 20181205.008.00 6.4v  14order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\COMPUTER\Desktop\Galvo 20181205.008.00 6.4v  14order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181205.008.00 6.4v  14order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181206.008.00 7v  14order\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181206.008.00 7v  14order\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181206.008.00 7v  14order\PseudoLaserSystem\bin\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181206.008.00 7v  14order\PseudoLaserSystem\bin\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181206.008.00 7v  14order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\Galvo 20181206.008.00 7v  14order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\COMPUTER\Desktop\Galvo 20181206.008.00 7v  14order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\COMPUTER\Desktop\Galvo 20181206.008.00 7v  14order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181206.008.00 7v  14order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181207.009.00 7v  14order\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181207.009.00 7v  14order\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181207.009.00 7v  14order\PseudoLaserSystem\bin\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181207.009.00 7v  14order\PseudoLaserSystem\bin\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181207.009.00 7v  14order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\Galvo 20181207.009.00 7v  14order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\COMPUTER\Desktop\Galvo 20181207.009.00 7v  14order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\COMPUTER\Desktop\Galvo 20181207.009.00 7v  14order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181207.009.00 7v  14order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181212.010.00 7v  14order\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181212.010.00 7v  14order\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181212.010.00 7v  14order\PseudoLaserSystem\bin\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181212.010.00 7v  14order\PseudoLaserSystem\bin\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181212.010.00 7v  14order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\Galvo 20181212.010.00 7v  14order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\COMPUTER\Desktop\Galvo 20181212.010.00 7v  14order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\COMPUTER\Desktop\Galvo 20181212.010.00 7v  14order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181212.010.00 7v  14order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181218.010.02 6.4v  14order\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181218.010.02 6.4v  14order\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181218.010.02 6.4v  14order\PseudoLaserSystem\bin\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181218.010.02 6.4v  14order\PseudoLaserSystem\bin\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181218.010.02 6.4v  14order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\Galvo 20181218.010.02 6.4v  14order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\COMPUTER\Desktop\Galvo 20181218.010.02 6.4v  14order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\COMPUTER\Desktop\Galvo 20181218.010.02 6.4v  14order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181218.010.02 6.4v  14order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\Server\Desktop\Galvo 20181227.011.00 7v  19order\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.dll
+C:\Users\Server\Desktop\Galvo 20181227.011.00 7v  19order\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\Server\Desktop\Galvo 20181227.011.00 7v  19order\PseudoLaserSystem\bin\Debug\Timer.dll
+C:\Users\Server\Desktop\Galvo 20181227.011.00 7v  19order\PseudoLaserSystem\bin\Debug\Timer.pdb
+C:\Users\Server\Desktop\Galvo 20181227.011.00 7v  19order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\Galvo 20181227.011.00 7v  19order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\Server\Desktop\Galvo 20181227.011.00 7v  19order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\Server\Desktop\Galvo 20181227.011.00 7v  19order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\Server\Desktop\Galvo 20181227.011.00 7v  19order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181227.011.00 7v  19order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\Galvo 20181227.011.00 7v  19order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.CLaser.resources
+C:\Users\COMPUTER\Desktop\Galvo 20181227.011.00 7v  19order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\COMPUTER\Desktop\Galvo 20181227.011.00 7v  19order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\COMPUTER\Desktop\Galvo 20181227.011.00 7v  19order\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181227.011.00 7v  19order\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181227.011.00 7v  19order\PseudoLaserSystem\bin\Debug\Timer.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181227.011.00 7v  19order\PseudoLaserSystem\bin\Debug\Timer.pdb
+C:\Users\COMPUTER\Desktop\Galvo 20181227.011.00 7v  19order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\COMPUTER\Desktop\Galvo 20181227.011.00 7v  19order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\Server\Desktop\GalvoType2 20190328.000.02 7v  19order\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.dll
+C:\Users\Server\Desktop\GalvoType2 20190328.000.02 7v  19order\PseudoLaserSystem\bin\Debug\PseudoLaserSystem.pdb
+C:\Users\Server\Desktop\GalvoType2 20190328.000.02 7v  19order\PseudoLaserSystem\bin\Debug\Timer.dll
+C:\Users\Server\Desktop\GalvoType2 20190328.000.02 7v  19order\PseudoLaserSystem\bin\Debug\Timer.pdb
+C:\Users\Server\Desktop\GalvoType2 20190328.000.02 7v  19order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\GalvoType2 20190328.000.02 7v  19order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.CLaser.resources
+C:\Users\Server\Desktop\GalvoType2 20190328.000.02 7v  19order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\Server\Desktop\GalvoType2 20190328.000.02 7v  19order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\Server\Desktop\GalvoType2 20190328.000.02 7v  19order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\Server\Desktop\GalvoType2 20190328.000.02 7v  19order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\Server\Desktop\GalvoType2 20190528.000.02 7v  19order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\GalvoType2 20190528.000.02 7v  19order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.CLaser.resources
+C:\Users\Server\Desktop\GalvoType2 20190528.000.02 7v  19order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\Server\Desktop\GalvoType2 20190528.000.02 7v  19order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\Server\Desktop\GalvoType2 20190528.000.02 7v  19order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\Server\Desktop\GalvoType2 20190528.000.02 7v  19order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\Server\Desktop\GalvoType5 20190528.000.02 7v  19order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\GalvoType5 20190528.000.02 7v  19order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.CLaser.resources
+C:\Users\Server\Desktop\GalvoType5 20190528.000.02 7v  19order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\Server\Desktop\GalvoType5 20190528.000.02 7v  19order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\Server\Desktop\GalvoType5 20190528.000.02 7v  19order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\Server\Desktop\GalvoType5 20190528.000.02 7v  19order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\NaokiSo\Desktop\GalvoType5 20190618.000.05 7v  19order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbprojResolveAssemblyReference.cache
+C:\Users\NaokiSo\Desktop\GalvoType5 20190618.000.05 7v  19order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.CLaser.resources
+C:\Users\NaokiSo\Desktop\GalvoType5 20190618.000.05 7v  19order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\NaokiSo\Desktop\GalvoType5 20190618.000.05 7v  19order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\NaokiSo\Desktop\GalvoType5 20190618.000.05 7v  19order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\NaokiSo\Desktop\GalvoType5 20190618.000.05 7v  19order\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\NaokiSo\Desktop\GalvoType5 20190618.000.05 7v  19order green\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbprojResolveAssemblyReference.cache
+C:\Users\NaokiSo\Desktop\GalvoType5 20190618.000.05 7v  19order green\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.CLaser.resources
+C:\Users\NaokiSo\Desktop\GalvoType5 20190618.000.05 7v  19order green\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\NaokiSo\Desktop\GalvoType5 20190618.000.05 7v  19order green\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\NaokiSo\Desktop\GalvoType5 20190618.000.05 7v  19order green\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\NaokiSo\Desktop\GalvoType5 20190618.000.05 7v  19order green\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\Server\Desktop\GalvoNew 20200407.000.05\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\GalvoNew 20200407.000.05\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.CLaser.resources
+C:\Users\Server\Desktop\GalvoNew 20200407.000.05\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\Server\Desktop\GalvoNew 20200407.000.05\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\Server\Desktop\GalvoNew 20200407.000.05\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\Server\Desktop\GalvoNew 20200407.000.05\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\NaokiSo\Desktop\GalvoNew 20200407.000.09\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbprojResolveAssemblyReference.cache
+C:\Users\NaokiSo\Desktop\GalvoNew 20200407.000.09\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.CLaser.resources
+C:\Users\NaokiSo\Desktop\GalvoNew 20200407.000.09\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\NaokiSo\Desktop\GalvoNew 20200407.000.09\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\NaokiSo\Desktop\GalvoNew 20200407.000.09\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\NaokiSo\Desktop\GalvoNew 20200407.000.09\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\Server\Desktop\GalvoNew 20200407.000.10\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\GalvoNew 20200407.000.10\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.CLaser.resources
+C:\Users\Server\Desktop\GalvoNew 20200407.000.10\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\Server\Desktop\GalvoNew 20200407.000.10\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\Server\Desktop\GalvoNew 20200407.000.10\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\Server\Desktop\GalvoNew 20200407.000.10\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\NaokiSo\Desktop\GalvoNew 20200407.000.11\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbprojResolveAssemblyReference.cache
+C:\Users\NaokiSo\Desktop\GalvoNew 20200407.000.11\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.CLaser.resources
+C:\Users\NaokiSo\Desktop\GalvoNew 20200407.000.11\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\NaokiSo\Desktop\GalvoNew 20200407.000.11\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\NaokiSo\Desktop\GalvoNew 20200407.000.11\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\NaokiSo\Desktop\GalvoNew 20200407.000.11\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\ALin\Desktop\GalvoNew 20200619.000.12\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\GalvoNew 20200619.000.12\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.CLaser.resources
+C:\Users\ALin\Desktop\GalvoNew 20200619.000.12\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\ALin\Desktop\GalvoNew 20200619.000.12\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\GalvoNew 20200619.000.12\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\ALin\Desktop\GalvoNew 20200619.000.12\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\Server\Desktop\GalvoNew 20200619.000.12\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\GalvoNew 20200619.000.12\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.CLaser.resources
+C:\Users\Server\Desktop\GalvoNew 20200619.000.12\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\Server\Desktop\GalvoNew 20200619.000.12\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\Server\Desktop\GalvoNew 20200619.000.12\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\Server\Desktop\GalvoNew 20200619.000.12\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\KFACFA\Desktop\GalvoNew 20200619.000.12\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbprojResolveAssemblyReference.cache
+C:\Users\KFACFA\Desktop\GalvoNew 20200619.000.12\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.CLaser.resources
+C:\Users\KFACFA\Desktop\GalvoNew 20200619.000.12\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\KFACFA\Desktop\GalvoNew 20200619.000.12\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\KFACFA\Desktop\GalvoNew 20200619.000.12\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\KFACFA\Desktop\GalvoNew 20200619.000.12\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\KFACFA\Desktop\GalvoNew 20200819.000.12\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbprojResolveAssemblyReference.cache
+C:\Users\KFACFA\Desktop\GalvoNew 20200819.000.12\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.CLaser.resources
+C:\Users\KFACFA\Desktop\GalvoNew 20200819.000.12\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\KFACFA\Desktop\GalvoNew 20200819.000.12\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\KFACFA\Desktop\GalvoNew 20200819.000.12\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\KFACFA\Desktop\GalvoNew 20200819.000.12\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\NaokiSo\Desktop\新增資料夾 (2)\GalvoNew 20201222.015.01\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbprojResolveAssemblyReference.cache
+C:\Users\NaokiSo\Desktop\新增資料夾 (2)\GalvoNew 20201222.015.01\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.CLaser.resources
+C:\Users\NaokiSo\Desktop\新增資料夾 (2)\GalvoNew 20201222.015.01\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\NaokiSo\Desktop\新增資料夾 (2)\GalvoNew 20201222.015.01\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\NaokiSo\Desktop\新增資料夾 (2)\GalvoNew 20201222.015.01\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\NaokiSo\Desktop\新增資料夾 (2)\GalvoNew 20201222.015.01\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\Windows\SysWOW64\PseudoLaserSystem.dll
+C:\Users\Windows\SysWOW64\PseudoLaserSystem.pdb
+C:\Users\Server\Desktop\GalvoNew 20201222.015.01\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\GalvoNew 20201222.015.01\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.CLaser.resources
+C:\Users\Server\Desktop\GalvoNew 20201222.015.01\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\Server\Desktop\GalvoNew 20201222.015.01\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\Server\Desktop\GalvoNew 20201222.015.01\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\Server\Desktop\GalvoNew 20201222.015.01\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Users\ALin\Desktop\GalvoNew 20201222.015.02\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbprojResolveAssemblyReference.cache
+C:\Users\ALin\Desktop\GalvoNew 20201222.015.02\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.CLaser.resources
+C:\Users\ALin\Desktop\GalvoNew 20201222.015.02\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\ALin\Desktop\GalvoNew 20201222.015.02\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\ALin\Desktop\GalvoNew 20201222.015.02\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\ALin\Desktop\GalvoNew 20201222.015.02\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb
+C:\Windows\SysWOW64\PseudoLaserSystem.dll
+C:\Windows\SysWOW64\PseudoLaserSystem.pdb
+C:\Users\Server\Desktop\GalvoNew 20210602.015.03\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Server\Desktop\GalvoNew 20210602.015.03\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.CLaser.resources
+C:\Users\Server\Desktop\GalvoNew 20210602.015.03\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.Resources.resources
+C:\Users\Server\Desktop\GalvoNew 20210602.015.03\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.vbproj.GenerateResource.Cache
+C:\Users\Server\Desktop\GalvoNew 20210602.015.03\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.dll
+C:\Users\Server\Desktop\GalvoNew 20210602.015.03\PseudoLaserSystem\obj\Debug\PseudoLaserSystem.pdb

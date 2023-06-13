@@ -1,0 +1,31 @@
+D:\01.Visual Basic2008 Project\naotarouso\Sorter\NaotarouHDotNet\bin\Release\NaotarouHDotNet.dll
+D:\01.Visual Basic2008 Project\naotarouso\Sorter\NaotarouHDotNet\bin\Release\NaotarouHDotNet.pdb
+D:\01.Visual Basic2008 Project\naotarouso\Sorter\NaotarouHDotNet\bin\Release\NaotarouHDotNet.xml
+D:\01.Visual Basic2008 Project\naotarouso\Sorter\NaotarouHDotNet\bin\Release\NaotarouHDotNet.tlb
+D:\01.Visual Basic2008 Project\naotarouso\Sorter\NaotarouHDotNet\bin\Release\halcondotnet.dll
+D:\01.Visual Basic2008 Project\naotarouso\Sorter\NaotarouHDotNet\bin\Release\NaoTimer.dll
+D:\01.Visual Basic2008 Project\naotarouso\Sorter\NaotarouHDotNet\bin\Release\halcondotnet.xml
+D:\01.Visual Basic2008 Project\naotarouso\Sorter\NaotarouHDotNet\obj\Release\ResolveAssemblyReference.cache
+D:\01.Visual Basic2008 Project\naotarouso\Sorter\NaotarouHDotNet\obj\Release\NaotarouHDotNet.FMaskEdit.resources
+D:\01.Visual Basic2008 Project\naotarouso\Sorter\NaotarouHDotNet\obj\Release\NaotarouHDotNet.FMatchingShapeTool.resources
+D:\01.Visual Basic2008 Project\naotarouso\Sorter\NaotarouHDotNet\obj\Release\NaotarouHDotNet.Resources.resources
+D:\01.Visual Basic2008 Project\naotarouso\Sorter\NaotarouHDotNet\obj\Release\NaotarouHDotNet.DisplayControl.resources
+D:\01.Visual Basic2008 Project\naotarouso\Sorter\NaotarouHDotNet\obj\Release\NaotarouHDotNet.vbproj.GenerateResource.Cache
+D:\01.Visual Basic2008 Project\naotarouso\Sorter\NaotarouHDotNet\obj\Release\NaotarouHDotNet.dll
+D:\01.Visual Basic2008 Project\naotarouso\Sorter\NaotarouHDotNet\obj\Release\NaotarouHDotNet.xml
+D:\01.Visual Basic2008 Project\naotarouso\Sorter\NaotarouHDotNet\obj\Release\NaotarouHDotNet.pdb
+C:\Documents and Settings\Jimmy\My Documents\Google 雲端硬碟1\01.Pragramming Backup\01.Naotarou\Sorter\NaotarouHDotNet\bin\Release\NaotarouHDotNet.dll
+C:\Documents and Settings\Jimmy\My Documents\Google 雲端硬碟1\01.Pragramming Backup\01.Naotarou\Sorter\NaotarouHDotNet\bin\Release\NaotarouHDotNet.pdb
+C:\Documents and Settings\Jimmy\My Documents\Google 雲端硬碟1\01.Pragramming Backup\01.Naotarou\Sorter\NaotarouHDotNet\bin\Release\NaotarouHDotNet.xml
+C:\Documents and Settings\Jimmy\My Documents\Google 雲端硬碟1\01.Pragramming Backup\01.Naotarou\Sorter\NaotarouHDotNet\bin\Release\NaotarouHDotNet.tlb
+C:\Documents and Settings\Jimmy\My Documents\Google 雲端硬碟1\01.Pragramming Backup\01.Naotarou\Sorter\NaotarouHDotNet\bin\Release\halcondotnet.dll
+C:\Documents and Settings\Jimmy\My Documents\Google 雲端硬碟1\01.Pragramming Backup\01.Naotarou\Sorter\NaotarouHDotNet\bin\Release\halcondotnet.xml
+C:\Documents and Settings\Jimmy\My Documents\Google 雲端硬碟1\01.Pragramming Backup\01.Naotarou\Sorter\NaotarouHDotNet\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jimmy\My Documents\Google 雲端硬碟1\01.Pragramming Backup\01.Naotarou\Sorter\NaotarouHDotNet\obj\Release\NaotarouHDotNet.FMaskEdit.resources
+C:\Documents and Settings\Jimmy\My Documents\Google 雲端硬碟1\01.Pragramming Backup\01.Naotarou\Sorter\NaotarouHDotNet\obj\Release\NaotarouHDotNet.FMatchingShapeTool.resources
+C:\Documents and Settings\Jimmy\My Documents\Google 雲端硬碟1\01.Pragramming Backup\01.Naotarou\Sorter\NaotarouHDotNet\obj\Release\NaotarouHDotNet.Resources.resources
+C:\Documents and Settings\Jimmy\My Documents\Google 雲端硬碟1\01.Pragramming Backup\01.Naotarou\Sorter\NaotarouHDotNet\obj\Release\NaotarouHDotNet.DisplayControl.resources
+C:\Documents and Settings\Jimmy\My Documents\Google 雲端硬碟1\01.Pragramming Backup\01.Naotarou\Sorter\NaotarouHDotNet\obj\Release\NaotarouHDotNet.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Jimmy\My Documents\Google 雲端硬碟1\01.Pragramming Backup\01.Naotarou\Sorter\NaotarouHDotNet\obj\Release\NaotarouHDotNet.dll
+C:\Documents and Settings\Jimmy\My Documents\Google 雲端硬碟1\01.Pragramming Backup\01.Naotarou\Sorter\NaotarouHDotNet\obj\Release\NaotarouHDotNet.xml
+C:\Documents and Settings\Jimmy\My Documents\Google 雲端硬碟1\01.Pragramming Backup\01.Naotarou\Sorter\NaotarouHDotNet\obj\Release\NaotarouHDotNet.pdb

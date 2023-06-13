@@ -1,0 +1,13 @@
+﻿body {
+}
+.th{
+    background:#85ce68;
+    color:#000000;
+    text-transform:uppercase;
+    padding:3px;
+    text-align:center;
+}
+.td{
+    background:#ededed;
+    color:#000000;
+}

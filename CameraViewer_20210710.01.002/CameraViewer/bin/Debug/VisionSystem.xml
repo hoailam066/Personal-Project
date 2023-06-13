@@ -1,0 +1,447 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+VisionSystem
+</name>
+</assembly>
+<members>
+<member name="P:VisionSystem.CRectangle.LeftUpperY">
+	<summary>
+ Y左上角座標(四象限)
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VisionSystem.CRectangle.LeftUpperX">
+	<summary>
+ X左上角座標(四象限)
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VisionSystem.CRectangle.RightLowerY">
+	<summary>
+ Y右下角座標(四象限)
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VisionSystem.CRectangle.RightLowerX">
+	<summary>
+ X右下角座標(四象限)
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VisionSystem.CRectangle.Width">
+	<summary>
+ 寬度
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VisionSystem.CRectangle.Height">
+	<summary>
+ 高度
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VisionSystem.CMatchingPattern.AngleExtent">
+	<summary>
+ 找尋角度範圍 弧度
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VisionSystem.CMatchingPattern.AngleStart">
+	<summary>
+ 找尋起始角度 弧度
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VisionSystem.CMatchingPattern.ContrastLow">
+	<summary>
+ "auto", "auto_contrast", "auto_contrast_hyst", "auto_min_size" ,(contrast_low,contrast_high,min_size)
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VisionSystem.CMatchingPattern.Metric">
+	<summary>
+ "use_polarity", "ignore_global_polarity", "ignore_local_polarity", "ignore_color_polarity"
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VisionSystem.CMatchingPattern.Optimization">
+	<summary>
+ "pregeneration" 
+ "auto", "none", "point_reduction_low", "point_reduction_medium", "point_reduction_high"
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VisionSystem.CMatchingPattern.TrainImage">
+	<summary>
+ 樣板圖形
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VisionSystem.CMatchingPattern.TrainImageMask">
+	<summary>
+ 樣板遮罩圖形
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VisionSystem.CMatchingPattern.TrainRegion">
+	<summary>
+ 樣板框選區域
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:VisionSystem.CMatchingPattern.GenMaskImage">
+	<summary>
+ 產生樣板圖片同時產生空白遮罩圖片
+ </summary>
+	<remarks></remarks>
+</member><member name="M:VisionSystem.CMatchingPattern.SetRotaryRange(System.Double,System.Double)">
+	<summary>
+ 
+ 1.參數 AngleMin 輸入單位為角度
+ 2.參數 AngleMax 輸入單位為角度
+ </summary>
+	<param name="AngleMin"></param>
+	<param name="AngleMax"></param>
+	<remarks></remarks>
+</member><member name="M:VisionSystem.CMatchingPattern.SetScaleRange(System.Double,System.Double)">
+	<summary> 
+ 1.參數 ScaleMin 100表示為原比例
+ 2.參數 ScaleMax 100表示為原比例
+ </summary>
+	<param name="ScaleMin"></param>
+	<param name="ScaleMax"></param>
+	<remarks></remarks>
+</member><member name="M:VisionSystem.CMatchingPattern.Train">
+	<summary>
+ 自動樣板產生同時產生空白遮罩
+ </summary>
+	<remarks></remarks>
+</member><member name="M:VisionSystem.CMatchingPattern.Train1">
+	<summary>
+ 自動樣板產生使用設定遮罩
+ </summary>
+	<remarks></remarks>
+</member><member name="M:VisionSystem.CMatchingPattern.Train2">
+	<summary>
+ 手動樣板產生使用設定遮罩
+ </summary>
+	<remarks></remarks>
+</member><member name="P:VisionSystem.CMatchingRunParams.AcceptScore">
+	<summary>
+ 合格的分數
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VisionSystem.CMatchingRunParams.AngleExtent">
+	<summary>
+ 找尋角度範圍 弧度
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VisionSystem.CMatchingRunParams.AngleStart">
+	<summary>
+ 找尋起始角度 弧度
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VisionSystem.CMatchingRunParams.ScaleMax">
+	<summary>
+ 原比例為1
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VisionSystem.CMatchingRunParams.ScaleMin">
+	<summary>
+ 原比例為1
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VisionSystem.CMatchingRunParams.SearchScore">
+	<summary>
+ specify how much of the model must be visible
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VisionSystem.CMatchingRunParams.RunType">
+	<summary>
+ 合格的分數
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:VisionSystem.CMatchingRunParams.SetRotaryRange(System.Double,System.Double)">
+	<summary>
+ 
+ 1.參數 AngleMin 輸入單位為角度
+ 2.參數 AngleMax 輸入單位為角度
+ </summary>
+	<param name="AngleMin"></param>
+	<param name="AngleMax"></param>
+	<remarks></remarks>
+</member><member name="M:VisionSystem.CMatchingRunParams.SetScaleRange(System.Double,System.Double)">
+	<summary> 
+ 1.參數 ScaleMin 100表示為原比例
+ 2.參數 ScaleMax 100表示為原比例
+ </summary>
+	<param name="ScaleMin"></param>
+	<param name="ScaleMax"></param>
+	<remarks></remarks>
+</member><member name="M:VisionSystem.CMatchingRunParams.SetScoreProperty(System.Double,System.Double)">
+	<summary>
+ 1.參數 SearchPencertage 輸入範圍為0-100
+ 2.參數 AcceptPercentage 輸入範圍為0-100
+ </summary>
+	<param name="SearchPencertage"></param>
+	<param name="AcceptPercentage"></param>
+	<remarks></remarks>
+</member><member name="M:VisionSystem.CMatchingTool.#ctor(System.String)">
+	<summary>
+ 路徑不含"/"
+ </summary>
+	<param name="FolderPath"></param>
+	<remarks></remarks>
+</member><member name="P:VisionSystem.CMatchingTool.InputImage">
+	<summary>
+ Search image used to run a PMAlign inspection.
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VisionSystem.CMatchingTool.IsRunning">
+	<summary>
+ 確認找尋是否完成
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VisionSystem.CMatchingTool.Pattern">
+	<summary>
+ The PMAlign pattern.
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VisionSystem.CMatchingTool.Results">
+	<summary>
+ 找尋結果
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VisionSystem.CMatchingTool.RunParams">
+	<summary>
+ The PMAlign run parameters.
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VisionSystem.CMatchingTool.SearchRegion">
+	<summary>
+ Region of interest in the InputImage that is used to locate PMAlign pattern(s). NULL means use entire InputImage. The ICogPMAlignRunParams::SearchRegionMode property specifies exactly how the region will be applied to this image.
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:VisionSystem.CMatchingTool.Run(System.Boolean,VisionSystem.EnumMatchShape)">
+	<summary>
+ 開始搜尋
+ </summary>
+	<param name="Synchronous"></param>
+	<remarks></remarks>
+</member><member name="F:VisionSystem.FMaskEdit.m_BrushSize">
+	<summary>
+ 筆刷大小
+ </summary>
+	<remarks></remarks>
+</member><member name="P:VisionSystem.My.Resources.Resources.ResourceManager">
+	<summary>
+  傳回這個類別使用的快取的 ResourceManager 執行個體。
+</summary>
+</member><member name="P:VisionSystem.My.Resources.Resources.Culture">
+	<summary>
+  覆寫目前執行緒的 CurrentUICulture 屬性，對象是所有
+  使用這個強類型資源類別的資源查閱。
+</summary>
+</member><member name="T:VisionSystem.My.Resources.Resources">
+	<summary>
+  用於查詢當地語系化字串等的強類型資源類別。
+</summary>
+</member><member name="P:VisionSystem.CDigCamera.Brightness">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VisionSystem.CDigCamera.Contrast">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VisionSystem.CDigCamera.Exposure">
+	<summary>
+ 曝光時間(ms)
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:VisionSystem.CImage.CopyOf(VisionSystem.CImage@)">
+	<summary>
+ 從來源複製
+ </summary>
+	<param name="pSrcImage"></param>
+	<remarks></remarks>
+</member><member name="M:VisionSystem.CImage.CopyTo(VisionSystem.CImage@)">
+	<summary>
+ 複製到目標 
+ </summary>
+	<param name="pDestImage"></param>
+	<remarks></remarks>
+</member><member name="M:VisionSystem.CImage.ReadImage(System.String)">
+	<summary>
+ 讀取影像檔案 
+ </summary>
+	<param name="fileName"></param>
+	<remarks></remarks>
+</member><member name="M:VisionSystem.CImage.WriteImage(System.String)">
+	<summary>
+ 儲存檔案 
+ </summary>
+	<param name="fileName"></param>
+	<remarks></remarks>
+</member><member name="M:VisionSystem.CImage.WriteImage(System.String,System.String)">
+	<summary>
+ 儲存檔案 
+ </summary>
+	<param name="fileName"></param>
+	<remarks></remarks>
+</member><member name="M:VisionSystem.CImage.CropPart(System.Int32,System.Int32,System.Int32,System.Int32)">
+	<summary>
+ 剪裁圖片
+ </summary>
+	<param name="LeftTopX"></param>
+	<param name="LeftTopY"></param>
+	<param name="Width"></param>
+	<param name="Height"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="F:VisionSystem.CMovePoint.p">
+	<summary>
+ 紀錄方框中心的位置
+ </summary>
+	<remarks></remarks>
+</member><member name="F:VisionSystem.CMovePoint.rect">
+	<summary>
+ 依中心位置要畫出的筐
+ </summary>
+	<remarks></remarks>
+</member><member name="M:VisionSystem.CMovePoint.CheckSelect(System.Drawing.Point)">
+	<summary>
+ 確定是否被選到
+ </summary>
+	<param name="e"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:VisionSystem.CMovePoint.Move(System.Drawing.Point)">
+	<summary>
+ 移動時重繪
+ </summary>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="T:VisionSystem.CMovePoint">
+	<summary>
+ 會移動的方框
+ </summary>
+	<remarks></remarks>
+</member><member name="F:VisionSystem.ImageDisplay.m_MouseX">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="F:VisionSystem.ImageDisplay.m_MouseY">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="F:VisionSystem.ImageDisplay.m_ImageR">
+	<summary>
+ 顯示畫面的圖
+ </summary>
+	<remarks></remarks>
+</member><member name="M:VisionSystem.ImageDisplay.CopyTo(VisionSystem.CImage@)">
+	<summary>
+ Create a copy of this image in a new image. 
+ </summary>
+	<param name="pDestImage"></param>
+	<remarks></remarks>
+</member><member name="P:VisionSystem.ImageDisplay.AutoFit">
+	<summary>
+ Sets whether the image is resized to fit whenever the size of the control changes.
+ </summary>
+	<value></value>
+	<remarks></remarks>
+</member><member name="M:VisionSystem.CStaticGraphicsContainer.Add(VisionSystem.IGraphics)">
+	<summary>
+ Adds a static graphic to the display.
+ </summary>
+	<param name="Graphic"></param>
+	<remarks></remarks>
+</member><member name="M:VisionSystem.CStaticGraphicsContainer.AddList(System.Collections.Generic.List{VisionSystem.CGraphicsList})">
+	<summary>
+ Adds a list of static graphics to the display.
+ </summary>
+	<param name="GraphicsList"></param>
+	<remarks></remarks>
+</member><member name="M:VisionSystem.CInteractiveGraphicsContainer.Add(VisionSystem.CGraphics)">
+	<summary>
+ Adds a interactive graphic to the display.
+ </summary>
+	<param name="Graphic"></param>
+	<remarks></remarks>
+</member><member name="F:VisionSystem.CStraightEdgeTool.m_Count">
+	<summary>
+ 找尋結果數量
+ </summary>
+	<remarks></remarks>
+</member><member name="F:VisionSystem.CStraightEdgeTool.m_Point">
+	<summary>
+ 十字線交點座標
+ </summary>
+	<remarks></remarks>
+</member><member name="P:VisionSystem.CStraightEdgeTool.Count">
+	<summary>
+ 找尋結果數量
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VisionSystem.CStraightEdgeTool.Point">
+	<summary>
+ 十字線交點座標
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

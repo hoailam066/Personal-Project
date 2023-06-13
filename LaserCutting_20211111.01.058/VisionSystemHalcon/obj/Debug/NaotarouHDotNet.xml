@@ -1,0 +1,227 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+NaotarouHDotNet
+</name>
+</assembly>
+<members>
+<member name="F:NaotarouHDotNet.CTrainParam.m_TemplateTrainParam">
+	<summary>
+ 灰階比對樣板參數
+ </summary>
+	<remarks></remarks>
+</member><member name="F:NaotarouHDotNet.CTrainParam.m_GeometryTrainParam">
+	<summary>
+ 幾何比對樣板參數
+ </summary>
+	<remarks></remarks>
+</member><member name="F:NaotarouHDotNet.CTrainParam.m_SrcImage">
+	<summary>
+ 樣板來源圖
+ </summary>
+	<remarks></remarks>
+</member><member name="F:NaotarouHDotNet.CTrainParam.m_SrcImageFlip">
+	<summary>
+ 樣板來源圖檔翻轉圖
+ </summary>
+	<remarks></remarks>
+</member><member name="F:NaotarouHDotNet.CTrainParam.m_TemplateImage">
+	<summary>
+ 樣板圖形
+ </summary>
+	<remarks></remarks>
+</member><member name="F:NaotarouHDotNet.CTrainParam.m_TemplateMaskImage">
+	<summary>
+ 樣板遮罩圖形
+ </summary>
+	<remarks></remarks>
+</member><member name="F:NaotarouHDotNet.CTrainParam.m_TemplateRegion">
+	<summary>
+ 樣板框選區域
+ </summary>
+	<remarks></remarks>
+</member><member name="F:NaotarouHDotNet.CTrainParam.m_Width">
+	<summary>
+ 樣板實際框選寬度
+ </summary>
+	<remarks></remarks>
+</member><member name="F:NaotarouHDotNet.CTrainParam.m_Height">
+	<summary>
+ 樣板實際框選高度
+ </summary>
+	<remarks></remarks>
+</member><member name="M:NaotarouHDotNet.CTrainParam.GenTemplateImage(System.Int32,System.Int32,System.Int32,System.Int32)">
+	<summary>
+ 產生樣板圖片同時產生空白遮罩圖片
+ </summary>
+	<param name="LeftUpperY"></param>
+	<param name="LeftUpperX"></param>
+	<param name="RightLowerY"></param>
+	<param name="RightLowerX"></param>
+	<remarks></remarks>
+</member><member name="P:NaotarouHDotNet.CGeometryTrainParam.Metric">
+	<summary>
+ "use_polarity", "ignore_global_polarity", "ignore_local_polarity", "ignore_color_polarity"
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:NaotarouHDotNet.CGeometryTrainParam.ContrastLow">
+	<summary>
+ "auto", "auto_contrast", "auto_contrast_hyst", "auto_min_size" ,(contrast_low,contrast_high,min_size)
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:NaotarouHDotNet.CGeometryTrainParam.Optimization">
+	<summary>
+ "pregeneration" 
+ "auto", "none", "point_reduction_low", "point_reduction_medium", "point_reduction_high"
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="F:NaotarouHDotNet.CRunParam.m_ScoreSearch">
+	<summary>
+ specify how much of the model must be visible
+ </summary>
+	<remarks></remarks>
+</member><member name="M:NaotarouHDotNet.CRunParam.SetScoreProperty(System.Double,System.Double)">
+	<summary>
+ 1.參數 SearchPencertage 輸入範圍為0-100
+ 2.參數 AcceptPercentage 輸入範圍為0-100
+ </summary>
+	<param name="SearchPencertage"></param>
+	<param name="AcceptPercentage"></param>
+	<remarks></remarks>
+</member><member name="M:NaotarouHDotNet.CRunParam.SetRotaryRange(System.Double,System.Double)">
+	<summary>
+ 
+ 1.參數 AngleMin 輸入單位為角度
+ 2.參數 AngleMax 輸入單位為角度
+ </summary>
+	<param name="AngleMin"></param>
+	<param name="AngleMax"></param>
+	<remarks></remarks>
+</member><member name="M:NaotarouHDotNet.CRunParam.SetScaleRange(System.Double,System.Double)">
+	<summary>
+ 
+ 1.參數 ScaleMin 100表示為原比例
+ 1.參數 ScaleMax 100表示為原比例
+ </summary>
+	<param name="ScaleMin"></param>
+	<param name="ScaleMax"></param>
+	<remarks></remarks>
+</member><member name="P:NaotarouHDotNet.CMatchingTool.IsRunning">
+	<summary>
+ 確認找尋是否完成
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:NaotarouHDotNet.CMatchingTool.Count">
+	<summary>
+ 找尋數量
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:NaotarouHDotNet.CMatchingTool.Results(System.Int32)">
+	<summary>
+ 找尋結果
+ </summary>
+	<param name="Idx"></param>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:NaotarouHDotNet.CMatchingTool.TrainAuto">
+	<summary>
+ 自動樣板產生同時產生空白遮罩
+ </summary>
+	<remarks></remarks>
+</member><member name="M:NaotarouHDotNet.CMatchingTool.Run(System.Boolean)">
+	<summary>
+ 開始搜尋
+ </summary>
+	<param name="Asynchronous"></param>
+	<remarks></remarks>
+</member><member name="M:NaotarouHDotNet.CImage.ReadImage(System.String)">
+	<summary>
+ 讀取影像檔案
+ </summary>
+	<param name="fileName"></param>
+	<remarks></remarks>
+</member><member name="P:NaotarouHDotNet.CRectangle.LeftUpperY">
+	<summary>
+ Y左上角座標(四象限)
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:NaotarouHDotNet.CRectangle.LeftUpperX">
+	<summary>
+ X左上角座標(四象限)
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:NaotarouHDotNet.CRectangle.RightLowerY">
+	<summary>
+ Y右下角座標(四象限)
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:NaotarouHDotNet.CRectangle.RightLowerX">
+	<summary>
+ X右下角座標(四象限)
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:NaotarouHDotNet.CRectangle.Width">
+	<summary>
+ 寬度
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:NaotarouHDotNet.CRectangle.Height">
+	<summary>
+ 高度
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:NaotarouHDotNet.CRectangle.GenRectangle1(System.Double,System.Double,System.Double,System.Double)">
+	<summary>
+ 產生不可旋轉角度矩形
+ </summary>
+	<param name="LeftUpperY"></param>
+	<param name="LeftUpperX"></param>
+	<param name="RightLowerY"></param>
+	<param name="RightLowerX"></param>
+	<remarks></remarks>
+</member><member name="P:NaotarouHDotNet.CDigCamera.Exposure">
+	<summary>
+ 曝光時間(ms)
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:NaotarouHDotNet.CDigCamera.Brightness">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:NaotarouHDotNet.CDigCamera.Contrast">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

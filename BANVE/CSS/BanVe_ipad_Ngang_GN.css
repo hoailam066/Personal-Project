@@ -1,0 +1,653 @@
+﻿body {
+}
+
+@media (min-width: 1200px) {
+    .divLon {
+        width: 100%;
+        float: left;
+    }
+
+    .divDong {
+        width: 100%;
+        float: left;
+        margin-top: 1%;
+    }
+    .divDongTrong{
+        width: 100%;
+        float: left;
+        margin-top: 1%;
+        height:20px;
+    }
+    .divDongGhe {
+        width: 40%;
+        float: left;
+        margin-left: 30%;
+        margin-right: 10%;
+    }
+
+    .divLabelSoGhe {
+        width: 25%;
+        float: left;
+          font-size:18pt;
+          margin-left:20%;
+    }
+    .LabelSoXe{
+        font-size:24pt;
+
+    }
+    .divControlSoGhe {
+        width: 20%;
+        float: left;
+        
+    }
+
+    .divLabelGhe {
+        width: 10%;
+        float: left;
+        font-size:18pt;
+    }
+
+    .SoGhe {
+        color: red;
+        font-size: 18pt;
+        font-weight: bold;
+    }
+
+    .divTangDuoi {
+        width: 49%;
+        float: left;
+    }
+
+    .divTangTren {
+        width: 49%;
+        float: right;
+    }
+
+    .divHinh {
+        width: 14.5%;
+        float: left;
+        text-align: center;
+        padding-top: 5px;
+        margin-right: 2%;
+        height: 120px;
+        margin-left: 3%;
+        margin-top: 3%;
+        font-size: 10pt;
+    }
+
+    .divTrong {
+        width: 18%;
+        float: left;
+        margin: 5px;
+    }
+
+    .label {
+        margin-top: 20px;
+        font-size: 17pt;
+    }
+
+    .divtitle1 {
+        text-align: left;
+        margin-left: 5%;
+        width: 42%;
+        float: left;
+    }
+
+    .divtitle2 {
+        text-align: right;
+        margin-right: 3%;
+        width: 48%;
+        float: right;
+    }
+
+    .btn {
+        margin-top: 2%;
+        margin-bottom: 2%;
+        font-size:15pt;
+    }
+      .VeDaThuTien{
+        font-size:13pt;
+    }
+    .VeDaiLyBan{
+ font-size:13pt;
+    }
+    .VeChuaThuTien{
+         font-size:13pt;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .divLon {
+        width: 100%;
+        float: left;
+    }
+
+    .divDong {
+        width: 100%;
+        float: left;
+        margin-top: 1%;
+    }
+       .divDongTrong{
+        width: 100%;
+        float: left;
+        margin-top: 1%;
+        height:21px;
+    }
+    .divDongGhe {
+        width: 45%;
+        float: left;
+        margin-left: 40%;
+        margin-right: 10%;
+    }
+
+    .divLabelSoGhe {
+        width: 30%;
+        float: left;
+        font-size:18pt;
+    }
+
+    .divControlSoGhe {
+        width: 25%;
+        float: left;
+    }
+
+    .divLabelGhe {
+        width: 12%;
+        float: left;
+        font-size:18pt;
+    }
+
+    .SoGhe {
+        color: red;
+        font-size: 18pt;
+        font-weight: bold;
+    }
+    .LabelSoXe{
+        font-size:25pt;
+    }
+
+    .divTangDuoi {
+        width: 49%;
+        float: left;
+    }
+
+    .divTangTren {
+        width: 49%;
+        float: right;
+        margin-top:6px;
+    }
+
+    .divHinh {
+        width: 14.5%;
+        float: left;
+        text-align: center;
+        padding-top: 5px;
+        margin-right: 2%;
+        height: 100px;
+        margin-left: 3%;
+        margin-top: 3%;
+        font-size: 10pt;
+    }
+
+    .divTrong {
+        width: 18.5%;
+        float: left;
+        margin: 3px;
+    }
+
+    .label {
+        margin-top: 20px;
+        font-size: 20pt;
+    }
+
+    .divtitle1 {
+        text-align: left;
+        margin-left: 5%;
+        width: 42%;
+        float: left;
+    }
+
+    .divtitle2 {
+        text-align: right;
+        margin-right: 3%;
+        width: 48%;
+        float: right;
+    }
+
+    .btn {
+        margin-top: 0%;
+        margin-bottom: 2%;
+        font-size:17pt;
+    }
+    .title{
+        font-size:18pt;
+        background-size:80px;
+        padding-left:10px;
+    }
+    .VeDaThuTien{
+        font-size:13pt;
+    }
+    .VeDaiLyBan{
+ font-size:13pt;
+    }
+    .VeChuaThuTien{
+         font-size:13pt;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .divLon {
+        width: 100%;
+        float: left;
+    }
+
+    .divDong {
+        width: 100%;
+        float: left;
+        margin-top: 1%;
+    }
+       .divDongTrong{
+        width: 100%;
+        float: left;
+        margin-top: 1%;
+        height:20px;
+    }
+    .divDongGhe {
+        width: 45%;
+        float: left;
+        margin-left: 35%;
+        margin-right: 10%;
+    }
+
+    .divLabelSoGhe {
+        width: 35%;
+        float: left;
+        font-size:20pt;
+    }
+
+    .divControlSoGhe {
+        width: 20%;
+        float: left;
+    }
+
+    .divLabelGhe {
+        width: 15%;
+        float: left;
+        font-size:20pt;
+    }
+    .LabelSoXe{
+        font-size:24pt;
+    }
+    .SoGhe {
+        color: red;
+        font-size: 20pt;
+        font-weight: bold;
+    }
+
+    .divTangDuoi {
+        width: 49%;
+        float: left;
+    }
+
+    .divTangTren {
+        width: 49%;
+        float: right;
+        margin-top:7px;
+    }
+
+    .divHinh {
+        width: 14%;
+        float: left;
+        text-align: center;
+        padding-top: 5px;
+        margin-right: 2%;
+        height: 100px;
+        margin-left: 3%;
+        margin-top: 3%;
+        font-size: 10pt;
+    }
+
+    .divTrong {
+        width: 19%;
+        float: left;
+        margin: 1px;
+    }
+
+    .label {
+        margin-top: 20px;
+        font-size: 18pt;
+    }
+
+    .divtitle1 {
+        text-align: left;
+        margin-left: 5%;
+        width: 42%;
+        float: left;
+    }
+
+    .divtitle2 {
+        text-align: right;
+        margin-right: 3%;
+        width: 48%;
+        float: right;
+    }
+
+    .btn {
+        margin-top: 2%;
+        margin-bottom: 2%;
+         font-size:14pt;
+    }
+      .VeDaThuTien{
+        font-size:13pt;
+    }
+    .VeDaiLyBan{
+ font-size:13pt;
+    }
+    .VeChuaThuTien{
+         font-size:13pt;
+    }
+}
+@media (min-width: 481px) and (max-width: 767px) {
+    .divLon {
+        width: 100%;
+        float: left;
+    }
+
+    .divDong {
+        width: 100%;
+        float: left;
+        margin-top: 2%;
+    }
+       .divDongTrong{
+        width: 100%;
+        float: left;
+        margin-top: 1%;
+        height:23px;
+    }
+    .divDongGhe {
+        width: 50%;
+        float: left;
+        margin-left: 30%;
+        margin-right: 10%;
+    }
+    .LabelSoXe{
+        font-size:20pt;
+    }
+    .divLabelSoGhe {
+        width: 50%;
+        float: left;
+        font-size:17pt;
+    }
+
+    .divControlSoGhe {
+        width: 20%;
+        float: left;
+    }
+
+    .divLabelGhe {
+        width: 20%;
+        float: left;
+        font-size:17pt;
+    }
+
+    .SoGhe {
+        color: red;
+        font-size: 12pt;
+        font-weight: bold;
+        font-size:17pt;
+    }
+
+    .divTangDuoi {
+        width: 100%;
+        float: left;
+    }
+
+    .divTangTren {
+        width: 100%;
+        float: right;
+    }
+
+    .divHinh {
+        width: 14%;
+        float: left;
+        text-align: center;
+        padding-top: 5px;
+        margin-right: 2%;
+        height: 100px;
+        margin-left: 3%;
+        margin-top: 3%;
+        font-size: 10pt;
+    }
+
+    .divTrong {
+        width: 17%;
+        float: left;
+        margin: 5px;
+    }
+
+    .label {
+        margin-top: 20px;
+        font-size: 15pt;
+    }
+
+    .divtitle1 {
+        text-align: left;
+        margin-left: 5%;
+        width: 42%;
+        float: left;
+    }
+
+    .divtitle2 {
+        text-align: right;
+        margin-right: 3%;
+        width: 48%;
+        float: right;
+    }
+
+    .btn {
+        margin-top: 2%;
+        margin-bottom: 2%;
+        font-size:13pt;
+    }
+      .VeDaThuTien{
+        font-size:13pt;
+    }
+    .VeDaiLyBan{
+ font-size:13pt;
+    }
+    .VeChuaThuTien{
+         font-size:13pt;
+    }
+}
+@media (min-width: 321px) and (max-width: 480px) {
+    .divLon {
+        width: 100%;
+        float: left;
+        font-size:14pt;
+    }
+
+    .divDong {
+        width: 100%;
+        float: left;
+        margin-top: 3%;
+    }
+
+    .divDongGhe {
+        width: 100%;
+        float: left;
+        margin-left: 20%;
+        margin-right: 10%;
+        font-size:15pt;
+    }
+
+    .divLabelSoGhe {
+        width: 30%;
+        float: left;
+        
+    }
+
+    .divControlSoGhe {
+        width: 20%;
+        float: left;
+    }
+
+    .divLabelGhe {
+        width: 15%;
+        float: left;
+
+    }
+
+    .SoGhe {
+        color: red;
+        font-size: 14pt;
+        font-weight: bold;
+    }
+
+    .divTangDuoi {
+        width: 100%;
+        float: left;
+    }
+
+    .divTangTren {
+        width: 100%;
+        float: right;
+    }
+
+    .divHinh {
+        width: 14%;
+        float: left;
+        text-align: center;
+        padding-top: 5px;
+        margin-right: 2%;
+        height: 100px;
+        margin-left: 3%;
+        margin-top: 3%;
+        font-size: 10pt;
+    }
+
+    .divTrong {
+        width: 16%;
+        float: left;
+        margin: 5px;
+    }
+
+    .label {
+        margin-top: 20px;
+        font-size: 14pt;
+    }
+
+    .divtitle1 {
+        text-align: left;
+        margin-left: 5%;
+        width: 42%;
+        float: left;
+    }
+
+    .divtitle2 {
+        text-align: right;
+        margin-right: 3%;
+        width: 48%;
+        float: right;
+    }
+
+    .btn {
+        margin-top: 2%;
+        margin-bottom: 2%;
+        font-size:14pt;
+    }
+    .LabelSoXe{
+        font-size:17pt;
+    }
+}
+@media (max-width: 320px) {
+    .divLon {
+        width: 100%;
+        float: left;
+    }
+
+    .divDong {
+        width: 100%;
+        float: left;
+        margin-top: 3%;
+    }
+
+    .divDongGhe {
+        width: 70%;
+        float: left;
+        margin-left: 20%;
+        margin-right: 10%;
+    }
+
+    .divLabelSoGhe {
+        width: 50%;
+        float: left;
+    }
+
+    .divControlSoGhe {
+        width: 20%;
+        float: left;
+    }
+
+    .divLabelGhe {
+        width: 15%;
+        float: left;
+    }
+
+    .SoGhe {
+        color: red;
+        font-size: 12pt;
+        font-weight: bold;
+    }
+
+    .divTangDuoi {
+        width: 100%;
+        float: left;
+    }
+
+    .divTangTren {
+        width: 100%;
+        float: right;
+    }
+
+    .divHinh {
+        width: 12%;
+        float: left;
+        text-align: center;
+        padding-top: 5px;
+        margin-right: 2%;
+        height: 100px;
+        margin-left: 5%;
+        margin-top: 3%;
+        font-size: 10pt;
+    }
+
+    .divTrong {
+        width: 16%;
+        float: left;
+        margin: 5px;
+    }
+
+    .label {
+        margin-top: 20px;
+        font-size: 13pt;
+    }
+
+    .divtitle1 {
+        text-align: left;
+        margin-left: 5%;
+        width: 42%;
+        float: left;
+    }
+
+    .divtitle2 {
+        text-align: right;
+        margin-right: 3%;
+        width: 48%;
+        float: right;
+    }
+
+    .btn {
+        margin-top: 2%;
+        margin-bottom: 2%;
+    }
+}

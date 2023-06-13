@@ -1,0 +1,175 @@
+﻿/* Màn hình có độ rộng (width) lớn hơn 1200px */
+@media (min-width: 1200px)
+{
+    body{
+        font-family:Arial, Helvetica, sans-serif;
+    }
+   .divHead{
+       float:left;
+       width:100%;
+       height:50px;
+       background-color:#ccc;
+       border-bottom:5px solid #31d7da;
+   }
+   .divItemMenu{
+        float:left;
+        height:45px;
+        width:100px;
+        margin:5px;
+        color:#4558ac;
+        font-weight:bold;
+        font-size:10pt;
+    }
+    .divItemMenu:hover{
+        z-index:1;
+        border-bottom:5px  solid #ffcc00;
+        cursor:pointer;
+    }
+    .divItemMenuSelect{
+        float:left;
+        margin:5px;
+        z-index:1;
+        border-bottom:5px  solid #ffcc00;
+    }
+}
+
+/* Kích thước (width) nằm trong đoạn 992px <= width <= 1199px */
+@media (min-width: 992px) and (max-width: 1199px)
+{
+    body{
+        font-family:Arial, Helvetica, sans-serif;
+    }
+    .divHead{
+       float:left;
+       width:100%;
+       height:50px;
+       background-color:#ccc;
+       border-bottom:5px solid #31d7da;
+   }
+   .divItemMenu{
+        float:left;
+        height:45px;
+        width:92px;
+        margin:3px;
+        color:#4558ac;
+        font-weight:bold;
+        font-size:10pt;
+    }
+    .divItemMenu:hover{
+        z-index:1;
+        border-bottom:5px  solid #ffcc00;
+        cursor:pointer;
+    }
+    .divItemMenuSelect{
+        float:left;
+        margin:5px;
+        z-index:1;
+        border-bottom:5px  solid #ffcc00;
+    }
+}
+
+/* Kích thước (width) nằm trong đoạn 768px <= width <= 991px */
+@media (min-width: 768px) and (max-width: 991px)
+{
+    body{
+        font-family:Arial, Helvetica, sans-serif;
+    }
+      .divHead{
+       float:left;
+       width:100%;
+       height:50px;
+       background-color:#ccc;
+       border-bottom:5px solid #31d7da;
+   }
+   .divItemMenu{
+        float:left;
+        height:45px;
+        width:71px;
+        margin:5px;
+        color:#4558ac;
+        font-weight:bold;
+        font-size:9pt;
+    }
+    .divItemMenu:hover{
+        z-index:1;
+        border-bottom:5px  solid #ffcc00;
+        cursor:pointer;
+    }
+    .divItemMenuSelect{
+        float:left;
+        margin:5px;
+        z-index:1;
+        border-bottom:5px  solid #ffcc00;
+    }
+    
+}
+/* Kích thước (width) nằm trong đoạn 481px <= width <= 767px */
+@media (min-width: 588px) and (max-width: 767px)
+{
+    body{
+        font-family:Arial, Helvetica, sans-serif;
+    }
+      .divHead{
+       float:left;
+       width:100%;
+       height:69px;
+       background-color:#ccc;
+       border-bottom:5px solid #31d7da;
+   }
+   .divItemMenu{
+        float:left;
+        height:64px;
+        width:53px;
+        margin:5px;
+        color:#4558ac;
+        font-weight:bold;
+        font-size:10pt;
+    }
+    .divItemMenu:hover{
+        z-index:1;
+        border-bottom:5px  solid #ffcc00;
+        cursor:pointer;
+    }
+    .divItemMenuSelect{
+        float:left;
+        margin:5px;
+        z-index:1;
+        border-bottom:5px  solid #ffcc00;
+    }
+}
+/* Kích thước (width) nằm trong đoạn 481px <= width <= 767px */
+@media (min-width: 481px) and (max-width: 587px)
+{
+    body{
+        font-family:Arial, Helvetica, sans-serif;
+    }
+  .divHead{
+       float:left;
+       width:100%;
+       height:67px;
+       background-color:#ccc;
+       border-bottom:5px solid #31d7da;
+   }
+   .divItemMenu{
+        float:left;
+        height:62px;
+        width:45px;
+        margin:4px;
+        color:#4558ac;
+        font-weight:bold;
+        font-size:10pt;
+    }
+    .divItemMenu:hover{
+        z-index:1;
+        border-bottom:5px  solid #ffcc00;
+        cursor:pointer;
+    }
+    .divItemMenuSelect{
+        float:left;
+        margin:5px;
+        z-index:1;
+        border-bottom:5px  solid #ffcc00;
+    }
+
+}
+

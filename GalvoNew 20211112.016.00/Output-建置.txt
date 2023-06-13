@@ -1,0 +1,72 @@
+﻿1>------ 已開始建置: 專案: TrimEng, 組態: Debug Any CPU ------
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CMeter.cs(255,17,255,25): warning CS0219: The variable 'relayIdx' is assigned but its value is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\MainProcess\Form1.cs(750,30,750,31): warning CS0168: The variable 'e' is declared but never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\MainProcess\Form1.cs(984,20,984,22): warning CS0219: The variable 'aa' is assigned but its value is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\MainProcess\Form1.cs(1060,20,1060,23): warning CS0219: The variable 'std' is assigned but its value is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\MainProcess\Form1.cs(2170,20,2170,23): warning CS0219: The variable 'bbb' is assigned but its value is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\MainProcess\Form1.cs(2230,20,2230,23): warning CS0219: The variable 'std' is assigned but its value is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(2215,20,2215,32): warning CS0219: The variable 'speedYNoWork' is assigned but its value is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(2217,20,2217,26): warning CS0219: The variable 'speedX' is assigned but its value is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(2218,20,2218,30): warning CS0219: The variable 'speedXSlow' is assigned but its value is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(2220,20,2220,26): warning CS0219: The variable 'speedY' is assigned but its value is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(2221,20,2221,30): warning CS0219: The variable 'speedYSlow' is assigned but its value is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(2227,20,2227,24): warning CS0168: The variable 'posX' is declared but never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(2228,20,2228,24): warning CS0168: The variable 'posY' is declared but never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(2229,20,2229,24): warning CS0219: The variable 'tmpX' is assigned but its value is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(2230,20,2230,24): warning CS0219: The variable 'tmpY' is assigned but its value is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(2234,20,2234,38): warning CS0219: The variable 'resValueStopNoWork' is assigned but its value is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(2235,20,2235,36): warning CS0219: The variable 'resValueStopFast' is assigned but its value is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(2236,20,2236,32): warning CS0219: The variable 'resValueStop' is assigned but its value is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(2237,20,2237,36): warning CS0219: The variable 'resValueStopSlow' is assigned but its value is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(2238,20,2238,26): warning CS0219: The variable 'resIRV' is assigned but its value is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(2247,17,2247,22): warning CS0168: The variable 'resID' is declared but never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(2750,20,2750,32): warning CS0219: The variable 'speedYNoWork' is assigned but its value is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(2752,20,2752,26): warning CS0219: The variable 'speedX' is assigned but its value is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(2753,20,2753,30): warning CS0219: The variable 'speedXSlow' is assigned but its value is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(2755,20,2755,26): warning CS0219: The variable 'speedY' is assigned but its value is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(2756,20,2756,30): warning CS0219: The variable 'speedYSlow' is assigned but its value is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(2762,20,2762,24): warning CS0168: The variable 'posX' is declared but never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(2763,20,2763,24): warning CS0168: The variable 'posY' is declared but never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(2764,20,2764,24): warning CS0219: The variable 'tmpX' is assigned but its value is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(2765,20,2765,24): warning CS0219: The variable 'tmpY' is assigned but its value is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(2769,20,2769,38): warning CS0219: The variable 'resValueStopNoWork' is assigned but its value is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(2770,20,2770,36): warning CS0219: The variable 'resValueStopFast' is assigned but its value is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(2771,20,2771,32): warning CS0219: The variable 'resValueStop' is assigned but its value is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(2772,20,2772,36): warning CS0219: The variable 'resValueStopSlow' is assigned but its value is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(2773,20,2773,26): warning CS0219: The variable 'resIRV' is assigned but its value is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(2782,17,2782,22): warning CS0168: The variable 'resID' is declared but never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(2889,20,2889,32): warning CS0219: The variable 'speedYNoWork' is assigned but its value is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(2891,20,2891,26): warning CS0219: The variable 'speedX' is assigned but its value is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(2892,20,2892,30): warning CS0219: The variable 'speedXSlow' is assigned but its value is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(2894,20,2894,26): warning CS0219: The variable 'speedY' is assigned but its value is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(2895,20,2895,30): warning CS0219: The variable 'speedYSlow' is assigned but its value is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(2901,20,2901,24): warning CS0168: The variable 'posX' is declared but never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(2902,20,2902,24): warning CS0168: The variable 'posY' is declared but never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(2903,20,2903,24): warning CS0219: The variable 'tmpX' is assigned but its value is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(2904,20,2904,24): warning CS0219: The variable 'tmpY' is assigned but its value is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(2908,20,2908,38): warning CS0219: The variable 'resValueStopNoWork' is assigned but its value is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(2909,20,2909,36): warning CS0219: The variable 'resValueStopFast' is assigned but its value is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(2910,20,2910,32): warning CS0219: The variable 'resValueStop' is assigned but its value is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(2911,20,2911,36): warning CS0219: The variable 'resValueStopSlow' is assigned but its value is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(2912,20,2912,26): warning CS0219: The variable 'resIRV' is assigned but its value is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(2921,17,2921,22): warning CS0168: The variable 'resID' is declared but never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(3590,19,3590,22): warning CS0168: The variable 'ret' is declared but never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(3591,20,3591,27): warning CS0219: The variable 'cardNum' is assigned but its value is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(174,24,174,42): warning CS0169: The field 'CTrimEng.m_threadMeasureOne' is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTcpServer.cs(12,38,12,50): warning CS0169: The field 'CTcpServer.theIPAddress' is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(175,24,175,39): warning CS0169: The field 'CTrimEng.m_threadTrimOne' is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTcpServer.cs(13,29,13,42): warning CS0169: The field 'CTcpServer.myTcpListener' is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTcpServer.cs(15,22,15,33): warning CS0169: The field 'CTcpServer.m_TCPThread' is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTcpServer.cs(14,24,14,32): warning CS0169: The field 'CTcpServer.mySocket' is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CMeter.cs(248,13,248,17): warning CS0414: The field 'CMeter.m_LS' is assigned but its value is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CPseudoGalvo.cs(25,23,25,27): warning CS0414: The field 'CPseudoGalvo.card' is assigned but its value is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(3194,22,3194,41): warning CS0414: The field 'CTrimEng.m_ThreadTrimStarted' is assigned but its value is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(3195,22,3195,42): warning CS0414: The field 'CTrimEng.m_ThreadTrimFinished' is assigned but its value is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(3190,22,3190,45): warning CS0414: The field 'CTrimEng.m_ThreadMeasureFinished' is assigned but its value is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CTrimEng.cs(3189,22,3189,44): warning CS0414: The field 'CTrimEng.m_ThreadMeasureStarted' is assigned but its value is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CMeter.cs(247,13,247,17): warning CS0414: The field 'CMeter.m_HS' is assigned but its value is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CPseudoGalvo.cs(24,24,24,33): warning CS0414: The field 'CPseudoGalvo.m_cardNum' is assigned but its value is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CMeter.cs(245,13,245,17): warning CS0414: The field 'CMeter.m_HF' is assigned but its value is never used
+1>C:\Users\Server\Desktop\GalvoNew 2020228.000.05\Meter\Library\CMeter.cs(246,13,246,17): warning CS0414: The field 'CMeter.m_LF' is assigned but its value is never used
+1>  TrimEng -> C:\Windows\SysWOW64\Meter.exe
+========== 建置: 1 成功、0 失敗、0 最新、0 略過 ==========
