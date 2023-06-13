@@ -1,0 +1,44 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    string port = (string)ViewData["port"];
+    string ip = (string)ViewData["ip"];
+
+}
+
+<div class="text-center">
+    <div style="width:50%; display:inline-block">
+        <div style="width:30%;display:inline-block; float:left">
+            <label for="txtIP">IP:</label>
+        </div>
+        <div style="width:68%; display:inline-block; float:left">
+            <input type="text" id="txtIP" value="@ip" style="width:100%"/>
+        </div>
+    </div>
+    <div style="width:50%; display:inline-block">
+        <div style="width:30%;display:inline-block; float:left">
+            <label for="txtIP">Port:</label>
+        </div>
+        <div style="width:68%; display:inline-block; float:left">
+            <input type="number" value="@port" id="txtPort" style="width:100%" />
+        </div>
+    </div>
+    <div style="width:50%; display:inline-block">
+        <div style="width:30%;display:inline-block; float:left">
+            <label for="txtIP">Value:</label>
+        </div>
+        <div style="width:68%; display:inline-block; float:left">
+            <input type="text" id="txtValue" style="width:100%" />
+        </div>
+    </div>
+    <div style="width:50%; display:inline-block">
+        <button type="button" onclick="sendValue();">Send</button>
+    </div>
+</div>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script type="text/javascript">
+
+    function sendValue()
+    {
+        window.location.href = "/home?ip=" + $("#txtIP").val() + "&port=" + $("#txtPort").val() + "&message=" + $("#txtValue").val();
+    }
+</script>
